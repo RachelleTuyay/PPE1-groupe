@@ -1,0 +1,7 @@
+   retail store icon Mağazada Ara
+   <p><p>Elbise, tüllü yapısı ve kalp desenleriyle sevimli bir görünüm
+   sunuyor. Bebe yaka ve uzun kollu elbise pamuklu astarıyla miniklerin
+--
+   "url":
+   "https://www.koton.com/kalp-desenli-bebe-yaka-uzun-kollu-tullu-elbise-s
+   iyah-3931813/", "stock": 51, "color": "SİYAH", "size": "18/24 Ay",

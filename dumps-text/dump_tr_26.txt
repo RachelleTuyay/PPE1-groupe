@@ -1,0 +1,452 @@
+   #KALP
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WTF89PZ
+
+   [logo-text.png]
+     * (BUTTON)
+       Anahtar kelimelerinizi girin _______________
+       
+     * (BUTTON)
+
+     * Haber
+          + Türkiye
+          + Eğitim
+          + Tarih
+          + Çevre
+          + İnsan Hakları
+          + Hayvan Hakları
+          + Azınlıklar
+          + Mülteciler
+          + Medya
+          + Sosyal Medya
+          + Suç
+          + Portre
+     * Siyaset
+          + AK Parti
+          + CHP
+          + CHP
+          + HDP
+          + HDP
+          + MHP
+          + İYİ Parti
+          + Diğer Partiler
+          + Diğer Partiler
+          + Erdoğan
+          + Kılıçdaroğlu
+          + Buldan - Temelli
+          + Bahçeli
+          + Akşener
+     * Dünya
+          + Avrupa
+          + Amerika
+          + Asya
+          + Afrika
+          + Ortadoğu
+          + Balkanlar
+          + Kafkasya
+     * Yaşam
+          + Moda
+          + Seyahat
+          + Magazin
+          + Yemek
+          + İlişkiler
+     * BİLİM
+          + Teknoloji
+          + Uzay
+          + Genetik
+          + Yapay Zeka
+     * KÜLTÜR
+          + Sinema
+          + Edebiyat
+          + Müzik
+          + Tiyatro
+          + Güzel Sanatlar
+          + TV
+     * Yazarlar
+          + Robert Fisk
+          + Patrick Cockburn
+          + Nabila Ramdani
+          + Hamish McRae
+          + Muhammed Zahid Gül
+          + Mary Dejevsky
+          + Mark Steel
+          + Nevzat Çiçek
+          + Bel Trew
+          + Sean O'Grady
+          + Kim Sengupta
+          + Lucy Anna Gray
+     * TÜRKİYE'DEN SESLER
+     * DÜNYADAN SESLER
+     * EKONOMİ
+          + Üretim
+          + Emek Dünyası
+          + Tarım
+          + Emlak
+          + Turizm
+          + Şirket Haberleri
+          + Borsa
+          + Sokağın Ekonomisi
+          + Dünya Ekonomisi
+          + Sağlık Turizmi
+          + Ulaşım
+     * Spor
+          + Futbol
+          + Basketbol
+          + Tenis
+          + Golf
+          + Voleybol
+          + Atletizm
+          + Engelli Sporları
+          + Motor Sporları
+          + Güreş
+     * SAĞLIK
+          + Beslenme
+          + Kanser
+          + Estetik
+          + Obezite
+          + Kadın Sağlığı
+          + Kanser
+          + Çocuk Sağlığı
+          + Kalp Sağlığı
+          + Alternatif Tıp
+          + Psikoloji
+          + Koronavirüs
+     * Röportaj
+     * DOSYA
+     * VİDEO
+
+     * (BUTTON)
+       Anahtar kelimelerinizi girin _______________
+       
+
+     * Haber
+          + Eğitim
+          + Tarih
+          + Çevre
+          + İnsan Hakları
+          + Hayvan Hakları
+          + Azınlıklar
+          + Mülteciler
+          + Medya
+          + Sosyal Medya
+          + Suç
+          + Portre
+     * Siyaset
+          + AK Parti
+          + CHP
+          + HDP
+          + MHP
+          + İYİ Parti
+          + Diğer Partiler
+          + Erdoğan
+          + Kılıçdaroğlu
+          + Buldan - Temelli
+          + Bahçeli
+          + Akşener
+     * Dünya
+          + Avrupa
+          + Amerika
+          + Asya
+          + Afrika
+          + Ortadoğu
+          + Balkanlar
+          + Kafkasya
+     * Yaşam
+          + Moda
+          + Seyahat
+          + Magazin
+          + Yemek
+          + İlişkiler
+     * BİLİM
+          + Teknoloji
+          + Uzay
+          + Genetik
+          + Yapay Zeka
+     * KÜLTÜR
+          + Sinema
+          + Edebiyat
+          + Müzik
+          + Tiyatro
+          + Güzel Sanatlar
+          + TV
+     * Yazarlar
+          + Robert Fisk
+          + Patrick Cockburn
+          + Nabila Ramdani
+          + Hamish McRae
+          + Muhammed Zahid Gül
+          + Mary Dejevsky
+          + Mark Steel
+          + Nevzat Çiçek
+          + Bel Trew
+          + Sean O'Grady
+          + Kim Sengupta
+     * TÜRKİYE'DEN SESLER
+     * DÜNYADAN SESLER
+     * EKONOMİ
+          + Üretim
+          + Emek Dünyası
+          + Tarım
+          + Emlak
+          + Turizm
+          + Şirket Haberleri
+          + Borsa
+          + Sokağın Ekonomisi
+          + Dünya Ekonomisi
+          + Sağlık Turizmi
+     * Spor
+          + Futbol
+          + Basketbol
+          + Voleybol
+          + Atletizm
+          + Engelli Sporları
+          + Motor Sporları
+          + Güreş
+     * SAĞLIK
+          + Beslenme
+          + Kanser
+          + Estetik
+          + Obezite
+          + Kadın Sağlığı
+          + Çocuk Sağlığı
+          + Kalp Sağlığı
+          + Alternatif Tıp
+          + Psikoloji
+          + Koronavirüs
+     * Röportaj
+     * DOSYA
+     * Koronavirüs
+
+KALP
+
+   ÇEVİRİ
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Her gün 5 kat merdiven çıkmak kalp hastalığı riskini azaltıyor
+
+   İlye, quadriceps femoris, hamstring ve baldır gibi kaslar harekete
+   geçerken kardiyovasküler sağlık iyileşiyor
+     * Kahkaha atmanın özellikle kalbe iyi geldiği bulundu
+     * Kanadalı kardiyolog açıkladı: Sevdiğiniz 5 yiyeceğin kalp dostu
+       alternatifi
+     * Yeni araştırma: Bekar erkeklerin kalp yetmezliğinden ölme ihtimali
+       evlilerden iki kat fazla
+
+   ÇEVİRİ
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Kahkaha atmanın özellikle kalbe iyi geldiği bulundu
+
+     * Yale Üniversitesi araştırması: Mutlu birliktelikler kalp sağlığını
+       artırıyor
+
+   ÇEVİRİ
+   [1176491-570606095.jpg?itok=dxJoqBY5]
+   SAĞLIK
+
+İnsan kalbinin en detaylı haritası çıkarıldı
+
+   ÇEVİRİ
+   [1158301-311462590.jpg?itok=0M2Fy0sq]
+   BİLİM
+
+Bilim insanları bu kez de kalp atışı olan, yapay bir insan embriyosu üretti
+
+   [1131406-1513469828.jpg?itok=aL4rY_jY]
+   SAĞLIK
+
+Doç. Dr. Keskin: Kalp ve damar hastalıkları kaynaklı ölümlerin çoğu
+önlenebilir
+
+   [1129196-638139643.jpg?itok=4Z1Bni-K]
+   SAĞLIK
+
+TKDCD Başkanı Bozkurt: 4-5 günlük kan stoku kaldı, sadece acil hastalar
+ameliyat edilebiliyor
+
+   [1049096-414491243.jpeg?itok=Dp6kYALc]
+   SAĞLIK
+
+Koca: Aşının ya da geçirilen rahatsızlığın kardiyak ya da kalp damar
+sorunlarının artışına yol açtığına dair elimizde bir veri yok
+
+   ÇEVİRİ
+   [1041156-1662731367.jpg?itok=V7NBl1lL]
+   SAĞLIK
+
+Elektronik sigaranın kalbe normal sigara kadar zarar verdiği ortaya çıktı
+
+   ÇEVİRİ
+   [1011981-1633764250.jpg?itok=cQJ-Ijw2]
+   BİLİM
+
+Dünyanın en eski kalbi bulundu
+
+   [926976-1549163174.jpg?itok=WrrXnTSd]
+   SAĞLIK
+
+Türkiye'de ilaç yokluk seviyesi alarm veriyor, uzmanlar "Kalıcı çözüm şart"
+diyor
+
+   ÇEVİRİ
+   [768871-1358525855.jpg?itok=1BSSsLBK]
+   SAĞLIK
+
+Göğüs ağrısı nedeniyle acile başvuran hastanın kalbinden çimento çıktı
+
+   ÇEVİRİ
+   [669936-1292981354.jpg?itok=K_r1LLrx]
+   BİLİM
+
+Bilim insanları susam büyüklüğünde "insan kalbi" geliştirdi
+
+   BİLİM
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Uzayda bir yıl geçiren NASA astronotunun kalbi küçüldü
+
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Kardiyologlardan korkutan uyarı: iPhone 12 kalp destek cihazlarını bozuyor
+
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Ani kalp durmasında ölüm riskini 9 kat azaltabilecek cihaz geliştirildi
+
+   ÇEVİRİ
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Cambridge'li araştırmacılara göre kalp ve beyin düşünüldüğünden daha
+"bağlantılı"
+
+   ÇEVİRİ
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+İki kol arasındaki tansiyon farkı ölüm riskiyle ilişkilendirildi
+
+   ÇEVİRİ
+   [524346-912963415.jpg?itok=a6BKGW2T]
+   Yaşam
+
+Maradona'nın ölümü hakkındaki inceleme sürüyor: Kalbi normalin iki katı
+büyümüş
+
+   Özel Haber
+   [506716-1999089439.jpg?itok=G90UA0Ty]
+   SAĞLIK
+
+Organ nakli alarm veriyor: Bağışçılar azaldı, kadavra nakilleri düştü,
+enfekte olanlar var, hastalar zor durumda
+
+   ÇEVİRİ
+   [447176-391162441.jpg?itok=HhXL95mX]
+   BİLİM
+
+Laboratuvar ortamında canlı insan kalbi geliştirildi
+
+   ÇEVİRİ
+   [429601-1610511053.jpg?itok=7GzaZPtF]
+   SAĞLIK
+
+Kovid-19 atlatan yetişkinlerin 4'te üçünde kalp hasarı oluştuğu tespit edildi
+
+   ÇEVİRİ
+   [411826-1363620543.jpeg?itok=QAc1CMdl]
+   SAĞLIK
+
+Kovid-19 otopsileri: 38 beyin, 87 akciğer ve 42 kalpten virüsle ilgili neler
+öğrendik?
+
+   Özel Haber
+   [410161-714350028.jpg?itok=wS77qzL2]
+   SAĞLIK
+
+Kovid-19 dört organda kalıcı hasara neden olabiliyor
+
+   İNSAN HİKAYELERİ
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Dünyanın ilk kalp nakli operasyonu nasıl sonuçlandı?
+
+   [257256-241899078.jpg?itok=Y4DGE9ZO]
+   SAĞLIK
+
+Bakanlık açıkladı: Lösemi ve kemoterapi dahil 9 ilaç daha geri ödeme
+listesine alındı
+
+   [229246-1662755401.jpg?itok=h_dX8LZf]
+   Siyaset
+
+Demirtaş: Zaman zaman göğsümdeki sancı nüksediyor; korkmanın zamanı değil, bu
+kadar bedeli boşa mı ödüyoruz?
+
+   [225646-462620189.JPG?itok=rURtpJGQ]
+   SAĞLIK
+
+Durmuş kalp başkasına hayat verdi: ABD'de ilk kez kalp nakli yapıldı
+
+   [216466-1600069348.jpg?itok=1_Es7zoO]
+   BİLİM
+
+ABD'li doktorlar insanları ilk kez "askıya alınmış yaşam" şeklinde dondurmayı
+başardı
+
+   [171171-1774156471.jpg?itok=GmxwIlFn]
+   SAĞLIK
+
+Yaşam biçiminiz kalbinizin şeklini değiştirebilir
+
+   [118801-712437663.png?itok=hW4kHNPy]
+
+Kalp ameliyatı geçiren oğluna destek için göğsüne aynı yara izinden dövme
+yaptırdı
+
+   BİLİM
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Robot cerrah sızıntılı kalp kapakçığını onardı
+
+   Operasyonda kullanılan robot, cerraha işlemin daha karmaşık kısımlarına
+   odaklanması için boş zaman yaratacak
+     * Erken evre ses teli kanserinde robotik cerrahi süresi 12 dakika
+
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Uzun uçuşlarda ölümcül olabilen kan pıhtılaşmasından (DVT) nasıl kaçınırız?
+
+   [57656-333329992.jpg?itok=XAzkm8am]
+   SAĞLIK
+
+Avrupa ve ABD’de sigara kullanımı azaldıkça demans oranları da düşüyor
+
+   [38111-263281490.jpg?itok=SVn1iH1m]
+   SAĞLIK
+
+Aşık olmak kalp krizi riskini azaltıyor
+
+   Yaşam
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+9 milyar liralık “aşk ekonomisi”
+
+   SAĞLIK
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+
+Kolesterol düşürücü ilaçlar yaşlılarda kalp krizi riskini de düşürüyor
+
+   Logo
+
+Bizi takip edin:
+
+     * Kullanıcı Politikaları
+     * Gizlilik Bildirimi
+
+   Türkçe tüm hakları Media Arabia'ya aittir 2025 ©

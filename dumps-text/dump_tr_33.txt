@@ -1,0 +1,751 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PNJXV58
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-55CKZ3
+
+     * Hastaneler
+       Hastanelerimiz
+          + İstinye Üniversite Hastanesi Liv Hospital Bahçeşehir
+          + İstinye Üniversite Hastanesi Medical Park Gaziosmanpaşa
+          + Medical Park Adana
+          + Medical Park Ankara (Batıkent)
+          + Medical Park Ankara (Keçiören)
+          + Medical Park Antalya
+          + Medical Park Ataşehir
+          + Medical Park Bahçelievler Hastanesi
+          + Medical Park Bursa
+          + Medical Park Çanakkale
+          + Medical Park Florya
+          + Medical Park Gebze
+          + Medical Park Gebze (Fatih Devlet Hastanesi Karşısı)
+          + Medical Park Göztepe
+          + Medical Park İncek
+          + Medical Park İzmir
+          + Medical Park Karadeniz
+          + Medical Park Kocaeli
+          + Medical Park Maltepe
+          + Medical Park Mersin
+          + Medical Park Ordu
+          + Medical Park Pendik
+          + Medical Park Samsun
+          + Medical Park Seyhan
+          + Medical Park Tokat
+          + Medical Park Yıldızlı
+     * Tıbbi Birimler
+       Tıbbi Bölümlerimiz
+          + Acil Servis
+          + Adolesan (Ergen) Sağlığı Polikliniği
+          + Ağız Diş ve Çene Cerrahisi
+          + Ağız ve Diş Sağlığı
+          + Ağız, Diş ve Çene Radyolojisi
+          + Aile Hekimliği
+          + Alerji ve İmmünoloji
+          + Algoloji
+          + Algoloji (Ağrı Ünitesi)
+          + Anestezi ve Reanimasyon
+          + Beslenme ve Diyet
+          + Beyin ve Sinir Cerrahisi (Nöroşirürji)
+          + Biyokimya
+          + Bütüncül Tıp Uygulamaları
+          + Cerrahi Onkoloji
+          + Check-Up
+          + Çocuk Cerrahisi
+          + Çocuk Endokrinolojisi
+          + Çocuk Enfeksiyon Hastalıkları
+          + Çocuk Gastroenteroloji, Hepatoloji ve Beslenme
+          + Çocuk Gelişim Uzmanlığı
+          + Çocuk Hematolojisi
+          + Çocuk Hematolojisi ve Onkolojisi
+          + Çocuk İmmünoloji ve Alerji
+          + Çocuk Kalp ve Damar Cerrahisi
+          + Çocuk Kardiyolojisi
+          + Çocuk Metabolizma Hastalıkları
+          + Çocuk Nefrolojisi
+          + Çocuk Nörolojisi
+          + Çocuk Onkolojisi
+          + Çocuk Ortopedisi
+          + Çocuk Psikolojisi
+          + Çocuk Romatolojisi
+          + Çocuk Sağlığı ve Hastalıkları
+          + Çocuk Ürolojisi
+          + Çocuk ve Ergen Psikiyatrisi
+          + Çocuk Yoğun Bakım
+          + Dermatoloji (Cildiye)
+          + Diyabetik Ayak Polikliniği
+          + El Cerrahisi
+          + El Cerrahisi (Ortopedi ve Travmatoloji)
+          + Endokrinoloji ve Metabolizma Hastalıkları
+          + Enfeksiyon Hastalıkları ve Mikrobiyoloji
+          + Ergoterapist
+          + Fizik Tedavi ve Rehabilitasyon
+          + Gastroenteroloji
+          + Gastroenteroloji Cerrahisi
+          + Geleneksel ve Tamamlayıcı Tıp
+          + Genel Cerrahi
+          + Genel Yoğun Bakım
+          + Genetik Hastalıklar Tanı Merkezi
+          + Geriatri
+          + Girişimsel Radyoloji
+          + Göğüs Cerrahisi
+          + Göğüs Hastalıkları
+          + Göz Sağlığı ve Hastalıkları
+          + Havacılık Tıp Merkezi
+          + Hematoloji
+          + İç Hastalıkları (Dahiliye)
+          + İmmünoloji ve Alerji Hastalıkları(GH)
+          + İnme Merkezi/Ünitesi
+          + Jinekolojik Onkoloji Cerrahisi
+          + Kadın Hastalıkları ve Doğum
+          + Kalp ve Damar Cerrahisi
+          + Kardiyoloji
+          + Konuşma ve Dil Terapisi
+          + Kulak Burun Boğaz
+          + Laboratuvar Hizmetleri
+          + Medikal Estetik
+          + Medikal Onkoloji (Tıbbi Onkoloji)
+          + Meme Cerrahisi
+          + Meme Sağlığı Ünitesi
+          + Mikrobiyoloji
+          + Nefroloji
+          + Neonatoloji
+          + Nöroloji
+          + Nükleer Tıp
+          + Omurga Sağlığı ve Skolyoz
+          + Organ Nakli
+          + Organ Nakli (Genel Cerrahi)
+          + Ortodonti
+          + Ortopedi ve Travmatoloji
+          + Patoloji
+          + Pedodonti (Çocuk Diş)
+          + Perinatoloji
+          + Plastik, Rekonstrüktif ve Estetik Cerrahi
+          + Protetik Diş Tedavisi
+          + Psikiyatri
+          + Psikoloji
+          + Radyasyon Onkolojisi
+          + Radyoloji
+          + Romatoloji
+          + Saç Ekimi Kliniği
+          + Spor Hekimliği
+          + Tıbbi Genetik
+          + Tüp Bebek (IVF) Tedavisi - Tüp Bebek Merkezi
+          + Üroloji
+          + Yenidoğan Yoğun Bakım
+     * Hekimler
+     * Sağlık Rehberi
+     * Hasta Rehberi
+     * Anlaşmalı Kurumlar
+     * İletişim
+     * Hızlı Randevu Al
+     * Radyoloji ve Laboratuvar Tetkik Sonuçlarını Görüntüle
+     * International Patients
+
+   Medical Park
+     * Hastaneler
+     * Tıbbi Birimler
+     * Hekimler
+     * Sağlık Rehberi
+     * Hasta Rehberi
+
+   Hızlı Randevu Giriş Yap veya üye ol
+   ____________________
+   Doktor Adı
+
+   Hastalık adı
+
+   Hastane Adı
+   Hastaneler
+     * {{hospital.HospitalName}}
+
+   Hekimler
+     * {{doctor.DoctorName}}
+
+   Bölümler
+     * {{branch.BranchName}} {{branch.HospitalCount}} Hastane
+
+   Sağlık Rehberi
+     * {{content.Title}}
+
+   Sayfa Bağlantıları
+     * {{menu.MenuName}}
+
+   Daha Fazla Sonuç
+
+👨️ Kalp Krizi Nedir? Kalp Krizi Belirtileri Nelerdir?
+
+    1.
+    2. Sağlık Rehberi
+    3. Kardiyoloji
+
+   (BUTTON) ×
+     *
+
+   satır arası
+   [dvp19CkS.jpg]
+     * İçindekiler
+     * Kalp Krizi Nedir?
+     * Kalp krizinin 12 belirtisi
+     * Kadınlarda Kalp Krizi Belirtisi
+     * Kalp Krizi Tipleri Nelerdir?
+     * Kalp Krizi Nedenleri Nelerdir?
+     * Kalp Krizi Tanısı Nasıldır?
+     * Kalp Krizi Tedavi Yöntemleri Nelerdir?
+
+     * İçindekiler
+     * Kalp Krizi Nedir?
+     * Kalp krizinin 12 belirtisi
+     * Kadınlarda Kalp Krizi Belirtisi
+     * Kalp Krizi Tipleri Nelerdir?
+     * Kalp Krizi Nedenleri Nelerdir?
+     * Kalp Krizi Tanısı Nasıldır?
+     * Kalp Krizi Tedavi Yöntemleri Nelerdir?
+
+   Göğüs kafesinde, göğsün orta çizgisinden biraz daha sol tarafta bulunan
+   ve hayati önem taşıyan kalp, kaslı yapıya sahip bir organdır. Günde
+   ortalama 100 bin kez kasılarak neredeyse 8000 litre kanı dolaşıma
+   pompalayan bu organın erkeklerde ağırlığı 340 gram iken kadınlarda
+   yaklaşık 300-320 gram kadardır. Kalp yapısında oluşan herhangi bir
+   bozukluk nedeniyle kalp kapak hastalıkları (valvüler hastalıklar), kalp
+   kası (miyokard) hastalıkları, kalp dokusunun beslenmesinden sorumlu
+   koroner damarlar ile ilgili kalp krizi gibi kalp hastalıkları veya
+   kalbin çeşitli iltihabi rahatsızlıkları meydana gelebilir.
+
+   Kalp krizi ve inme tüm dünyada en sık tespit edilen ölüm nedenleridir.
+   Dünya Sağlık Örgütü (WHO), 2030 yılı geldiğinde kalp damar
+   hastalıklarına bağlı her sene 23,6 milyon insanın yaşamını
+   kaybedeceğini öngörür.
+     * İçindekiler
+     * Kalp Krizi Nedir?
+     * Kalp krizinin 12 belirtisi
+     * Kadınlarda Kalp Krizi Belirtisi
+     * Kalp Krizi Tipleri Nelerdir?
+     * Kalp Krizi Nedenleri Nelerdir?
+     * Kalp Krizi Tanısı Nasıldır?
+     * Kalp Krizi Tedavi Yöntemleri Nelerdir?
+
+Kalp Krizi Nedir?
+
+   Miyokardiyal infarkt olarak da ifade edilen kalp krizi; kalbin oksijen
+   ve besin desteğinden sorumlu koroner damarlardaki tıkanıklık veya aşırı
+   daralmalara bağlı olarak kalp kasına kan akışının kesilmesi durumudur.
+   Kalp dokusunun yeterince kanlanamadığı her saniye kalıcı hasar gelişme
+   riskinde bir artış söz konusudur.
+
+   Kalbi besleyen atardamarlarda gelişen herhangi bir ani tıkanma kalp
+   kasının yeterince oksijen alamamasına neden olarak kalp dokusunda
+   hasara yol açabilir. Kalbe kan akışından sorumlu olan damarların
+   duvarlarında yağ yapıdaki kolesterol gibi maddeler birikir ve plak
+   olarak adlandırılan yapıları oluşturur. Plaklar zaman içinde çoğalarak
+   damarı daraltır ve üzerlerinde çatlaklar oluşur. Bu çatlaklarda meydana
+   gelen pıhtılar veya duvardan kopan plaklar damarları tıkayarak kalp
+   krizine neden olabilir. Erken zamanda ve doğru bir müdahale yapılarak
+   damar açılmazsa kalp dokusu kaybı meydana gelir. Kayıp, kalbin
+   pompalama gücünü azaltır ve kalp yetmezliği oluşur. Türkiye’de her yıl
+   200 bin kişi kalp krizi nedeniyle hayatını kaybetmektedir. Bu oran
+   neredeyse trafik kazası nedeniyle yaşanan ölümlerin 30 katıdır.
+
+   IFRAME:
+   https://www.youtube-nocookie.com/embed//C0TF69zffMg?si=lyy568G0t8zAQzgy
+
+Kalp krizinin 12 belirtisi
+
+   Kalp krizinde görülen en temel kalp krizi belirtisi kalp ağrısı olarak
+   tabir edilen göğüs ağrısıdır. Göğüs duvarının ardında hissedilen bu
+   ağrı, sanki göğüs kafesine biri oturmuş hissi veren ağırlık ve baskı
+   yapıcı tarzda künt bir ağrıdır. Sol kola, boyuna, omuzlara, karın, çene
+   ve sırta yayılabilir. Genel olarak 10-15 dakika kadar sürer. Dinlenmek
+   ya da koroner damarları genişleten nitrat içerikli ilaçları kullanmak
+   ağrının hafiflemesini sağlayabilir. Kalp krizinin diğer belirtileri
+   arasında sıkıntı hissi, baş dönmesi, mide bulantısı, nefes darlığı,
+   kolay yorulma ve kalp ritim bozukluğu gibi durumlar da yer alabilir.
+   Kalp ağrısı, bazen daralan bölgelerde oluşan Kalp krizi belirtileri
+   kişiden kişiye farklılık gösterebilir. Bu durum özellikle kadınlarda
+   kalp krizi belirtileri için geçerlidir.
+
+   Kalp krizi sırasında oluşabilecek belirtiler şu şekilde özetlenebilir:
+    1.  Göğüs Ağrısı, Baskı veya Rahatsızlık Hissi: Kalp krizi geçiren
+       çoğu kişi göğüs bölgesinde ağrı veya rahatsızlık hissi meydana
+       geldiğini tarifler ancak bu her kalp krizinde geçerli olan bir
+       durum değildir. Bazı kişilerde sıkıştırıcı tarzda göğüs bölgesinde
+       bir gerginlik meydana gelebilir.Oluşan rahatsızlık hissi genellikle
+       kısa sürelidir ve birkaç dakika içerisinde kaybolur. Bazı kişilerde
+       bu his birkaç saat içinde veya ertesi günde tekrar hissedilebilir.
+       Bu belirtiler genel olarak kalp kasının yeterince oksijen
+       alamadığını gösteren şikayetlerdir ve acil tıbbi müdahale
+       gereksinimi olabileceği için dikkatli olunmalıdır.
+    2. Yansıyan Ağrı: Göğüste oluşan sıkışıklık hissi ve ağrı, kalp krizi
+       sırasında vücudun diğer çeşitli bölgelerine de yansıyabilir. Kalp
+       krizi yaşayan çoğu kişide göğüs ağrısı sol kola yansıma
+       eğilimindedir. Bu bölge dışında omuzlar, sırt, boyun ya da çene
+       gibi bölgelere de ağrının yansıdığı kişiler mevcuttur. Kadınlarda
+       kalp krizi sırasında ağrı alt karın bölgesi ve göğsün alt
+       kısımlarına da yansıyabileceği için dikkatli olunmalıdır. Sırtın
+       üst kısımlarında ağrı oluşması erkeklere göre kadınlarda daha sık
+       görülen bir diğer belirtidir.
+    3. Terleme: Aktivite ya da egzersiz sırasında olmayan normalden fazla
+       terleme çeşitli kalp problemlerine işaret ediyor olabilen bir
+       belirtidir. Bazı kişilerde aşırı düzeyde soğuk terleme de meydana
+       gelebilir.
+    4. Halsizlik: Kalp krizi sırasında oluşan aşırı stres kişinin yorgun
+       ve halsiz hissetmesine neden olabilir. Halsizlik ve nefes darlığı
+       kadınlarda daha sık ortaya çıkan belirtilerdir ve kriz öncesi
+       dönemde birkaç ay önceden itibaren mevcut olabilir.
+    5.  Nefes Darlığı: Kalbin çalışması ve nefes alma birbiriyle yakından
+       ilişkili olaylardır. Kişinin nefes alıp verdiğinin farkında olması
+       olarak tanımlanan nefes darlığı, kriz sırasında kalbin yeterince
+       kanı pompalayamamasına bağlı oluşan önemli bir belirtidir.
+    6. Sersemlik: Baş dönmesi ve sersemlik genellikle kadın hastalarda
+       ortaya çıkan kalp krizi belirtileri arasında yer alır. Bu durumlar
+       yaşayan kişi tarafından normal olarak kabul edilmemeli ve ihmal
+       edilmemelidir.
+    7. Çarpıntı: Kalp krizine bağlı oluşan çarpıntı şikayetinde kişiler
+       yoğun bir kaygı hali içerisindedir. Bazı kişiler bu çarpıntıyı
+       sadece göğsünde değil boyun bölgesinde de tarifleyebilir.
+    8. Sindirim Problemleri: Bazı kişiler kriz öncesi dönemde gizli kalp
+       krizi belirtileri olan çeşitli sindirim şikayetleri yaşayabilir.
+       Hazımsızlık ve göğüste yanma gibi sindirim problemleri bazı kalp
+       krizi belirtileri ile benzerlik gösterebileceği için dikkatli
+       olunmalıdır.
+    9. Bacakların, ayak ve bileklerin şişmesi: Ayak ve bacak şişliği,
+       vücutta sıvı birikmesi sonucu gelişir. Bu kalp yetersizliğinin
+       kötüleştiğine ilişkin belirti olabilir.
+   10. Hızlı ve düzensiz kalp atışları: Hızlı ya da düzensiz çarpıntı kalp
+       atışlarındaki düzensizliğin ciddiye alınması gerektiği belirtilir
+       Ayrıca çarpıntıya yorgunluk, zayıflık ve kısa nefes alışlar
+       eklendiğinde geç kalınmaması gerekebilir.
+   11. Öksürük: Sürekli ve devam eden öksürük kalp krizi belirtisi
+       olabilir. Bunun sebebi ciğerlerdeki kan akışıdır. Bazı durumlarda
+       öksürüğe kan da eşlik edebilir. Böylesi bir durumda vakit
+       kaybetmemek önem kazanır.
+   12. Vücut ağırlığında ani değişim-kilo alma veya verme: Ani kilo alıp
+       vermek kalp krizi riskini artırır. Beslenme düzeninde
+       yapılan ani değişiklikler, kolesterol profilinde de dalgalanmalar
+       yaşanmasına neden olabilir. Kısa sürede yüzde 10 veya daha
+       fazla kilo artışı olan orta yaşlı bireylerde ilerleyen yıllarda
+       kalp krizi riskinin arttığı gözlemlenmiştir.
+
+Kadınlarda Kalp Krizi Belirtisi
+
+   Erkek cinsiyet kalp hastalıklarına yatkınlık konusunda bir risk faktörü
+   olarak kabul edilir. Aynı zamanda erkekler kadınlara göre daha erken
+   yaşlarda kalp krizi geçirebilir. Her ne kadar kalp krizi belirtileri
+   kişiden kişiye değişiklik gösterebilse de erkeklerde kalp krizi
+   belirtileri genellikle klasik semptomlardan oluşur. Kadınlarda ise
+   durum biraz daha farklıdır. Uzun süreli halsizlik, uyku problemleri,
+   anksiyete ve üst sırt ağrısı gibi klasik olmayan bazı belirtiler
+   kadınlarda kalp krizi belirtileri arasında değerlendirildiği için
+   bilinçli olunması gerekir.
+
+Kalp Krizi Tipleri Nelerdir?
+
+   Akut koroner sendrom (AKS) olarak da tanımlanan kalp krizi kendi
+   içerisinde 3 alt tipe ayrılır. STEMI, NSTEMI ve koroner spazm (unstabil
+   anjina), bu üç kalp krizi tipini oluşturur. STEMI, EKG tetkikindeki ST
+   segmenti olarak ifade edilen bölgede bir yükselme meydana geldiği kalp
+   krizi paternidir. NSTEMI tipindeki kalp krizinde ise
+   elektrokardiyografide (EKG) bu tarz bir segment yüksekliği söz konusu
+   değildir. Hem STEMI hem de NSTEMI kalp dokusuna oldukça zarar verebilen
+   majör kalp krizi çeşitleri olarak kabul edilir.
+
+   STEMI, koroner arterlerin tamamen tıkanması sonucu kalp dokusunun büyük
+   bir kısmının beslenmesinin bozulması ile ortaya çıkan kalp krizi
+   türüdür. NSTEMI’de ise koroner arterler kısmen tıkanmıştır ve bu
+   nedenle EKG tetkikinde ST segmenti olarak ifade edilen bölgede herhangi
+   bir değişiklik meydana gelmeyebilir.
+
+   Koroner spazm ise gizli kalp krizi olarak bilinir. Belirtiler her ne
+   kadar STEMI ile benzerlik gösterse de kas ağrısı, sindirim problemi ve
+   diğer çeşitli şikayetler ile karıştırılabilir. Kalbin damarlarındaki
+   kasılmalara bağlı oluşan bu durum kan akışını kesecek veya oldukça
+   azaltacak seviyeye geldiğinde gizli kalp krizi belirtilerini meydana
+   getirebilir. Bu durum sırasında kalp dokusunda kalıcı hasar oluşmaması
+   yüz güldürücü olsa da ileri zamanlarda kalp krizi geçirme riskinde
+   artışa neden olduğu için ihmal edilmemesi gereken bir durumdur.
+
+Kalp Krizi Nedenleri Nelerdir?
+
+   Kalbi besleyen damarlarda yağ yapıdaki plakların oluşumu en sık tespit
+   edilen kalp krizi nedenleri arasında yer alır. Bu durum dışında
+   pıhtılar ya da damarlardaki yırtılmalar da kalp krizi ile
+   sonuçlanabilir.
+
+   Çeşitli faktörler nedeniyle damarların iç duvarında ateroskleroz olarak
+   isimlendirilen yağ depozitlerinin birikimi meydana gelebilir ve bu
+   durumlar kalp krizi için birer risk faktörü olarak kabul edilir:
+     * Sigara içmek kalp krizi riskini artıran en önemli nedendir. Sigara
+       içen erkek ve kadınlarda kalp krizi görülme oranı nerdeyse 3 kat
+       daha fazladır.
+     * Kanda kötü kolesterol olarak tanımlanan LDL oranı ne kadar yüksekse
+       kalp krizi geçirme riski de o kadar yüksektir. Kolesterol içeriği
+       yüksek sakatat, sucuk, salam, sosis, kırmızı et, kızartma, kalamar,
+       midye, karides, tam yağlı süt ürünler, mayonez, kaymak, krema ve
+       tereyağı gibi gıdalardan uzak durmak kalp krizi riskini azaltıcı
+       etki gösterebilir.
+     * Şeker hastalığı kalp krizi riskini artıran önemli bir
+       rahatsızlıktır. Şeker hastalarının büyük bir çoğunluğu kalp krizi
+       nedeniyle hayatını kaybetmektedir. Diyabet (şeker hastalığı)
+       hastalarında damar duvarlarındaki esneklik bozulur, kanda
+       pıhtılaşma seviyesi artabilir ve damarın iç yüzeyinde yer alan
+       endotel hücrelerinin hasarı kolaylaşabilir. Sağlıksız beslenme ve
+       fiziksel aktivite azlığına bağlı olarak gelişen insülin direncinde
+       de kalp krizine karşı artmış bir risk söz konusu olabileceğinden
+       dikkatli olunmalıdır.
+     * Kan damarlarındaki basıncın artması (tansiyonun yükselmesi) kalp
+       krizi riskini artırabilecek bir diğer durumdur.
+     * Yaş ile birlikte damarların yapısında bozulmalar ve hasarlanmada
+       artış meydana gelebilir. Bu durum kalp krizi riskini de artırır.
+     * Kadınlardaki östrojen hormonu kalp krizi riskine karşı koruyucu
+       etki gösterebilir. Bu nedenle erkeklerde ve menapoz sonrası
+       kadınlarda kalp krizi riski daha yüksek kabul edilir.
+     * Obezite, kan damarlarında işlev bozukluklarına, erken yaşlanmaya ve
+       damar sertleşmesine neden olarak kalp krizi riskini artırır.
+       Karbonhidrat ve yağ metabolizmasında bozukluklara yol açan
+       obeziteye eşlik eden yüksek tansiyon, kolesterol ve şeker hastalığı
+       gibi diğer durumlar da kalp krizi oluşumu açısından önemlidir.
+       Obezite için obezite cerrahisi tercih edilirken, incelme ve yağ
+       dokusunu, oranını azaltmak için lazer liposuction gibi yöntemler
+       tercih edilebilir.
+     * Kişinin anne, baba, kardeş gibi birinci derece yakınlarında kalp
+       krizi öyküsü bulunması kalp krizi geçirme riskini artırır.
+     * Karaciğerde üretilen C-reaktif protein, homosistein, fibrinojen ve
+       lipoprotein A gibi maddelerin kanda yükselmesi de kalp krizi riski
+       ile ilişkili olabileceği için dikkatli olunmalıdır.
+
+Kalp Krizi Tanısı Nasıldır?
+
+   Kalbin elektriksel aktivitesinin dökümente edilmesini sağlayan EKG
+   (elektrokardiyografi) olası bir kalp krizinin tespit edilmesi adına
+   başvurulan ilk tetkiklerden biridir. Göğüse ve ekstremitelere
+   yerleştirilen elektrotlar vasıtası ile yapılan bu tetkikte elektriksel
+   sinyaller çeşitli dalgalar halinde kağıda veya monitöre yansıtılır.
+
+   EKG dışında çeşitli biyokimyasal analizler de kalp krizi tanısında
+   fayda sağlayabilir. Kriz anındaki hücresel hasara bağlı olarak normalde
+   kalp hücresi içerisinde yer alan başta troponin olmak üzere bazı
+   protein ve enzimler kan dolaşımına geçebilir. Bu maddelerin düzeyi
+   incelenerek kişinin kalp krizi yaşıyor olabileceğine dair bir fikir
+   elde edilmiş olur.
+
+   EKG ve kan tetkikleri dışında akciğer filmi, ekokardiyografi (EKO) veya
+   nadir de olsa bilgisayarlı tomografi (CT) veya manyetik rezonans
+   görüntüleme (MRI) gibi radyolojik tetkiklerden de kalp krizi tanısında
+   faydalanılabilir.
+
+   Anjiyografi kalp krizi için önemli bir tanı ve tedavi aracıdır. Bu
+   tetkik sırasında kol veya uyluktaki damarlardan ince bir tel vasıtası
+   ile girilerek kalp damarlarının ekranda koyu renkli görünen bir
+   kontrast madde aracılığı ile incelenmesi sağlanır. Tıkanıklık tespit
+   edilmesi halinde anjioplasti adı verilen balon uygulamaları ile damarın
+   açılması sağlanabilir. Balon dışında stent adı verilen bir tel tüp
+   kullanılarak anjiyoplasti sonrası damarın açıklığının korunması
+   gerçekleştirilebilir.
+
+Kalp Krizi Tedavi Yöntemleri Nelerdir?
+
+   Kalp krizi acil bir durumdur ve belirtiler ortaya çıktığında mutlaka
+   tam teşekküllü bir hastaneye başvurulması gereklidir. Kalp krizi ile
+   ilgili ölümlerin büyük bir çoğunluğu kriz başladıktan sonraki ilk
+   birkaç saat içinde gerçekleşir. Bu nedenle hastaya tanının hızlı
+   konulması ve müdahalenin doğru yapılması hayati önem taşır. Kalp krizi
+   geçiriyorsanız hemen acil durum numaralarını arayarak durumunuzu
+   bildirin. Ayrıca düzenli check-up yaptırmak kalp krizi tedavisi için
+   önemli rol oynar. Siz de check-up nasıl yapılır konusunda bilgi almak
+   istiyorsanız hastanelere başvurabilirsiniz.
+
+   Kalp krizi nedeniyle acile gelen hastaya gerekli acil tedaviler ve kan
+   sulandırıcı ilaçlar uygulandıktan sonra kardiyoloji uzmanına
+   yönlendirilir. Doktor gerekli gördüğü durumda hastanın damarlarını
+   kontrol etmek amacıyla anjiyo yapabilir. Anjiyo sonucuna göre ilaçla
+   tedavi ya da cerrahi işlem olup olmayacağı genellikle içerisinde
+   kardiyoloji uzmanı ve kalp damar cerrahisi uzmanının bulunduğu bir
+   konsey tarafından belirlenir. Anjiyoplasti, stent ve bypass cerrahisi,
+   kalp krizinin temel tedavi seçenekleri arasında yer alır. Bypass
+   cerrahisinde kalp damar cerrahı vücudun başka bir bölgesinden aldığı
+   damarları kalpteki hasar görmüş damarları tamir etmek için kullanır.
+
+   Tüm dünyada ölüm nedenlerinin başında gelen kalp krizinin risk
+   faktörleri değiştirilebilir ve değiştirilemeyenler olmak üzere 2 grupta
+   incelenir. Kalp sağlığınıza olumlu katkı sağlayabileceğiniz yaşam tarzı
+   değişiklikleri, tütün kullanımını sonlandırmak, dengeli ve sağlıklı
+   beslenmek, egzersiz yapmak, diyabet varlığında şekerin normal
+   sınırlarda kalmasına özen göstermek, kan basıncını düşük tutmak ve
+   yaşamın getirdiği stresi kontrol edebilme yeteneği geliştirmek şeklinde
+   özetlenebilir.
+
+   Kalp hastalığı riskinin azaltılmasında atılacak en önemli adımlardan
+   biri tütün kullanımının sonlandırılmasıdır. Sigara içmek koroner arter
+   hastalığı, kalp krizi ve inme için başta gelen risk faktörleri arasında
+   yer alır. Ateroskleroza giden süreçte sigara kullanımı, yağ yapıdaki
+   maddelerin damar duvarında birikimini uyarıcı etki yapabilir. Kalp
+   dışında tütün kullanımı ile birlikte diğer organların normal
+   fonksiyonları da olumsuz yönde etkilenir. Tütün kullanımı aynı zamanda
+   iyi kolesterol olarak bilinen HDL’nin miktarını azaltıcı etki yapabilir
+   ve kan basıncını yükseltici özellik gösterebilir. Bu kötü özellikleri
+   nedeniyle sigara kullanımı sonrası damarlar üzerine ekstra bir yük
+   binmiş olur ve kişi çeşitli rahatsızlıklara yatkın hale gelebilir.
+   Tütün kullanımının sonlandırılmasının kalp hastalığı riskini azaltıcı
+   etki gösterdiği kanıtlanmış bir gerçektir ve bırakmanın etkileri direkt
+   olarak kendisini göstermeye başlar. Kan basıncında azalma ile dolaşım
+   iyileşir ve vücutta taşınan oksijen desteği artar. Bu değişiklikler
+   kişinin enerji düzeyinde de bir iyileşme sağlar ve fiziksel
+   aktiviteleri gerçekleştirmek kolaylaşır.
+
+   Egzersiz ve sağlıklı bir vücut ağırlığına sahip olmak kan basıncının
+   kontrolü ve çeşitli kalp rahatsızlıklarının önlenmesinde oldukça önem
+   arz eden konular arasında yer alır. Günde 30 dakika ve en az haftanın 5
+   günü yapılan egzersiz fiziksel olarak aktif kalmak adna yeterli bir
+   uygulamadır. Aktivitenin yüksek şiddette olması da gerekli değildir.
+   Egzersiz ile birlikte sağlıklı kabul edilen kiloya ulaşmak da
+   kolaylaşmış olur. Dengeli ve sağlıklı beslenme ile desteklenen fiziksel
+   aktivite özellikle kan basıncının kontrolünde vücudun normal
+   fonksiyonlarının desteklenmesini sağlayarak aşırı kiloya bağlı
+   oluşabilecek komplikasyonların önlenmesine katkıda bulunur.
+
+   Daha önce kalp krizi yaşamış veya benzer durumlar ile ilgili tanı almış
+   kişilerin hekimler tarafından yazılan ilaçlarına harfiyen uyması
+   oldukça önemlidir. Kalp krizi ile ilgili belirtileri kendinizde
+   hissetmeniz halinde hemen acil servis numaralarına başvurarak gerekli
+   tıbbi yardımı almanız gereklidir.
+
+   Sağlıklı günler dileriz.
+
+   medical park hastanesi youtube videosu
+
+   [hr-white.png]
+
+En Çok Okunan Sağlık Rehberi Yazılarımız
+
+     * Mide Bulantısı
+     * Öksürüğe Ne İyi Gelir?
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * El Ayak Hastalığı Nedir?
+     * Zona Hastalığı Nedir?
+     * Burun Estetiği Nasıl Yapılır?
+     * Korona Virüsü Belirtileri
+     * Çölyak Hastalığı
+     * D Vitamini Eksikliği
+     * Domuz Gribi Belirtileri
+     * Behçet Hastalığı
+     * Bel Fıtığı Belirtileri
+     * Zencefilin Faydaları
+     * Menopoz Belirtileri
+     * Çörek Otu Yağı Faydaları
+     * HPV Aşısı
+     * Meme Kanseri Belirtileri
+     * Kekik Çayı Faydaları
+     * Prostat Belirtileri
+     * Pankreas Kanseri
+     * Asperger Sendromu
+     * Eris Varyantı Belirtileri
+     * Gül Hastalığı Nedir?
+     * Cilt Kanseri Belirtileri
+     * Böbrek Yetmezliği
+     * Böbrek Taşı Belirtileri
+     * Yeşil Çayın Faydaları
+     * Saç Ekimi
+     * Zehirlenme Belirtileri
+     * Hindistan Cevizi Yağı
+     * Lenf Kanseri Belirtileri
+     * Papatya Çayı Faydaları
+     * Kuduz Belirtileri
+     * Astım Belirtileri
+
+     * Kanser Belirtileri
+     * Hamilelik Belirtileri
+     * Hipertansiyon Belirtileri
+     * Uyuz Belirtileri
+     * Beyin Tümörü
+     * Akciğer Kanseri Belirtileri
+     * Sinüzit Belirtileri
+     * Apandisit Belirtileri
+     * AIDS Belirtileri
+     * Kolesterol Belirtileri
+     * Depresyon Belirtileri
+     * Tiroid Belirtileri
+     * Anksiyete Belirtileri
+     * Karaciğer Yetmezliği
+     * Karaciğer Yağlanması
+     * Mide Kanseri Belirtileri
+     * Bağırsak Enfeksiyonu
+     * Safra Kesesi Taşı Belirtileri
+     * Kolon Kanseri Belirtileri
+     * Beyin Kanaması Belirtileri
+     * Mide Kanaması Belirtileri
+     * Otizm Belirtileri
+     * Gebelik Zehirlenmesi
+     * Kansızlık (Anemi) Belirtileri
+     * Şeker Hastalığı Belirtileri
+     * Soğuk Algınlığı Belirtileri
+     * Panik Atak Belirtileri
+     * Demir Eksikliği Belirtileri
+     * Bahar Alerjisi Belirtileri
+     * B12 Vitamini Eksikliği
+     * Magnezyum Eksikliği
+     * Kan Kanseri Belirtileri
+     * OKB Belirtileri
+     * Yüz Felci Belirtileri
+
+   Sosyal Medya Hesaplarımız:
+   Facebook | Instagram | YouTube | LinkedIn
+   Prof. Dr.
+   Abdulaziz Karadede
+   https://www.medicalpark.com.tr/_uploads/_images/_doctorProfile/BWIGEM1d
+   .jpg
+   Kardiyoloji
+   Medical Park Mersin
+   https://www.medicalpark.com.tr/_assets/_i/mp_logo_red.jpg
+   Profili Gör
+   Kardiyoloji
+   21.11.2022
+   8.1.2025
+   2526702
+
+   Bu içeriğin geliştirilmesinde Medical Park Yayın Kurulu katkı
+   sağlamıştır.
+   Sayfa içeriği sadece bilgilendirme amaçlıdır. Sayfa içeriğinde tedavi
+   edici sağlık hizmetine yönelik bilgiler içeren ögelere yer
+   verilmemiştir. Tanı ve tedavi için mutlaka hekiminize başvurunuz.
+   Hızlı Randevu Al
+   (BUTTON) ×
+     *
+
+   Hızlı Randevu Al
+   Hasta Rehberi
+     * İnternet Çerez Politikası
+     * Ziyaretçi Politikası
+     * Refakatçi Politikası
+     * Güvenlik Bilgisi ve Politikası
+     * Şikayet Politikası
+     * İleri Teknolojiler
+     * Hasta Hakları Birimi
+     * Memnuniyet Sağlama Süreci
+     * Hasta Odaları
+     * Ameliyathaneler
+     * Hamilelik Belirtileri
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * Mide Bulantısına Ne İyi Gelir?
+     * Ertesi Gün Hapı Nedir?
+     * Demir Eksikliği Belirtileri
+     * Kegel Egsersizi
+     * D Vitamini Eksikliği
+     * Öksürüğe Ne İyi Gelir?
+
+   Kurumsal
+     * Haberler
+     * Hakkımızda
+     * Başkanın Mesajı
+     * Vizyon
+     * Kalite Yönetim Sistemi
+     * Kalite Politikası
+     * Yatırımcı İlişkileri
+     * Sponsorluklar
+     * Kariyer
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni
+     * Misafir Memnuniyet ve Şikayet Yönetim Politikası
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni Üniversite
+       Hastaneleri
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni -
+       Tedarikçilerimiz İçin
+     * İhaleler
+     * İletişim
+
+   Online İşlemler
+     * Hızlı Randevu Al
+     * Radyoloji ve Laboratuvar Tetkik Sonuçlarını Görüntüle
+     * Sizi Dinliyoruz
+     * Online Doktor Görüşmesi
+     * Evde Sağlık
+     * Saç Ekimi
+     * Burun Estetiği
+     * Doğum Paketi
+     * Obezite Cerrahisi
+     * Tüp Bebek
+     * Check Up
+     * Plastik Cerrahi
+     * Mide Balonu
+     * Zona Hastalığı
+     * Huzursuz Bacak Sendromu
+     * Panik Atak Belirtileri
+     * Apandisit Belirtileri
+
+     * 444 44 84
+     * International Patient Information
+     * qr code
+       Medical Park mobil uygulamasını hemen
+       indirin, avantajlardan yararlanın.
+       Google Play'den alın
+       Download on the App Store
+
+   Hasta Rehberi
+     * İnternet Çerez Politikası
+     * Ziyaretçi Politikası
+     * Refakatçi Politikası
+     * Güvenlik Bilgisi ve Politikası
+     * Şikayet Politikası
+     * İleri Teknolojiler
+     * Hasta Hakları Birimi
+     * Memnuniyet Sağlama Süreci
+     * Hasta Odaları
+     * Ameliyathaneler
+     * Hamilelik Belirtileri
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * Mide Bulantısına Ne İyi Gelir?
+     * Ertesi Gün Hapı Nedir?
+     * Demir Eksikliği Belirtileri
+     * Kegel Egsersizi
+     * D Vitamini Eksikliği
+     * Öksürüğe Ne İyi Gelir?
+
+   Kurumsal
+     * Haberler
+     * Hakkımızda
+     * Başkanın Mesajı
+     * Vizyon
+     * Kalite Yönetim Sistemi
+     * Yatırımcı İlişkileri
+     * Sponsorluklar
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni
+     * Misafir Memnuniyet ve Şikayet Yönetim Politikası
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni Üniversite
+       Hastaneleri
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni -
+       Tedarikçilerimiz İçin
+     * İhaleler
+     * İletişim
+
+   Online İşlemler
+     * Hızlı Randevu Al
+     * Laboratuvar Sonuçlarını Görüntüle
+     * Sizi Dinliyoruz
+     * Online Doktor Görüşmesi
+     * Evde Sağlık
+     * Saç Ekimi
+     * Burun Estetiği
+     * Doğum Paketi
+     * Obezite Cerrahisi
+     * Tüp Bebek
+     * Check Up
+     * Plastik Cerrahi
+     * Mide Balonu
+     * Zona Hastalığı
+     * Huzursuz Bacak Sendromu
+     * Panik Atak Belirtileri
+     * Apandisit Belirtileri
+
+     * 444 44 84
+     * International Patient Information
+     * qr code
+       Medical Park mobil uygulamasını hemen
+       indirin, avantajlardan yararlanın.
+       Google Play'den alın
+       Download on the App Store
+
+   JCI Uluslararası Akreditasyon
+   JCI Uluslararası Akreditasyon
+   Daha Fazla Bilgi
+   Mlpcare MedicalPark Liv Hospital İstinye Üniversitesi
+
+   Gizliliğiniz bizim için önemlidir. 6698 sayılı Kişisel Verilerin
+   Korunması Kanunu Hakkında Bilgilendirmeye buradan ulaşabilirsiniz.
+   Copyright © 1993- 2025 Medical Park Hastaneler Grubu Kullanım Koşulları
+   ve Gizlilik Politikası
+   Son Güncellenme Tarihi:10-01-2025 22:21:35

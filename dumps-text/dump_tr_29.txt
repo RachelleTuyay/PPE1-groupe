@@ -1,0 +1,1646 @@
+   { "type": "identify", "data": { "id":"None", "user": { "email":
+   "d41d8cd98f00b204e9800998ecf8427e", "signupDate": "", "gender": "",
+   "permission": "no" } } }
+
+   { "type": "pageViewed", "data": "" }
+
+   { "type": "gtmStart" }
+
+   KOT10'A ÖZEL HAFTA SONU KARGO BEDAVA! SÜRPRİZ KUPON FIRSATLARI
+   Koton Siyah Logo
+   Ara
+   Logo black
+   Türkçe TR
+   Dil Seçimi
+   Dil Seçenekleri
+   (BUTTON) Türkçe
+   (BUTTON) English
+   Kaydet
+     *
+     * GİRİŞ YAP KAYIT OL
+     *
+     * 0
+
+   (BUTTON) www.koton.com
+     * Kadın
+          +
+               o Yeni Gelenler
+               o Çok Satanlar
+               o Giyim
+               o Genç Kadın
+               o Koleksiyonlar
+               o Abiye & Davet
+               o İç Giyim ve Pijama
+               o Spor Giyim
+               o Aksesuar
+               o Fırsatlar
+               o
+               o
+               o
+                    # Tüm Ürünler
+                    # Dış Giyim
+                    # Kaban
+                    # Mont
+                    # Sweatshirt
+                    # Peluş Mont
+                    # Kazak & Süveter
+                    # Triko Sıcaklığı
+                    # Hırka
+                    # Elbise
+                    # Yelek
+                    # Etek
+                    # Pantolon
+                    # Ceket
+                    # Suni Deri Ceket
+                    # Blazer Ceket
+                    # Gömlek
+                    # Bluz
+                    # Trençkot
+                    # Abiye Davet
+                    # Crop
+                    # Top/Bluz
+                    # Tişört
+                    # Eşofman Altı
+                    # Tayt
+                    # Pijama Takımı
+                    # Koton Jeans
+                    # Kot Pantolon
+                    # Kot Ceket
+                    # Tişört Uzun Kol
+               o
+                    # Tüm Ürünler
+                    # Yeni Gelenler
+                    # Dış Giyim
+                    # Elbise
+                    # Sweatshirt
+                    # Pantolon
+                    # Tişört
+                    # Tişört Uzun Kol
+                    # Kazak/Süveter
+                    # Hırka
+                    # Bluz
+                    # Etek
+                    # Top/Bluz
+                    # Gömlek
+                    # Eşofman Altı
+                    # Triko
+                    # Crop
+                    # Şort
+                    # Tulum
+                    # Tayt
+                    # Koton Jeans
+                    # Kot Pantolon
+                    # Kot Ceket
+                    # Kot Etek
+                    # Kot Yelek
+                    # Suni Deri Ceket
+                    # Mont
+                    # Şişme Yelek
+                    # Sezonun Trendleri
+                    # Paketli Ürünler
+               o
+                    # Kayak KoleksiyonuYeni!
+                    # Şahika Ercümen
+                    # Melis Ağazat
+                    # Sibil Çetinkaya
+                    # Studio Koleksiyonu
+                    # Zeynep Bastık
+                    # Sezonun Trendleri
+                    # Çok Satanlar
+                    # Sima Tarkan
+                    # Basic Ürünler
+                    # İnji
+                    # Western
+                    # Koton Friends
+                    # Yaşama Saygı
+                    # Tüvit Ürünler
+                    # Deri Görünümlüler
+                    # El Emeği
+                    # Abiye & Davet
+                    # Çizgili Ürünler
+                    # Ofis Stili
+                    # Online Özel
+                    # Lisans Koleksiyonu
+                    # Look Book
+                    # Modal Ürünler
+                    # Tenis Koleksiyonu
+                    # Doğum Günü Hediyeleri
+                    # Kadın Hediye Önerileri
+                    # Yıldönümü Hediyesi
+                    # Paketli Ürünler
+               o
+                    # Abiye Elbise
+                    # Payetli Elbise
+                    # Uzun Abiye
+                    # Kısa Abiye Elbise
+                    # Beyaz Nikah Elbisesi
+                    # Saten Abiye
+                    # Abiye Etek
+                    # Abiye Bluz
+                    # Mezuniyet Elbiseleri
+                    # Abiye Çanta & Aksesuar
+               o
+                    # Tüm Ürünler
+                    # Yeni Gelenler
+                    # Takım Ürünler
+                    # Sütyen
+                    # Ekstra Dolgulu
+                    # Dolgulu, Balenli
+                    # Dolgusuz, Balensiz
+                    # Dolgusuz, Balenli
+                    # Desteksiz, Balenli
+                    # Külot
+                    # Hipster Külot
+                    # Brief Külot
+                    # Brazilian Külot
+                    # String Külot
+                    # Çoklu Paket
+                    # Basic
+                    # Bodysuit
+                    # Pijama Takım
+                    # Pijama Alt
+                    # Pijama Üst
+                    # Sabahlık
+                    # Gecelik
+                    # Ev Giyim
+               o
+                    # Tüm Ürünler
+                    # Yeni Gelenler
+                    # Sporcu Sütyeni
+                    # Şort
+                    # Tişört
+                    # Tayt
+                    # Atlet
+                    # Sweatshirt
+                    # Eşofman Altı
+                    # Yoga
+                    # Tüm Gün Aktif
+                    # Sport Core
+                    # Basic
+                    # Tenis
+                    # Dış Giyim
+                    # Outdoor
+                    # Koşu
+               o
+                    # Tüm Ürünler
+                    # Çanta
+                    # Parfüm
+                    # Şapka
+                    # Şal
+                    # Atkı & Bere & Eldiven
+                    # Atkı
+                    # Bere
+                    # Eldiven
+                    # Kemer
+                    # Takı
+                    # Kolye
+                    # Küpe
+                    # Bileklik
+                    # Yüzük
+                    # Çorap
+                    # Saç Aksesuarları
+               o
+                    # Tek Fiyat 399.99
+                    # Tek Fiyat 499.99
+               o Yeni Gelenler
+     * Genç
+          +
+               o Yeni Gelenler
+               o Giyim
+               o Paketli Ürünler
+               o Koton Jeans
+               o Sezonun Trendleri
+               o Fırsatlar
+               o
+               o
+                    # Tüm Ürünler
+                    # Sweatshirt
+                    # Eşofman Altı
+                    # Kazak/Süveter
+                    # Hırka
+                    # Dış Giyim
+                    # Mont
+                    # Suni Deri Ceket
+                    # Şişme Yelek
+                    # Gömlek
+                    # Triko
+                    # Bluz
+                    # Etek
+                    # Tişört Uzun Kol
+                    # Pantolon
+                    # Tişört
+                    # Elbise
+                    # Top/Bluz
+                    # Tulum
+                    # Tayt
+                    # Şort
+                    # Crop
+               o
+               o
+                    # Kot Pantolon
+                    # Kot Ceket
+                    # Kot Etek
+                    # Kot Yelek
+               o
+               o
+               o Yeni Gelenler
+     * Erkek
+          +
+               o Yeni Gelenler
+               o Çok Satanlar
+               o Giyim
+               o İç Giyim & Ev Giyim
+               o Spor Giyim
+               o Aksesuar
+               o Koleksiyonlar
+               o Fırsatlar
+               o
+               o
+               o
+                    # Tüm Ürünler
+                    # Dış Giyim
+                    # Mont
+                    # Sweatshirt
+                    # Kazak & Süveter
+                    # Tişört
+                    # Eşofman Altı
+                    # Jeans
+                    # Black Jeans
+                    # Gömlek
+                    # Pantolon
+                    # Oduncu Gömlek
+                    # Şişme Mont&Yelek
+                    # Suni Deri Ceket
+                    # Mevsimlik Mont & Ceket
+                    # Hırka & Fermuarlı Sweatshirt
+                    # Eşofman TakımıYeni!
+                    # Gömlek Ceket
+                    # Blazer Ceket
+                    # Basics
+                    # Atkı & Bere & Eldiven
+                    # İç Giyim & Ev Giyim
+                    # Polo Tişört
+                    # Kot Ceket
+                    # Yelek
+                    # Boxer
+                    # Atlet & Kolsuz Tişört
+                    # Kot Şort
+                    # Şort & Bermuda
+               o
+                    # Tüm Ürünler
+                    # Boxer
+                    # Çorap
+                    # Atlet
+                    # Eşofman Altı
+                    # Örme Şort
+                    # Oversize Tişört
+                    # Basic Tişört
+                    # Baskılı Tişört
+                    # Oversize Sweatshirt
+                    # Fermuarlı Sweatshirt
+                    # Bisiklet Yaka Sweatshirt
+               o
+                    # Tüm Ürünler
+                    # Spor Sweatshirt
+                    # Spor Eşofman Altı
+                    # Spor Şort
+                    # Spor Tişört
+                    # Spor Atlet
+                    # Spor Dış Giyim
+                    # Outdoor
+               o
+                    # Tüm Ürünler
+                    # Atkı & Bere & Eldiven
+                    # Atkı
+                    # Bere
+                    # Eldiven
+                    # Şapka
+                    # Takı
+                    # Kemer
+                    # Parfüm
+                    # Çorap
+               o
+                    # Yaşama Saygı
+                    # Çok Satanlar
+                    # Kayak KoleksiyonuYeni!
+                    # Ofis Stili
+                    # Natürel Tonlar
+                    # Basic Koleksiyonu
+                    # Lisans Koleksiyonu
+                    # Oversize Modası
+                    # Kolej Koleksiyonu
+                    # Back in Black
+                    # Kampüs Kombinleri
+                    # Atatürk Koleksiyonu
+                    # Erkek Hediye Önerileri
+                    # Doğum Günü Hediyeleri
+                    # Yıldönümü Hediyeleri
+                    # Plaj Giyim
+                    # Keten Koleksiyonu
+               o
+                    # Tek Fiyat 399.99
+                    # Tek Fiyat 499.99
+               o Yeni Gelenler
+     * Çocuk
+          +
+               o Yeni Gelenler
+               o Çok Satanlar
+               o Kız Çocuk (5-14 Yaş)
+               o Erkek Çocuk (5-14 Yaş)
+               o Aksesuar
+               o Koleksiyonlar
+               o Lisanslı Ürünler
+               o Yaşa Göre Satın Al
+               o Fırsatlar
+               o
+               o
+               o
+                    # Tüm Ürünler
+                    # Elbise & Tulum
+                    # Tişört
+                    # Sweatshirt
+                    # Dış Giyim
+                    # Mont & Kaban
+                    # Tayt
+                    # Eşofman Altı
+                    # Gömlek
+                    # Pantolon
+                    # Jeans
+                    # Bluz
+                    # Etek
+                    # Şort
+                    # Kazak & Süveter
+                    # Hırka
+                    # Şişme Mont&Yelek
+                    # Peluş Mont&Kaban
+                    # Yelek
+                    # Şort Etek
+                    # Aksesuar
+                    # Atkı&Bere&Eldiven
+                    # Şapka
+                    # Çorap
+                    # Spor Giyim
+                    # Atlet
+                    # Tulum & Salopet
+               o
+                    # Tüm Ürünler
+                    # Tişört
+                    # Sweatshirt
+                    # Eşofman Altı
+                    # Dış Giyim
+                    # Mont & Kaban
+                    # Pantolon
+                    # Gömlek
+                    # Jeans
+                    # Kazak & Süveter
+                    # Hırka
+                    # Şişme Mont&Yelek
+                    # Aksesuar
+                    # Atkı&Bere&Eldiven
+                    # Şapka
+                    # Çorap
+                    # Spor Giyim
+                    # Polo Tişört
+                    # Şort
+                    # Atlet
+               o
+                    # Tüm Ürünler
+                    # Şapka
+                    # Atkı&Bere&Eldiven
+                    # Çorap
+                    # Çanta
+                    # Saç Aksesuarları
+               o
+                    # Yaşama Saygı
+                    # Polar & Peluş
+                    # Eşofman Takımları
+                    # Basic Koleksiyonu
+                    # Kış İhtiyaçlarını Tamamla
+                    # Lisans Koleksiyonu
+                    # Okul İhtiyaçları
+                    # Anne Kız Koleksiyonu
+                    # Atatürk Koleksiyonu
+                    # Favori Renkler
+                    # Hediye Önerileri
+                    # Koton Friends
+                    # Pijama Takımları
+               o
+               o
+                    # 4-5 Yaş | 110 cm
+                    # 5-6 Yaş | 116 cm
+                    # 6-7 Yaş | 122 cm
+                    # 7-8 Yaş | 128 cm
+                    # 9-10 Yaş | 140 cm
+                    # 11-12 Yaş | 152 cm
+                    # 13-14 Yaş | 164 cm
+               o
+                    # Tek Fiyat 299,99
+                    # Tek Fiyat 399,99
+                    # Tek Fiyat 499,99
+               o Yeni Gelenler
+     * Bebek
+          +
+               o Yeni Gelenler
+               o Çok Satanlar
+               o Kız Bebek (0-5 Yaş)
+               o Erkek Bebek (0-5 Yaş)
+               o Lisans koleksiyonu
+               o Koleksiyonlar
+               o Yaşa Göre Satın Al
+               o Fırsatlar
+               o
+               o
+               o
+                    # Tüm Ürünler
+                    # Elbise & Tulum
+                    # Tişört
+                    # Sweatshirt
+                    # Tayt
+                    # Eşofman Altı
+                    # Pantolon & Jeans
+                    # Gömlek & Bluz
+                    # Kazak & Hırka
+                    # Dış Giyim
+                    # Mont & Kaban
+                    # Şort
+                    # Etek
+                    # Çoklu Paket
+                    # Aksesuar
+                    # Çorap
+                    # Yenidoğan
+               o
+                    # Tüm Ürünler
+                    # Tişört
+                    # Sweatshirt
+                    # Eşofman Altı
+                    # Dış Giyim
+                    # Pantolon & Jeans
+                    # Gömlek
+                    # Kazak & Hırka
+                    # Çoklu Paket
+                    # Tulum
+                    # Mont & Kaban
+                    # Şort
+                    # Atlet
+                    # Aksesuar
+                    # Çorap
+                    # Yenidoğan
+               o
+               o
+                    # Yaşama Saygı
+                    # Polar & Peluş
+                    # Eşofman Takımları
+                    # %100 Pamuk
+                    # Kış İhtiyaçlarını Tamamla
+                    # Çoklu Paket
+                    # Basic Koleksiyonu
+                    # Lisans Koleksiyonu
+                    # Kreş İhtiyaçları
+                    # Favori Renkler
+                    # Hayvanlar Alemi
+                    # Hediye Önerileri
+                    # Yenidoğan
+               o
+                    # 9-12 Ay | 80 cm
+                    # 12-18 Ay | 86 cm
+                    # 18-24 Ay | 92 cm
+                    # 24-36 Ay | 98 cm
+                    # 3-4 Yaş | 104 cm
+                    # 4-5 Yaş | 110 cm
+               o
+                    # Tek Fiyat 299,99
+                    # Tek Fiyat 399,99
+                    # Tek Fiyat 499,99
+               o Yeni Gelenler
+     * Fırsatlar
+          +
+               o Tek Fiyat 399.99
+               o Tek Fiyat 499.99
+               o
+               o
+               o
+     * Sürdürülebilirlik
+
+   Koton Siyah Logo (BUTTON)
+     * Kadın
+          + Yeni Gelenler
+          + Çok Satanlar
+          + Giyim
+            Geri Giyim
+               o Tüm Ürünler
+               o Dış Giyim
+               o Kaban
+               o Mont
+               o Sweatshirt
+               o Peluş Mont
+               o Kazak & Süveter
+               o Triko Sıcaklığı
+               o Hırka
+               o Elbise
+               o Yelek
+               o Etek
+               o Pantolon
+               o Ceket
+               o Suni Deri Ceket
+               o Blazer Ceket
+               o Gömlek
+               o Bluz
+               o Trençkot
+               o Abiye Davet
+               o Crop
+               o Top/Bluz
+               o Tişört
+               o Eşofman Altı
+               o Tayt
+               o Pijama Takımı
+               o Koton Jeans
+               o Kot Pantolon
+               o Kot Ceket
+               o Tişört Uzun Kol
+          + Genç Kadın
+            Geri Genç Kadın
+               o Tüm Ürünler
+               o Yeni Gelenler
+               o Dış Giyim
+               o Elbise
+               o Sweatshirt
+               o Pantolon
+               o Tişört
+               o Tişört Uzun Kol
+               o Kazak/Süveter
+               o Hırka
+               o Bluz
+               o Etek
+               o Top/Bluz
+               o Gömlek
+               o Eşofman Altı
+               o Triko
+               o Crop
+               o Şort
+               o Tulum
+               o Tayt
+               o Koton Jeans
+               o Kot Pantolon
+               o Kot Ceket
+               o Kot Etek
+               o Kot Yelek
+               o Suni Deri Ceket
+               o Mont
+               o Şişme Yelek
+               o Sezonun Trendleri
+               o Paketli Ürünler
+          + Koleksiyonlar
+            Geri Koleksiyonlar
+               o Kayak KoleksiyonuYeni!
+               o Şahika Ercümen
+               o Melis Ağazat
+               o Sibil Çetinkaya
+               o Studio Koleksiyonu
+               o Zeynep Bastık
+               o Sezonun Trendleri
+               o Çok Satanlar
+               o Sima Tarkan
+               o Basic Ürünler
+               o İnji
+               o Western
+               o Koton Friends
+               o Yaşama Saygı
+               o Tüvit Ürünler
+               o Deri Görünümlüler
+               o El Emeği
+               o Abiye & Davet
+               o Çizgili Ürünler
+               o Ofis Stili
+               o Online Özel
+               o Lisans Koleksiyonu
+               o Look Book
+               o Modal Ürünler
+               o Tenis Koleksiyonu
+               o Doğum Günü Hediyeleri
+               o Kadın Hediye Önerileri
+               o Yıldönümü Hediyesi
+               o Paketli Ürünler
+          + Abiye & Davet
+            Geri Abiye & Davet
+               o Abiye Elbise
+               o Payetli Elbise
+               o Uzun Abiye
+               o Kısa Abiye Elbise
+               o Beyaz Nikah Elbisesi
+               o Saten Abiye
+               o Abiye Etek
+               o Abiye Bluz
+               o Mezuniyet Elbiseleri
+               o Abiye Çanta & Aksesuar
+          + İç Giyim ve Pijama
+            Geri İç Giyim ve Pijama
+               o Tüm Ürünler
+               o Yeni Gelenler
+               o Takım Ürünler
+               o Sütyen
+               o Ekstra Dolgulu
+               o Dolgulu, Balenli
+               o Dolgusuz, Balensiz
+               o Dolgusuz, Balenli
+               o Desteksiz, Balenli
+               o Külot
+               o Hipster Külot
+               o Brief Külot
+               o Brazilian Külot
+               o String Külot
+               o Çoklu Paket
+               o Basic
+               o Bodysuit
+               o Pijama Takım
+               o Pijama Alt
+               o Pijama Üst
+               o Sabahlık
+               o Gecelik
+               o Ev Giyim
+          + Spor Giyim
+            Geri Spor Giyim
+               o Tüm Ürünler
+               o Yeni Gelenler
+               o Sporcu Sütyeni
+               o Şort
+               o Tişört
+               o Tayt
+               o Atlet
+               o Sweatshirt
+               o Eşofman Altı
+               o Yoga
+               o Tüm Gün Aktif
+               o Sport Core
+               o Basic
+               o Tenis
+               o Dış Giyim
+               o Outdoor
+               o Koşu
+          + Aksesuar
+            Geri Aksesuar
+               o Tüm Ürünler
+               o Çanta
+               o Parfüm
+               o Şapka
+               o Şal
+               o Atkı & Bere & Eldiven
+               o Atkı
+               o Bere
+               o Eldiven
+               o Kemer
+               o Takı
+               o Kolye
+               o Küpe
+               o Bileklik
+               o Yüzük
+               o Çorap
+               o Saç Aksesuarları
+          + Fırsatlar
+            Geri Fırsatlar
+               o Tek Fiyat 399.99
+               o Tek Fiyat 499.99
+     * Genç
+          + Yeni Gelenler
+          + Giyim
+            Geri Giyim
+               o Tüm Ürünler
+               o Sweatshirt
+               o Eşofman Altı
+               o Kazak/Süveter
+               o Hırka
+               o Dış Giyim
+               o Mont
+               o Suni Deri Ceket
+               o Şişme Yelek
+               o Gömlek
+               o Triko
+               o Bluz
+               o Etek
+               o Tişört Uzun Kol
+               o Pantolon
+               o Tişört
+               o Elbise
+               o Top/Bluz
+               o Tulum
+               o Tayt
+               o Şort
+               o Crop
+          + Paketli Ürünler
+          + Koton Jeans
+            Geri Koton Jeans
+               o Kot Pantolon
+               o Kot Ceket
+               o Kot Etek
+               o Kot Yelek
+          + Sezonun Trendleri
+          + Fırsatlar
+     * Erkek
+          + Erkek Anasayfa
+          + Yeni Gelenler
+          + Çok Satanlar
+          + Giyim
+            Geri Giyim
+               o Tüm Ürünler
+               o Dış Giyim
+               o Mont
+               o Sweatshirt
+               o Kazak & Süveter
+               o Tişört
+               o Eşofman Altı
+               o Jeans
+               o Black Jeans
+               o Gömlek
+               o Pantolon
+               o Oduncu Gömlek
+               o Şişme Mont&Yelek
+               o Suni Deri Ceket
+               o Mevsimlik Mont & Ceket
+               o Hırka & Fermuarlı Sweatshirt
+               o Eşofman TakımıYeni!
+               o Gömlek Ceket
+               o Blazer Ceket
+               o Basics
+               o Atkı & Bere & Eldiven
+               o İç Giyim & Ev Giyim
+               o Polo Tişört
+               o Kot Ceket
+               o Yelek
+               o Boxer
+               o Atlet & Kolsuz Tişört
+               o Kot Şort
+               o Şort & Bermuda
+          + İç Giyim & Ev Giyim
+            Geri İç Giyim & Ev Giyim
+               o Tüm Ürünler
+               o Boxer
+               o Çorap
+               o Atlet
+               o Eşofman Altı
+               o Örme Şort
+               o Oversize Tişört
+               o Basic Tişört
+               o Baskılı Tişört
+               o Oversize Sweatshirt
+               o Fermuarlı Sweatshirt
+               o Bisiklet Yaka Sweatshirt
+          + Spor Giyim
+            Geri Spor Giyim
+               o Tüm Ürünler
+               o Spor Sweatshirt
+               o Spor Eşofman Altı
+               o Spor Şort
+               o Spor Tişört
+               o Spor Atlet
+               o Spor Dış Giyim
+               o Outdoor
+          + Aksesuar
+            Geri Aksesuar
+               o Tüm Ürünler
+               o Atkı & Bere & Eldiven
+               o Atkı
+               o Bere
+               o Eldiven
+               o Şapka
+               o Takı
+               o Kemer
+               o Parfüm
+               o Çorap
+          + Koleksiyonlar
+            Geri Koleksiyonlar
+               o Yaşama Saygı
+               o Çok Satanlar
+               o Kayak KoleksiyonuYeni!
+               o Ofis Stili
+               o Natürel Tonlar
+               o Basic Koleksiyonu
+               o Lisans Koleksiyonu
+               o Oversize Modası
+               o Kolej Koleksiyonu
+               o Back in Black
+               o Kampüs Kombinleri
+               o Atatürk Koleksiyonu
+               o Erkek Hediye Önerileri
+               o Doğum Günü Hediyeleri
+               o Yıldönümü Hediyeleri
+               o Plaj Giyim
+               o Keten Koleksiyonu
+          + Fırsatlar
+            Geri Fırsatlar
+               o Tek Fiyat 399.99
+               o Tek Fiyat 499.99
+     * Çocuk
+          + Çocuk Anasayfa
+          + Yeni Gelenler
+          + Çok Satanlar
+          + Kız Çocuk (5-14 Yaş)
+            Geri Kız Çocuk (5-14 Yaş)
+               o Tüm Ürünler
+               o Elbise & Tulum
+               o Tişört
+               o Sweatshirt
+               o Dış Giyim
+               o Mont & Kaban
+               o Tayt
+               o Eşofman Altı
+               o Gömlek
+               o Pantolon
+               o Jeans
+               o Bluz
+               o Etek
+               o Şort
+               o Kazak & Süveter
+               o Hırka
+               o Şişme Mont&Yelek
+               o Peluş Mont&Kaban
+               o Yelek
+               o Şort Etek
+               o Aksesuar
+               o Atkı&Bere&Eldiven
+               o Şapka
+               o Çorap
+               o Spor Giyim
+               o Atlet
+               o Tulum & Salopet
+          + Erkek Çocuk (5-14 Yaş)
+            Geri Erkek Çocuk (5-14 Yaş)
+               o Tüm Ürünler
+               o Tişört
+               o Sweatshirt
+               o Eşofman Altı
+               o Dış Giyim
+               o Mont & Kaban
+               o Pantolon
+               o Gömlek
+               o Jeans
+               o Kazak & Süveter
+               o Hırka
+               o Şişme Mont&Yelek
+               o Aksesuar
+               o Atkı&Bere&Eldiven
+               o Şapka
+               o Çorap
+               o Spor Giyim
+               o Polo Tişört
+               o Şort
+               o Atlet
+          + Aksesuar
+            Geri Aksesuar
+               o Tüm Ürünler
+               o Şapka
+               o Atkı&Bere&Eldiven
+               o Çorap
+               o Çanta
+               o Saç Aksesuarları
+          + Koleksiyonlar
+            Geri Koleksiyonlar
+               o Yaşama Saygı
+               o Polar & Peluş
+               o Eşofman Takımları
+               o Basic Koleksiyonu
+               o Kış İhtiyaçlarını Tamamla
+               o Lisans Koleksiyonu
+               o Okul İhtiyaçları
+               o Anne Kız Koleksiyonu
+               o Atatürk Koleksiyonu
+               o Favori Renkler
+               o Hediye Önerileri
+               o Koton Friends
+               o Pijama Takımları
+          + Lisanslı Ürünler
+          + Yaşa Göre Satın Al
+            Geri Yaşa Göre Satın Al
+               o 4-5 Yaş | 110 cm
+               o 5-6 Yaş | 116 cm
+               o 6-7 Yaş | 122 cm
+               o 7-8 Yaş | 128 cm
+               o 9-10 Yaş | 140 cm
+               o 11-12 Yaş | 152 cm
+               o 13-14 Yaş | 164 cm
+          + Fırsatlar
+            Geri Fırsatlar
+               o Tek Fiyat 299,99
+               o Tek Fiyat 399,99
+               o Tek Fiyat 499,99
+     * Bebek
+          + Bebek Anasayfa
+          + Yeni Gelenler
+          + Çok Satanlar
+          + Kız Bebek (0-5 Yaş)
+            Geri Kız Bebek (0-5 Yaş)
+               o Tüm Ürünler
+               o Elbise & Tulum
+               o Tişört
+               o Sweatshirt
+               o Tayt
+               o Eşofman Altı
+               o Pantolon & Jeans
+               o Gömlek & Bluz
+               o Kazak & Hırka
+               o Dış Giyim
+               o Mont & Kaban
+               o Şort
+               o Etek
+               o Çoklu Paket
+               o Aksesuar
+               o Çorap
+               o Yenidoğan
+          + Erkek Bebek (0-5 Yaş)
+            Geri Erkek Bebek (0-5 Yaş)
+               o Tüm Ürünler
+               o Tişört
+               o Sweatshirt
+               o Eşofman Altı
+               o Dış Giyim
+               o Pantolon & Jeans
+               o Gömlek
+               o Kazak & Hırka
+               o Çoklu Paket
+               o Tulum
+               o Mont & Kaban
+               o Şort
+               o Atlet
+               o Aksesuar
+               o Çorap
+               o Yenidoğan
+          + Lisans koleksiyonu
+          + Koleksiyonlar
+            Geri Koleksiyonlar
+               o Yaşama Saygı
+               o Polar & Peluş
+               o Eşofman Takımları
+               o %100 Pamuk
+               o Kış İhtiyaçlarını Tamamla
+               o Çoklu Paket
+               o Basic Koleksiyonu
+               o Lisans Koleksiyonu
+               o Kreş İhtiyaçları
+               o Favori Renkler
+               o Hayvanlar Alemi
+               o Hediye Önerileri
+               o Yenidoğan
+          + Yaşa Göre Satın Al
+            Geri Yaşa Göre Satın Al
+               o 9-12 Ay | 80 cm
+               o 12-18 Ay | 86 cm
+               o 18-24 Ay | 92 cm
+               o 24-36 Ay | 98 cm
+               o 3-4 Yaş | 104 cm
+               o 4-5 Yaş | 110 cm
+          + Fırsatlar
+            Geri Fırsatlar
+               o Tek Fiyat 299,99
+               o Tek Fiyat 399,99
+               o Tek Fiyat 499,99
+     * Fırsatlar
+          + Fırsatlar Ana Sayfa
+          + Tek Fiyat 399.99
+          + Tek Fiyat 499.99
+     * Sürdürülebilirlik
+
+   GİRİŞ YAP | KAYIT OL
+   Türkçe TR
+   Dil Seçimi
+   Dil Seçenekleri
+   (BUTTON) Türkçe
+   (BUTTON) English
+   Kaydet
+   Koton Club Cart
+   Anasayfa / Bebek / Kız Bebek (0-5 Yaş) / Elbise & Tulum / Kız Bebek
+   Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise
+   Çok Satan
+   Kız Bebek Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise Kız Bebek Kalp
+   Desenli Bebe Yaka Uzun Kollu Tüllü Elbise Kız Bebek Kalp Desenli Bebe
+   Yaka Uzun Kollu Tüllü Elbise
+     __________________________________________________________________
+
+   Kız Bebek Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise Kız Bebek Kalp
+   Desenli Bebe Yaka Uzun Kollu Tüllü Elbise Kız Bebek Kalp Desenli Bebe
+   Yaka Uzun Kollu Tüllü Elbise
+
+Kız Bebek Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise
+
+   679.99
+   1.000 TL ve ÜZERİNE %30 + KTN15 KODU İLE EK %15 İNDİRİM
+   5WMG80012AK999
+   |
+   Sepete Ekle Stoğa gelince haber ver
+     __________________________________________________________________
+
+   Mağazada Ara
+   retail store icon Mağazada Ara
+   <p><p>Elbise, tüllü yapısı ve kalp desenleriyle sevimli bir görünüm
+   sunuyor. Bebe yaka ve uzun kollu elbise pamuklu astarıyla miniklerin
+   rahatını koruyor. Hem özel günlerde hem de günlük kullanıma uygun
+   olarak tasarlanan bu elbise, minikler için ideal bir seçenek.</p></p>
+   <strong>Ürün Özellikleri</strong> <p><p>Kol Tipi: Uzun Kollu<br>Yaka
+   Tipi: Bebe Yaka<br>Desen: Kalp Desenli<br>Astar: %100 Pamuk</p></p>
+   <p>Bebeğiniz bu kıyafet ile güvende! Ürünlerimiz kimyasallara karşı
+   test edilerek, tüm güvenlik kurallarına uygun olarak üretilir.
+   Ürünlerimizde sağlığa zararlı boyalar ve ağır metaller, tehlikeli
+   yutulabilecek küçük ve keskin parçalar, kordon ve bağcıklar
+   bulunmamaktadır.</p> <p><p>Koton kız bebek elbise modelleri, her an
+   sevimli ve konforlu bir stil sunuyor. Enerji dolu tasarımıyla
+   miniklerin dolabına şıklık katıyor.&nbsp;</p></p>
+   Dış : %8 POLİAMİD, %92 POLİESTER
+   Astar : %100 PAMUK
+
+   Papara, Hopi, Tosla, GarantiPay ve benzeri birçok alternatif ödeme
+   yöntemi  ile ödeyebilirsiniz.
+   papara hopi tosla garanti pay mastercard visa
+   { "type": "productViewed", "payload" : { "products": [{ "id":
+   "5WMG80012AK999184", "sku": "8684288509466", "name": "Kalp Desenli Bebe
+   Yaka Uzun Kollu Tüllü Elbise", "price": "679.99", "brand": "KOTON",
+   "variant": "184", "category": "", "dimension4": "Guest" , "dimension6":
+   "Product", "dimension9":
+   "https://ktnimg2.mncdn.com/products/2024/09/12/2988201/521c2540-2a9a-45
+   bf-847b-70442776f88c.jpg", "dimension10": "5WMG80012AK" }] } }
+   { "id": "8684288509466", "name": "Kalp Desenli Bebe Yaka Uzun Kollu
+   Tüllü Elbise",
+   "taxonomy":["KIDSWEAR","BABYGIRL","BABYGIRL","JERSEY","DRESSES"],
+   "currency": "TRY", "unit_price": 679.99 , "unit_sale_price": 679.99 ,
+   "url":
+   "https://www.koton.com/kalp-desenli-bebe-yaka-uzun-kollu-tullu-elbise-s
+   iyah-3931813/", "stock": 51, "color": "SİYAH", "size": "18/24 Ay",
+   "combine": "", "product_image_url":
+   "https://ktnimg2.mncdn.com/products/2024/09/12/2988201/521c2540-2a9a-45
+   bf-847b-70442776f88c.jpg" }
+   { "item_name": "Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise",
+   "item_id": "8684288509466", "price": 679.99 , "item_brand": "Koton",
+   "item_category":"KIDSWEAR", "item_category2":"BABYGIRL",
+   "item_category3":"BABYGIRL", "item_category4":"JERSEY",
+   "item_category5":"DRESSES", "item_season":"2024 AUTUMN/WINTER",
+   "item_variant": "SİYAH|18/24 Ay", "quantity":1, "base_code":
+   "5WMG80012AK" }
+
+   Koton Club
+
+   Koton Club
+   Mağazadan Gel-Al
+
+   Mağazadan Gel-Al
+   Mağazada Değişim &amp; İade
+
+   Mağazada Değişim & İade
+   Kapıda Ödeme
+
+   Kapıda Ödeme
+   Bi Tıkla Kapında
+
+   Bi Tıkla Kapında
+   Güvenli Alışveriş
+
+   Güvenli Alışveriş
+   Ücretsiz İade
+
+   Ücretsiz İade
+
+En güncel moda haberleri için kaydolun
+
+   Herkesten önce kaçırılmaması gereken haberleri alın.
+   ____________________
+
+   Kayıt olmakla, Koton ile olan etkileşimlerinizden elde ettiğimiz
+   verileri işleme almamız ve size kişiselleştirilmiş bir içerik
+   sunabilmemiz için Gizlilik Politikasını kabul etmiş sayılıyorsunuz.
+   Alışveriş Uygulamamızı İndirin
+   Mobil uygulamamızı keşfedin, size özel fırsatları yakalayın!
+     * Apple
+     * Google
+
+   ETBIS
+
+Kurumsal
+
+Kurumsal
+
+     * Hakkımızda
+     * Koton Blog
+     * Yaşama Saygı
+     * Projelerimiz
+     * Koton'da Kariyer
+     * Politikalarımız
+     * Bilgi Toplumu Hizmetleri
+     * Yatırımcı İlişkileri
+     * Kurumsal Hediye Kartı
+     * İletişim
+
+Yardım
+
+Yardım
+
+     * Sıkça Sorulan Sorular
+     * İptal & İade Prosedürü
+     * İade Talebi Oluşturma Rehberi
+     * Üyeliksiz Sipariş Takibi
+     * Kişisel Verilerin Korunması
+     * Whatsapp KVKK
+     * Site Haritası
+     * Mağazalarımız Mağazalarımız
+     * Kampanyalar
+
+Popüler Kategoriler
+
+     * Koton Romanya
+     * Koton Kazakistan
+     * Kadın Sevgililer Günü Hediyesi
+     * Kadın Mont
+     * Kadın Kaban
+     * Kadın Ceket
+     * Kadın Elbise
+     * Kadın Sweatshirt
+
+     * Kadın Gömlek
+     * Kadın Pantolon
+     * Kadın Etek
+     * Kadın Kazak & Süveter
+     * Kadın Uzun Kollu Tişört
+     * Kadın Jean Pantolon
+     * Kadın Çanta
+     * Kadın Takı
+
+     * Atkı & Bere & Eldiven
+     * Kadın İç Giyim
+     * Abiye Elbise
+     * Erkek Boxer
+     * Erkek Spor Giyim
+     * Erkek Sevgililer Günü Hediyesi
+     * Erkek Mont
+     * Erkek Mevsimlik Mont
+
+     * Erkek Kazak & Süveter
+     * Erkek Sweatshirt
+     * Erkek Eşofman Altı
+     * Erkek Jean Pantolon
+     * Erkek Gömlek
+     * Erkek Pantolon
+     * Erkek Tişört
+     * Erkek Hırka & Fermuarlı Sweatshirt
+
+     * Kız Çocuk Mont & Kaban
+     * Kız Çocuk Kazak & Süveter
+     * Kız Çocuk Sweatshirt
+     * Erkek Çocuk Mont & Kaban
+     * Erkek Çocuk Eşofman Altı
+     * Kız Bebek Mont & Kaban
+     * Erkek Bebek Eşofman Altı
+     * Erkek Bebek Sweatshirt
+
+     * Popüler Kategoriler
+     * Koton Romanya
+     * Koton Kazakistan
+     * Kadın Sevgililer Günü Hediyesi
+     * Kadın Mont
+     * Kadın Kaban
+     * Kadın Ceket
+     * Kadın Elbise
+
+     * Kadın Sweatshirt
+     * Kadın Gömlek
+     * Kadın Pantolon
+     * Kadın Etek
+     * Kadın Kazak & Süveter
+     * Kadın Uzun Kollu Tişört
+     * Kadın Jean Pantolon
+     * Kadın Çanta
+
+     * Kadın Takı
+     * Atkı & Bere & Eldiven
+     * Kadın İç Giyim
+     * Abiye Elbise
+     * Erkek Boxer
+     * Erkek Spor Giyim
+     * Erkek Sevgililer Günü Hediyesi
+     * Erkek Mont
+
+     * Erkek Mevsimlik Mont
+     * Erkek Kazak & Süveter
+     * Erkek Sweatshirt
+     * Erkek Eşofman Altı
+     * Erkek Jean Pantolon
+     * Erkek Gömlek
+     * Erkek Pantolon
+     * Erkek Tişört
+
+     * Erkek Hırka & Fermuarlı Sweatshirt
+     * Kız Çocuk Mont & Kaban
+     * Kız Çocuk Kazak & Süveter
+     * Kız Çocuk Sweatshirt
+     * Erkek Çocuk Mont & Kaban
+     * Erkek Çocuk Eşofman Altı
+     * Kız Bebek Mont & Kaban
+     * Erkek Bebek Eşofman Altı
+
+   BİZE ULAŞIN
+   0850 208 71 71
+   mim@koton.com
+   Whatsapp Destek Hattı
+   © Copyright 2001-2025 Koton.com
+   Türkçe TR
+   Dil Seçimi
+   Dil Seçenekleri
+   (BUTTON) Türkçe
+   (BUTTON) English
+   Kaydet
+     * Koton Secure
+     * Koton Mastercard
+     * Koton Visa
+     * Koton Etbis
+
+   Güvenli Ödeme Sistemi Sunuyoruz.
+   Mağazalarımız
+   Aradığınız KOTON mağazasına ülke ve şehir bilgilerini seçerek
+   ulaşabilirsiniz.
+
+   Arama
+
+   Ürün tekrar stoklarımıza geldiğinde, hesabındaki mail adresine talebin
+   üzerine bilgilendirme yapacağız.
+
+   Ara
+
+   Mağazalarımızın stok durumu bilgisi fikir verme amaçlıdır, sorgulama
+   aralığına göre farklılık gösterebilir.
+   Aradığınız ürünün bulunduğu mağazayı görmek için beden ve şehir
+   seçiniz.
+
+   Mağaza bulunamadı
+
+   Beden Tablosu
+
+   KadınErkekKız ÇocukErkek ÇocukKız/Erkek BebekBüyük Beden Üst Giyim
+   Elbise Mayo İç Giyim Alt Alt Giyim Denim İç Giyim Üst Kemer Üst Giyim
+   Alt Giyim Denim Kemer Üst Giyim Alt Giyim Üst Giyim Alt Giyim Giyim Üst
+   Giyim Alt Giyim
+   Kadın Üst Giyim Kadın Üst Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Üst Giyim)
+   Kadın Elbise Kadın Elbise Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Elbise)
+   Kadın Mayo Kadın Mayo Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Mayo)
+   Kadın İç Giyim Alt Kadın İç Giyim Alt Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın İç
+   Giyim Alt)
+   Kadın Alt Giyim Kadın Alt Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Alt Giyim)
+   Kadın Denim Kadın Denim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Denim)
+   Kadın İç Giyim Üst Kadın İç Giyim Üst Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın İç
+   Giyim Üst)
+   Kadın Kemer Kadın Kemer Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kadın
+   Kemer)
+   Erkek Üst Giyim Erkek Üst Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Üst Giyim)
+   Erkek Alt Giyim Erkek Alt Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Alt Giyim)
+   Erkek Denim Erkek Denim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Denim)
+   Erkek Kemer Erkek Kemer Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Kemer)
+   Kız Çocuk Üst Giyim Kız Çocuk Üst Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kız
+   Çocuk Üst Giyim)
+   Kız Çocuk Alt Giyim Kız Çocuk Alt Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Kız
+   Çocuk Alt Giyim)
+   Erkek Çocuk Üst Giyim Erkek Çocuk Üst Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Çocuk Üst Giyim)
+   Erkek Çocuk Alt Giyim Erkek Çocuk Alt Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Erkek
+   Çocuk Alt Giyim)
+   Kız/Erkek Bebek Giyim Kız/Erkek Bebek Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz?
+   (Kız/Erkek Bebek Giyim)
+   Büyük Beden Üst Giyim Büyük Beden Üst Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Büyük
+   Beden Üst Giyim)
+   Büyük Beden Alt Giyim Büyük Beden Alt Giyim Tablosu
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+   Bedeninizi nasıl ölçmelisiniz? Bedeninizi nasıl ölçmelisiniz? (Büyük
+   Beden Alt Giyim)
+   Tüm boyutlar cm cinsinden belirtilmiştir.
+
+   # Ask Seller #
+     * İnternet mağazamızdan yapılan alışverişleri, gönderi tarihinden
+       itibaren 30 gün içinde iade edebilirsiniz.
+     * İç giyim alt parçaları, mayo ve bikini altları iadesi mümkün
+       olmayan ürünlerdir. Bu ürünler sağlık ve hijyen açısından uygun
+       olmamasından dolayı iade ve değişim kapsamına girmemektedir.
+     * Makyaj malzemeleri, küpe, takı, tek kullanımlık ürünler, çabuk
+       bozulma tehlikesi olan veya son kullanma tarihi geçme ihtimali olan
+       ürünler ve parfüm gibi ürünler ambalajının açılmış olması halinde
+       iadesi mümkün olmayan ürünlerdir.
+     * İade işlemi için; siparişinizle birlikte size yollanan sevk
+       irsaliyesindeki iade formunu doldurarak, ürünlerinizi dilediğiniz
+       MNG Kargo şubesine ücretsiz olarak teslim edebilirsiniz.
+     * İnternet mağazamızdan aldığınız ürünlerin iade ve değişim işlemleri
+       tüm Türkiye mağazalarımızdan yapılmaktadır. Franchise mağazalardan
+       kredi/banka kartı ile satın alınan ürünlerin iade işlemleri satın
+       alınan mağazalarımızdan gerçekleştirilmektedir.
+     * Ürün iadesi şartları ve mevcut farklı iade seçenekleri hakkında
+       ayrıntılı bilgiye buradan ulaşabilirsiniz.
+
+   Daha fazla bilgi için sıkça sorulan sorular bölümünü
+   inceleyebilirsiniz.
+
+   TESLİMAT
+
+     * Siparişiniz, satın alma işleminiz gerçekleştikten sonra 1-5 gün
+       arasında kargoya verilir.
+     * Siparişinizi kargoya teslim edildiğinde, SMS veya e-posta ile
+       bilgilendirilirsiniz. Siparişiniz kargoya teslim edildikten sonra
+       kargonun teslim süresi 1-4 iş gündür.
+     * Mobil bölgelerde (Haftanın belirli günlerinde teslimat yapılan
+       mevkii ve teslimat bölgeleri) teslim süresinin biraz daha uzun
+       olabileceğini lütfen dikkate alınız.
+     * Resmî tatil ve bayram dönemlerinde kargo firmaları çalışmadığı için
+       teslimatınız ilk iş günü yapılmaktadır.
+     * Kampanya dönemlerinde siparişinizin teslim süresi farklılık
+       gösterebilir.
+
+     * Mücbir sebepler; olağan üstü haller, doğal felaketler, olumsuz hava
+       ve ulaşım şartları nedeniyle teslimat tarihleri değişebilir.
+
+   GÖNDERİ
+
+   • Türkiye’nin her yerine standart kargo ücreti 39.99 TL’dir.
+
+   • İnternet mağazamızdan yapılan 1.100 TL ve üzeri siparişler için kargo
+   ücretsizdir.
+
+   • Hızlı teslimat için kargo 64.99 TL’dir.
+
+   • Mağazadan Gel Al teslimat ücretsizdir.
+
+   HIZLI TESLİMAT
+
+     * Yoğun kampanya dönemlerinde aynı gün ve ertesi gün teslimat kargo
+       hizmeti verilememektedir.
+
+     * İstanbul içi verilen siparişler, hızlı teslimat kargo hizmetine
+       dahildir. Adalar, Şile, Silivri, Çatalca, Arnavutköy ilçelerine
+       hızlı teslimat yapılamamaktadır.
+
+     * Sipariş için tercih ettiğiniz adres bilgileriniz, hızlı teslimat
+       hizmet bölgelerine dahil değil ise ödeme ekranında bu bilgi
+       karşınıza çıkmamaktadır.
+
+     * Hafta içi 11:00’e kadar verilen siparişler, aynı gün; 11:00’den
+       sonra verilen siparişler ertesi gün teslim edilir.
+
+     * Cumartesi 11:00’e kadar verilen siparişler aynı gün; 11:00’den
+       sonra veya pazar günü verilen siparişler ise pazartesi teslim
+       edilir.
+
+     * Siparişlerin teslimatı belirtilen günlerde, saat 23:00’e kadar
+       gerçekleşecektir.
+
+     * Resmi tatil ve bayram dönemlerinde kargo firmaları çalışmadığı için
+       teslimatınız ilk iş günü yapılmaktadır.
+
+   Daha fazla bilgi için hızlı teslimat/aynı gün teslim sayfamızı buradan
+   inceleyebilirsiniz.
+
+   MAĞAZADAN GEL AL
+
+   • Mağazadan gel al teslimat seçeneğimiz tüm Türkiye mağazalarımızda
+   geçerlidir.
+
+   • Siparişiniz depomuzda hazırlanarak mağazamıza sevk edilir.
+   Siparişiniz mağazaya ulaştığında SMS veya e-posta ile
+   bilgilendirilirsiniz.
+
+   • Ürünlerinizi mail adresinize gönderilmiş olan faturanızla beraber
+   mağazamızın kasa noktasından teslim alabilirsiniz.
+
+   • Siparişiniz mağazaya teslim olduktan sonra, 7 gün içerisinde teslim
+   almanız gerekmektedir. Teslim alınmama durumunda iade işlemi
+   gerçekleştirilecektir.
+
+   Daha fazla bilgi için sıkça sorulan sorular bölümünü
+   inceleyebilirsiniz.
+
+   KAPIDA ÖDEME
+
+   Kapıda ödeme seçeneği Koton.com’dan yapacağınız tüm alışverişlerde
+   geçerlidir. Daha fazla bilgi için kapıda ödeme sayfamızı buradan
+   inceleyebilirsiniz.
+
+   Kumaş :%8 POLİAMİD, %92 POLİESTER
+   Kol Boyu :Uzun Kol
+   Kol Tipi :Balon Kol
+   Yaka Tipi :Bebe Yaka
+   Astar :%100 PAMUK
+   Silüet :A Form
+   Ürün Tipi / Stil :A Form
+
+   ANA KUMAŞ : %8 POLİAMİD, %92 POLİESTER
+   Çerçeve : %3 ELASTAN, %97 POLİESTER
+   Garni-1 : %100 PAMUK
+
+   Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise
+   Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise
+   679.99
+
+   SEPETE GİT Anasayfaya devam et
+
+   Genel Bakım Uyarıları: Ürünlerin Doğru Bakımı 
+
+   Çevreyi ve doğal kaynaklarımızı korumanın ilk adımlarından biri, ürün
+   ve giysi bakımında önerilen talimatları doğru bir şekilde uygulamaktır.
+   Ürünlere uygun bakım ve yıkama talimatlarını uygulayarak çevremizi ve
+   kaynaklarımızı korumanın yanı sıra giysilerin kullanım ömrünü uzatma
+   şansı da yakalayabiliriz. Satın aldığınız ürünün her yıkama sonrası ilk
+   günkü gibi canlı bir görünüme sahip olması için yapmanız gerekenlere
+   bakacak olursak; 
+
+   1.Ürün Etiketlerine Önem Verin: Giysi veya ürünlerinizin bakım
+   etiketlerini hem satın alma aşamasında hem de bakım ve yıkama işlemi
+   öncesinde dikkatlice incelemek doğru bakım sürecinin ilk adımı
+   olacaktır. Bu etiketler, ürünlerin kumaş yapısına uygun bakım ve yıkama
+   talimatları içerir. Ürünlere uygulayabileceğiniz işlemler, yıkama ve
+   bakım önerilerinin yanı sıra kumaş içeriklerini de görebileceğiniz bu
+   etiketler ürünlerin doğru bakımı konusunda bilgi sahibi olmanıza olanak
+   sağlayacaktır. 
+
+   2. Önerilen Bakım Talimatlarına Uyun: Dolabınıza ekleyeceğiniz her
+   giysi, ayakkabı ve aksesuar ürünü için farklı bir bakım yöntemi
+   oluşturmanız gerekir. Ürünün kumaş içeriğine, tasarımına ve yapısına
+   göre değişebilen bu yöntemleri doğru uygulamak oldukça önemlidir. Ürün
+   için önerilen talimatlara uygun şekilde bakım yapmak ürününüzün
+   kullanım süresi uzarken, rengini ve dokusunu uzun süre muhafaza
+   etmenizi de kolaylaştıracaktır. 
+
+   3. Yüksek Dereceli Yıkama İşlemlerinden Kaçının: Ürün bakımı ve yıkama
+   işlemlerinde çevre dostu ve tasarruf sağlayan yöntemleri tercih etmek
+   uzun vadede oldukça faydalıdır. Yüksek dereceli yıkama işlemlerinden
+   kaçınarak siz de ürününüzün kullanım süresini uzatırken kalitesini uzun
+   süre korumasına yardımcı olabilirsiniz. Özellikle iç çamaşırı ve beyaz
+   renkli ürünlerde sık sık tercih edilen yüksek dereceli yıkama işlemleri
+   ürünlerinizin dokusunda hasar oluşturmanın yanı sıra tasarım
+   detaylarına ve kalıplarına da zarar verebilir. Ürünün etiketinde yer
+   alan yıkama derecesine sadık kalmak ürününüz için doğru olan bakım
+   adımlarından birini daha tamamlamanızı sağlayacaktır. 
+
+   4. Fazla Deterjan Kullanımından Kaçının: Ürün yıkama işlemi sırasında
+   deterjan kullanımını minimum düzeyde tutmak çevresel ve bireysel sağlık
+   açısından oldukça önemlidir. Yıkama esnasında önerilen deterjan
+   miktarını aşmak ürünlerinizin daha hijyenik olmasına değil; aksine daha
+   fazla kimyasal maddeye maruz kalarak hasar görmesine sebep olabilir. Bu
+   nedenle yıkama işlemi başlamadan önce deterjan miktarını ölçek yardımı
+   ile belirleyerek fazla deterjan kullanımından kaçınmalısınız. Bir diğer
+   yandan, yıkama işlemi esnasında deterjan çeşitlerinin yanı sıra
+   yumuşatıcı ve leke çıkarıcı gibi kimyasal maddelerin kullanımını en aza
+   indirgemek de çevreyi ve ürünlerinizi korumak adına atacağınız etkili
+   bir adım olacaktır. 
+
+   5. Yıkama İşlemlerinde Renk Ayrımını Gözetin: Giysilerinizi yıkamadan
+   önce renk ve dokularına göre ayırmak ürünlerinizin yapısını korumanın
+   öncelikleri arasında yer alır. Yüksek sıcaklık ve basınçlı suya maruz
+   kalan ürünler kimi zaman beraber yıkandıkları diğer ürünlere renk
+   verebilir. Özellikle içerisinde indigo boya bulunan bazı kumaşlar
+   yıkama esnasından yüksek oranda renk bırakabilir. Bu nedenle yıkama
+   işlemi öncesinde ürünlerinizi benzer renkler bir arada yıkanacak
+   şekilde ayırmanız ürün bakım sürecinize yarar sağlayacak bir yöntem
+   olacaktır. Beyazlar, koyu renkler ve açık renkler gibi renk tonlarına
+   göre ayırarak yıkama işlemini gerçekleştirdiğiniz ürünler renklerini ve
+   dokularını uzun süre muhafaza edecektir. 
+
+   6. Yıkama İşlemlerinde Ağartıcı Kullanmayın: Ürün bakım sürecinde
+   kimyasal madde kullanımını en az seviyede tutmak önceliğiniz olmalı. Bu
+   kimyasallar arasında oldukça güçlü bir etkiye sahip olan ağartıcı
+   maddeleri ürün yıkama işleminin öncesinde ve yıkama işlemi esnasında
+   kullanmaktan kaçınmanızı öneririz. Çevreye olan zararının yanı sıra
+   cildinizi irrite edecek bir etkiye de sahip olan ağartıcı maddelere
+   alternatif olacak leke çıkarıcı ve doğal içerikli ürünleri tercih
+   edebilirsiniz. Bu şekilde hem ürünlerinizin renk, doku ve tasarımını
+   koruyabilir hem de ağartıcı maddelerin çevresel ve bireysel zararlarına
+   karşı önlem alabilirsiniz. 
+
+   7. Baskılı/Nakışlı Ürünleri Ütülemeden ve Yıkamadan Önce Ters Çevirin:
+   Ürün bakımı süresince dikkat etmenizi önerdiğimiz bir diğer aşama ise
+   baskılı, pullu ve nakışlı tasarımlara sahip ürünleri her işlem öncesi
+   ters çevirmeniz olacak. Özellikle nakışlı ve işlemeli tasarımlar,
+   genellikle el işçiliği kullanılarak hazırlanmaları sebebiyle ekstra
+   hassaslık gerektirir. Ters çevirme yöntemi ile ürünlerinizin rengini ve
+   desenini korurken işlemler esnasında oluşabilecek fiziksel hasarlara
+   karşı da önlem almış olursunuz. Ters çevirme adımı ile ürünleriniz
+   tasarımları ve dokuları değişmeden, ilk günkü gibi kullanabileceğiniz
+   şekilde dolabınızda yer almaya devam edecektir. 
+
+   ÜRÜN BAKIMINDA 3 ANA İŞLEM 
+
+   1.Yıkama İşlemi: Ürünlerin ve giysilerin etiketinde yer alan yıkama
+   talimatlarını doğru uygulamak, çevreyi ve doğal kaynakları koruma
+   yolculuğunda atacağınız önemli adımlardan biri. Üç ana adıma
+   ayıracağımız bakım sürecinde dikkate almanız gereken ilk önerimiz giysi
+   ve ürünlerinizi yalnızca ihtiyaç duyduğunuz zamanlarda yıkamak olacak.
+   Gereğinden fazla yapılan bakım, ütü ve yıkama işlemlerinin uzun vadede
+   ürünlerinizin dokusuna ve kalıbına zarar verme olasılığı oldukça
+   yüksektir. Sonrasında ise ürünlerinizin kumaş ve tasarım özelliklerine
+   uygun olacak yıkama şeklini belirlemeniz gerekecek. Ürünlerin
+   etiketlerinde yer alan yıkama talimatları bu adımda size büyük bir
+   yarar sağlayacaktır. Etiket bilgilerinde yer alan sıcaklık, yıkama
+   yöntemi ve program gibi detayları inceleyerek ürününüz için uygun
+   olacak yıkama işlemini belirleyebilirsiniz. 
+
+   Gelin en sık tercih edilen yıkama biçimlerine birlikte göz atalım, 
+
+     * Elde Yıkama: Hassas kumaş türleri kullanılarak tasarlanan ya da
+       nakışlı ve desenli tasarımlara sahip ürünler makinede yıkama
+       işlemiyle zarar görebilir. Ürününüzün hem dokusunu hem de
+       tasarımını koruma altına alacak yıkama işlemlerinden biri olan elde
+       yıkama yöntemi, doğru su sıcaklığı ve deterjan kullanımıyla
+       ürününüzün ihtiyaç duyduğu hassasiyeti sağlayacaktır. 
+
+    
+     * Makinede Yıkama: Yıkama yöntemleri arasında hem tasarruflu hem de
+       pratik bir yöntem olarak kabul edilen makinede yıkama işlemini
+       genel olarak iki şekilde sınıflandırabiliriz: 
+
+    
+     * Normal Programda Yıkama: Makinede yıkama programları arasında en
+       sık tercih edilenler arasında normal yıkama programlarının olduğunu
+       söyleyebiliriz. Günlük kıyafetleriniz için tercih edebileceğiniz
+       normal yıkama programları ürünlerinizi ideal şekilde temizlemenin
+       en tasarruflu yollarından biri. Normal yıkama programlarında dikkat
+       etmeniz gereken tek şey ürünün benzer renklerle yıkanması ve
+       etiketinde yer alan su sıcaklık derecesine uygun bir program tercih
+       etmek olacak. 
+
+    
+     * Hassas Programda Yıkama: Hassas, dokulu veya el işçiliğiyle
+       hazırlanan ürünleri makinede yıkamak için en uygun seçeneğin hassas
+       programlar olduğunu söyleyebiliriz. Hassas yıkama programlarını
+       aynı zamanda yüksek ısı, yoğun sıkma ve durulama işlemleriyle kumaş
+       dokusu zedelenebilecek ürünler için de tercih edebilirsiniz. Ürün
+       bakım talimatlarında görebileceğiniz bu programlar ürününüze zarar
+       vermeden yıkamak için en doğru seçenek olacaktır. 
+
+    
+
+   2.Kurutma İşlemi: Ürünlerinizin dokusunu ve rengini uzun süre koruyacak
+   bir diğer işlem ise elbette kurutma işlemi. Giysilerinizin önerilen
+   kurutma talimatlarına uygun şekilde kurutmak bakım ve yıkama işlemi
+   kadar önem arz ediyor. Genellikle etiket ve ürün bilgi alanlarında yer
+   alan bu talimatlar ürünlerinizi kumaş ve tasarım modellerine uygun
+   olacak şekilde hazırlanıyor. Doğrudan güneş ışığından kaçınmanın yanı
+   sıra kalorifer ve ısıtıcı gibi araçlarla giysilerinizi temas ettirmeden
+   kurutma işlemini gerçekleştirmelisiniz. Hassas kumaş yapılı ürünlerde
+   ise oda sıcaklığında askı yöntemi ile kurutma işlemini
+   tamamlayabilirsiniz.  
+
+   3.Ütüleme İşlemi: Ütüleme işlemi, ürününüze uygulayacağınız doğru bakım
+   sürecinin son adımı olarak kabul edilebilir. Yıkama, bakım ve kurutma
+   işleminin ardından ürünün yapısına uyacak ütü ısı derecesi ile ütü
+   işlemine başlayabilirsiniz. Ürünleri ters çevirerek ütülemek, bakım
+   talimatlarında yer alan ısı derecesini geçmemeniz, fermuarlı ürünlerde
+   bu bölgelere es geçerek ve ürünlerinizi hafif nemliyken ütülemeye
+   başlamak bu adımda size önereceğimiz birkaç küçük ipucu olacak. Yıkama
+   ve kurutma işleminde olduğu gibi ütü işleminde de yüksek ısılı
+   programlardan kaçınmak ürünün yapısında oluşabilecek zararlara karşı
+   koruyucu bir önlem olacaktır. 
+
+   Kuru Temizleme İşlemi: Kuru temizleme işlemi, makinede veya elde
+   yıkamaya uygun olmayan ürünler için tercih edebileceğiniz bakım
+   yöntemlerinden biridir. Bu yöntem, hassas kumaş yapısına sahip olan
+   veya tasarımında el işçiliği bulunan ürünler için uygun olacak özel bir
+   bakım işlemidir. Genellikle abiye elbise, takım elbise ve dış giyim
+   ürünleri gibi elde ve makinede temizlenmesi sakıncalı olacak ürünler
+   için tavsiye edilen kuru temizleme işlemi simgesi, ürününüzün
+   etiketinde yer alan bakım talimatları bölümünde yer almaktadır. 
+
+    
+
+
+   Ülke Seçiniz Şehir Seçiniz Beden Seçiniz 9/12 Ay 12/18 Ay 18/24 Ay
+   24/36 Ay 3/4 Yaş 4/5 Yaş

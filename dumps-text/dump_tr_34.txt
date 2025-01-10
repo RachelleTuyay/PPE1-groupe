@@ -1,0 +1,628 @@
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PNJXV58
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-55CKZ3
+
+     * Hastaneler
+       Hastanelerimiz
+          + İstinye Üniversite Hastanesi Liv Hospital Bahçeşehir
+          + İstinye Üniversite Hastanesi Medical Park Gaziosmanpaşa
+          + Medical Park Adana
+          + Medical Park Ankara (Batıkent)
+          + Medical Park Ankara (Keçiören)
+          + Medical Park Antalya
+          + Medical Park Ataşehir
+          + Medical Park Bahçelievler Hastanesi
+          + Medical Park Bursa
+          + Medical Park Çanakkale
+          + Medical Park Florya
+          + Medical Park Gebze
+          + Medical Park Gebze (Fatih Devlet Hastanesi Karşısı)
+          + Medical Park Göztepe
+          + Medical Park İncek
+          + Medical Park İzmir
+          + Medical Park Karadeniz
+          + Medical Park Kocaeli
+          + Medical Park Maltepe
+          + Medical Park Mersin
+          + Medical Park Ordu
+          + Medical Park Pendik
+          + Medical Park Samsun
+          + Medical Park Seyhan
+          + Medical Park Tokat
+          + Medical Park Yıldızlı
+     * Tıbbi Birimler
+       Tıbbi Bölümlerimiz
+          + Acil Servis
+          + Adolesan (Ergen) Sağlığı Polikliniği
+          + Ağız Diş ve Çene Cerrahisi
+          + Ağız ve Diş Sağlığı
+          + Ağız, Diş ve Çene Radyolojisi
+          + Aile Hekimliği
+          + Alerji ve İmmünoloji
+          + Algoloji
+          + Algoloji (Ağrı Ünitesi)
+          + Anestezi ve Reanimasyon
+          + Beslenme ve Diyet
+          + Beyin ve Sinir Cerrahisi (Nöroşirürji)
+          + Biyokimya
+          + Bütüncül Tıp Uygulamaları
+          + Cerrahi Onkoloji
+          + Check-Up
+          + Çocuk Cerrahisi
+          + Çocuk Endokrinolojisi
+          + Çocuk Enfeksiyon Hastalıkları
+          + Çocuk Gastroenteroloji, Hepatoloji ve Beslenme
+          + Çocuk Gelişim Uzmanlığı
+          + Çocuk Hematolojisi
+          + Çocuk Hematolojisi ve Onkolojisi
+          + Çocuk İmmünoloji ve Alerji
+          + Çocuk Kalp ve Damar Cerrahisi
+          + Çocuk Kardiyolojisi
+          + Çocuk Metabolizma Hastalıkları
+          + Çocuk Nefrolojisi
+          + Çocuk Nörolojisi
+          + Çocuk Onkolojisi
+          + Çocuk Ortopedisi
+          + Çocuk Psikolojisi
+          + Çocuk Romatolojisi
+          + Çocuk Sağlığı ve Hastalıkları
+          + Çocuk Ürolojisi
+          + Çocuk ve Ergen Psikiyatrisi
+          + Çocuk Yoğun Bakım
+          + Dermatoloji (Cildiye)
+          + Diyabetik Ayak Polikliniği
+          + El Cerrahisi
+          + El Cerrahisi (Ortopedi ve Travmatoloji)
+          + Endokrinoloji ve Metabolizma Hastalıkları
+          + Enfeksiyon Hastalıkları ve Mikrobiyoloji
+          + Ergoterapist
+          + Fizik Tedavi ve Rehabilitasyon
+          + Gastroenteroloji
+          + Gastroenteroloji Cerrahisi
+          + Geleneksel ve Tamamlayıcı Tıp
+          + Genel Cerrahi
+          + Genel Yoğun Bakım
+          + Genetik Hastalıklar Tanı Merkezi
+          + Geriatri
+          + Girişimsel Radyoloji
+          + Göğüs Cerrahisi
+          + Göğüs Hastalıkları
+          + Göz Sağlığı ve Hastalıkları
+          + Havacılık Tıp Merkezi
+          + Hematoloji
+          + İç Hastalıkları (Dahiliye)
+          + İmmünoloji ve Alerji Hastalıkları(GH)
+          + İnme Merkezi/Ünitesi
+          + Jinekolojik Onkoloji Cerrahisi
+          + Kadın Hastalıkları ve Doğum
+          + Kalp ve Damar Cerrahisi
+          + Kardiyoloji
+          + Konuşma ve Dil Terapisi
+          + Kulak Burun Boğaz
+          + Laboratuvar Hizmetleri
+          + Medikal Estetik
+          + Medikal Onkoloji (Tıbbi Onkoloji)
+          + Meme Cerrahisi
+          + Meme Sağlığı Ünitesi
+          + Mikrobiyoloji
+          + Nefroloji
+          + Neonatoloji
+          + Nöroloji
+          + Nükleer Tıp
+          + Omurga Sağlığı ve Skolyoz
+          + Organ Nakli
+          + Organ Nakli (Genel Cerrahi)
+          + Ortodonti
+          + Ortopedi ve Travmatoloji
+          + Patoloji
+          + Pedodonti (Çocuk Diş)
+          + Perinatoloji
+          + Plastik, Rekonstrüktif ve Estetik Cerrahi
+          + Protetik Diş Tedavisi
+          + Psikiyatri
+          + Psikoloji
+          + Radyasyon Onkolojisi
+          + Radyoloji
+          + Romatoloji
+          + Saç Ekimi Kliniği
+          + Spor Hekimliği
+          + Tıbbi Genetik
+          + Tüp Bebek (IVF) Tedavisi - Tüp Bebek Merkezi
+          + Üroloji
+          + Yenidoğan Yoğun Bakım
+     * Hekimler
+     * Sağlık Rehberi
+     * Hasta Rehberi
+     * Anlaşmalı Kurumlar
+     * İletişim
+     * Hızlı Randevu Al
+     * Radyoloji ve Laboratuvar Tetkik Sonuçlarını Görüntüle
+     * International Patients
+
+   Medical Park
+     * Hastaneler
+     * Tıbbi Birimler
+     * Hekimler
+     * Sağlık Rehberi
+     * Hasta Rehberi
+
+   Hızlı Randevu Giriş Yap veya üye ol
+   ____________________
+   Doktor Adı
+
+   Hastalık adı
+
+   Hastane Adı
+   Hastaneler
+     * {{hospital.HospitalName}}
+
+   Hekimler
+     * {{doctor.DoctorName}}
+
+   Bölümler
+     * {{branch.BranchName}} {{branch.HospitalCount}} Hastane
+
+   Sağlık Rehberi
+     * {{content.Title}}
+
+   Sayfa Bağlantıları
+     * {{menu.MenuName}}
+
+   Daha Fazla Sonuç
+
+Kalp yetmezliği nedir? Kalp yetmezliği belirtileri nelerdir?
+
+    1.
+    2. Sağlık Rehberi
+    3. Kardiyoloji
+
+   (BUTTON) ×
+     *
+
+   satır arası
+   [1DhfLA6E.jpg]
+     * İçindekiler
+     * Kalp yetmezliği nedir?
+     * Kalp yetmezliği belirtileri nelerdir?
+     * Kalp yetmezliği nedenleri nelerdir?
+     * Kalp yetmezliği çeşitleri nelerdir?
+     * Akut kalp yetmezliği
+     * Kronik kalp yetmezliği
+     * Kalp yetmezliği teşhisi nasıl konulur?
+     * Kalp yetmezliği tedavisi nasıl yapılır?
+     * Kalp Yetmezliğinde Cerrahi Tedaviler
+
+     * İçindekiler
+     * Kalp yetmezliği nedir?
+     * Kalp yetmezliği belirtileri nelerdir?
+     * Kalp yetmezliği nedenleri nelerdir?
+     * Kalp yetmezliği çeşitleri nelerdir?
+     * Akut kalp yetmezliği
+     * Kronik kalp yetmezliği
+     * Kalp yetmezliği teşhisi nasıl konulur?
+     * Kalp yetmezliği tedavisi nasıl yapılır?
+     * Kalp Yetmezliğinde Cerrahi Tedaviler
+
+   Çeşitli nedenlere bağlı olarak kalp fonksiyonlarının yetersiz kalması
+   nedeniyle vücuda yeterli düzeyde kanın pompalanamaması durumu kalp
+   yetmezliği olarak bilinir. Vücudun temel işlevlerinin yerine
+   getirilmesi de dahil olmak üzere pek çok olumsuzluğa neden olan bu
+   tablo, oldukça ciddi bir sağlık sorunu olmakla birlikte tedavi
+   edilmediği takdirde yaşamı tehdit edecek boyutlara ulaşabilmektedir.
+   Akut veya kronik olabilen kalp yetmezliği kalbin bir kısmını veya
+   tamamını etkileyebilir. Tedavide hastalığın ilerlemişlik düzeyine göre
+   ilaç uygulamaları ve çeşitli cerrahi girişimler yardımıyla vücuttaki
+   kan dolaşımının sağlıklı şekilde devam ettirilmesi sağlanmalıdır.
+     * İçindekiler
+     * Kalp yetmezliği nedir?
+     * Kalp yetmezliği belirtileri nelerdir?
+     * Kalp yetmezliği nedenleri nelerdir?
+     * Kalp yetmezliği çeşitleri nelerdir?
+     * Akut kalp yetmezliği
+     * Kronik kalp yetmezliği
+     * Kalp yetmezliği teşhisi nasıl konulur?
+     * Kalp yetmezliği tedavisi nasıl yapılır?
+     * Kalp Yetmezliğinde Cerrahi Tedaviler
+
+Kalp yetmezliği nedir?
+
+   Sağlıklı bir kalp, vücudun tüm kısımlarına yeterli miktarda kan ve
+   oksijenin ulaştırılabilmesi için olması gerektiği şekilde çalışarak tüm
+   vücuda gerekli kanı pompalar. Kalp yetmezliği hastalığında ise vücuda
+   yeterli kanın pompalanamaması durumu söz konusudur. Kalp, bu durumu
+   tolere edebilmek için büyümeye ve genişlemeye başlayabilir. Bu durum
+   kalp büyümesi olarak da adlandırılır. Bunun haricinde kalp yetmezliği
+   durumunda kalp, olması gereken ritme oranla daha hızlı kasılarak
+   yeterli kanı pompalamaya da çalışabilir. Bunların sonucunda kan
+   damarlarında daralmalar oluşur ve bu da önemli doku ve organlara
+   yeterli miktarda kanın ulaşmasını engeller. Sonuç olarak kalbin
+   çalışmasındaki bozukluktan kaynaklı olarak doku ve organlarda hasarlar
+   oluşabilir. Kalp yetmezliğine neden olabilen pek çok faktör
+   bulunmaktadır. Hastalığın ortaya çıkışında bunlardan biri veya birkaçı
+   bir arada rol oynayabilir. Kalp yetmezliğine yol açan mekanizmaların
+   birden fazlasının bir arada bulunması hastalığın ciddiyetini arttırır.
+   Hastalığın teşhisinden itibaren boyutu da göz önünde bulundurularak
+   tedavi planı belirlenmeli, oluşabilecek ciddi komplikasyonların
+   önlenmesi ve yaşam kalitesinin arttırılmasına yönelik önlemler
+   alınmalıdır.
+
+Kalp yetmezliği belirtileri nelerdir?
+
+   Kalp yetmezliği belirtileri, hastalığın şiddeti arttıkça şiddetlenen ve
+   çoğu hastada benzer şekilde görülen semptomları içerir. En yaygın
+   görülen belirtiler şu şekilde sıralanabilir:
+     * Çabuk yorulma
+     * İştah kaybı
+     * Nefes darlığı
+     * Mide bulantısı
+     * Ani kilo artışı
+     * Göğüs ağrısı
+     * Öksürük
+     * Pembe veya beyaz renkli balgam çıkarma
+     * Nabızda düzensizlik (aritmi)
+     * Kalp çarpıntısı
+     * Ayak bilekleri, bacaklar ve karında şişme (ödem)
+     * Sürekli uyku hali ve konsantrasyon güçlüğü
+     * Geceleri sık idrara çıkma
+     * Boyundaki kan damarlarının belirginleşmesi
+
+Kalp yetmezliği nedenleri nelerdir?
+
+   Kalp yetmezliği genel anlamda kalbin çeşitli nedenlere bağlı olarak
+   zarar gördüğü veya zayıfladığı durumlarda ortaya çıkan bir hastalıktır.
+   Kalbin kan pompalama odacıkları olan ventriküllerin sertleşmesi, kalbin
+   iki atışı arasında tam olarak kan ile doldurulamamasına neden olarak
+   kalp yetmezliğine yol açabilir. Bunun yanı sıra kalp kasının
+   zayıflaması veya hasar görmesi de ventriküllerin genişlemesine,
+   dolayısıyla kanın vücudun tüm bölgelerine yeterli miktarda ulaşmasına
+   yetecek düzeyde kan pompalayamamasına neden olur. Kalp yetmezliğinin
+   gelişiminde genetik faktörler önemli bir role sahiptir. Ailesinde kalp
+   yetmezliği öyküsü bulunan bireylerin bu hastalığa yakalanma
+   olasılıkları diğer bireylere oranla oldukça yüksektir. Bunun haricinde
+   kalp yetmezliği nedenleri arasında sayılabilecek faktörler şunlardır:
+     * Koroner arter hastalığı
+     * Kalp krizi
+     * Kalp kapakçıklarına ilişkin hastalıklar
+     * Kalp kası hasarı (kardiyomiyopati)
+     * Doğumsal kalp hastalıkları
+     * Kalpte ritm bozukluğu (aritmi)
+     * Hipertansiyon
+     * Kalp kası iltihabı (miyokardit)
+     * Diyabet hastalığı, tiroid hastalıkları ve HIV gibi viral
+       enfeksiyonların varlığı
+     * Alkol ve uyuşturucu kullanımı
+     * Sürekli kullanılan bazı ilaçlar
+     * Obezite
+
+Kalp yetmezliği çeşitleri nelerdir?
+
+   Kalp yetmezliği kalbin her iki tarafını da etkileyebileceği gibi bazı
+   durumlarda ise kalbin yalnızca bir tarafında oluşur. Çoğu olguda
+   öncelikli olarak kalbin sol tarafı etkilenir. Sol ventrikülün sistolik
+   veya diyastolik yetmezliğinin ardından sağ taraf da bundan etkilenerek
+   çift taraflı kalp yetmezliği gelişebilir. Konjestif kalp yetmezliği
+   olarak adlandırılan kalp yetmezliği türünde ise kanın kalbe girişi ve
+   çıkışının yavaşlaması nedeniyle vücudun bazı bölgelerinde kanın
+   birikmesi söz konusudur. Bu durum bacaklarda, ayak bileklerinde ve bazı
+   durumlarda da akciğerlerde şişliklere neden olarak çeşitli
+   komplikasyonlara ve nefes darlığına yol açar. Belirtilen türlere ek
+   olarak kalp yetmezliği akut veya kronik olmak üzere 2 farklı alt türe
+   sahiptir:
+
+Akut kalp yetmezliği
+
+   Semptomların ani şekilde belirmesi ve ardından hızla ortadan kaybolması
+   şeklinde gelişen kalp yetmezliği, akut kalp yetmezliği olarak
+   adlandırılır. Bu durum genellikle kalp krizi geçiren hastalarda krizin
+   hemen ardından görülür ve çoğu zaman kalp kapakçıklarına ilişkin
+   birtakım problemlere bağlı olarak ortaya çıkar.
+
+Kronik kalp yetmezliği
+
+   Kalp yetmezliği vakalarının birçoğu, kronik kalp yetmezliği grubuna
+   girmektedir. Bu tür kalp yetmezliğinde görülen semptomlar süreklidir ve
+   zamanla iyileşme göstermez.
+
+Kalp yetmezliği teşhisi nasıl konulur?
+
+   Yukarıdaki semptomlarla birlikte sağlık kuruluşlarına başvuran
+   hastalarda tıbbi öykünün alınması ve fiziksel muayenenin ardından kalp
+   fonksiyonlarının araştırılmasına yönelik olarak birtakım tanı testleri
+   uygulanır. Kalp yetmezliğinin teşhisinde kullanılan en etkili yöntem
+   ekokardiyogramdır. Ekokardiyogram ile ses dalgaları kullanılarak kalbin
+   detaylı şekilde görüntüsü çıkarılabilir. Bu sayede kalpteki olası
+   hasarlar ve yapısal bozukluklar tespit edilebilir. Hastada görülen
+   semptomları meydana getiren nedene ilişkin teşhis konulabilir. Fiziksel
+   muayene sırasında vücutta ödem oluşan bölgelerin incelenmesi, kalp
+   ritminin ve atış hızının dinlenmesi, boyun damarlarındaki
+   şişkinliklerin incelenmesi gibi yöntemler de tanının desteklenmesine
+   yardımcı olur. Kalp yetmezliğine ilişkin semptomlar birtakım farklı
+   kalp ve akciğer hastalıkları ile karıştırılabileceğinden, bu tür
+   hastalıkların ayırt edilmesine yönelik detaylı tanı testleri de
+   uygulandıktan sonra kalp yetmezliği teşhisi konulan bireylerin tedavi
+   süreci derhal başlatılmalıdır.
+
+Kalp yetmezliği tedavisi nasıl yapılır?
+
+   Kalp yetmezliği teşhisi alan hastalarda tedavi süreci için öncelikli
+   amaç mevcut sağlık durumunun korunması ve hastalığın evresinin
+   ilerleyişinin önlenmesi, aynı zamanda hastanın günlük yaşamını olumsuz
+   etkileyen komplikasyonların azaltılmasıdır. Bu amaçla uygulanacak olan
+   bazı cerrahi operasyonlar ve ilaç tedavileri, tedavide yaygın olarak
+   kullanılan yöntemler arasında yer alır. Kalp yetmezliğine neden olan
+   veya hastalığın şiddetini arttıran yüksek tansiyon, aritmi, koroner
+   arter hastalığı, diyabet hastalığı gibi durumlara ilişkin gereken ilaç
+   tedavileri, yaşam tarzı değişiklikleri ve tıbbi beslenme tedavisi
+   uygulanmalıdır. Kalp yetmezliği olgularının birçoğunda hekim tarafından
+   uygun doz ve kullanım sıklığı ile kalp yetmezliği ilaçlarının kullanımı
+   önerilir. Bu ilaçlar kalp fonksiyonlarının iyileştirilmesine yardımcı
+   olur, nefes darlığı ve ödem gibi sorunların hafifletilmesini sağlar.
+   Bazı durumlarda hastanın durumu ve hastalığın evresi de göz önünde
+   bulundurularak birkaç ilacın kombinasyonu şeklinde oluşturulacak bir
+   farmakolojik tedavi planı da tercih edilebilmektedir.
+
+Kalp Yetmezliğinde Cerrahi Tedaviler
+
+   Kalp yetmezliğinde ilaç tedavisinin yanı sıra kullanılan bir diğer
+   tedavi seçeneği ise cerrahi girişimlerdir. Koroner bypass ameliyatı,
+   kalp kapakçığı değişimi ve onarımına ilişkin operasyonlar, kalp pili
+   yerleştirme operasyonu, kalp nakli ve damarlarında tıkanıklık ve
+   darlıklar söz konusu olan hastalarda uygulanan stent ve balon
+   operasyonları kalp yetmezliği tedavisinde kullanılan başlıca cerrahi
+   operasyon türleridir. Bu operasyonların temel amacı kalpte bulunan
+   yapısal bozukluk, sertlik gibi sorunların mümkün olduğunca tedavi
+   edilmesi ve hastalığın kötüleşmesine neden olabilecek faktörlerin
+   ortadan kaldırılmasıdır.
+
+   Kalp yetmezliği yaşamı tehdit eden ciddi bir hastalıktır. Fakat erken
+   teşhis konulan, hekim önerilerine uyum sağlayan ve tedavi uygulanan
+   hastalarda hastalığın oluşturduğu riskleri minimuma indirmek ve günlük
+   yaşamı kolaylaştırmak oldukça mümkündür. Bunun için hastalığın
+   teşhisini alan bireylerin hekimlerinin verdiği öneriler doğrultusunda
+   daha özenli ve dikkatli bir yaşam sürmesi gereklidir. Eğer siz de kalp
+   yetmezliği hastası iseniz veya yukarıda verilen belirtilerden
+   bazılarını taşıyorsanız derhal bir sağlık kuruluşuna başvurarak kalp
+   muayenesinden geçebilirsiniz. Hastalığın teşhisini almanız durumunda
+   erken dönemde gereken önlemleri alarak sağlıklı bir yaşam sürebilir,
+   ileride karşılaşabileceğiniz olumsuzluklara karşı önleminizi
+   alabilirsiniz.
+
+   [hr-white.png]
+
+En Çok Okunan Sağlık Rehberi Yazılarımız
+
+     * Mide Bulantısı
+     * Öksürüğe Ne İyi Gelir?
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * El Ayak Hastalığı Nedir?
+     * Zona Hastalığı Nedir?
+     * Burun Estetiği Nasıl Yapılır?
+     * Korona Virüsü Belirtileri
+     * Çölyak Hastalığı
+     * D Vitamini Eksikliği
+     * Domuz Gribi Belirtileri
+     * Behçet Hastalığı
+     * Bel Fıtığı Belirtileri
+     * Zencefilin Faydaları
+     * Menopoz Belirtileri
+     * Çörek Otu Yağı Faydaları
+     * HPV Aşısı
+     * Meme Kanseri Belirtileri
+     * Kekik Çayı Faydaları
+     * Prostat Belirtileri
+     * Pankreas Kanseri
+     * Asperger Sendromu
+     * Eris Varyantı Belirtileri
+     * Gül Hastalığı Nedir?
+     * Cilt Kanseri Belirtileri
+     * Böbrek Yetmezliği
+     * Böbrek Taşı Belirtileri
+     * Yeşil Çayın Faydaları
+     * Saç Ekimi
+     * Zehirlenme Belirtileri
+     * Hindistan Cevizi Yağı
+     * Lenf Kanseri Belirtileri
+     * Papatya Çayı Faydaları
+     * Kuduz Belirtileri
+     * Astım Belirtileri
+
+     * Kanser Belirtileri
+     * Hamilelik Belirtileri
+     * Hipertansiyon Belirtileri
+     * Uyuz Belirtileri
+     * Beyin Tümörü
+     * Akciğer Kanseri Belirtileri
+     * Sinüzit Belirtileri
+     * Apandisit Belirtileri
+     * AIDS Belirtileri
+     * Kolesterol Belirtileri
+     * Depresyon Belirtileri
+     * Tiroid Belirtileri
+     * Anksiyete Belirtileri
+     * Karaciğer Yetmezliği
+     * Karaciğer Yağlanması
+     * Mide Kanseri Belirtileri
+     * Bağırsak Enfeksiyonu
+     * Safra Kesesi Taşı Belirtileri
+     * Kolon Kanseri Belirtileri
+     * Beyin Kanaması Belirtileri
+     * Mide Kanaması Belirtileri
+     * Otizm Belirtileri
+     * Gebelik Zehirlenmesi
+     * Kansızlık (Anemi) Belirtileri
+     * Şeker Hastalığı Belirtileri
+     * Soğuk Algınlığı Belirtileri
+     * Panik Atak Belirtileri
+     * Demir Eksikliği Belirtileri
+     * Bahar Alerjisi Belirtileri
+     * B12 Vitamini Eksikliği
+     * Magnezyum Eksikliği
+     * Kan Kanseri Belirtileri
+     * OKB Belirtileri
+     * Yüz Felci Belirtileri
+
+   Sosyal Medya Hesaplarımız:
+   Facebook | Instagram | YouTube | LinkedIn
+   Prof. Dr.
+   Ahmet Ekmekci
+   https://www.medicalpark.com.tr/_uploads/_images/_doctorProfile/A3cWpPUp
+   .jpg
+   Kardiyoloji
+   Medical Park Pendik
+   https://www.medicalpark.com.tr/_assets/_i/mp_logo_red.jpg
+   Profili Gör
+   Kardiyoloji
+   30.9.2022
+   30.9.2022
+   766857
+
+   Bu içeriğin geliştirilmesinde Medical Park Yayın Kurulu katkı
+   sağlamıştır.
+   Sayfa içeriği sadece bilgilendirme amaçlıdır. Sayfa içeriğinde tedavi
+   edici sağlık hizmetine yönelik bilgiler içeren ögelere yer
+   verilmemiştir. Tanı ve tedavi için mutlaka hekiminize başvurunuz.
+   Hızlı Randevu Al
+   (BUTTON) ×
+     *
+
+   Hızlı Randevu Al
+   Hasta Rehberi
+     * İnternet Çerez Politikası
+     * Ziyaretçi Politikası
+     * Refakatçi Politikası
+     * Güvenlik Bilgisi ve Politikası
+     * Şikayet Politikası
+     * İleri Teknolojiler
+     * Hasta Hakları Birimi
+     * Memnuniyet Sağlama Süreci
+     * Hasta Odaları
+     * Ameliyathaneler
+     * Hamilelik Belirtileri
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * Mide Bulantısına Ne İyi Gelir?
+     * Ertesi Gün Hapı Nedir?
+     * Demir Eksikliği Belirtileri
+     * Kegel Egsersizi
+     * D Vitamini Eksikliği
+     * Öksürüğe Ne İyi Gelir?
+
+   Kurumsal
+     * Haberler
+     * Hakkımızda
+     * Başkanın Mesajı
+     * Vizyon
+     * Kalite Yönetim Sistemi
+     * Kalite Politikası
+     * Yatırımcı İlişkileri
+     * Sponsorluklar
+     * Kariyer
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni
+     * Misafir Memnuniyet ve Şikayet Yönetim Politikası
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni Üniversite
+       Hastaneleri
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni -
+       Tedarikçilerimiz İçin
+     * İhaleler
+     * İletişim
+
+   Online İşlemler
+     * Hızlı Randevu Al
+     * Radyoloji ve Laboratuvar Tetkik Sonuçlarını Görüntüle
+     * Sizi Dinliyoruz
+     * Online Doktor Görüşmesi
+     * Evde Sağlık
+     * Saç Ekimi
+     * Burun Estetiği
+     * Doğum Paketi
+     * Obezite Cerrahisi
+     * Tüp Bebek
+     * Check Up
+     * Plastik Cerrahi
+     * Mide Balonu
+     * Zona Hastalığı
+     * Huzursuz Bacak Sendromu
+     * Panik Atak Belirtileri
+     * Apandisit Belirtileri
+
+     * 444 44 84
+     * International Patient Information
+     * qr code
+       Medical Park mobil uygulamasını hemen
+       indirin, avantajlardan yararlanın.
+       Google Play'den alın
+       Download on the App Store
+
+   Hasta Rehberi
+     * İnternet Çerez Politikası
+     * Ziyaretçi Politikası
+     * Refakatçi Politikası
+     * Güvenlik Bilgisi ve Politikası
+     * Şikayet Politikası
+     * İleri Teknolojiler
+     * Hasta Hakları Birimi
+     * Memnuniyet Sağlama Süreci
+     * Hasta Odaları
+     * Ameliyathaneler
+     * Hamilelik Belirtileri
+     * Boğaz Ağrısına Ne İyi Gelir?
+     * Mide Bulantısına Ne İyi Gelir?
+     * Ertesi Gün Hapı Nedir?
+     * Demir Eksikliği Belirtileri
+     * Kegel Egsersizi
+     * D Vitamini Eksikliği
+     * Öksürüğe Ne İyi Gelir?
+
+   Kurumsal
+     * Haberler
+     * Hakkımızda
+     * Başkanın Mesajı
+     * Vizyon
+     * Kalite Yönetim Sistemi
+     * Yatırımcı İlişkileri
+     * Sponsorluklar
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni
+     * Misafir Memnuniyet ve Şikayet Yönetim Politikası
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni Üniversite
+       Hastaneleri
+     * Kişisel Verilerin Korunması Hakkında Aydınlatma Metni -
+       Tedarikçilerimiz İçin
+     * İhaleler
+     * İletişim
+
+   Online İşlemler
+     * Hızlı Randevu Al
+     * Laboratuvar Sonuçlarını Görüntüle
+     * Sizi Dinliyoruz
+     * Online Doktor Görüşmesi
+     * Evde Sağlık
+     * Saç Ekimi
+     * Burun Estetiği
+     * Doğum Paketi
+     * Obezite Cerrahisi
+     * Tüp Bebek
+     * Check Up
+     * Plastik Cerrahi
+     * Mide Balonu
+     * Zona Hastalığı
+     * Huzursuz Bacak Sendromu
+     * Panik Atak Belirtileri
+     * Apandisit Belirtileri
+
+     * 444 44 84
+     * International Patient Information
+     * qr code
+       Medical Park mobil uygulamasını hemen
+       indirin, avantajlardan yararlanın.
+       Google Play'den alın
+       Download on the App Store
+
+   JCI Uluslararası Akreditasyon
+   JCI Uluslararası Akreditasyon
+   Daha Fazla Bilgi
+   Mlpcare MedicalPark Liv Hospital İstinye Üniversitesi
+
+   Gizliliğiniz bizim için önemlidir. 6698 sayılı Kişisel Verilerin
+   Korunması Kanunu Hakkında Bilgilendirmeye buradan ulaşabilirsiniz.
+   Copyright © 1993- 2025 Medical Park Hastaneler Grubu Kullanım Koşulları
+   ve Gizlilik Politikası
+   Son Güncellenme Tarihi:10-01-2025 22:21:41
