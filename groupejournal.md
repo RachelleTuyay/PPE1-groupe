@@ -24,7 +24,11 @@ Dilay DUZLER :
 
 Le 10/01/2025: 
 Collecte des URLs en turc: J'ai commencé par collecter des URLs en turc.
+
 Écriture d'un script pour contrôler les URLs (scripttr-control.sh) turques et vérification des URLs: J'ai écrit un script pour contrôler les URLs, en vérifiant leur accessibilité via leur code
+
 Il y avait beaucoup d'URLs avec un code différent de 200. Par conséquent, j'ai modifié le script pour supprimer automatiquement ces URLs du fichier.
+
 Création du script scripttr.sh, J'ai toujours manqué un URL
+
 Ajout d'une commande echo a la fin pour identifier l'URL manquante
