@@ -1,0 +1,16 @@
+    [logo.svg]
+   Le JavaScript n'est pas activé sur votre navigateur.
+   Le JavaScript n'est pas activé sur votre navigateur. Pour vous
+   permettre de naviguer correctement sur notre site, il est nécessaire
+   qu'il soit activé.
+   Comment activer le JavaScript ?
+   Chrome
+   https://support.google.com/chrome
+   Mozilla Firefox
+   https://support.mozilla.org/fr/home
+   Safari
+   https://www.apple.com/support/safari/
+   Opera
+   https://support.google.com/adsense/answer/12654?hl=fr
+   Internet Explorer
+   https://support.microsoft.com/product/internet-explorer

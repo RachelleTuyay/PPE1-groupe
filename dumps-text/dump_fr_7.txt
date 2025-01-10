@@ -1,0 +1,319 @@
+   #Wiki The-West FR (fr) Flux Atom de Wiki The-West FR
+
+   [ ]
+
+Menu de navigation
+
+   Aller au contenu
+   Wiki The-West FR
+
+Rechercher
+
+   ____________________ Lire Rechercher
+
+Outils personnels
+
+Non connecté(e)
+
+     * Non connecté(e)
+     * Se connecter
+
+notifications
+
+   Notifications
+     * Vous n’avez aucun nouveau message.
+
+   Wiki The-West FR
+     * Modifications récentes
+     * Pages spéciales
+     * Page au hasard
+     * Plus
+          + Version imprimable
+          + Téléverser un fichier
+
+Généralités
+
+     * Accueil
+     * Règles du jeu
+     * FAQ
+     * Actualités
+
+Débuter le jeu
+
+     * Mondes
+     * Débuter le jeu
+     * Interface Jeu
+     * Avatar
+     * Helpful wiki pages
+
+Aspects du jeu
+
+     * Classes de personnage
+     * Quêtes
+     * Travaux
+     * Items et Sets
+     * Villes
+     * Duels
+     * Forts
+     * Batailles de fort
+     * Aventures
+     * Artisanat
+     * Succès
+
+Liens utiles
+
+     * Jeu The West
+     * Forum The West
+     * Support The West
+     * Équipe
+     * Communauté
+     * Innogames
+
+Wiki
+
+     * Modifications récentes
+     * Pages spéciales
+
+Espaces de noms
+
+     * Page
+     * Discussion
+
+Variantes
+
+Actions de page
+
+     * Voir le texte source
+     * Plus
+          + Voir l’historique
+
+   Basculer la barre latérale
+
+   2.197
+
+Accès rapide
+
+   Quête barre latérale.png
+   Objets
+   Succès barre latérale.png
+   Travaux
+   Duels barre latérale.png
+   Artisanat barre latérale.png
+   Villes barre latérale.png
+   Forts barre latérale.png
+   Aventures barre latérale.png
+   Shop barre latérale.png
+   Alt Jeu
+   Alt Forum
+
+Plus de jeux
+
+   Forge of Empires
+   Elvenar
+   Grepolis
+   Tribal Wars 2
+   Guerre tribale
+   Warlords of Aternum
+
+Suivez-nous
+
+                         Facebook Youtube Innogames
+
+Set du cœur noir de la mort
+
+   De Wiki The-West FR
+   Aller à la navigation
+   Retour aux items.png
+
+   Set du cœur noir de la mort
+
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   Bonus set de vêtements du cœur noir de la mort
+   2 objets
+   Mobilité.png +0.02
+   Mobilité
+   Habileté.png +0.02
+   Habileté
+   Charisme.png +0.02
+   Charisme
+   Se cacher.png +0.1
+   Se cacher
+   Viser.png +0.2
+   Viser
+   Piéger.png +0.1
+   Piéger
+   Bdfboatsec.png +1
+   link Attaque (Bonus de secteur de bataille de fort)
+   3 objets
+   Mobilité.png +0.04
+   Mobilité
+   Habileté.png +0.04
+   Habileté
+   Charisme.png +0.04
+   Charisme
+   Se cacher.png +0.3
+   Se cacher
+   Viser.png +0.4
+   Viser
+   Piéger.png +0.3
+   Piéger
+   Diriger.png +0.2
+   Diriger
+   Bdfboatsec.png +3
+   link Attaque (Bonus de secteur de bataille de fort)
+   4 objets
+   Mobilité.png +0.06
+   Mobilité
+   Habileté.png +0.06
+   Habileté
+   Charisme.png +0.06
+   Charisme
+   Se cacher.png +0.4
+   Se cacher
+   Viser.png +0.6
+   Viser
+   Piéger.png +0.4
+   Piéger
+   Diriger.png +0.3
+   Diriger
+   Bdfboatsec.png +4
+   link Attaque (Bonus de secteur de bataille de fort)
+   Dom.png +0.15
+   Dégâts (Bonus de bataille de fort)
+   5 objets
+   Mobilité.png +0.08
+   Mobilité
+   Habileté.png +0.08
+   Habileté
+   Charisme.png +0.08
+   Charisme
+   Se cacher.png +0.5
+   Se cacher
+   Viser.png +0.8
+   Viser
+   Piéger.png +0.5
+   Piéger
+   Diriger.png +0.4
+   Diriger
+   Bdfboatsec.png +5
+   link Attaque (Bonus de secteur de bataille de fort)
+   Dom.png +0.25
+   Dégâts (Bonus de bataille de fort)
+   Xxp.png +-0.1%
+   Expérience pour les travaux (sauf construction), duels
+   et batailles de fort
+   6 objets
+   Mobilité.png +0.1
+   Mobilité
+   Habileté.png +0.1
+   Habileté
+   Charisme.png +0.1
+   Charisme
+   Se cacher.png +0.7
+   Se cacher
+   Viser.png +1
+   Viser
+   Piéger.png +0.7
+   Piéger
+   Diriger.png +0.6
+   Diriger
+   Bdfboatsec.png +7
+   link Attaque (Bonus de secteur de bataille de fort)
+   Dom.png +0.35
+   Dégâts (Bonus de bataille de fort)
+   Xxp.png +-0.2%
+   Expérience pour les travaux (sauf construction), duels
+   et batailles de fort
+
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   Switch armes.png
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+   {{{2}}}px
+
+   Bonus set du chat et du crâne, du cœur noir de la mort
+   2 objets
+   Mobilité.png +0.04
+   Mobilité
+   Habileté.png +0.04
+   Habileté
+   Charisme.png +0.04
+   Charisme
+   Se cacher.png +0.45
+   Se cacher
+   Viser.png +0.52
+   Viser
+   Piéger.png +0.45
+   Piéger
+   Diriger.png +0.55
+   Diriger
+   Bdfboatsec.png +5
+   link Attaque (Bonus de secteur de bataille de fort)
+   Dom.png +0.35
+   Dégâts (Bonus de bataille de fort)
+   Xxp.png +-0.1%
+   Expérience pour les travaux (sauf construction), duels
+   et batailles de fort
+   Bonus set d'armes du cœur noir de la mort
+   2 objets
+   Mobilité.png +0.06
+   Mobilité
+   Habileté.png +0.06
+   Habileté
+   Charisme.png +0.06
+   Charisme
+   Se cacher.png +0.5
+   Se cacher
+   Viser.png +0.6
+   Viser
+   Piéger.png +0.5
+   Piéger
+   Diriger.png +0.4
+   Diriger
+   Bdfboatsec.png +5
+   link Attaque (Bonus de secteur de bataille de fort)
+   Dom.png +0.35
+   Dégâts (Bonus de bataille de fort)
+   Xxp.png +-0.15%
+   Expérience pour les travaux (sauf construction), duels
+   et batailles de fort
+   Récupérée de
+   « https://wiki.the-west.fr/index.php?title=Set_du_cœur_noir_de_la_mort&
+   oldid=111457 »
+
+Outils de la page
+
+     * Pages liées
+     * Suivi des pages liées
+     * Lien permanent
+     * Informations sur la page
+
+Catégories
+
+     * Sets
+
+     * La dernière modification de cette page a été faite le 11 septembre
+       2024 à 12:45.
+
+Lieux
+
+     * Politique de confidentialité
+     * À propos de Wiki The-West FR
+     * Avertissements
+
+     * Powered by MediaWiki

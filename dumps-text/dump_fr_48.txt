@@ -1,0 +1,373 @@
+    #Accueil Fil RSS des dix dernières actualités
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NH2D5T2
+
+   Contenu | Navigation | Accès directs | Connexion
+   Numéros d'urgence Se réperer au CHU
+   (BUTTON)
+   (*) Trouver un service
+   ( ) Trouver un médecin
+   ( ) Chercher par mots-clés
+   > Liste de tous les services > Liste de tous les praticiens
+   ____________________ (BUTTON)
+   ____________________ (BUTTON)
+   ____________________ (BUTTON)
+   Espace professionnels de santé
+     * picto-Facebook
+     * picto-LinkedIn
+
+   logo-CHU-ANGERS
+     * Votre accueil au CHU d'Angers
+          + Prendre un rendez-vous
+          + Vous êtes patient
+               o Démarches et informations générales
+               o Consultation
+               o Hospitalisation
+          + Vous êtes enfant / adolescent
+               o Accueil de la famille
+               o Activités et jeux
+               o Scolarité
+          + Vous êtes future maman
+          + Vous êtes une personne en situation de handicap
+               o Handisanté 49
+               o Accès aux soins pour des personnes en situation de
+                 handicap
+               o Parcours de soins adapté aux personnes en situation de
+                 handicap
+          + Vous êtes résident
+          + Vos droits et obligations
+               o Vos droits
+               o Vos données collectées au CHU d'Angers
+               o Vos recours
+               o Vos obligations
+     * Le CHU d'Angers
+          + A la Une
+               o Informations COVID - 19
+               o Actualités
+               o Evénements
+               o Magazine "A l'heure H"
+          + Espace presse
+               o Communiqués de presse
+               o Ressources
+          + Qui sommes-nous ?
+               o Instances et comités
+               o Organigrammes du CHU
+               o Historique du CHU
+               o Les chiffres clés du CHU
+               o Le CHU en images
+          + Nos démarches
+               o Le Projet d’Établissement 2020-2024
+               o Ecoresponsabilité
+               o Culture et santé
+               o Charte industriels du médicament
+          + Marchés publics
+          + Partenariats et coopérations
+               o Les réseaux du secteur sanitaire et social
+               o HUGO (Hôpitaux universitaires du Grand Ouest)
+               o GHT - Groupement hospitalier de territoire
+               o Coopération internationale
+               o Base des données de coût par activité : base d'Angers
+          + Dons / Mécénat
+               o Démarche Mécénat
+               o Projets à financer
+               o Mécènes / Partenaires
+               o Actualités
+          + CHU employeur
+               o Nous rejoindre
+               o Egalité professionnelle homme femme
+               o Index égalité professionnelle
+     * Offre de soins
+          + Annuaires
+               o Annuaire des services
+               o Annuaire des médecins
+          + Centres de référence, de ressources
+          + Les réseaux du secteur sanitaire et social
+          + Associations
+          + Handisanté 49
+               o Accès aux soins pour des personnes en situation de
+                 handicap
+               o Parcours de soins adapté aux personnes en situation de
+                 handicap
+          + Handisas 49
+          + Prévention et Santé publique
+               o Bien vivre au quotidien
+               o Bien être
+               o Bien grandir
+               o Prendre soin
+          + Qualité et prévention des risques
+               o Certification du CHU
+               o Indicateurs qualité et satisfaction patients
+               o Comité de lutte contre la douleur
+               o Prévention des infections nosocomiales
+          + ETP - Education thérapeutique du patient
+               o Politique générale ETP
+               o Les journées régionales
+               o Programmes ETP du CHU
+               o e-ETP : tutoriel interactif sur les outils numériques
+     * Recherche et innovation santé
+          + A la une
+               o Actualités
+               o Animation territoriale
+               o Evénements
+               o Magazine RI²
+          + Notre organisation
+               o Organigramme
+               o Conseil de l'innovation
+               o Conseil Scientifique de la DRCI
+               o Promotion interne
+               o Partenariats, Innovation, Valorisation Europe
+               o Science de la donnée
+          + Structures d'appui à la recherche
+               o Centre de ressources biologiques
+               o Centre de recherche clinique
+               o Centre de données cliniques
+          + Nos recherches
+               o Chiffres clés
+               o Focus sur des projets de recherche
+               o Publications
+               o Portail de transparence
+               o Axes de recherche
+          + Participer à une recherche
+               o La recherche expliquée au patient
+               o Participer à une recherche clinique
+               o Cadre légal
+          + Innovation
+               o Innovation au CHU d'Angers
+               o Terrain d'innovation
+               o Equipements innovants
+          + Se former à la recherche
+               o Formations initiales
+               o Formations complémentaires
+     * Enseignement
+          + Enseignement médical
+               o Formation en santé par la simulation
+               o ESF - Ecole de Sage-femme
+          + Enseignement paramédical DIEF
+               o CDI - Centre de Documentation
+               o CFARM - Centre de Formation d'Assistants de Régulation
+                 Médicale
+               o Ecole de puéricultrices
+               o IFA - Institut de Formation des Ambulanciers
+               o IFAS - Institut de Formation d'Aides-Soignants
+               o IFCS - Institut de Formation des Cadres de Santé
+               o IFSI - Institut de Formation en Soins Infirmiers
+          + Enseignement professionnel
+               o ALL'SIMS - Centre de simulation
+               o CESU - Centre d'Enseignement Soins d'Urgence
+               o CFPS - Centre de Formation des Professionnels de Santé
+               o DIEF - Formation continue
+     * (*) Trouver un service
+       ( ) Trouver un médecin
+       ( ) Chercher par mots-clés
+       > Liste de tous les services > Liste de tous les praticiens
+       ____________________ (BUTTON)
+       ____________________ (BUTTON)
+       ____________________ (BUTTON)
+
+Comment rajeunir le cœur sans l'opérer ?
+
+   Vous êtes ici : Offre de soins Prévention et Santé publique Bien vivre
+   au quotidien Promotion et éducation à la santé
+
+   Chaque année en France, plus de 200 000 personnes sont hospitalisées
+   pour infarctus du myocarde ou insuffisance cardiaque. Ces pathologies
+   concernent 1 à 2% de la population, le risque d'être touché augmente
+   fortement avec l’âge. Au cours des dernières décennies, de nombreux
+   progrès en matière de traitement et de chirurgie ont permis de faire
+   reculer la mortalité des maladies cardiaques. Cependant pour certains
+   patients âgés ou fragiles, une intervention chirurgicale reste trop
+   risquée. C’est pourquoi de nouvelles options de traitement ont été
+   mises au point, afin de « rajeunir le cœur » sans recourir à la
+   chirurgie.
+
+Conférence du Dr Frédéric Rouleau
+
+   Conférence animée le 8 novembre 2016 par le Dr Frédéric Rouleau,
+   cardiologue au CHU d’Angers.
+   Rendez-vous organisé dans le cadre des Mardis de la santé, en
+   partenariat avec la Ville d'Angers et le Courrier de l'Ouest.
+
+Un capital à préserver
+
+   Le muscle cardiaque est particulier car, contrairement à d’autres
+   organes, il ne se régénère pas. Le nombre de cellules dont il est
+   constitué est donné dès la naissance et n’évoluera pas. Notre « capital
+   cœur » est fixe une fois pour toutes, il faut donc y faire attention.
+   Bien sûr, avec l’âge, le cœur va inévitablement vieillir. Mais un
+   certain nombre de facteurs peuvent provoquer l’accélération de ce
+   vieillissement. Ces facteurs de risque cardio-vasculaire ont été mis en
+   évidence dans les années 1970 par une étude de cohorte menée depuis
+   1948 – et toujours en cours – sur plusieurs générations d’habitants de
+   la ville de Framingham, dans le Massachusetts aux Etats-Unis.
+   Épidémiologistes et statisticiens ont ainsi constaté que le tabac,
+   l’hypertension artérielle, le diabète, le cholestérol, la sédentarité
+   et l’inactivité physique accélèrent le vieillissement du cœur. Il est
+   donc fondamental de comprendre que nous pouvons maintenir notre cœur en
+   bon état et retarder son vieillissement en adoptant les bonnes mesures
+   de prévention et de mode de vie.
+   Cependant, lorsqu’une pathologie survient, se pose la question du
+   traitement. Dans le cas où une intervention chirurgicale classique ne
+   peut être envisagée, d'autres solutions existent, comme celles
+   détaillées ci-dessous. Ces méthodes de traitement non chirurgicales
+   sont adaptées à chaque type de pathologie.
+
+L’angioplastie trans-coronaire : réparer les vaisseaux et protéger le muscle
+
+   L’artériosclérose est une maladie coronaire qui induit des
+   rétrécissements des vaisseaux internes du cœur, qui peu à peu se
+   bouchent et se rétrécissent. Le muscle cardiaque n’étant plus alimenté,
+   il se nécrose et cesse de se contracter. Cette pathologie se traduit
+   par une douleur d’effort – ce que l’on appelle « angine de poitrine » –
+   et conduit à des infarctus.
+
+   Ce que l’on peut faire sans opérer le cœur :
+   Des traitements médicamenteux efficaces débouchent les coronaires ou
+   évitent que les lésions ne progressent au niveau de l’artère. Si
+   besoin, une technique interventionnelle sans chirurgie, l’angioplastie,
+   permet de régénérer une artère en posant par voie interne, c'est à dire
+   en passant par le système vasculaire depuis l'aine, un stent (petit
+   tube en ressort) ou un ballonnet qui va reconstituer son diamètre. Dans
+   tous les cas, la prise en charge du patient doit être rapide pour
+   préserver au mieux le muscle cardiaque.
+
+La valve TAVI : remplacer la valve aortique
+
+   Le cœur est constitué de plusieurs « chambres », les oreillettes et
+   ventricules, entre lesquelles des « clapets » – les valves – assurent
+   la circulation du sang dans le bon sens. L’une des principales valves,
+   la valve aortique, a tendance à se calcifier avec l’âge. Ce processus
+   de dégénérescence progressive, aggravée par les facteurs de risque
+   évoqués précedemment, entraîne une diminution de la surface d’ouverture
+   de la valve. Le cœur va « pousser » contre l’obstacle pour compenser,
+   et s’altérer rapidement. Cette pathologie se caractérise par des
+   douleurs thoraciques, un essoufflement, voire des syncopes à l’effort.
+   Ce que l’on peut faire sans opérer le cœur :
+   Même s’il est bien maîtrisé depuis les années 1960, le remplacement de
+   la valve aortique par une valve artificielle reste une opération de
+   chirurgie assez lourde. Pour les patients trop âgés ou présentant des
+   contre-indications, la solution non chirurgicale consiste à passer par
+   les artères pour acheminer et poser une valve artificielle, qui se
+   déploie au milieu de la valve calcifiée et la remplace. Cette pose de
+   valve TAVI – développée par des équipes françaises en 2002 – est une
+   intervention beaucoup plus légère. Elle s’effectue en salle hybride
+   (salle d’intervention où travaillent simultanément plusieurs médecins :
+   anesthésiste, cardiologue, échographiste, chirurgien si besoin - voir
+   photo ci-dessous). Le patient ne reste que 48 à 72 heures à l’hôpital,
+   et ressort avec une simple cicatrice au niveau de l’aine. L’effet
+   positif est instantané.
+
+Le clip mitral : réparer la valve mitrale
+
+   Située dans le ventricule gauche, la valve mitrale présente la
+   particularité d’être maintenue par des haubans, des sortes de câbles
+   qui maintiennent ses deux membranes l’une en face de l’autre. Il peut
+   arriver que l’un des haubans casse ou qu’une déformation du ventricule,
+   par exemple suite à un infarctus, restreigne un hauban et laisse la
+   valve trop ouverte en permanence. Les deux feuillets n’étant plus
+   jointifs, la valve fuit et du sang reflue dans le mauvais sens, vers
+   l’oreillette.
+   Ce qu’on peut faire sans opérer le cœur :
+   Pour les patients dont l'état de santé ne permet pas une chirurgie, il
+   est possible d’installer par voie veineuse un clip qui pince les deux
+   feuillets et les maintient l’un en face de l’autre. Le diamètre de
+   passage du sang est réduit, mais selon une valeur d’acceptation qui ne
+   gênera pas le patient. Cette technique innovante permet au patient,
+   comme pour la pose de valve TAVI, de ne subir qu’une petite incision à
+   l’aine et de regagner son domicile au bout de quelques jours. Cette
+   intervention est réalisée également dans une salle hybride (photo
+   ci-dessus).
+
+La fermeture des auricules : éviter la prolifération des caillots
+
+   Avec le vieillissement cardiaque, l’oreillette gauche peut faire de
+   l’arythmie et ne plus contracter correctement. Le sang va alors
+   circuler moins vite dans certaines parties du cœur, en particulier
+   l’auricule gauche, qui constitue une excavation sans utilité
+   (comparable à l’appendice dans l’intestin). Or ce flux ralenti favorise
+   la formation de caillots, qui risquent s’ils se déplacent, d’entraîner
+   des AVC.
+   Ce que l’on peut faire sans opérer le cœur :
+   Relativement fréquente, cette pathologie est généralement traitée par
+   anticoagulants. En cas de contre-indication (hémorragies digestives par
+   exemple), l’autre possibilité consiste à poser par voie veineuse une
+   sorte de « parapluie » sur l’auricule, afin de l’obstruer et empêcher
+   les éventuels caillots de sortir. Cette solution permet d’arrêter les
+   anticoagulants.
+
+Perspectives : vers une prise en charge de plus en plus performante
+techniquement
+
+   La cardiologie a connu des progrès spectaculaires depuis la création
+   des premières unités de soins intensifs dédiés, dans les années 1970.
+   La chirurgie reste bien sûr une arme extrêmement efficace, mais les
+   nouveaux modes d’intervention qui apparaissent depuis une dizaine
+   d’années sont très prometteurs. Nul doute que l’évolution des modes de
+   prise en charge, la miniaturisation des sondes et du matériel implanté,
+   leur facilité de mise en place et d’utilisation n’en sont encore qu’aux
+   premiers balbutiements !
+
+Le CHU d’Angers, à la pointe en matière de cardiologie
+
+   La pose de valve TAVI s’effectue de façon courante au CHU d’Angers, où
+   près de 800 patients ont été opérés depuis 2009.  La première pose de
+   clip mitral au CHU d’Angers a été réalisée en 2013.
+   Pour en savoir sur le service de cardiologie du CHU d'Angers, cliquez
+   ici.
+     * (BUTTON) Imprimer
+     * Envoyer par mail
+     * (BUTTON) Partager
+          + Facebook
+          + Twitter
+          + Google+
+          + Linkedin
+          + Viadeo
+
+Les Mardis de la Santé
+
+   Retrouvez le programme complet ici
+
+Dans la même rubrique
+
+     * Annuaires
+     * Centres de référence, de ressources
+     * Les réseaux du secteur sanitaire et social
+     * Associations
+     * Handisanté 49
+     * Handisas 49
+     * Prévention et Santé publique
+          + Bien vivre au quotidien
+          + Bien être
+          + Bien grandir
+          + Prendre soin
+     * Qualité et prévention des risques
+     * ETP - Education thérapeutique du patient
+
+   (BUTTON) Menu
+
+   logo-CHU-ANGERS
+
+
+    4 rue Larrey - 49 933 Angers Cedex 9
+
+   02 41 35 36 37
+   Contacts
+   Presse
+   Espace communication Espace presse
+   Nos sites web
+   Agents du CHU Maternité Projet Convergences Réseau Diabenfant À l'heure
+   H
+   Dons / Mécénat Offres d'emploi Professionnels de santé
+     * Vos données personnelles de santé
+     * Mentions CNIL
+     * Mentions légales et crédits
+
+   Suivez-nous sur
+     * picto-Facebook
+     * picto-LinkedIn
+     * picto-Instagram
+     * picto-X
+     * picto-YouTube
+
+   https://www.chu-angers.fr/offre-de-soins/prevention-et-sante-publique/b
+   ien-vivre-au-quotidien/promotion-et-education-a-la-sante/comment-rajeun
+   ir-le-c-ur-sans-l-operer--141692.kjsp?RH=1685532540295

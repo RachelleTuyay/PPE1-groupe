@@ -1,0 +1,135 @@
+   #Cœur ardent Modifier Guild Wars 2 Wiki (fr)
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W9FV56V
+
+Cœur ardent
+
+   De Guild Wars 2 Wiki
+   Aller à la navigation Aller à la recherche
+   Cœur ardent.png
+
+   Cœur ardent
+
+   Type d'objet
+          Trophée
+
+   Rareté
+          Exotique
+
+   Lié
+          Au compte dès l'acquisition
+
+   Col. d'armure légendaire
+          Armure d'émissaire II : armure raffinée
+
+   Valeur
+          2 Pièce d'argent.png  64 Pièce de bronze.png
+
+   Code d'aperçu
+
+   API
+   78891
+
+   Extension
+   Logo GW2 Heart of Thorns.png Heart of Thorns
+
+   “
+
+     Indice : À créer en imprégnant le cœur cristallin dans la fractale
+     volcanique.
+
+     — Description en jeu
+
+Acquisition[modifier]
+
+     * Utiliser le cœur cristallin lorsque la fractale volcanique est
+       terminée.
+
+   Récupérée de
+   « https://wiki-fr.guildwars2.com/index.php?title=Cœur_ardent&oldid=5330
+   13 »
+
+   Catégorie :
+     * Trophées
+
+   Catégorie cachée :
+     * Pages utilisant la fonction d’analyseur DynamicPageList3
+
+Menu de navigation
+
+Outils personnels
+
+     * Non connecté(e)
+     * Discussion
+     * Contributions
+     * Créer un compte
+     * Se connecter
+
+Espaces de noms
+
+     * Page
+     * Discussion
+
+   [ ] français
+
+Affichages
+
+     * Lire
+     * Modifier
+     * Voir l’historique
+
+   [ ] Plus
+
+Rechercher
+
+   ____________________ Rechercher Lire
+
+Navigation
+
+     * Accueil
+     * Portail du wiki
+     * Communauté
+     * Modifications récentes
+     * Page au hasard
+
+Support
+
+     * Page de bienvenue
+     * Centre d'aide
+     * FAQ
+     * Comment aider
+     * Poser une question
+     * Avertir un admin
+     * Signaler un bug du wiki
+
+Outils
+
+     * Pages liées
+     * Suivi des pages liées
+     * Pages spéciales
+     * Version imprimable
+     * Lien permanent
+     * Informations sur la page
+     * Transclusion list
+     * Parcourir les propriétés
+
+Nous suivre
+
+Dans d’autres langues
+
+     * Deutsch
+     * English
+     * Español
+
+     * La dernière modification de cette page a été faite le 14 mai 2024 à
+       10:09.
+     * Le contenu est disponible sous ces conditions de licence sauf
+       mention contraire.
+
+     * Politique de confidentialité
+     * À propos de Guild Wars 2 Wiki
+     * Avertissements
+     * Version mobile
+
+     * Copyright ArenaNet
+     * Powered by MediaWiki Powered by Semantic MediaWiki

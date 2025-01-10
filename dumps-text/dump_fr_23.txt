@@ -1,0 +1,387 @@
+    #alternate alternate alternate JSON
+
+     * Faire un don
+     * Contact
+     * Boutique en ligne
+     * Messes & offices EN DIRECT
+
+   (BUTTON)
+   (BUTTON)
+
+   Basilique du Sacré-Cœur
+
+     * Faire un don
+     * Contact
+     * Boutique en ligne
+     * Messes & offices EN DIRECT
+
+   (BUTTON) Français
+     * English
+
+   (BUTTON)
+   (BUTTON)
+
+     * Découvrir
+       Découvrir
+          + Un lieu unique
+               o Le mot du Recteur
+               o Le Sanctuaire
+               o Galerie d’images et vidéos
+               o Dans les médias
+          + Qui sommes-nous ?
+               o La communauté des Sœurs bénédictines
+               o Nos équipes
+               o Nos bénévoles
+          + Notre histoire
+               o Le vœu national
+               o Les grandes étapes de la construction
+               o Consécration de la basilique 1919
+          + Patrimoine et art sacré
+               o L’entrée et sa façade
+               o La Mosaïque du Chœur
+               o Le chœur
+               o Les chapelles
+               o Les vitraux
+               o Les statues
+               o La Savoyarde
+               o Le Grand Orgue
+               o Le Dôme
+               o La Coupole
+          + Les saints venus à la Basilique
+               o Sainte Thérèse de Lisieux (1873-1897)
+               o Saint Louis Martin (1823-1894)
+               o Saint Charles de Foucauld (1858 – 1916)
+               o Sainte Thérèse-Bénédicte de la Croix (1891-1942)
+               o Saint Jean XXIII (1881–1963)
+               o Saint Jean-Paul II (1920-2005)
+               o Bienheureux Christian de Chergé (1937–1996)
+               o Bienheureux Vladimir Ghika (1873–1954)
+     * Jubilé 2025
+       Jubilé 2025
+          + VIVRE LE JUBILÉ A LA BASILIQUE
+               o Pélerinage à la basilique
+               o Confessions
+               o Suivre les enseignements sur l’Espérance
+               o Bulle d’indiction du Pape François
+               o Décret de Mgr Ulrich pour le Jubilé à Paris
+     * 140 ans d’adoration
+       140 ans d’adoration
+          + 140 ans de prière, ça se fête !
+               o Programme des 140 ans de l'adoration perpétuelle. 1er
+                 août 1885-2025
+               o Neuvaine de prière pour fêter les 140 ans de l'adoration
+               o Défi quotidien des 140 adorateurs du 24 juillet au 1er
+                 août 2025
+               o Retraite des 140 ans d'adoration perpétuelle – 2025
+     * Vie de la basilique
+       Vie de la basilique
+          + Agenda - Programmes
+               o Agenda
+               o Feuilles d’informations
+               o Vie de la basilique en vidéo
+               o Programme annuel 2024-2025
+          + Evènements à ne pas manquer
+               o 25/26/27 mai 2025 Recteurs de Sanctuaires et de
+                 basiliques du Sacré-Cœur.
+               o Montée des familles – 2025
+               o 140 ans de l'adoration perpétuelle 1er août 1885 – 2025
+          + Fêtes - Temps liturgiques
+               o Fêtes après Noël 2024-2025
+               o Mercredi des Cendres 2025 - Début du Carême
+               o Carême 2025
+               o La Semainte Sainte 2025
+          + Les premiers du mois
+               o Premiers jeudis : l’Heure Sainte
+               o Premiers vendredis : le Sacré-Coeur
+               o Premiers samedis : la procession eucharistique
+               o Premiers dimanches : la Miséricorde Divine
+     * Messes/Prières
+       Messes/Prières
+          + Messes - Confessions - Offices
+               o Messes
+               o Confessions
+               o Office divin
+               o En direct de la Basilique
+          + Adoration perpétuelle
+               o L’adoration, c'est quoi ?
+               o L’adoration de nuit
+               o 140 ans d' adoration perpétuelle - 1er août 1885-2025
+          + Prières
+               o Confier une intention de prière
+               o Allumer une bougie
+               o Faire célébrer une messe
+       Jeune femme priant dehors avec la bible sur ses genoux
+     * Vivre sa foi/Retraites
+       Vivre sa foi/Retraites
+          + Le Sacré-Cœur de Jésus
+               o Consécration au Cœur de Jésus
+               o Sainte Marguerite Marie
+               o Heure Sainte - Messe votive
+               o La Miséricorde divine
+          + La Vierge Marie
+               o Les samedis pour prier avec la Vierge 2024-2025
+               o Programme Assomption – 2025
+          + Grandir dans la foi
+               o Groupe de lectio divina 2024-2025
+               o Parcours redécouverte 2024-2025
+               o Missions d’évangélisation 2024-2025
+               o Servants d’autel
+               o Compagnie des Laveurs de Pieds
+          + Retraites
+               o Entrée en Carême - 2025
+               o Semaine Sainte - 2025
+               o Pentecôte - 2025
+               o 140 ans d'adoration perpétuelle - 2025
+               o Assomption – 2025
+     * Hôtellerie/Groupes
+       Hôtellerie/Groupes
+          + Hôtellerie de la Basilique
+               o Présentation et modalités d’inscription
+               o Participer à une nuit d’adoration
+               o Venir en retraite personnelle
+               o Participer aux retraites liturgiques
+          + Pélerinages - Sorties scolaires
+               o Séjour d’adultes
+               o Enfants et jeunes
+               o Groupes scolaires
+       Hôtellerie du Sacré-Coeur
+     * Infos/Visites
+       Infos/Visites
+          + Informations pratiques
+               o Horaires - Accès
+               o La boutique
+               o Contact
+               o FAQ
+          + Visites
+               o Visite du Dôme
+               o Visitez la basilique en quelques minutes
+               o Visite virtuelle à 360°
+               o Visite audio
+               o Actualité de la basilique en vidéo
+          + Propositions de visites
+               o Enfants - Familles
+               o Parcours dans la crypte
+
+   Vivre une nuit d'adoration
+
+     * Faire un don
+     * Contact
+     * Boutique en ligne
+     * Messes & offices EN DIRECT
+
+   (BUTTON)
+
+   (BUTTON)
+
+   Recherche
+   ____________________ (BUTTON)
+
+Bienvenue à la Basilique du Sacré-Cœur de Montmartre
+
+Sanctuaire de l'Adoration Eucharistique et de la Miséricorde divine
+
+   Vivre une nuit d'adoration
+
+   Vidéo de la Basilique du Sacré Coeur de Montmartre filmée au drône par
+   Skydrone Aeromaker
+
+Préparez Préparez votre visite
+
+   Entrez dans la Basilique. Face à vous, sur la mosaïque monumentale qui
+   coiffe le chœur, Jésus-Christ vous accueille à bras ouverts. Déambulez
+   dans les chapelles pour admirer les mosaïques. Offrez un cierge comme
+   signe de prière à vos intentions personnelles. Approchez vous pour vous
+   recueillir devant l’hostie portée par deux anges et qui manifeste sa
+   Présence Réelle parmi nous.
+   Puis grimpez jusqu’au dôme pour profiter d’une vue exceptionnelle sur
+   Paris. Vous ne regretterez pas d’être monté jusqu’à nous !
+   Attention, partir du 6 janvier et jusqu'à la mi-avril 2025, des travaux
+   de restauration et de nettoyage du ciborium et du maître-autel
+   indisposeront la visibilité du chœur. L'adoration continuera sur
+   l'autel de célébration des messes. Merci de votre compréhension pour la
+   gêne occasionnée.
+
+   Horaires
+
+   La basilique est ouverte à la visite gratuitement et tous les jours
+   sans exception
+
+   de 6h30 à 22h30
+   Informations pratiques
+
+L'Adoration continue
+
+   Inscrivez vous à la nuit d'adoration continue
+   La nuit d’adoration
+
+Trois bonnes raisons de venir à la Basilique
+
+   Découvrir un site exceptionnel et visiter le dôme
+   Photo de la Basilique sur la butte Montmartre et de la ville de Paris
+   baignés par la lumière du soleil couchant
+
+   Venir pour une nuit d'adoration
+
+   Venir en pèlerinage
+
+   Le mot du recteur
+
+   Le Cœur de Jésus ouvert à tous
+
+   À vous qui venez visiter le site du Sacré-Cœur de Montmartre. En tant
+   que recteur, je suis heureux de m’adresser à vous. Ce lieu est avant
+   tout un sanctuaire dédié à la bonté et à la tendresse de Cœur du
+   Christ.
+   En savoir plus
+
+   Programme du jour
+
+   vendredi 10 janvier 2025
+
+   (BUTTON) Messes, offices, confessions et célébrations
+
+   Messes, offices, confessions et célébrations
+   6h30
+
+   Ouverture des portes de la basilique
+   7h
+
+   Messe dans la basilique
+   8h
+
+   Office du matin
+   De 10h à 12h
+
+   Confession
+   11h
+
+   Messe dans la basilique
+   12h
+
+   Office de Sexte
+   15h
+
+   Messe dans la basilique
+   De 15h30 à 17h30
+
+   Confession
+   18h
+
+   Office des Vêpres
+   18h30
+
+   Messe dans la basilique
+   De 20h15 à 21h45
+
+   Confession
+   21h
+
+   Introduction spirituelle à la nuit d'adoration - Salle saint Irénée
+   21h30
+
+   Office des Complies
+   22h
+
+   Messe dans la basilique
+
+   À ne pas manquer
+
+   du 15 Jan au 8 décembre 2025
+
+   Vivre le jubilé 2025 à la basilique
+
+   La démarche jubilaire commencera, à la basilique,à partir du 15 janvier
+   2025 Comment obtenir l’indulgence plénièreen venant à la…
+   Télécharger le programme Voir tous les événements
+
+   06 janvier 2025
+   Spiritualité Temps liturgique
+
+   140 ans d'adoration, ça se fête !
+
+   140 ans d’adoration perpétuelle 1er août 1885 – 2025 NEUVAINE DE PRIERE
+   DU JEUDI 24 JUILLET AU VENDREDI 1ER…
+
+   À la une
+
+Les actualités
+
+   Toutes les actualités
+
+   22 octobre 2024
+   Spiritualité
+
+   "Dilexit nos" - Il nous a aimés
+
+   21 novembre 2024
+   Solidarité
+
+   Hiver Solidaire
+
+L'Adoration continue depuis le 1er août 1885
+
+   L’Adoration Eucharistique continue (jour et nuit) est la vocation de la
+   Basilique. Chaque soir après sa fermeture, le relais de prière se
+   poursuit dans la Basilique, assuré par les personnes inscrites pour la
+   nuit d’adoration et hébergées à l’hôtellerie du sanctuaire.
+   INFOS PRATIQUES SUR LA NUIT D'ADORATION
+   Photo de l'ostensoir de la Basilique du Sacré-Cœur
+
+   1 227 274 h
+   soit 51 136 nuits d'adoration continue
+
+   Nuit d'adoration
+
+Offrir une messe
+
+   Vous pouvez faire dire une messe pour un proche en nous écrivant ou sur
+   place à la basilique. NOUVEAU : vous pouvez maintenant nous confier
+   votre demande de messe en ligne sur ce site.
+   Nous contacter
+
+   Vous pouvez aussi...
+     * Allumer un cierge
+     * Faire célébrer une messe
+     * Faire un don
+
+   Aucun live en cours. Voir les flux précédents.
+
+   Haut
+   de page
+
+   Basilique du Sacré-Cœur
+
+   Nous contacter
+
+
+    35, rue du Chevalier de La Barre
+
+
+    75018, Paris
+
+   01 53 41 89 00
+
+     * Pratique
+          + Informations pratiques
+          + Horaires et accès
+          + FAQ
+     * La Basilique
+          + Qu’est-ce que l’adoration ?
+          + Faire un don
+          + La boutique
+     * Ressources
+          + Diocèse de Paris
+          + Eglise de France
+          + Vatican / Saint-Siège
+     * Médias
+          + Youtube de la Basilique
+          + Télévision catholique KTO
+          + Radio Notre-Dame
+
+     *
+     *
+     * Envoyer un email
+
+     * Mentions légales
+     * Données personnelles
+     * © Basilique du Sacré-Cœur

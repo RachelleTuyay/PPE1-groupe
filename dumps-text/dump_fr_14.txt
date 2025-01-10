@@ -1,0 +1,208 @@
+   #Terraria Wiki (fr) Flux Atom de Terraria Wiki
+
+   Wiki.gg header logo
+
+   [ ]
+
+Outils personnels
+
+     * Créer un compte
+     * Se connecter
+
+Menu de navigation
+
+Espaces de noms
+
+     * Page
+     * Discussion
+
+   [ ] français
+
+Affichages
+
+     * Lire
+     * Voir le texte source
+     * Voir l’historique
+
+   [ ] Plus
+     * Purger le cache
+
+Rechercher
+
+   ____________________ Rechercher Lire
+
+Navigation
+
+     * Accueil
+     * Modifications récentes
+     * Page au hasard
+     * Projets
+     * Règles
+     * Guide de styles
+     * Portail communautaire
+     * Portail administratif
+     * Aide
+
+Guides
+
+     * Bien commencer
+     * Walkthrough
+     * Config. des classes
+     * Farming des ennemis
+     * Artisanat 101
+     * Techniques de minage
+     * Bases
+     * JcJ
+     * plus…
+
+Portails
+
+     * terraria.org
+     * re-logic.com
+     * Forum de Terraria
+     * Terraria sur Facebook
+     * Terraria sur Twitter
+     * Terraria sur Instagram
+     * Subreddit de Terraria
+     * Discord de Terraria
+     * Terraria sur Steam
+     * Discord des wikis
+
+Outils
+
+     * Pages liées
+     * Suivi des pages liées
+     * New page
+     * Pages spéciales
+     * Version imprimable
+     * Lien permanent
+     * Informations sur la page
+     * Valeurs de page
+     * Citer cette page
+
+Dans d'autres langues
+
+     * English
+     * Deutsch
+     * Polski
+     * Português
+     * Русский
+     * 中文
+
+Cœur démoniaque
+
+   De Terraria Wiki
+   Aller à la navigation Aller à la recherche
+   Expert Mode.png
+   Contenu exclusif au mode Expert : Cette information s'applique
+   uniquement au mode Expert et aux mondes en mode Expert.
+   Version Bureau   Version Console   Version Mobile
+   Bureau/Console/Mobile exclusif: Les informations s'appliquent
+   uniquement aux versions Bureau, Console et Mobile de Terraria.
+   Cœur démoniaque
+     * Cœur démoniaque (sprite d'objet)
+
+   Stack digit 9.png Stack digit 9.png Stack digit 9.png Stack digit 9.png
+   Statistiques
+      Type
+   Consommable
+   Utilisable ✔️
+      T.U.    30 (Moyen)
+   Infobulle  Augmente définitivement le nombre de cases d'accessoires
+     Rareté   [DEL: 12* :DEL] Niveau de rareté : Arc-en-ciel
+     Vente    2
+   Recherche  1 nécessaire
+   Son
+   Utilisation https://terraria.wiki.gg/File:Item_4.wav
+     * ID interne de l'objet : 3335 (versions Bureau, Console et Mobile)
+
+   Pour l'objet cassable trouvable dans le Carmin, voir cœur carmin.
+
+   Le Cœur démoniaque (« Demon Heart » en anglais) est objet utilisable du
+   Mode Expert dans le Sac de trésors lâché par le Mur de chair qui donne
+   au joueur une sixième case d'accessoire. Cet effet ne s'accumule pas et
+   ne peut être utilisé qu'une fois par joueur. Lorsque vous n'êtes pas en
+   Mode Expert, la case se désactivera en enlevant l'effet et l’apparence
+   de n’importe quelle objet équipé et empêchera l'insertion de nouveaux
+   objets dedans en l'enlevant si la case est vide.
+
+Anecdote
+
+     * Le Cœur démoniaque est le seul objet utilisable du Mode Expert.
+
+Historique
+
+   Version Bureau  Version Bureau
+     * Bureau 1.3.0.4 : Problème corrigé où vous pouviez avoir des
+       nouveaux personnages avec une sixième case d'accessoire débloqué.
+
+     * Bureau 1.3.0.1 : Introduit.
+
+   V • D • M
+   Objets du mode Expert (versions Bureau, Console et Mobile)
+     * Sacs de trésors Sacs de trésors
+     * Gel royal Gel royal
+     * Bouclier de Cthulhu Bouclier de Cthulhu
+     * Écharpe de ver Écharpe de ver
+     * Cerveau de confusion Cerveau de confusion
+     * Ruche pack Ruche pack
+     * Gant en os Gant en os
+     * Heaume osseux Heaume osseux(versions Bureau, Console et Mobile)
+     * Cœur démoniaque Cœur démoniaque
+     * Gélatine volatile Gélatine volatile
+     * Kit d'amélioration de wagonnet Kit d'amélioration de wagonnet
+       (
+          + Pièce de wagonnet mécanique Pièce de wagonnet mécanique
+          + Pièce de roue mécanique Pièce de roue mécanique
+          + Pièce de batterie mécanique Pièce de batterie mécanique
+          + Wagonnet mécanique Wagonnet mécanique
+       )
+     * Sac de spores Sac de spores
+     * Balai de sorcière Balai de sorcière
+     * Pierre brillante Pierre brillante
+     * Truffe crevette Truffe crevette
+     * Insigne volante Insigne volante
+     * Globe de gravité Globe de gravité
+     * Tentacule bizarre Tentacule bizarre
+     * Planche étoile céleste Planche étoile céleste
+
+   Récupérée de
+   « https://terraria.wiki.gg/fr/wiki/Cœur_démoniaque?oldid=28141 »
+   Catégories :
+     * Contenu du Mode Expert
+     * Contenu exclusif
+     * Contenu du Bureau
+     * Contenu de la Console
+     * Contenu du Mobile
+     * Objets utilisables
+     * Objets de type Butin de sac de trésors
+     * Objets de rareté arc-en-ciel
+
+   Catégories cachées :
+     * Pages utilisant la fonction d’analyseur dplvar de DynamicPageList3
+     * Pages utilisant la fonction d’analyseur DynamicPageList3
+     * Pages utilisant la fonction d’analyseur dplreplace de
+       DynamicPageList3
+     * Utilisation du modèle English
+     * Entités modifiées en Bureau 1.3.0.4
+     * Entités introduites en Bureau 1.3.0.1
+
+   Les cookies nous aident à fournir nos services. En utilisant nos
+   services, vous acceptez notre utilisation de cookies.
+   Davantage d’informations (OK) OK
+
+     * La dernière modification de cette page a été faite le 27 décembre
+       2021 à 15:21.
+     * Le contenu antérieur au 14 mars 2022 provient du wiki Fandom de
+       Terraria.
+       [CC-BY-NC-SA.svg] Le contenu est soumis à la licence Attribution -
+       Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
+       3.0 non transposé, sauf indication contraire.
+
+     * Powered by MediaWiki
+
+   A wiki.gg Community
+
+   Wiki.gg footer logo
+
+   Terms of Service | Privacy Policy

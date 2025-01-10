@@ -1,0 +1,820 @@
+    #alternate alternate alternate
+
+                                   Navigation
+
+     * Saut au contenu
+
+   Ce site utilise des cookies afin de vous proposer des vidéos, des
+   boutons de partage, des contenus de plateformes sociales, des contenus
+   interactifs, ainsi que mesurer la fréquentation du site.
+   (BUTTON) OK, tout accepter (BUTTON) Personnaliser
+
+   (BUTTON)
+   menu
+     * Accueil
+       (BUTTON) Retour
+       Accueil Accueil
+     * Particulier
+       (BUTTON) Retour
+       Accueil Particulier
+       (BUTTON) Actualités Particulier
+       Accueil Actualités Particulier
+       Mesures de pouvoir d’achat : revalorisation des prestations
+       sociales
+       J'ACCÈDE À MES SERVICES EN LIGNE
+       PASS AGRI : PASSER LE CAP D'UNE CRISE AGRICOLE
+       (BUTTON) Santé
+       Accueil Santé
+       Etre bien remboursé
+       Taux de remboursement
+       Prendre soin de sa santé
+       Dépistage, vaccination, examens
+       Maternité, paternité, adoption
+       Accident, maladie, invalidité
+       Le forfait patient urgences (FPU)
+       (BUTTON) Famille, logement
+       Accueil Famille, logement
+       Accompagner les familles
+       Accueil du jeune enfant
+       Prestations familiales
+       Aides au logement
+       Aides aux études, à l’autonomie
+       (BUTTON) Retraite
+       Accueil Retraite
+       S'informer sur sa retraite
+       Préparer et demander sa retraite
+       Bien vivre sa retraite
+       Veuvage et réversion
+       Allocataires du Saspa
+       (BUTTON) RSA, Prime d'activité
+       Accueil RSA, Prime d'activité
+       Revenu de Solidarité Active
+       Prime d'activité
+       Prime de Noël
+       (BUTTON) Solidarité, handicap, dépendance
+       Accueil Solidarité, handicap, dépendance
+       Accompagner les personnes en difficulté
+       Handicap
+       Dépendance, perte d'autonomie
+       (BUTTON) Vous guider dans vos démarches
+       Accueil Vous guider dans vos démarches
+       Tutoriels des services en ligne aux particuliers
+       Changement de situation : déclarations et démarches
+       Fiches pratiques
+       Statuts particuliers
+       Je me préserve d'éventuels trop perçus de prestations
+       Nous contacter
+       Aidant'plus : l'aide en plus dans mon quotidien
+       L'indemnité inflation
+       Aides-a-l-autonomie-pour-les-personnes-agees-a-domicile
+       Je m’informe sur mes droits
+     * Exploitant
+       (BUTTON) Retour
+       Accueil Exploitant
+       Actualités Exploitant
+       J'ACCÈDE À MES SERVICES EN LIGNE
+       (BUTTON) Création, Installation, Transmission d'entreprise
+       Accueil Création, Installation, Transmission d'entreprise
+       Devenir agriculteur
+       Affiliation et statuts
+       Protection sociale des exploitants
+       Mon Projet d'Agri
+       Cessation, transmission de l’activité
+       (BUTTON) Cotisations des non-salariés
+       Accueil Cotisations des non-salariés
+       Calcul des cotisations
+       Paiement des cotisations exploitants
+       Rescrit social
+       Déclaration de revenus professionnels
+       (BUTTON) Santé-sécurité au travail
+       Accueil Santé-sécurité au travail
+       Formations et journées thématiques
+       Des experts à votre service
+       Informations, prévention
+       CPHSCT
+       Filière hippique : La MSA se mobilise pour former les jeunes
+       Le travail : en parler pour gagner en qualité de vie
+       Accident, maladie, invalidité
+       (BUTTON) Soutien aux agriculteurs
+       Accueil Soutien aux agriculteurs
+       Soutien agri' : nos solutions pour faire face aux crises agricoles
+       Agri'écoute
+       Cellule de prévention et d'accompagnement BCL
+       Difficultés, détresse : des professionnels MSA à vos côtés
+       L'indemnité inflation pour les non-salariés agricoles
+       Agriculteurs en difficulté : les dispositifs pour vos cotisations
+       Se faire remplacer pour souffler
+       Episode de gel : mesures de soutien
+       Faire appel à un service de remplacement
+       Crise porcine : mesures de soutien
+       Crise Ukraine : mesures de soutien aux employeurs et exploitants
+       agricoles
+       Crises de la MHE et de la FCO : les mesures de soutien
+       (BUTTON) Mon espace privé
+       Accueil Mon espace privé
+       Services pour les exploitants
+       Je me préserve d'éventuels trop perçus de prestations
+       GUIDEA VOUS ORIENTE DANS VOS DÉMARCHES
+       Nous contacter
+       (BUTTON) Covid 19
+       Accueil Covid 19
+       Les démarches en tant qu'exploitant
+       Les mesures de soutien aux exploitants
+       Exploitant : la MSA répond à vos questions
+     * Employeur
+       (BUTTON) Retour
+       Accueil Employeur
+       Actualités Employeur
+       J'ACCÈDE À MES SERVICES EN LIGNE
+       (BUTTON) Embauche et déclarations
+       Accueil Embauche et déclarations
+       DSN (Déclaration Sociale Nominative), DTS
+       Tesa (embauche et salaire)
+       Déclaration d'embauche et contrats
+       Prélèvement à la source
+       Accident du travail et maladie professionnelle
+       Travailler dans l’illégalité, c’est s’exposer à de lourdes
+       sanctions
+       Emploi de travailleurs étrangers
+       (BUTTON) Cotisations sur salaires
+       Accueil Cotisations sur salaires
+       Taux des cotisations et contributions sur salaires
+       Réductions, exonérations de cotisations
+       Paiement des cotisations employeurs
+       Les cotisations MSA Beauce Coeur de Loire
+       Rescrit social
+       Episode de gel : mesures de soutien
+       L'indemnité inflation
+       Employeur : ce qui change cette année
+       Crise porcine : mesures de soutien
+       (BUTTON) Santé-sécurité au travail
+       Accueil Santé-sécurité au travail
+       Formations et journées thématiques
+       Des experts à votre service
+       Informations, prévention
+       CPHSCT
+       (BUTTON) Vie de l'entreprise
+       Accueil Vie de l'entreprise
+       Santé des salariés au travail
+       Couverture complémentaire, prévoyance
+       Un référent entreprise à votre écoute
+       Avantages sociaux
+       Détachement des salariés dans l'UE
+       (BUTTON) COVID 19
+       Accueil COVID 19
+       Démarches en tant qu'employeur
+       Mesures de soutien aux entreprises
+       Coronavirus : les démarches en tant qu'employeur
+       Questions-réponses
+       (BUTTON) Mon espace privé
+       Accueil Mon espace privé
+       Services pour les employeurs
+       Services pour les tiers déclarants
+       Vérifications d'attestations
+       Le site net-entreprises.fr
+       Je me préserve d'éventuels trop perçus de prestations
+       GUIDEA VOUS ORIENTE DANS VOS DÉMARCHES
+       Soutien agri' : nos solutions pour faire face aux crises agricoles
+       Nous contacter
+     * Partenaire
+       (BUTTON) Retour
+       Accueil Partenaire
+       Actualités Partenaire
+       Anniversaire d’ASER
+       La MSA soutient les paniers solidaires
+       Collectivité territoriale
+       (BUTTON) Partenaire de l'action sociale
+       Accueil Partenaire de l'action sociale
+       Mon espace privé
+       Services en ligne
+       Nous contacter
+       (BUTTON) Professionnel de santé
+       Accueil Professionnel de santé
+       Le tiers-payant généralisé avec la MSA
+       Espace pro, l'espace des professionnels de santé
+       Nous contacter
+       Exercer en milieu rural
+       (BUTTON) Editeurs de logiciels
+       Accueil Editeurs de logiciels
+       Documentation technique de la DSN (déclaration sociale nominative)
+       (BUTTON) Tiers déclarant
+       Accueil Tiers déclarant
+       Mon espace privé
+       Services en ligne
+       CPTS sud 28
+     * Elus
+       (BUTTON) Retour
+       Accueil Elus
+       Actualités Elus
+       (BUTTON) Nos actions locales
+       Accueil Nos actions locales
+       MARPA
+       Planetarisks
+       Découverte de la réflexologie plantaire
+       Mal-être : être des élus bien informés
+       Article : Retour sur Terres de Jim
+       Article : Comités départementaux d’octobre 2022
+       Article : Engagés pour l’alimentation - Loiret
+       Article : Engagés pour l'alimentation - Eure et Loir
+       Article : Engagés pour l’alimentation - Cher
+       Article : Le bien-être sous toutes ses formes
+       Article : Ils n’avaient pas envie de mourir
+       Réunion des 3 Comités Départementaux
+       Harcèlement
+       Elections 2025
+       Planétarisks
+       Prévention
+       (BUTTON) Etre élu de la MSA
+       Accueil Etre élu de la MSA
+       Missions, rôles des élus MSA
+       Mutualisme
+       Comités départementaux
+       Mon appli Elus MSA : n’attendez plus !
+       (BUTTON) Les élus de la MSA BCL
+       Accueil Les élus de la MSA BCL
+       Composition Conseil d'Administration
+       Composition Comités Départementaux
+       Délégués
+       Vos outils
+       Paroles d'élus
+       (BUTTON) AG MSA BCL
+       Accueil AG MSA BCL
+       Retour sur l'Assemblée Générale MSA BCL 2024
+       Assemblées générales 2024 des échelons locaux
+       Retours sur l'Assemblée Générale 2023
+       Contact
+     * Votre MSA
+       (BUTTON) Retour
+       Accueil Votre MSA
+       (BUTTON) Elections MSA 2025
+       Accueil Elections MSA 2025
+       Liste des électeurs
+       (BUTTON) Les femmes dans le monde agricole
+       Accueil Les femmes dans le monde agricole
+       15 propositions pour les femmes en agriculture
+       L'étude Vérian pour la MSA
+       Les femmes dans le monde agricole
+       (BUTTON) Actualités et Evenements
+       Accueil Actualités et Evenements
+       Les moissons du lien à Boiscommun
+       webinaire Ma famille évolue
+       Nos actions locales
+       Les moissons du lien
+       WEBAPP
+       Atelier ecriture
+       Formation ecornage des veaux
+       France Services : la MSA passe à l’innovation
+       Salon de l'agriculture
+       Terres de JIM 2022
+       (BUTTON) Le livre blanc de la MSA
+       Accueil Le livre blanc de la MSA
+       Nos 20 propositions pour la cohésion territoriale de la France
+       (BUTTON) Qui sommes-nous
+       Accueil Qui sommes-nous
+       Notre action sur les territoires
+       La MSA Beauce Coeur de Loire
+       Le guichet unique
+       Nos valeurs
+       Le réseau MSA
+       Rapports et chiffres clés
+       Les élections à la MSA
+       L'offre de services sur les territoires
+       Nos engagements
+       (BUTTON) Nos actions
+       Accueil Nos actions
+       Action sociale
+       MSA Services
+       Gestion pour le compte de partenaires
+       Aides à l'autonomie pour les personnes âgées à domicile
+       Santé et médico-social
+       La sécurité routière sous l’angle du travail
+       Nutri Activ
+       Changer son regard sur la vie
+       Agriculture, ruralité
+       Les contrôles de la MSA
+       Lutte contre la fraude
+       Services partenaires : sites utiles
+       Nos vraies vacances (AVMA)
+       Garde la pêche au travail
+       Escroqueries ... Non merci !
+       La prévention au cœur des exploitations
+       Assemblées générales 2023 des échelons locaux
+       Mal être en agriculture : visite du coordinateur national dans le
+       Loiret
+       Appel à Projets Jeunes
+       Facteurs Organisationnels et Humains
+       Le stress est dans le pre
+       Le stress est dans le pré
+       Violences faites aux femmes
+       (BUTTON) Nos services
+       Accueil Nos services
+       Se connecter, s'inscrire
+       Services en ligne
+       Outils de simulation
+       Formulaires à télécharger
+       L'application mobile ma MSA et moi
+       Internet et vous
+       (BUTTON) Nous rejoindre
+       Accueil Nous rejoindre
+       Offres d'emploi
+       Politique RH
+       Index d’égalité femmes-hommes
+       (BUTTON) Presse
+       Accueil Presse
+       Nos Newsletters
+       Nos Archives Newsletters
+       Dossiers de presse MSA BCL
+       Dossiers de presse
+       (BUTTON) Nous contacter
+       Accueil Nous contacter
+       Modalités d’accueil de la MSA Beauce Cœur de Loire
+       Les Maisons de Services Au Public et France Services
+       Prendre rendez vous
+       Les coordonnées des MSA
+       L'assistance internet
+       Les questions les plus fréquentes
+       Procuration MSA
+       Contact avec Acceo
+     * Se connecter
+       (BUTTON) Retour
+       Accueil Se connecter
+     * Changer région
+       (BUTTON) Retour
+       Accueil Changer région
+
+   MSA : Santé, Famille, Retraite, Services
+   MSA : Santé, Famille, Retraite, Services
+   Beauce Coeur de Loire
+   Changer de région
+
+   Mon espace privé
+
+   (BUTTON) Se connecter
+   S'inscrire
+
+   (BUTTON)
+   Mon espace privé
+
+   S'inscrire
+   Se connecter
+
+     * Accueil
+     * (BUTTON) Particulier
+       (BUTTON) Fermer
+          + Accueil Particulier
+          + Actualités Particulier
+               o Mesures de pouvoir d’achat : revalorisation des
+                 prestations sociales
+          + J'ACCÈDE À MES SERVICES EN LIGNE
+          + PASS AGRI : PASSER LE CAP D'UNE CRISE AGRICOLE
+          + Santé
+               o Etre bien remboursé
+               o Taux de remboursement
+               o Prendre soin de sa santé
+               o Dépistage, vaccination, examens
+               o Maternité, paternité, adoption
+               o Accident, maladie, invalidité
+               o Le forfait patient urgences (FPU)
+          + Famille, logement
+               o Accompagner les familles
+               o Accueil du jeune enfant
+               o Prestations familiales
+               o Aides au logement
+               o Aides aux études, à l’autonomie
+          + Retraite
+               o S'informer sur sa retraite
+               o Préparer et demander sa retraite
+               o Bien vivre sa retraite
+               o Veuvage et réversion
+               o Allocataires du Saspa
+          + RSA, Prime d'activité
+               o Revenu de Solidarité Active
+               o Prime d'activité
+               o Prime de Noël
+          + Solidarité, handicap, dépendance
+               o Accompagner les personnes en difficulté
+               o Handicap
+               o Dépendance, perte d'autonomie
+          + Vous guider dans vos démarches
+               o Tutoriels des services en ligne aux particuliers
+               o Changement de situation : déclarations et démarches
+               o Fiches pratiques
+               o Statuts particuliers
+          + Je me préserve d'éventuels trop perçus de prestations
+          + Nous contacter
+          + Aidant'plus : l'aide en plus dans mon quotidien
+          + L'indemnité inflation
+          + Aides-a-l-autonomie-pour-les-personnes-agees-a-domicile
+          + Je m’informe sur mes droits
+     * (BUTTON) Exploitant
+       (BUTTON) Fermer
+          + Accueil Exploitant
+          + Actualités Exploitant
+          + J'ACCÈDE À MES SERVICES EN LIGNE
+          + Création, Installation, Transmission d'entreprise
+               o Devenir agriculteur
+               o Affiliation et statuts
+               o Protection sociale des exploitants
+               o Mon Projet d'Agri
+               o Cessation, transmission de l’activité
+          + Cotisations des non-salariés
+               o Calcul des cotisations
+               o Paiement des cotisations exploitants
+               o Rescrit social
+               o Déclaration de revenus professionnels
+          + Santé-sécurité au travail
+               o Formations et journées thématiques
+               o Des experts à votre service
+               o Informations, prévention
+               o CPHSCT
+               o Filière hippique : La MSA se mobilise pour former les
+                 jeunes
+               o Le travail : en parler pour gagner en qualité de vie
+          + Accident, maladie, invalidité
+          + Soutien aux agriculteurs
+               o Soutien agri' : nos solutions pour faire face aux crises
+                 agricoles
+               o Agri'écoute
+               o Cellule de prévention et d'accompagnement BCL
+               o Difficultés, détresse : des professionnels MSA à vos
+                 côtés
+               o L'indemnité inflation pour les non-salariés agricoles
+               o Agriculteurs en difficulté : les dispositifs pour vos
+                 cotisations
+               o Se faire remplacer pour souffler
+               o Episode de gel : mesures de soutien
+               o Faire appel à un service de remplacement
+               o Crise porcine : mesures de soutien
+               o Crise Ukraine : mesures de soutien aux employeurs et
+                 exploitants agricoles
+               o Crises de la MHE et de la FCO : les mesures de soutien
+          + Mon espace privé
+               o Services pour les exploitants
+          + Je me préserve d'éventuels trop perçus de prestations
+          + GUIDEA VOUS ORIENTE DANS VOS DÉMARCHES
+          + Nous contacter
+          + Covid 19
+               o Les démarches en tant qu'exploitant
+               o Les mesures de soutien aux exploitants
+               o Exploitant : la MSA répond à vos questions
+     * (BUTTON) Employeur
+       (BUTTON) Fermer
+          + Accueil Employeur
+          + Actualités Employeur
+          + J'ACCÈDE À MES SERVICES EN LIGNE
+          + Embauche et déclarations
+               o DSN (Déclaration Sociale Nominative), DTS
+               o Tesa (embauche et salaire)
+               o Déclaration d'embauche et contrats
+               o Prélèvement à la source
+               o Accident du travail et maladie professionnelle
+               o Travailler dans l’illégalité, c’est s’exposer à de
+                 lourdes sanctions
+               o Emploi de travailleurs étrangers
+          + Cotisations sur salaires
+               o Taux des cotisations et contributions sur salaires
+               o Réductions, exonérations de cotisations
+               o Paiement des cotisations employeurs
+               o Les cotisations MSA Beauce Coeur de Loire
+               o Rescrit social
+               o Episode de gel : mesures de soutien
+               o L'indemnité inflation
+               o Employeur : ce qui change cette année
+               o Crise porcine : mesures de soutien
+          + Santé-sécurité au travail
+               o Formations et journées thématiques
+               o Des experts à votre service
+               o Informations, prévention
+               o CPHSCT
+          + Vie de l'entreprise
+               o Santé des salariés au travail
+               o Couverture complémentaire, prévoyance
+               o Un référent entreprise à votre écoute
+               o Avantages sociaux
+               o Détachement des salariés dans l'UE
+          + COVID 19
+               o Démarches en tant qu'employeur
+               o Mesures de soutien aux entreprises
+               o Coronavirus : les démarches en tant qu'employeur
+               o Questions-réponses
+          + Mon espace privé
+               o Services pour les employeurs
+               o Services pour les tiers déclarants
+               o Vérifications d'attestations
+               o Le site net-entreprises.fr
+          + Je me préserve d'éventuels trop perçus de prestations
+          + GUIDEA VOUS ORIENTE DANS VOS DÉMARCHES
+          + Soutien agri' : nos solutions pour faire face aux crises
+            agricoles
+          + Nous contacter
+     * (BUTTON) Partenaire
+       (BUTTON) Fermer
+          + Accueil Partenaire
+          + Actualités Partenaire
+          + Anniversaire d’ASER
+          + La MSA soutient les paniers solidaires
+          + Collectivité territoriale
+          + Partenaire de l'action sociale
+               o Mon espace privé
+               o Services en ligne
+               o Nous contacter
+          + Professionnel de santé
+               o Le tiers-payant généralisé avec la MSA
+               o Espace pro, l'espace des professionnels de santé
+               o Nous contacter
+               o Exercer en milieu rural
+          + Editeurs de logiciels
+               o Documentation technique de la DSN (déclaration sociale
+                 nominative)
+          + Tiers déclarant
+               o Mon espace privé
+               o Services en ligne
+          + CPTS sud 28
+     * (BUTTON) Elus
+       (BUTTON) Fermer
+          + Accueil Elus
+          + Actualités Elus
+          + Nos actions locales
+               o MARPA
+               o Planetarisks
+               o Découverte de la réflexologie plantaire
+               o Mal-être : être des élus bien informés
+               o Article : Retour sur Terres de Jim
+               o Article : Comités départementaux d’octobre 2022
+               o Article : Engagés pour l’alimentation - Loiret
+               o Article : Engagés pour l'alimentation - Eure et Loir
+               o Article : Engagés pour l’alimentation - Cher
+               o Article : Le bien-être sous toutes ses formes
+               o Article : Ils n’avaient pas envie de mourir
+               o Réunion des 3 Comités Départementaux
+               o Harcèlement
+               o Elections 2025
+               o Planétarisks
+               o Prévention
+          + Etre élu de la MSA
+               o Missions, rôles des élus MSA
+               o Mutualisme
+               o Comités départementaux
+               o Mon appli Elus MSA : n’attendez plus !
+          + Les élus de la MSA BCL
+               o Composition Conseil d'Administration
+               o Composition Comités Départementaux
+               o Délégués
+               o Vos outils
+          + Paroles d'élus
+          + AG MSA BCL
+               o Retour sur l'Assemblée Générale MSA BCL 2024
+               o Assemblées générales 2024 des échelons locaux
+               o Retours sur l'Assemblée Générale 2023
+          + Contact
+     * (BUTTON) Votre MSA
+       (BUTTON) Fermer
+          + Accueil Votre MSA
+          + Elections MSA 2025
+               o Liste des électeurs
+          + Les femmes dans le monde agricole
+               o 15 propositions pour les femmes en agriculture
+               o L'étude Vérian pour la MSA
+          + Les femmes dans le monde agricole
+          + Actualités et Evenements
+               o Les moissons du lien à Boiscommun
+               o webinaire Ma famille évolue
+               o Nos actions locales
+               o Les moissons du lien
+               o WEBAPP
+               o Atelier ecriture
+               o Formation ecornage des veaux
+               o France Services : la MSA passe à l’innovation
+               o Salon de l'agriculture
+               o Terres de JIM 2022
+          + Le livre blanc de la MSA
+               o Nos 20 propositions pour la cohésion territoriale de la
+                 France
+          + Qui sommes-nous
+               o Notre action sur les territoires
+               o La MSA Beauce Coeur de Loire
+               o Le guichet unique
+               o Nos valeurs
+               o Le réseau MSA
+               o Rapports et chiffres clés
+               o Les élections à la MSA
+               o L'offre de services sur les territoires
+               o Nos engagements
+          + Nos actions
+               o Action sociale
+               o MSA Services
+               o Gestion pour le compte de partenaires
+               o Aides à l'autonomie pour les personnes âgées à domicile
+               o Santé et médico-social
+               o La sécurité routière sous l’angle du travail
+               o Nutri Activ
+               o Changer son regard sur la vie
+               o Agriculture, ruralité
+               o Les contrôles de la MSA
+               o Lutte contre la fraude
+               o Services partenaires : sites utiles
+               o Nos vraies vacances (AVMA)
+               o Garde la pêche au travail
+               o Escroqueries ... Non merci !
+               o La prévention au cœur des exploitations
+               o Assemblées générales 2023 des échelons locaux
+               o Mal être en agriculture : visite du coordinateur national
+                 dans le Loiret
+               o Appel à Projets Jeunes
+               o Facteurs Organisationnels et Humains
+               o Le stress est dans le pre
+               o Le stress est dans le pré
+               o Violences faites aux femmes
+          + Nos services
+               o Se connecter, s'inscrire
+               o Services en ligne
+               o Outils de simulation
+               o Formulaires à télécharger
+               o L'application mobile ma MSA et moi
+               o Internet et vous
+          + Nous rejoindre
+               o Offres d'emploi
+               o Politique RH
+               o Index d’égalité femmes-hommes
+          + Presse
+               o Nos Newsletters
+               o Nos Archives Newsletters
+               o Dossiers de presse MSA BCL
+               o Dossiers de presse
+          + Nous contacter
+               o Modalités d’accueil de la MSA Beauce Cœur de Loire
+               o Les Maisons de Services Au Public et France Services
+               o Prendre rendez vous
+               o Les coordonnées des MSA
+               o L'assistance internet
+               o Les questions les plus fréquentes
+               o Procuration MSA
+               o Contact avec Acceo
+     * ____________________ (BUTTON)
+
+   ____________________ (BUTTON)
+
+     * MSA Beauce Coeur de Loire
+     * Accueil
+
+   Ecouter
+   (BUTTON)
+   ____________________ (BUTTON)
+
+Accueil - MSA Beauce Coeur de Loire
+
+Elections de vos délégués
+
+   Vos délégués vous écoutent, vous accompagnent et portent votre voix !
+   Découvrez leurs actions. Et du 5 au 16 mai 2025, votez !
+   https://elections2025.msa.fr/
+
+Soutien agri'
+
+Nos solutions pour faire face aux crises agricoles
+
+
+   Face aux crises agricoles actuelles, vous pouvez rencontrer des
+   difficultés importantes. La MSA a des solutions pour y faire face :
+   aides financières, accès aux prestations sociales, soutien
+   psychologique...
+   Accéder à Soutien agri'
+
+Actualités
+
+Information importante pour les bénéficiaires du RSA
+
+   Dès janvier 2025, les bénéficiaires et demandeurs du RSA, ainsi que
+   leur conjoint, concubin ou partenaire de PACS, seront automatiquement
+   inscrits à France Travail, sans démarche à effectuer. Cette mesure,
+   prévue par la loi pour le plein emploi, vise à améliorer
+   l’accompagnement avec des ateliers collectifs et des conseils
+   personnalisés. La MSA continuera à verser le RSA comme d’habitude. Pour
+   toute question, contactez le numéro vert France Travail au 0 805 41 02
+   62 (appel gratuit).
+   En savoir plus
+
+Des questions sur vos cotisations ?
+
+   A quoi servent vos cotisations, comment sont-elles calculées et que
+   faire en cas de difficultés de paiement ? La MSA vous apporte des
+   réponses claires et vous accompagne pour comprendre et mieux gérer vos
+   cotisations.
+   Vos cotisations en clair
+   Toute l'actualité
+
+Nous rendre visite
+
+   Sur nos sites principaux de Bourges, Chartres et Orléans
+
+   - pour réaliser toutes vos démarches via les services en ligne : nous
+   vous accueillons du lundi au vendredi de 9h à 12h
+
+   - pour toutes les autres demandes : vous pouvez solliciter un
+   rendez-vous physique ou téléphonique depuis « Mon espace   privé » de
+   notre site internet rubrique « contact et échanges » ou par téléphone
+   au :
+
+   02.37.999.999 si vous êtes un particulier
+
+   02.48.55.40.50 si vous êtes un exploitant ou employeur de main d’œuvre
+
+
+   Dans nos points d’accueil décentralisés
+
+   Ceux-ci sont ouverts exclusivement sur rendez-vous à prendre au :
+
+   02.37.999.999 si vous êtes un particulier
+
+   02.48.55.40.50 si vous êtes un exploitant ou employeur de main d’œuvre
+
+   Accédez à Mon espace privé
+
+Mon Bilan Prévention
+
+Agissez pour votre santé
+
+   Vous avez entre 70 et 75 ans ? Prenez rendez-vous pour discuter de vos
+   habitudes de vie et définir vos priorités en matière de santé avec
+   #MonBilanPrévention
+   En savoir plus
+
+Accès rapide
+
+     * (BUTTON) Etre bien remboursé
+       Carte Vitale, carte européenne, complémentaire santé, médecin
+       traitant...
+       Accéder à l'espace Etre bien remboursé
+     * (BUTTON) Préparer et demander sa retraite
+       Le point sur les démarches à effectuer.
+       Accéder à l'espace Préparer et demander sa retraite
+     * (BUTTON) Prime d'activité
+       Contactez rapidement votre MSA par email avec le service Mes
+       messages, mes réponses.
+       Accéder à l'espace Prime d'activité
+     * (BUTTON) Formulaires à télécharger
+       Retrouvez tous les formulaires MSA, classés par thématiques, pour
+       vous aider à effectuer vos démarches.
+       Accéder à l'espace Formulaires à télécharger
+     * (BUTTON) Unification des déclarations fiscales et...
+       Retrouvez tous les documents nécessaires à votre DRP
+       Accéder à l'espace Unification des déclarations fiscales et
+       sociales
+
+Nos cartes
+
+   Retrouvez ici nos cartes pour identifier et correspondre selon vos
+   besoins avec les bons interlocuteurs
+
+
+   ​​​​Carte des accueils
+
+   Carte de la Prévention des Risques Professionnels
+
+   Carte des Travailleurs Sociaux 18 - 28 - 45
+
+   Carte des Conseillers en Protection Sociale
+
+   Carte des Contrôleurs
+
+   Carte des échelons locaux
+   Submit
+
+La MSA vous propose
+
+    1.
+    2.
+    3.
+    4.
+
+Accès rapides
+
+     * Nous contacter
+     * Nos actions locales
+     * Dates des appels provisionnels des cotisations exploitants 2024
+     * Formulaires à télécharger
+
+Pour aller plus loin
+
+Faire confiance
+le droit à l’erreur
+
+   Faire confiance : le droit à l’erreur
+
+   Déclaration erronée ou incomplète, oubli d’un justificatif ou d’un
+   signalement de changement de situation... la MSA devient plus souple et
+   plus tolérante
+   Faire confiance : le droit à l’erreur
+
+     * Mentions légales
+     * Gestion des cookies
+     * Toutes les régions
+     * Plan du site
+     * Protection des données
+     * Le Médiateur
+
+     * Accéder aux vidéos MSA sur la chaîne Youtube MSATV
+     * Accéder à la page Facebook MSA BCL
+     * Accéder au fil Twitter de la MSA BCL
+
+   (BUTTON)

@@ -1,0 +1,162 @@
+   #Wikis Pathfinder-fr - Search
+
+   [0t.jpg]
+     * Bienvenue, Invité !
+     * Connexion
+     * Inscription
+
+   Pathfinder-FR
+     * Accueil
+     * Blog
+     * Wikis
+          + Pathfinder-RPG
+          + Pathfinder 2
+          + Golarion
+          + Ressources
+          + Aventures
+          + Starfinder
+     * Forum
+     * Galerie
+     * Parties
+          + Wikis
+          + Forums
+     * Recherche
+     * Contact
+
+Navigation ¶
+
+     * Accueil du site
+     * Serveur Discord [discord_icon.png]
+     * Partenaires
+
+Wiki Pathfinder-RPG
+
+   Tout sur les règles officielles de Pathfinder.
+     * Accueil
+     * Bestiaire
+     * FAQ
+
+     * Aides de jeu
+     * Livres
+     * Glossaires
+
+Wiki Pathfinder 2
+
+   Ressources pour la version 2 de Pathfinder.
+     * Accueil
+     * Campagnes
+     * Autres sorties
+
+     * Aides de jeu
+     * PF Society
+     * Créations
+
+Wiki Golarion
+
+   Tout sur le monde de Golarion.
+     * Accueil
+     * Wayfinder
+     * Dieux
+
+     * Aides de jeu
+     * Livres
+     * Romans
+
+     * Un jour sur Golarion
+
+Wiki Ressources
+
+   Aides informatiques, règles maison…
+     * Accueil
+
+Wiki Aventures
+
+   Aides de jeu et outils pour les MJ.
+     * Accueil
+     * Campagnes
+     * Modules
+
+     * PF Society
+     * Aventures
+     * PNJ
+
+Wiki Starfinder
+
+     * Accueil
+
+     * Aides de jeu
+
+Wiki Parties en ligne
+
+     * Ressources (parties en ligne)
+
+Aides et guides ¶
+
+     * Guide de création
+     * Sources/Projets d'intégrations
+
+Outils des Wikis ¶
+
+     * Créer une nouvelle page
+     * Catégories
+     * Gestion fichiers
+     * Administration wiki
+
+Cette page¶
+
+     * Historique
+     * Imprimer
+     * Liens entrants
+
+Section¶
+
+                         Vous êtes dans la section
+                              [Pathfinder-RPG]
+
+   Imprimer Historique
+
+Coeur du métal
+
+   Source : Advanced Class Guide/Manuel des joueurs - Classes avancées
+   École Transmutation [terre] ; Niveau Ens/Mag 3, Magus 3, Occ 3, Sor 3
+   Temps d’incantation 1 action simple
+   Composantes V, G, M (un morceau d’adamantium d’une valeur de 100 po ou
+   un morceau de fer froid ou d’argent d’une valeur de 20 po)
+   Portée courte (7,5 m + 1,5 m/2 niveaux) (5 c + 1 c/2 niveaux)
+   Cible une arme par niveau
+   Durée 1 minute/niveau (cf. texte)
+   Jet de sauvegarde aucun ; Résistance à la magie non
+   Le personnage dote les armes ciblées des propriétés de l’adamantium, du
+   fer froid ou de l’argent, selon la composante matérielle utilisée, avec
+   les effets suivants.
+     * Adamantium. Les armes passent la RD/adamantium et ignorent les
+       solidités inférieures à 20.
+     * Argent. Les armes passent la RD/argent.
+     * Fer froid. Les armes passent la RD/fer froid.
+
+   Aucun des autres avantages ou inconvénients de ces types de métaux ne
+   s’applique. Par exemple, une arme qui se voit octroyer les propriétés
+   de l’adamantium ne sera pas automatiquement de maître. Ce sort est
+   capable d’affecter les armes qui ne sont pas en métal. Si le personnage
+   accorde aux armes ciblées la propriété de fer froid, le sort dure
+   moitié moins longtemps que la normale.
+
+    Le contenu officiel de ce wiki appartient à et a été utilisé avec
+                   l'autorisation de Black Book Editions.
+            Pathfinder-RPG est une création de Paizo Publishing.
+   Vous pouvez réemployer des extraits du texte officiel à condition de
+      mentionner clairement des liens vers Paizo Publishing,Black Book
+                          Editions et Pathfinder-FR
+      Ce site se base sur les licences Open Game License et Pathfinder
+                            Community Use Policy.
+
+
+
+
+
+
+   La gamme Pathfinder est une création de Paizo Publishing traduite en
+   français par Black Book Editions.
+
+   Ce site se base sur les licences Open Game License et Pathfinder
+   Community Use Policy et les conditions d'utilisation BBE.

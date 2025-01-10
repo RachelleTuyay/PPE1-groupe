@@ -1,0 +1,353 @@
+    #Santé sur le Net, l’information médicale au cœur de votre santé »
+   Flux JSON oEmbed (JSON) oEmbed (XML)
+
+     *
+     *
+     *
+     *
+     *
+     *
+
+   Santé sur le Net, l’information médicale au cœur de votre santé
+   Santé sur le Net, l’information médicale au cœur de votre santé
+   INFOGRAPHIES
+   ____________________
+   (BUTTON) Rechercher
+   Santé sur le Net, l’information médicale au cœur de votre santé
+     * Maladies
+       Allergie Cancer Cardiologie Dermatologie Dons et greffes Examens
+       médicaux Handicap Hématologie Hépato / Gastro
+       Maladies auto‌-‌immunes Maladies génétiques Maladies infectieuses
+       Maladies parasitaires Maladies rares Maladies virales Métabolisme
+       Neurologie Ophtalmologie ORL Pneumologie Phlébologie Psychiatrie
+       Rhumatologie Urologie / Néphro
+     * Médicaments
+     * Santé au quotidien
+       Accidents de la vie courante Aidants familiaux Automédication
+       Bucco‌-‌dentaire Douleur Maux du quotidien Santé en voyages Santé
+       de l’homme Santé des séniors Santé naturelle Thérapies Urgences
+     * Santé de la femme
+       Adénofibrome du sein Cancers féminins Cystite aiguë Infertilité
+       féminine Grossesse Gynécologie Maternité Ménopause Ostéoporose
+     * Santé de l’enfant
+       Autres maux Cancers de l’‌enfant Développement de l’enfant
+       Douleur et fièvre Maladies infantiles Malformations congénitales
+       Trisomies
+     * Neuro / Psy
+       Addiction Phobies Troubles du sommeil
+     * Nutrition & Bien-être
+       Activité sportive Nutrition Troubles alimentaires
+     * Articles
+
+     *
+     *
+     *
+     *
+     *
+
+   [INS: :INS]
+
+   Accueil » Maladies » Cardiologie » Le cœur : anatomie, fonctions et
+   pathologies cardiaques
+
+Le cœur : anatomie, fonctions et pathologies cardiaques
+     __________________________________________________________________
+
+   Rédigé par Estelle B. et publié le 9 septembre 2024
+
+   Coeur
+
+   Le cœur fait partie des organes vitaux, comme le foie, les poumons ou
+   les reins. C’est un organe musculaire dont la principale fonction est
+   de jouer le rôle de pompe pour assurer la circulation sanguine.
+   Différentes pathologies aiguës ou chroniques peuvent affecter son
+   fonctionnement et avoir potentiellement de graves conséquences sur la
+   santé.
+
+Qu’est-ce que le cœur ? Anatomie cardiaque
+
+   structure anatomique du cœur
+
+   Le cœur est un muscle creux, situé au niveau du thorax entre les
+   poumons et reposant sur le diaphragme. Ce muscle est une pompe ayant
+   pour fonction de propulser le sang vers tous les organes de
+   l’organisme. Le cœur pompe 5 litres de sang par minute et battra
+   environ 3 milliard de fois au cours d’une vie entière.
+
+
+   Le cœur est divisé en 4 cavités :
+     * 2 cavités supérieures : les oreillettes droite et gauche séparées
+       par le septum inter auriculaire.
+     * 2 cavités inférieures : les ventricules droit et gauche séparés par
+       le septum interventriculaire.
+
+   Les oreillettes communiquent avec les ventricules par les orifices
+   auriculo-ventriculaires. On distingue ainsi le cœur droit constitué
+   d’une oreillette et d’un ventricule droits communiquant par l’orifice
+   tricuspide et le cœur gauche constitué d’une oreillette et d’un
+   ventricule gauche communiquant par l’orifice mitral. Chaque orifice
+   auriculo-ventriculaire comprend un appareil valvulaire formé par un
+   anneau fibreux, des valvules et des cordages rattachant les valves aux
+   piliers musculaires s’insérant sur l’endocarde. Les orifices aortique
+   (situé à l’entrée de l’aorte) et pulmonaire (situé à l’entrée de
+   l’artère pulmonaire) sont constitués d’un anneau fibreux et de trois
+   valves dites sigmoïdes.
+
+   Au niveau anatomique, le cœur se compose de 3 couches successives, avec
+   de l’intérieur vers l’extérieur :
+     * l’endocarde est une membrane endothéliale qui tapisse la face
+       interne du cœur ;
+     * le myocarde constitue le muscle cardiaque proprement dit ; c’est un
+       muscle strié c’est-à-dire qu’il possède la même structure que les
+       muscles des membres et la même force de contraction ;
+     * le péricarde est un sac à double paroi qui enveloppe le cœur.
+
+   Myocarde
+
+   Comme tout organe, le cœur possède une vascularisation qui lui est
+   propre. Le réseau artériel qui apporte le sang oxygéné au muscle
+   cardiaque est constitué de 2 artères coronaires qui prennent naissance
+   de l’aorte au niveau des sinus de Valsalva et cheminent jusqu’à la
+   pointe du cœur :
+     * L’artère coronaire gauche se divise en deux branches l’artère
+       intra-ventriculaire antérieure et l’artère circonflexe. Elle
+       irrigue le cœur gauche.
+     * L’artère coronaire droite qui alimente le cœur droit.
+
+   Lire aussi – Pourquoi ne sentons-nous pas notre coeur battre ?
+
+Quel est le rôle du cœur ? La pompe cardiaque
+
+   Le cœur fonctionne comme une pompe, qui permet de distribuer le sang
+   dans tout l’organisme. Son fonctionnement se caractérise par le rythme
+   cardiaque. Le rythme cardiaque dépend de 2 composantes, d’une part une
+   composante mécanique, d’autre part une composante électrique.
+
+   La composante mécanique ou cycle cardiaque peut être simplifié en 3
+   phases :
+     * Une phase de relaxation appelée diastole permettant le remplissage
+       des cavités cardiaques par le sang,
+     * Une phase de contraction appelée systole qui se caractérise par une
+       augmentation de la pression intra-cavitaire,
+     * Une phase d’éjection du sang dans le réseau circulatoire.
+
+   La composante électrique est directement responsable de la phase
+   mécanique. Le muscle cardiaque est doué d’automatisme : il possède des
+   fibres musculaires spécialisées dans la génération d’une activité
+   électrique répétitive spontanée. Ces fibres constituent ce que l’on
+   appelle le tissu nodal. Celui-ci comporte un premier amas cellulaire
+   dans la paroi de l’oreillette droite à proximité de l’abouchement de la
+   veine cave supérieure : le nœud sino-auriculaire. Celui-ci a la
+   propriété de générer de façon rythmique une impulsion électrique qui se
+   propage aux deux oreillettes et provoque leur contraction. Puis le
+   signal électrique sera transmis au nœud atrio-ventriculaire puis relayé
+   aux ventricules grâce au faisceau de His et au réseau de Purkinje. La
+   contraction des ventricules se produit quelques fractions de seconde
+   après celle des oreillettes, compte tenu du temps de propagation de
+   l’influx nerveux. Par contre, il existe des systoles (suivies de
+   diastoles) auriculaires droite et gauche quasi simultanées et des
+   systoles (suivies de diastoles) des ventricules droit et gauche
+   également simultanées.
+
+   Le rythme cardiaque est défini par la fréquence cardiaque, déterminée
+   en battements ou pulsations par minute. Chez l’adulte, la fréquence
+   cardiaque normale au repos varie en moyenne de 50 à 100 battements par
+   minute. En fonction des situations, physiologiques ou pathologiques,
+   cette fréquence peut augmenter ou ralentir. Par exemple, lors d’un
+   effort physique, la fréquence cardiaque augmente.
+
+   Grâce à son rôle de pompe, le cœur assure la circulation sanguine. Le
+   cœur gauche assure la circulation «systémique», encore appelée «grande
+   circulation» alimentant tous les organes périphériques. Le cœur droit
+   assure quant à lui « la petite circulation ou circulation pulmonaire »
+   qui a pour but de renouveler les gaz du sang au niveau des alvéoles
+   pulmonaires.
+
+   circulation sanguine
+
+   Le sang issu des organes, pauvre en oxygène et riche en déchets, est
+   collecté par les veines caves inférieure et supérieure pour être ramené
+   à l’oreillette droite. Les oreillettes se contractent et le sang passe
+   alors de l’oreillette droite vers le ventricule droit par
+   l’intermédiaire de la valve tricuspide. Après contraction du ventricule
+   droit, le sang sera dirigé dans l’artère pulmonaire vers les poumons
+   pour y être oxygéné. A l’entrée de l’artère pulmonaire, la valve
+   pulmonaire a pour rôle d’éviter le reflux du sang dans le ventricule
+   droit. Une fois oxygéné, le sang revient à l’oreillette gauche par les
+   veines pulmonaires. Le sang passe de l’oreillette au ventricule gauche
+   à travers la valve mitrale. Enfin, le sang oxygéné est propulsé par le
+   ventricule gauche dans l’aorte et se dirigera vers tous les organes. Là
+   encore, la valve aortique évite le reflux du sang dans le ventricule
+   gauche.
+
+   Lire aussi – Insuffisance cardiaque, une campagne nationale
+   d’information
+
+Quelles sont les pathologies du cœur ? Les cardiopathies
+
+   Le cœur peut être touché par différentes maladies aiguës ou chroniques,
+   qui peuvent survenir à tous les âges de la vie. Il peut notamment être
+   le siège de malformations cardiaques congénitales, liées ou non à des
+   maladies génétiques. D’autres pathologies peuvent toucher le cœur,
+   notamment :
+     * L’endocardite est une infection de l’endocarde, le plus souvent
+       d’origine bactérienne ;
+     * La péricardite est une inflammation du péricarde ;
+     * La myocardite désigne une inflammation du muscle cardiaque,
+       généralement provoquée par un virus, comme le virus SARS-CoV2
+       responsable de la Covid-19 ;
+     * Les valvulopathies sont les maladies affectant les valves
+       cardiaques ;
+     * Les troubles du rythme cardiaque, comme la fibrillation
+       auriculaire ;
+     * L’insuffisance cardiaque est l’altération de la fonction cardiaque.
+       Le cœur devient incapable d’assurer normalement son rôle de pompe.
+       Plusieurs causes peuvent provoquer une insuffisance cardiaque,
+       aiguë ou chronique.
+
+   Certaines atteintes cardiaques peuvent être intimement liées aux
+   problèmes vasculaires. On ne parle alors plus de maladies cardiaques à
+   proprement parler mais de maladies cardiovasculaires, comme l’infarctus
+   du myocarde, l’accident vasculaire cérébral (AVC) ou l’hypertension
+   artérielle.
+
+   Lire aussi – L’Intelligence Artificielle : un nouvel outil de
+   diagnostic pour la fibrillation atriale
+
+Quels sont les signes d’une atteinte cardiaque ? L’exploration cardiaque
+
+   Les symptômes d’un dysfonctionnement du cœur peuvent varier selon la
+   maladie et la cause de l’atteinte cardiaque. Des troubles du rythme
+   cardiaque, un essoufflement et/ou une fatigue inexpliquée sont
+   fréquemment retrouvés.
+
+   En cas de signe évocateur d’un problème cardiaque, vous devez consulter
+   votre médecin. Il vous orientera si besoin vers un cardiologue. Le
+   cardiologue est le médecin spécialiste du cœur. Il peut procéder à
+   différentes investigations pour diagnostiquer un problème cardiaque,
+   entre autres :
+     * Un électrocardiogramme ;
+     * Une échographie cardiaque ;
+     * Un écho-Doppler ;
+     * Une artériographie ;
+     * Des bilans sanguins.
+
+   Lire aussi – 29 septembre 2023, journée mondiale du cœur
+
+   Estelle B., Docteur en Pharmacie
+   Sources
+   – Le fonctionnement du cœur. fedecardio.org. Consulté le 8 août 2024.
+   – Les pathologies cardiaques. www.chr-metz-thionville.fr. Consulté le
+   08 août 2024.
+   – Tout savoir sur les troubles du rythme cardiaque. www.frm.org.
+   Consulté le 8 août 2024.
+   [INS: :INS]
+   [INS: :INS]
+
+Lire nos autres dossiers Cardiologie
+     __________________________________________________________________
+
+   Le cœur : anatomie, fonctions et pathologies cardiaques
+
+   Le cœur : anatomie, fonctions et pathologies cardiaques
+
+   Hypertension artérielle pulmonaire (HTAP)
+
+   Hypertension artérielle pulmonaire (HTAP)
+
+   Accident Vasculaire Cérébral (AVC)
+
+   Accident Vasculaire Cérébral (AVC)
+
+   Athérosclérose
+
+   Athérosclérose
+
+Lire nos autres dossiers Maladies
+     __________________________________________________________________
+
+   Maladies rares
+
+   Maladies rares
+
+   Hématologie
+
+   Hématologie
+
+   Cancer
+
+   Cancer
+
+   Santé sur le Net, l’information médicale au cœur de votre santé
+     *
+     *
+     *
+     *
+     *
+
+   Menu
+     * Maladies
+     * Médicaments
+     * Santé au quotidien
+     * Santé de la femme
+     * Santé de l'enfant
+     * Neuro / Psy
+     * Nutrition & Bien-être
+
+   Liens utiles
+     * Nos sites spécialisés
+     * Nos récompenses
+     * Webinar
+     * Infographie
+     * Comité scientifique
+     * Rédacteurs
+     * Charte HIC
+     * Devenez partenaires
+     * Participez
+
+   En savoir plus
+     * Charte HIC
+     * Mentions légales / CGU
+     * Contactez-nous
+
+   Abonnez-vous à notre newsletter
+   (BUTTON) Informez-moi
+
+   Les informations et services disponibles sur sante-sur-le-net.com ne se
+   substituent en aucun cas à la consultation des professionnels de santé
+   compétents.
+
+   © Cherry for Life Science | All Rights Reserved
+
+   Newsletter
+   (BUTTON)
+
+   Cultivez votre curiosité en recevant chaque semaine nos newsletters
+   santé : actualités médicales, conseils santé, innovations
+   scientifiques, interviews patients et dossiers complets directement
+   dans votre boite mail !
+
+   Sélectionnez la ou les newsletter auxquelles vous souhaitez vous
+   abonner
+   [ ] Newsletter santé spécialisée
+
+   Newsletter santé spécialisée
+
+   Un mercredi sur deux
+
+   Voir un aperçu
+   [ ] Newsletter actualités santé
+
+   Newsletter actualités santé
+
+   Tous les lundis
+
+   Voir un aperçu
+
+   ____________________
+
+   Je m'inscris gratuitement
+   Votre adresse de messagerie est uniquement utilisée pour vous envoyer
+   les lettres d’information d’actualité Santé sur le Net. Vous pouvez à
+   tout moment utiliser le lien de désabonnement intégré dans la
+   newsletter. En savoir plus sur la gestion de vos données et vos droits.

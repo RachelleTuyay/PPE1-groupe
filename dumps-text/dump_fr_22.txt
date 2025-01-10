@@ -1,0 +1,1438 @@
+   #Portail Lexical - CNRTL alternate
+
+   [USEMAP:bandeau.jpg]
+     *
+     * Accueil
+     *
+     * Portail lexical
+     *
+     * Corpus
+     *
+     * Lexiques
+     *
+     * Dictionnaires
+     *
+     * Métalexicographie
+     *
+     * Outils
+     *
+     * Contact
+     *
+
+     * Morphologie
+     * Lexicographie
+     * Etymologie
+     * Synonymie
+     * Antonymie
+     * Proxémie
+     * Concordance
+     * Aide
+
+TLFi
+
+Académie
+
+9^e édition
+
+Académie
+
+8^e édition
+
+Académie
+
+4^e édition
+
+BDLP
+
+Francophonie
+
+BHVF
+
+attestations
+
+DMF
+
+(1330 - 1500)
+
+   Police de caractères: [Arial__________]
+   [ ] Surligner les objets textuels
+   Colorer les objets :
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+     [Aucun____________]
+   Fermer
+
+Entrez une forme
+
+   coeur___________________________________________ Chercher
+   options d'affichage                              catégorie : [toutes______]
+     * CŒUR, subst. masc.
+
+   CŒUR, subst. masc.
+   ... le mot « cœur » (...) le mot charnel et sensible, le mot rond dans
+   lequel il y a du sang (A. de Noailles, La Nouvelle espérance,1903, p.
+   148).
+   I.− [Le cœur dans sa réalité physique]
+   A.− [Le cœur comme organe interne]
+   1. Usuel
+   a) [Chez l'homme et les animaux supérieurs] Viscère rouge en forme de
+   cône renversé, situé dans le médiastin, essentiellement constitué d'un
+   muscle (myocarde) doublé de deux tuniques (péricarde, endocarde),
+   divisé intérieurement en deux parties distinctes qui présentent chacune
+   deux cavités communicantes (oreillette en haut, ventricule en bas) −
+   agent principal de la circulation sanguine doué d'un réseau nerveux
+   autonome qui assure son fonctionnement automatique, mais placé sous
+   l'influence du système nerveux central. Comme ce roi brûlant, le cœur,
+   siège au milieu des poumons qui l'enveloppent recevant tout le sang en
+   lui et le renvoyant par ses portes (Claudel, Tête d'or,2^eversion,
+   1901, p. 235).Ce panier des côtes qui porte le cœur comme un beau fruit
+   sur des feuillages (Giono, Regain,1930, p. 133).Mon cœur au chaud, ce
+   lapin, derrière sa petite grille des côtes, agité, blotti, stupide
+   (Céline, Voyage au bout de la nuit,1932, p. 48):
+   1. La circulation : c'est une faculté qui n'a d'existence que dans
+   certains animaux, (...) s'exécute dans un système d'organes particulier
+   qui y est propre. Ce système d'organes se compose essentiellement de
+   deux sortes de vaisseaux; savoir : d'artères et de veines; et presque
+   toujours, en outre, d'un muscle creux et charnu qui occupe à peu près
+   le centre du système, qui en devient bientôt l'agent principal, et
+   qu'on nomme le cœur. La fonction qu'exécute le système d'organes dont
+   il s'agit, consiste à faire partir le fluide essentiel de l'animal, qui
+   doit ici porter le nom de sang, d'un point à peu près central où se
+   trouve le cœur lorsqu'il existe, pour l'envoyer de là, par les artères,
+   dans toutes les parties du corps, d'où revenant au même point par les
+   veines, il est ensuite renvoyé de nouveau dans toutes ces parties.
+   Lamarck, Philos. zool.,t. 2, 1809, pp. 155-156.
+   2. Description morphologique du cœur d'un mouton. C'est un organe rouge
+   et conique dont la base, tournée vers l'avant du corps (vers la tête)
+   est à l'origine de gros vaisseaux sanguins (...). Deux oreillettes,
+   droite et gauche, de consistance légèrement flasque, occupent la base
+   du cœur. Un sillon transversal, très visible sur la face dorsale et
+   parcouru par d'importants vaisseaux nourriciers du cœur, sépare les
+   oreillettes des ventricules; ceux-ci, fermes et ventrus, vont en
+   s'amincissant jusqu'à la pointe du cœur. H. Camefort, A. Gama, Sc.
+   nat.,1960, p. 183.
+   3. Harvey avait bien montré que le cœur était une pompe aspirante et
+   foulante, et qu'il utilisait, comme les pompes industrielles, des
+   tuyaux et des scupapes. Mais le système circulatoire ne s'en trouvait
+   pas entièrement déshumanisé. Il suffit de regarder une artère pour voir
+   qu'elle n'est pas assimilable à un tuyau de pompe, puisqu'elle
+   participe du miracle protoplasmique, vit, se reproduit, se répare, etc.
+   (...). Nous ne savons pas encore si le cœur naturel contient ou non
+   quelque élément miraculeux, car nous ne possédons pas la description
+   complète de ce cœur. Mais nous savons que le cœur fabriqué en usine est
+   une pure machine matérielle. Or, il se substitue parfaitement au cœur
+   naturel. Même si ce dernier contenait encore « autre chose », la partie
+   remplacée provisoirement par le cœur artificiel se trouve
+   définitivement déshumanisée... A. David, La Cybernétique et
+   l'humain,1965, pp. 28-29.
+   SYNT. a) Cœur + adj. Cœur addisonien. Cœur très petit, symptôme de
+   l'insuffisance surrénale (d'apr. Méd. Biol. t. 1 1970). Cœur
+   alcoolique, cœur amyloïde. Cœur dont le myocarde a subi une
+   dégénérescence amyloïde (ibid.). Cœur anémique, cœur artificiel.
+   ,,Oxygénateur pourvu d'une pompe aspirante et d'une pompe foulante qui
+   remplacent temporairement le cœur`` (Méd. Biol. t. 1 1970). Cœur
+   basedowien. Synon. de cardio-thyréose. Cœur droit. Moitié latérale
+   droite du cœur, recevant le sang non oxygéné et l'expulsant dans les
+   poumons. Cœur droit ou veineux (...) cœur gauche ou artériel (G.
+   Gérard, Manuel d'anat. hum., 1912, p. 228). Cœur fibreux, cœur forcé.
+   Cœur insuffisant à la suite d'un effort trop violent et prolongé. Le
+   cœur forcé, l'asystolie aiguë des coureurs, des cyclistes, des surmenés
+   (Macaigne, Précis d'hygiène, 1911, p. 197). Cœur gauche. Moitié
+   latérale gauche du cœur, recevant le sang oxygéné et l'expulsant dans
+   tout l'organisme (cf. G. Gérard, loc. cit.). Cœur instable ou
+   irritable, malade, mobile, cœur myxœdémateux. Troubles cardiaques
+   d'origine hypothyroïdienne (d'apr. Méd. Biol. t. 1 1970 et Garnier-Del.
+   1972). Cœur pulmonaire. Troubles cardiaques liés à une affection
+   pulmonaire (ibid.; d'apr. Eyraud ds Vie lang., 1969, n^o205, pp.
+   197-205 : la correction de cette expr. est contestable). Cœur
+   rhumatismal, sénile, triangulaire. − Loc. adj.
+   (Chirurgie/opération/opérer) à cœur ouvert. Par ouverture du cœur,
+   après déviation de la circulation sanguine dans un cœur-poumon
+   artificiel; p. anal. à cœur fermé. b) Adj. + cœur. Gros cœur (synon.
+   cardiomégalie). c) Cœur + subst. Cœur-poumon (artificiel). Appareil qui
+   assure provisoirement la circulation et la réoxygénation du sang en
+   dehors de l'organisme (d'apr. Rob. Suppl. 1970, Méd. Biol. t. 1 1970 et
+   Garnier-Del. 1972). Cœur + à + subst. Cœur à sinus pulmonaire. Cœur à
+   oreillette gauche « double » (d'apr. Méd. Biol. t. 1 1970). Cœur + de +
+   subst. Cœur d'athlète, de soldat (Strong ds Nouv. Traité Méd., fasc. 3,
+   1920-24, p. 468). Cœur des gibbeux. Cœur + en + subst. Cœur en ballon
+   de rugby, en goutte, en sabot. Subst. + de/du cœur. Battements,
+   maladie, maux de cœur; bruits, dilatation, enveloppes, greffe, lésions,
+   palpitations, piliers, pulsations, rythme du cœur − Loc. subst. À la
+   place du cœur. d) Verbe + cœur. Affluer, refluer au cœur.
+   Rem. Dans l'expr. cœurs lymphatiques, cœurs désigne p. anal. des
+   organes contractiles faisant circuler la lymphe chez les Amphibiens.
+   Canaux lymphatiques des Batraciens s'ouvrent (...) par quatre cœurs
+   lymphatiques (E. Perrier, Traité de zool., t. 3, 1899-1925, p. 2796).
+   − En partic.
+   ♦ ALIM. Abat rouge consommé en ragoût. Elle fricassait un cœur de bœuf
+   (Zola, L'Assommoir,1877, p. 752).
+   ♦ PHILOS. Agent principal et symbole de vie. Vie du cœur, tant que mon
+   cœur battra. [Tant que je vivrai.] Le cœur, ce fruit rouge de ma vie,
+   où la vie est le plus joyeuse, le plus intense, le plus active
+   (Jouhandeau, M. Godeau intime,1926, p. 236):
+   4. Le cœur et le poumon forment en effet avec le cerveau, suivant
+   l'ingénieuse expression de Bordeu, le trépied de la vie; et aucun de
+   ces viscères ne peut être altéré d'une manière un peu forte ou étendue
+   sans qu'il n'y ait danger de mort. R.-T.-H. Laennec, De l'Auscultation
+   médiate,t. 1, 1819, p. 1.
+   5. ... au-dessus du bruit des autres organes, il était surtout assourdi
+   par son cœur, qui sonnait des volées de cloche dans chacun de ses
+   membres, jusqu'au bout de ses doigts. S'il posait le coude sur une
+   table, son cœur battait dans son coude; s'il appuyait sa nuque à un
+   dossier de fauteuil, son cœur battait dans sa nuque; s'il s'asseyait,
+   s'il se couchait, son cœur battait dans ses cuisses, dans ses flancs,
+   dans son ventre; et toujours, et toujours, ce bourdon ronflait, lui
+   mesurait la vie avec le grincement d'une horloge qui se déroule. Zola,
+   La Joie de vivre,1884, pp. 997-998.
+   6. Ô cœur instantané, Tu vis, tu meurs, Ô cœur momentané, Lourd de
+   rumeurs. Péguy, Quatrains,1914, pp. 555-557.
+   7. J'ai eu (...) l'impression qu'à travers moi l'humanité entière passe
+   comme sur une grand'route. Elle est tout moi, et moi tout elle.
+   J'existais le jour où pour la première fois elle a levé les yeux vers
+   les nuages, je serai en elle jusqu'à la fin, s'il y a une fin. Je ne
+   puis mourir. Son cœur est le mien, et ce cœur ne fait que commencer à
+   battre. Ce que j'appelle vivre n'est pas autre chose que la conscience
+   que l'humanité a d'elle-même. Green, Journal,1938, pp. 152-153.
+   b) P. anal.
+   − [P. anal. de forme et (parfois) de couleur] Ce qui présente ou évoque
+   la forme plus ou moins stylisée (en pointe vers le bas, en double
+   hémicycle vers le haut) et (parfois) la couleur rouge d'un cœur. En
+   forme de cœur. Ayant, sous la lèvre d'en bas, un rond de peinture rouge
+   qui leur fait comme l'exagération de ce qu'on appelle chez nous ,,la
+   bouche en cœur`` (Loti, Japoneries d'automne, 1889, p. 46); sa petite
+   bouche en cœur, une bouche farce, qui a toujours l'air de siffler (Gyp,
+   Souvenirs d'une petite fille,1927, p. 165).Un cœur avec des ailes et à
+   la voix d'amour : le rouge-gorge frêle (Jammes, Les Géorgiques
+   chrétiennes,1912, p. 75).
+   Rem. Pour les emplois de l'expr. bouche en cœur où l'accent est mis sur
+   l'intention d'amabilité (et non sur l'anal. de forme ou de couleur), v.
+   bouche I D 2.
+   ♦ Spécialement
+   BOT., HORTIC. [À propos de feuilles, fleurs, fruits, légumes rappelant
+   la forme d'un cœur] Ses lilas (...) les petits cœurs verts et frais de
+   leurs feuilles (Proust, Du côté de chez Swann,1913, p. 135).Feuilles
+   (...) ovoïdes, en cœur à la base (L. Plantefol, Cours de bot. et de
+   biol. végétale,t. 2, 1931, p. 281).Cœur-de-bœuf. Variété de chou cabus.
+   Chou cœur de bœuf gros (...) chou de printemps par excellence (...)
+   gros, rustique, pomme serrée (A. Gressent, Le Potager moderne,1863, p.
+   300).Cœur-de-bœuf ou cœur de pigeon. Bigarreau gros-cœuret. (...)
+   caressé en forme de cerise cœur-de-bœuf le contour des lèvres (Giono,
+   Bonheur fou,1957, p. 32).Cœur-de-Jeannette ou cœur-de-Marie. Variété de
+   dicentre (Fumariacées) cultivée pour la valeur ornementale de ses
+   fleurs en cœur rose vif, disposées en grappe sur une longue tige
+   recourbée. Ces fleurs de parterre (...) les cœurs de Marie qui semblent
+   démodées et qui sont plus fraîches que la rosée, encore, et plus
+   éclatantes que l'arc-en-ciel (Pourrat, Gaspard des montagnes,Le Château
+   des sept portes, 1922, p. 140).Des cœurs-de-Jeannette et des pavots
+   (Colette, Sido,1929, p. 149).
+   Rem. Pour cœur des Indes, v. cardiosperme s.v. cardi (a) (o)-.
+   CH. DE FER. Pointe-de-cœur ou cœur. Pièce en angle aigu utilisée dans
+   les changements de voie. Comprendre l'aiguille et le cœur dans la
+   courbe (Ch. Bricka, Cours de ch. de fer,t. 1, 1894, p. 385).
+   CONCHYLIOLOGIE. Coquillage en forme de cœur. Les cœurs, les vénus, les
+   mactres (Cuvier, Leçons d'anat. comp., t. 4, 1805, p. 427; cf. aussi t.
+   2, p. 594).
+   HABILL. Bottes à cœur. Bottes avec des échancrures en cœur. Le costume
+   d'un petit-maître de l'Empire (...) un jabot très-roide, des bottes à
+   cœur (G. Sand, Le Péché de Monsieur Antoine,1847, p. 137).Gilet à cœur.
+   Trottant en gilet à cœur, en claque et en escarpins de bal (P. Arène,
+   Jean des Figues,1870, p. 132).Corsage, décolleté en cœur. Corsage à
+   basque ronde (...) ouvert en cœur (Mallarmé, La dernière mode, 1874, p.
+   711); p. ell. Une vieille femme (...) dans une robe feuille morte,
+   montrant par un cœur très évasé un grand morceau de vieille peau (E. et
+   J. de Goncourt, Journal,1870, p. 693).
+   HÉRALD. Meuble en forme de cœur. Ses armes parlantes [de Jacques Cœur],
+   des cœurs comme ceux d'un dix de cœur (Stendhal, Mémoires d'un
+   touriste,t. 1, 1838, p. 355).
+   JEUX (cartes). L'une des quatre couleurs, représentée par un cœur de
+   forme stylisée et de couleur rouge. As de cœur (cf. as ex. 1);
+   dame/roi/valet de cœur; à tout cœur :
+   8. Il jette une carte sur le tapis. Panisse la regarde, regarde César,
+   puis se lève brusquement, plein de fureur. Panisse. − Est-ce que tu me
+   prends pour un imbécile? Tu as dit : « Il nous fend le cœur » pour lui
+   faire comprendre que je coupe à cœur. Et alors il joue cœur, parbleu!
+   Pagnol, Marius,1931, III, 1^ertabl., 1, p. 158.
+   Rem. Se dit aussi des cartes qui portent cette couleur. Probabilité de
+   tirer 3 cœurs en tirant successivement 3 cartes d'un jeu de 52 cartes
+   (G. Cullmann, M. Denis-Papin, A. Kaufmann, Éléments de calcul
+   informationnel, 1960, p. 26).
+   Arg. Valet de cœur. Amoureux :
+   9. Quand je t'aimais le mieux, sans m'en dire les causes Brusquement
+   ton amour de moi s'est écarté. Où s'en est-il allé? Partout un peu, je
+   pense; Car, faisant triompher l'une et l'autre couleur, Ton amour
+   inconstant flotte sans préférence Du brun valet de pique au blond valet
+   de cœur. Te voilà maintenant heureuse : ton caprice Règne sur une cour
+   de galants jouvenceaux, ... Murger, Scènes de la vie de bohème,1851, p.
+   281.
+   ORNEMENTATION (sans valeur symbolique marquée). Une ogive en cœur
+   échancrée à la base comme celles de la mosquée de Cordoue (T. Gautier,
+   Italia,voyage en Italie, 1852, p. 97).Les volets, percés de trèfles et
+   de cœurs (S. de Beauvoir, Mémoires d'une jeune fille rangée,1958, p.
+   14).
+   − [P. anal. de forme et de lieu] Ce qui présente ou évoque la forme et
+   la position du cœur. Comme la fusée à mi-route des étoiles, épanouit
+   son cœur brûlant et retombe en gerbe de feu (Barrès, Mes cahiers,t. 4,
+   1904-1906, p. 231).
+   ♦ Spéc., BOT., HORTIC. Partie plus ou moins arrondie et centrale d'une
+   fleur, d'un fruit, d'un légume, rappelant la forme et la position du
+   cœur. Cœur d'artichaut*, de laitue, de palmier*. Ce qu'il y avait de
+   meilleur à manger (...) le cœur de sa salade (G. Sand, La Petite
+   Fadette,1849, p. 41).Une rose énorme, largement ouverte, versant de son
+   cœur pourpré où dormaient des scarabées, une odeur suave (Moselly,
+   Terres lorraines,1907, p. 159):
+   10. Ne savez-vous pas que les sympathies ont leur secret qu'il faut
+   respecter, au lieu de les traiter comme les enfants font des tulipes
+   encore à demi-fermées, qui en ouvrent de force les pétales pour
+   regarder plus avant, et ne trouvent au cœur qu'un peu de vide et de
+   poussière? Toulet, Les Tendres ménages,1904, p. 179.
+   Rem. Dans cet emploi ambivalent, l'anal. de forme est moins nette que
+   supra et l'anal. de lieu l'emporte, mais celle-ci est encore plus
+   évidente en I B.
+   − [P. anal. de fonction]
+   ♦ Personne qui joue un rôle capital dans une activité quelconque. Être
+   le cœur d'une entreprise. Être son organe d'animation :
+   11. ... ce n'est pas sur du bois seulement que le Rédempteur est étendu
+   et crucifié, c'est sur l'univers dont il forme désormais le nœud, le
+   centre, la raison d'être, le cœur, le pivot, la pièce essentielle, et
+   vitale, cet organe par qui il respire et communique dans toutes ses
+   parties. Claudel, Un Poète regarde la Croix,1938, p. 156.
+   ♦ Chose qui remplit une fonction essentielle dans un mécanisme. Frapper
+   au cœur :
+   12. Cœur hypertrophique d'un réseau de veines et d'artères ramassées,
+   elle [la gare Saint Lazare] distribue un trafic dense et bref, que la
+   mer voisine tranche et borne. A. Arnoux, Paris-sur-Seine,1939, p. 151.
+   2. Dans qq. loc. figées. [Chez l'homme uniquement]
+   a) Complexe organique interne, de nature indifférenciée, auquel se
+   rattache parfois une impression de malaise. Le barbouillage de cœur
+   (...) tous les malaises physiques et moraux d'une physionomie de femme
+   (E. et J. de Goncourt, Journal,1890, p. 1157).Le cœur brouillé de
+   fatigue physique et de dégoût moral (De Vogüé, Les Morts qui
+   parlent,1899, p. 218).
+   − Au fig. Atteinte sournoise d'anxiété (...) qu'elle nommait (...) son
+   mal de cœur moral (Colette, Chéri,1920, p. 178):
+   13. Le luxe de Passavant l'a dégoûté; son élégance, ses manières
+   aimables, sa condescendance, l'affectation de sa supériorité. Oui, ça
+   lui a levé le cœur. Et j'ajoute que je comprends ça... au fond, il est
+   à faire vomir, ... Gide, Les Faux-monnayeurs,1925, p. 1228.
+   b) [Sans doute p. réf. au cardia] (Quasi-) synon. estomac :
+   14. ... la vue de la viande déposée sur la table, lui souleva le cœur;
+   il prescrivit qu'on la fît disparaître, commanda des œufs à la coque,
+   tenta d'avaler des mouillettes, (...) manquant d'air, il se leva, mais
+   les mouillettes avaient gonflé, et remontaient lentement dans le gosier
+   qu'elles obstruaient. Jamais il ne s'était senti aussi inquiet, aussi
+   délabré, aussi mal à l'aise; (...) il fut s'étendre sur le canapé du
+   salon, mais alors un tangage de navire en marche le berça et le mal de
+   cœur s'accrut; ... Huysmans, À rebours,1884, pp. 218-219.
+   SYNT. Avoir le cœur barbouillé/noyé/soulevé; avoir le cœur bien
+   accroché; avoir le cœur sur les lèvres; retourner le cœur; avoir/faire
+   mal au cœur. Jeter/mettre du cœur sur le carreau (arg.). Vomir.
+   Rem. Dans qq. expr. vieillies, cœur tend à être employé comme (quasi-)
+   synon. de appétit. Avoir le cœur bon. Avoir de l'appétit. N'être pas
+   malade de cœur. Garder de l'appétit. Cf. aussi : Attaqu[er] de grand
+   cœur une fort alléchante collation (Milosz, L'Amoureuse initiation,
+   1910, p. 29); Réveillonn[er] de bon cœur et de bel appétit (G.
+   Guèvremont, Le Survenant, 1945, p. 108).
+   c) P. euphémisme, rare, littér. (Quasi-)synon. entrailles, ventre.Comme
+   la femme qui dans son cœur éprouve la commotion de l'enfant mâle
+   (Claudel, La Ville,2^eversion, 1901, p. 453).
+   B.− P. méton. Poitrine, qui abrite le cœur (et, secondairement, les
+   autres organes internes primordiaux); en partic. l'endroit de la
+   poitrine où les battements du cœur sont perceptibles :
+   15. ... Edmond, penché sur son ami, la main appliquée à son cœur,
+   sentit successivement ce cœur se refroidir et ce cœur éteindre son
+   battement de plus en plus sourd et profond. Enfin, rien ne survécut; le
+   dernier frémissement du cœur cessa, la face devint livide, les yeux
+   restèrent ouverts, mais le regard se ternit. A. Dumas, Père, Le Comte
+   de Monte-Cristo,t. 1, 1846, p. 241.
+   C.− P. métaph. ou au fig. [P. réf. plus ou moins nette à la position
+   quasi-médiane du cœur dans la poitrine] Le cœur de qqc., au cœur de
+   qqc. (Quasi-)synon. centre, milieu ou dedans, intérieur, profondeur.
+   1. [En parlant de choses situées dans l'espace] ... chassés du cœur de
+   l'empire aux extrémités, rejetés des frontières au centre
+   (Chateaubriand, Ét. hist.,1831, p. 199).N'être jamais que des
+   faubourgs, quand on vise au cœur de la place, fréquenter toute sa vie
+   la Cour sans en avoir jamais pu être par le dedans (Sainte-Beuve,
+   Causeries du lundi,t. 9,1851-62, p. 164).... s'enfermait « au cœur des
+   bois » (...) restait bien profondément gardé par leur épaisse poitrine
+   (J. de La Varende, Nez-de-cuir, gentilhomme d'amour,1936, p. 85).
+   SYNT. (Au/en plein) cœur de la forêt/de l'obscurité, des ténèbres;
+   atteindre/s'enfoncer/pénétrer au cœur de (...).
+   − Spécialement
+   ♦ BOT., CHARPENT., MENUIS. Partie centrale d'un tronc d'arbre,
+   caractérisée par sa dureté et sa couleur foncée. (Quasi-)synon. bois
+   parfait, duramen p. oppos. à aubier :
+   16. Duraminisation. Cœur et aubier. (...). Dans les couches extérieures
+   du tronc, le bois qui vient d'être formé depuis quelques années
+   conserve une couleur claire; ses cellules ont leurs parois purement
+   cellulosiques et sont gorgées d'eau (...). Mais, pendant que des
+   couches nouvelles se forment vers l'extérieur, les couches plus
+   internes subissent peu à peu de profondes modifications. Elles perdent
+   d'abord une partie de l'eau libre qu'elles contenaient. Puis leurs
+   parois se durcissent, s'incrustent de lignine; (...). On distingue
+   alors souvent sur la section transversale une zone interne, colorée,
+   appelée bois parfait, ou cœur de l'arbre, en opposition avec une zone
+   externe, plus claire, l'aubier. J. Campredon, Le Bois,1948, p. 12.
+   SYNT. Cœur étoilé, excentré, mort, noir, renfermé, rouge; cœur de
+   chêne.
+   ♦ GASTR. Fromage très crémeux. Cœur de Brayon ou cœur normand. Petits
+   cœurs à la crème (...) « Bon fromage à la cré, fromage à la cré, bon
+   fromage! » (Proust, La Prisonnière,1922, p. 128).Les fromages dits
+   frais (suisses, cœurs à la crème, etc.) (...) préparés avec du lait
+   caillé auquel on ajoute de la crème (R. Lalanne, L'Alim. hum.,1942p.
+   77).
+   Expr. À cœur. Dans toute l'épaisseur. Camembert fait à cœur (d'apr.
+   Rob. Suppl. 1970).
+   Rem. À cœur s'emploie aussi à propos d'autres produits alim. Poissons
+   (...) congelés à cœur (A. Boyer, Les Pêches mar., 1967, p. 64), et même
+   à propos de produits non alim. dans des domaines techn. très variés.
+   [Pour le forgeage des fleurets en acier au carbone] chauffer lentement
+   et bien à cœur jusqu'au rouge cerise (J. Cahen, E. Bruet, Carrières,
+   plâtrières, ardoisières, 1926, p. 95). Les panneaux de bois,
+   contreplaqués (...) imprégnés « à cœur » (Catal. d'instruments de lab.
+   (Jouan), 1933, p. 4).
+   ♦ HÉRALD. Milieu de l'écu. (Quasi-)synon. abîme.D'or, à la croix de
+   sable (...) chargée en cœur d'une fleur de lys d'or (Balzac, Le Lys
+   dans la vallée,1836, p. 33).
+   ♦ PHYS. Partie du réacteur nucléaire qui renferme le combustible. Le
+   cœur du réacteur (...) un cylindre de trois mètres de hauteur (...) les
+   éléments de combustible (...) pastilles d'oxyde d'uranium enrichi (...)
+   logées dans d'étroits cylindres de zirconium (...) Le tout (...) situé
+   dans un caisson cylindrique (Goldschmidt, L'Aventure atomique,1962, p.
+   211).
+   Rem. 1. ,,Terme familier`` selon Charles 1960. 2. Certains aut.
+   appellent cœur la partie centrale de divers phénomènes phys. Le « cœur
+   » d'un atome (Teilhard de Chardin, Le Phénomène humain, 1955, p. 36).
+   ♦ TECHNOL., vx. Cœur de cheminée. Partie centrale de la cheminée. Être
+   noir comme le cœur de la cheminée.
+   Rem. Attesté ds Ac. 1798-1878, Besch. 1845, Lar. 19^e, Littré, Guérin
+   1892, Quillet 1965.
+   2. [En parlant de choses situées dans un espace de temps] Cœur de
+   l'été/de l'hiver/du mois. Les paysages tahitiens, éclairés par la lune,
+   au cœur de la nuit, dans le grand silence de deux heures du matin
+   (Loti, Le Mariage de Loti,1882, p. 196).
+   3. [En parlant d'une réalité abstr.] Au cœur de la vie humaine, dans
+   les mystères de la volonté charnelle, en ce donjon fermé d'où la raison
+   reine et captive traite avec les puissances mutines de la nature (M.
+   Blondel, L'Action,1893, p. 178).Bondi dans le cœur du sujet sitôt le
+   préambule achevé (Du Bos, Journal,1927, p. 176).
+   SYNT. (Entrer... au) cœur des choses, du débat, d'un problème, de la
+   question.
+   − Expr. Le cœur du cœur. Le fin fond. Le cœur du cœur de l'espérance
+   humaine : ce pardon indéfiniment renouvelé, cette rémission des péchés
+   (Mauriac, Mémoires intérieurs,1959, p. 120).
+   II.− [Le cœur comme foyer ou réceptacle de la vie intérieure] ,,Qui ne
+   sait qu'une physiologie peu exercée a donné au cœur un rôle, peu
+   défini, mais excessif, comme organe de toute notre vie intime?``
+   (Théol. cath.t. 3, 11911).
+   A.− [P. réf. à l'automatisme cardiaque; le cœur comme organe ou lieu
+   d'une saisie plus ou moins automatique]
+   1. Gén. dans des loc. figées. Mémoire mécanique.
+   Apprendre/connaître/réciter/savoir par cœur (qqc.). Mécaniquement,
+   littéralement :
+   17. Un escalier de vingt-cinq marches conduit à l'étage; très-élevé,
+   très-roide, sans rampe, il est tellement étroit, si endommagé, si
+   singulièrement construit, que j'ai dû positivement l'apprendre par cœur
+   afin de pouvoir, la nuit, l'escalier sans danger. Je pourrais
+   t'indiquer de mémoire les deux marches qui manquent; ... Fromentin, Un
+   Été dans le Sahara,1857, p. 116.
+   − P. anal. et plaisant., fam. Dîner par cœur. Se passer de dîner (cf.
+   Zola, L'Assommoir, 1877, p. 756 et Verlaine, Correspondance, t. 2,
+   1869-96, p. 100).
+   Rem. D'apr. Littré ,,cette locution paraît s'être dite d'abord de celui
+   qui, au lieu de dîner, parlait, racontait, récitait, et de la sorte se
+   passait de manger``.
+   2. Mémoire affective :
+   18. Dans toute âme qui de bonne heure a vécu, le passé a déposé ses
+   débris en sépultures successives que le gazon de la surface peut faire
+   oublier; mais, dès qu'on se replonge en son cœur et qu'on en scrute les
+   âges, on est effrayé de ce qu'il contient et de ce qu'il conserve; il y
+   a en nous des mondes! Ces souvenirs, du moins, que je me surprends
+   ainsi à poursuivre jusqu'en leur tendre badinage, ne sont-ils pas trop
+   coupables dans un homme de renoncement, ... Sainte-Beuve, Volupté,t. 1,
+   1834, p. 33.
+   19. ... le cœur de l'homme filtre les souvenirs et ne garde que ceux
+   des beaux jours. La douleur, les haines, les regrets éternels, tout
+   cela est trop lourd, tout cela tombe au fond... On oubliera. Les voiles
+   de deuil, comme des feuilles mortes, tomberont. L'image du soldat
+   disparu s'effacera lentement dans le cœur consolé de ceux qu'il aimait
+   tant. Et tous les morts mourront pour la deuxième fois. Dorgelès, Les
+   Croix de bois,1919, p. 317.
+   20. ... ces anciens sentiments si personnels à moi, que j'ai eus, me
+   semblent, ce qui est la manie de tous les collectionneurs, très
+   précieux. Je m'ouvre à moi-même mon cœur comme une espèce de vitrine,
+   je regarde un à un tant d'amours que les autres n'auront pas connus. Et
+   de cette collection à laquelle je suis maintenant plus attaché encore
+   qu'aux autres, je me dis, un peu comme Mazarin pour ses livres, mais,
+   du reste, sans angoisse aucune, que ce sera bien embêtant de quitter
+   tout cela. Proust, Sodome et Gomorrhe,1922, p. 703.
+   SYNT. Remonter au cœur; emporter, garder, graver qqn/qqc. dans son
+   cœur.
+   3. Mode de connaissance intuitif, gén. opposé à l'intelligence
+   rationnelle, discursive. L'instinct, l'intelligence du cœur; c'est mon
+   cœur qui me le dit :
+   21. Il faut d'abord chercher la vérité avec son cœur, et non avec son
+   esprit. Les hommes sentent tous de la même manière, et ils raisonnent
+   différemment, parce que les principes de la vérité sont dans la nature,
+   et que les conséquences qu'ils en tirent sont dans leurs intérêts.
+   C'est donc avec un cœur simple qu'on doit chercher la vérité; car un
+   cœur simple n'a jamais feint d'entendre ce qu'il n'entendait pas, et de
+   croire ce qu'il ne croyait pas. (...). Bernardin de Saint-Pierre, La
+   Chaumière indienne,1791, p. 103.
+   22. Combien j'ai de choses à vous dire! Vous les devinez, vous les
+   sentez, ma chère amie, parce que votre cœur est si pénétrant! On n'a
+   jamais dit, je crois, un cœur pénétrant; mais l'esprit qui conçoit
+   rapidement et le cœur qui sent, devine avec une grande promptitude, ne
+   peuvent-ils pas mériter la même épithète; n'est-ce pas une véritable
+   pénétration, que cette vivacité de votre ame qui vous fait concevoir
+   tout ce qui se passe dans la mienne, vous met, en quelque sorte, à ma
+   place, et vous fait saisir les plus légères nuances du sentiment qui
+   m'affecte. Sénac de Meilhan, L'Émigré,1797, p. 1558.
+   23. Voici mon secret. Il est très simple : on ne voit bien qu'avec le
+   cœur. L'essentiel est invisible pour les yeux. Saint-Exupéry, Le Petit
+   Prince,1943, p. 474.
+   ♦ Expr. Connaître qqn ou qqc. par (le) cœur. Connaître avec
+   l'infaillibilité de l'instinct intuitif, à fond, parfaitement. ...
+   possible que tu me connaisses par cœur. Mais tu ne me regardes pas
+   (Cocteau, Les Parents terribles,1938, I, 4, p. 203).En avoir le cœur
+   net (de qqc.). Vérifier si ce dont on a l'intuition correspond bien à
+   la réalité, à la vérité :
+   24. ... une idée l'occupait, et, pour en avoir le cœur net, elle
+   demanda : − Depuis quand êtes-vous là? A. France, La Révolte des
+   anges,1914, p. 104.
+   − [P. allus. littér. (à Vauvenargues, Réflexions et maximes, 1746, p.
+   127)] Les grandes pensées viennent du cœur :
+   25. Je n'emploie pas volontiers ce mot « cœur ». Il le faut bien
+   pourtant, afin de donner à entendre que le cerveau a partie liée avec
+   le reste de l'organisme, et qu'il peut sans doute raisonner fort bien
+   dans l'abstrait, mais que tout raisonnement abstrait omet le plus vital
+   de notre être. (...) Le sublime est irraisonnable; mais déclarer que «
+   les grandes pensées viennent du cœur » revient simplement à dire avec
+   Montaigne : « Rien de noble ne se fait sans hasard », et que l'homme
+   n'obtient pas grand'chose de soi par le simple raisonnement. Gide,
+   Journal,1929, p. 917.
+   − Spéc. en matière de foi :
+   26. Vous plaignez l'aveugle qui n'a jamais vu les rayons du jour, le
+   sourd qui n'a jamais entendu les accords de la nature, le muet qui n'a
+   jamais pu rendre la voix de son âme, et, sous un faux prétexte de
+   pudeur, vous ne voulez pas plaindre cette cécité du cœur, cette surdité
+   de l'âme, ce mutisme de la conscience qui rendent folle la malheureuse
+   affligée et qui la font malgré elle incapable de voir le bien,
+   d'entendre le Seigneur et de parler la langue pure de l'amour et de la
+   foi. A. Dumas Fils, La Dame aux camélias,1848, p. 23.
+   27. Nous trouverons donc en nous deux ordres de réponses à la sensation
+   (...) que nous donnent la vue du ciel et l'imagination de l'univers.
+   Les unes seront spontanées, et les autres élaborées. (...). On les
+   distingue souvent en attribuant les unes au cœur, les autres à
+   l'esprit. Ces termes sont assez commodes. Le cœur finit presque
+   toujours, dans sa lutte contre la figure effrayante du monde, par
+   susciter, à force de désir, l'idée de quelque être assez puissant pour
+   contenir, pour avoir construit, ou pour émettre, ce monstre d'étendue
+   et de rayonnements qui nous produit, ... Valéry, VariétéI, 1924, pp.
+   160-161.
+   Rem. Dans le passage célèbre de Chateaubriand (Essai sur les
+   Révolutions, 1797, p. XI : Je n'ai point cédé, j'en conviens, à de
+   grandes lumières surnaturelles; ma conviction est sortie du cœur : j'ai
+   pleuré et j'ai cru), l'intuition se nuance d'affectivité.
+   ♦ [P. allus. littér. (à Pascal, Pensées, 1669, section IV, *277 et 278,
+   p. 201 du t. 13 des Œuvres de B. Pascal, par L. Brunschvicg, Paris,
+   Hachette, 1904)] Le cœur a ses raisons, que la raison ne connaît point
+   − C'est le cœur qui sent Dieu, et non la raison; Voilà ce que c'est que
+   la foi : Dieu sensible au cœur, non à la raison :
+   28. ... le cœur se trouve ici promu à la qualité d'organe de la vérité
+   ou plus exactement pour appréhender la vérité, (...). Plus profondément
+   l'appréhension par le cœur est aux yeux de Pascal fait primitif parce
+   qu'acte unique de l'être, je veux dire non divisible en moments
+   distincts et comme soustrait au temps (...). Nous sommes ici en
+   présence entre cœur et raison (et nous savons que le Pascal des Pensées
+   − mû ici par la logique souterraine de ses tendances − en arrive
+   toujours davantage à entendre par raison : raisonnement) d'une
+   distinction (...) qui nous donne l'impression que traduit de façon
+   parfaite l'image où Bergson, voulant exprimer les relations de la
+   pensée discursive à l'acte intuitif, disait : « L'intuition est la
+   pièce d'or dont le raisonnement n'a jamais fini de rendre la monnaie ».
+   (...). Cet aspect de la notion de cœur est très voisin de l'intuition
+   bergsonienne : j'irai jusqu'à dire que, dans le langage d'aujourd'hui,
+   en traduisant là le mot de cœur par celui d'intuition on ne commettrait
+   sans doute nul contresens. Le problème (...) c'est le passage de cet
+   aspect-là à celui du fragment « La foi c'est Dieu sensible au cœur ».
+   Et entre les deux se trouverait le fragment que j'ai rapproché d'Hamlet
+   « que le cœur humain est creux et plein d'ordure ». Notons qu'ici
+   Pascal dit « le cœur humain » et que dans le premier cas il s'agit
+   plutôt du cœur de l'intellect, ... Du Bos, Journal,1923, pp. 354-355.
+   29. Depuis plus d'un demi-siècle, ce cœur, qui déjà se contractait au
+   collège lorsqu'il fallait aller au tableau, n'a cessé de se serrer et
+   de se dilater, jouet de toutes les passions, livré à Dieu, livré aux
+   créatures... Charnel, et voilà le mystère : un organe comme tous les
+   autres organes, et pourtant quand on dit : le cœur, quand Pascal parle
+   du « Dieu sensible au cœur », ou « le cœur a ses raisons », sans doute
+   s'agit-il pour lui d'abord d'un certain mode de connaissance intuitive.
+   Tout de même, il y a là beaucoup plus qu'une image, beaucoup plus qu'un
+   symbole. C'est toujours notre passion, la plus haute ou la pire, qui
+   précipite ou ralentit ses battements. Mauriac, Le Bâillon dénoué,1945,
+   p. 466.
+   Rem. Pour ces passages, certains auteurs donnent abusivement à cœur le
+   sens de affectivité, amour. Dans la lang. cour., la phrase célèbre Le
+   cœur a ses raisons que la raison ne connaît point est souvent employée,
+   familièrement, à propos d'inclination amoureuse (cf. R. Martin du Gard,
+   Les Thibault, La Belle saison, 1923, p. 851).
+   B.− [P. réf. à l'intériorité et à l'activité de l'organe en tant que
+   facteur central de la vie hum. individuelle] Le cœur comme foyer ou
+   réceptacle de la vie intérieure profonde, de la personnalité morale
+   d'un individu.
+   1. En gén. Le fond secret d'un être, dans son unité et sa vérité
+   primitives, cachées sous les apparences ou se révélant dans un élan de
+   spontanéité, de sincérité; ensemble des sentiments et idées intimes
+   commandant le comportement d'un individu. Son cœur (...) un logis qui
+   n'a pas d'escalier (Musset, Namouna,1832, p. 398).Le cœur (...) vase
+   sacré tout rempli de secrets (Vigny, Le Journal d'un poète,1835, p.
+   1022):
+   30. ... tu ne m'ouvres que la tête : c'est le cœur, c'est l'âme, c'est
+   l'intime, ce qui fait ta vie, que je croyais voir. Tu ne me montres que
+   ta façon de penser; tu me fais monter, et moi je voulais descendre, te
+   connaître à fond dans tes goûts, tes humeurs, tes principes, en un mot,
+   faire un tour dans les coins et recoins de toi-même. E. de Guérin,
+   Journal,1835, p. 83.
+   31. L'esprit seul est vie, et le corps se résorbe en lui. En l'homme,
+   il est un lieu qui est celui de l'unité, un centre de la créature, que
+   Troxler appelle le gemüt, − disons le cœur. Le cœur est l'unité du
+   corps et de l'esprit, comme de l'âme et du sôma. Le cœur est l'être
+   même de l'homme..., sa vraie individualité, le centre vivant de son
+   existence, le monde de tous les mondes en lui, l'homme en soi. Béguin,
+   L'Âme romantique et le rêve,1939, pp. 92-93.
+   32. ... le sang Alibert, si vigoureux, n'a d'élans que secrets, animé
+   qu'il est par un cœur difficile à entendre. Ce cœur peut battre fort
+   (car cela arrive aussi) mais toujours régulièrement, et le bruit en est
+   étouffé par une volonté plus lourde, souveraine du cœur. Ils ont un
+   sentiment très grand de l'honneur du visage; et, pour eux, n'y laisser
+   rien paraître de l'âme, est un souci si naturel qu'ils en gardent ce
+   pli de gravité par où seulement ils vous livrent le signe de leur vie
+   intérieure. Bosco, Le Mas Théotime,1945, p. 340.
+   − P. anal. :
+   33. C'est un aquarium qui montre à nu, le mieux, Dans son eau
+   compliquée, entre des murs de verre, Le cœur de l'eau, scruté par
+   l'angoisse des yeux. Là, vraiment net et sûr, le cœur de l'eau s'avère!
+   Or, dans ce trouble glauque, on trouve un peu de soi, Un peu du cœur
+   humain qui se tient clos et coi, Impénétrable cœur plein de choses
+   confuses Qui dans des murs de verre aussi semblent recluses, Ô cœur
+   mystérieux comme un aquarium! Rêves en léthargie, embryons de pensées
+   Trempant dans une eau morte, aux pâleurs nuancées, Qui se peuple comme
+   un beau songe d'opium : ... Rodenbach, Le Règne du silence,1891, pp.
+   68-70.
+   SYNT. Cœur + adj. Cœur débordant (de), fermé, profond, sincère. Subst.
+   + du cœur. Connaissance, cri [N'accus[er] juste leurs sentiments que
+   dans les mots imprévus... le cri du cœur (Stendhal, De l'Amour, 1822,
+   p. 62)], écho, effusion, élan, élancement, épanchement, langage,
+   langue, mouvement(s), ouverture, replis, secrets, voix du cœur. Cœur +
+   verbe. Déborder, s'épancher, s'ouvrir. Verbe + le/son cœur. Connaître
+   le cœur humain, épancher, fermer, fouiller, montrer (le fond de),
+   ouvrir [Ouvrir mon cœur... dire la vérité (E. et J. de Goncourt,
+   Journal, 1863, p. 1258)], répandre, soulager, verser, vider [Vidait son
+   cœur et se livrait ... à des aveux (Cocteau, Les Enfants terribles,
+   1929, 2^epart., chap. 3, p. 146)] son cœur. Verbe + dans le/son cœur.
+   Lire, renfermer, trouver dans le/son cœur. Verbe + du cœur. Jaillir,
+   monter, sortir, venir du cœur.
+   ♦ Loc. Cœur-à-cœur. Relation d'intimité entre deux êtres qui échangent
+   en toute confiance leurs pensées les plus profondes. Volupté de ce
+   cœur-à-cœur... une de ces heures d'intimité... joie de pouvoir laisser
+   crever et couler sa pauvre âme boursouflée de lyrismes (R. Martin du
+   Gard, Devenir,1909, p. 22).Contemplation immédiate du vivant
+   principe... Cœur-à-cœur aussi étroit que possible avec « l'être » même
+   du Verbe incarné (Bremond, Hist. littér. du sentiment relig. en
+   France,1921, p. 647).À cœur ouvert. S'ouvrant à fond... parlait à cœur
+   ouvert et librement (E. et J. de Goncourt, Journal,1862, p. 1181).Un
+   ami avec lequel je suis intime à peine une fois par an, dans une de ces
+   causeries à cœur ouvert où l'on se dit tout (Renard, Journal,1900, p.
+   612).− P. anal. et plaisant. Quand j'ai dîné... besoin de causer à cœur
+   déboutonné (E. Augier, Philiberte,1853, II, p. 154).Au/du fond du cœur.
+   Au/du plus profond du cœur, au plus secret/dans le secret du cœur.
+   Selon son cœur. En accord avec sa nature profonde. Tort de demander aux
+   choses d'être selon son cœur, rencontre d'autant plus rare que le cœur
+   est plus curieusement raffiné (P. Bourget, Essais de psychol.
+   contemp.,1883, p. 9).Avoir le cœur sur les lèvres. S'exprimer
+   spontanément. Les gens francs et sincères qui ont le cœur sur les
+   lèvres (Mérimée, Théâtre de Clara Gazul,1825, p. 52).Parler d'abondance
+   de cœur (p. réf. à l'Évangile de St Mathieu, XII, 33 : c'est du
+   trop-plein du cœur que la bouche parle). ... tant besoin de m'attendrir
+   sur moi et sur les autres qu'il m'était tout à fait aisé de parler de
+   choses tristes et touchantes... d'abondance de cœur (Gobineau,
+   Nouvelles asiatiques,La Guerre des Turcomans, 1876, p. 211).Il y a loin
+   du cœur aux lèvres (Sue, Les Mystères de Paris,t. 1, 1842-43, p. 223).
+   Rem. Dans tous ces syntagmes et loc. prédomine l'image d'ouverture ou
+   de fermeture, d'expansion ou d'introversion.
+   − Spéc. en matière de création artistique. La personnalité morale la
+   plus intime comme objet d'étude ou instrument d'expression caractérisé
+   par son naturel et sa simplicité, opposé à la recherche de la
+   composition et du style, et plus généralement à l'artifice. Les
+   inspirations du cœur. L'art ne fait que des vers; le cœur seul est
+   poète (Chénier, Élégies,1794, p. 175).Ah! frappe-toi le cœur, c'est là
+   qu'est le génie (Musset, Premières poésies,À mon ami Édouard B. ds
+   Œuvres complètes, Paris, éd. du Seuil, 1832, p. 90).Mon cœur mis à nu
+   (Œuvre en prose de Baudelaire, 1867) :
+   34. ... il n'y a (...) rien de plus faible que de mettre en art ses
+   sentiments personnels. Suis cet axiome pas à pas, ligne par ligne.
+   Qu'il soit toujours inébranlable en ta conviction, en disséquant chaque
+   fibre humaine et en cherchant chaque synonyme de mot, et tu verras! tu
+   verras comme ton horizon s'agrandira, comme ton instrument ronflera et
+   quelle sérénité t'emplira! Refoulé à l'horizon, ton cœur t'éclairera du
+   fond au lieu de t'éblouir sur le premier plan. Toi disséminée en tous,
+   tes personnages vivront et au lieu d'une éternelle personnalité
+   déclamatoire, (...) on verra dans tes œuvres des foules humaines.
+   Flaubert, Correspondance,1852, pp. 378-379.
+   35. ... il n'y a rien chez Chausson d'antérieur au cœur, mais c'est que
+   le cœur, tantôt fleur et tantôt fruit, fleurit et fructifie
+   naturellement : ceci se devrait rattacher à la différence (...) entre
+   les deux mots : effusion et épanchement : effusion appartenant à
+   Franck, étant comme une aspiration lumineuse, une montée de rayons vers
+   l'au-delà; épanchement étant ce surplus, ce luxe qui choit du cœur à la
+   façon d'une larme comblée. Ce que Duhamel appelle le règne du cœur...
+   Du Bos, Journal,1924, p. 226.
+   Rem. Chez les aut. les plus romantiques, cœur dans cet emploi tend à
+   restreindre son accept. au sens de sentiment, sentimentalité (cf. II D)
+   :
+   36. Les poëtes cherchent le génie bien loin, tandis qu'il est dans le
+   cœur, et que quelques notes bien simples, touchées pieusement et par
+   hasard sur cet instrument monté par Dieu même, suffisent pour faire
+   pleurer tout un siècle, et pour devenir aussi populaires que l'amour et
+   aussi sympathiques que le sentiment. Le sublime lasse, le beau trompe,
+   le pathétique seul est infaillible dans l'art. Celui qui sait attendrir
+   sait tout. Il y a plus de génie dans une larme que dans tous les musées
+   et dans toutes les bibliothèques de l'univers. Lamartine, Les
+   Confidences,Graziella, 1849, p. 201.
+   2. En partic. (avec une nuance de jugement moral)
+   a) Conscience morale (naturelle ou religieuse), ensemble des vertus
+   et/ou des vices qui caractérisent tel individu. Regarder dans un noble
+   cœur comme dans une onde pure, et voir jusqu'au fond... un enchantement
+   (Amiel, Journal intime,1866, p. 458).Mon cœur... comme du linge raide
+   et lessivé, empilé droit sur des rayons d'armoire, rigidement classé
+   dans les chambres de Dieu (Malègue, Augustin,t. 1, 1933, p. 332):
+   37. À mesure que Sixte avançait dans le manuscrit, il lui semblait
+   qu'un peu de sa personne intime se souillait, se corrompait, se
+   gangrenait, tant il y retrouvait des choses de lui-même, mais un «
+   lui-même » cousu, par quel mystère? aux sentiments qu'il détestait le
+   plus au monde. Car dans ce philosophe illustre les saintes virginités
+   de la conscience demeuraient intactes, et, derrière le hardi nihiliste
+   d'esprit, un noble cœur d'homme naïf se dissimulait toujours. P.
+   Bourget, Le Disciple,1889, p. 213.
+   38. ... il y a une hiérarchie entre les âmes. Et d'abord il y a des
+   pensées viles − pour les cœurs mauvais. Et puis il y a des pensées
+   belles, mais faciles, il y a de pauvres, de misérables satisfactions
+   spirituelles pour ces cœurs qui ignorent profondément le mal, mais ne
+   se nourrissent que de vertus ordinaires. Mais quels sont ceux-ci qui
+   s'avancent, portant leurs cœurs au-devant d'eux, comme des flambeaux?
+   Ce sont les héroïques, les affamés de la vertu, les assoiffés de la
+   justice. Psichari, Le Voyage du centurion,1914, pp. 187-188.
+   SYNT. Cœur + adj. Cœur candide, contrit, flétri, innocent, naïf, noir,
+   pur, simple, soulagé, tranquille. Subst. + de/du cœur. Droiture,
+   humilité, paix, pureté, simplicité, sincérité de/du cœur.
+   − [P. allus. littér.]
+   ♦ [Au Livre de Jérémie, XVII, 10] Moi, Yahvé, je scrute le cœur, je
+   sonde les reins, pour donner à chacun selon sa conduite. Sonder les
+   reins et les cœurs. Ne... pas croire qu'un Dieu pourrait sonder les
+   cœurs et les reins et délimiter ce qui nous vient de la nature et ce
+   qui nous vient de la liberté (Merleau-Ponty, Phénoménologie de la
+   perception,1945, p. 197).
+   ♦ [À l'Évangile de St Mathieu, V, 8] Heureux ceux qui ont le cœur pur,
+   parce qu'ils verront Dieu. Ce que savent désigner des cœurs purs, des
+   âmes livrées, parce qu'elles sont incultes, à la contemplation et à son
+   lent enrichissement (Colette, Paysages et portraits,1954, p. 216).
+   ♦ [À Racine, Phèdre, 1677, IV, 2] Le jour n'est pas plus pur que le
+   fond de mon cœur. Le soleil d'un jour de juillet... pas plus pur dans
+   un ciel sans tache, que son noble cœur dans son sein chéri (Musset, La
+   Quenouille de Barberine,1840, I, 3, p. 294).
+   − [P. allus. hist. (à Émile Ollivier, à propos de la déclaration de
+   guerre à l'Allemagne en 1870)] D'un cœur léger. La conscience
+   tranquille. ... ne croirai jamais qu'un révolutionnaire puisse d'un
+   cœur léger ouvrir aux autres, les portes de la mort (Guéhenno, Journal
+   d'une « Révolution », 1938, p. 202).
+   − P. méton.
+   ♦ [Avec une valeur symbolique] Partie médiane de la poitrine, en
+   relation avec un geste de la main exprimant la sincérité. ... posa la
+   main sur son cœur pour donner sa parole sacrée (Zola, L'Assommoir,1877,
+   p. 786).La main sur le cœur. La main sur la conscience, en toute
+   franchise (cf. Frapié, La Maternelle, 1904, p. 263).
+   ♦ Personne considérée sous le rapport de sa conscience morale, de ses
+   vertus et/ou de ses vices. Un cœur simple (conte de Flaubert, 1877).
+   Incomplète foi... de ceux que l'épreuve terrasse. Les cœurs simples et
+   purs... heureux sous ma loi (Dierx, Poèmes et poésies,1864, p. 111).
+   b) (Qualité morale du) caractère. Un cœur à l'antique (Renard,
+   Journal,1892, p. 132):
+   39. ... tout devrait élever l'âme de l'homme qui, dès le jeune âge,
+   possède de tels privilèges, lui imprimer ce haut respect de lui-même
+   dont la moindre conséquence est une noblesse de cœur en harmonie avec
+   la noblesse du nom. Cela est vrai pour quelques familles. Ça et là,
+   dans le faubourg Saint-Germain, se rencontrent de beaux caractères, ...
+   Balzac, La Duchesse de Langeais,1834, p. 220.
+   SYNT. Cœur + adj. Cœur bien né, fier, haut placé, honnête, loyal,
+   noble. Subst. + de cœur. Homme de cœur. Homme d'honneur. [L'homme de
+   cœur et de conscience (Sainte-Beuve, Port-Royal, t. 5, 1859, p. 166)].
+   Verbe + du cœur. Avoir du cœur [... ont du cœur, de la fidélité
+   (Stendhal, Le Rouge et le noir, 1830, p. 371)].
+   Rem. hist. Le cœur était autrefois considéré comme l'organe noble par
+   excellence. La tradition de garder en relique le cœur de certains hauts
+   personnages s'est longtemps conservée. Le corps de Chopin... enterré,
+   son cœur excepté, qu'on envoya à Varsovie, où il est resté depuis dans
+   l'église à la Sainte-Croix. Beau symbole qui convient à ce cœur fidèle
+   (G. de Pourtalès, Chopin, ou le Poète, 1927, p. 245; cf. aussi
+   Sainte-Beuve, Port-Royal, t. 5, 1859, pp. 97-98).
+   − P. méton. Personne considérée sous le rapport de (la qualité de) son
+   caractère. Les cœurs de ce pays-là (...) les Italiens (...) bonnes gens
+   (Stendhal, La Chartreuse de Parme,1839, p. 2).Un homme loyal et bon, un
+   noble cœur (Ponson du Terrail, Rocambole,t. 1, L'Héritage mystérieux,
+   1859, p. 301).
+   C.− [Le cœur comme foyer ou réceptacle du dynamisme moral, de certaines
+   tendances volitives] « L'humanité est autant caractérisée par l'énergie
+   que par la tendresse, comme l'atteste familièrement l'heureuse
+   ambiguïté du mot cœur » (A. Comte, Système de pol. positive,1824, I,
+   266 ds Foulq.-St-Jean 1962).
+   1. Vieilli. Courage, vaillance, force d'âme :
+   40. ... si tu pleures toujours, je te croirai sans courage et sans
+   caractère : je n'aime pas les lâches; une impératrice doit avoir du
+   cœur. Napoléon I^er, Lettres à Joséphine,1807, p. 128.
+   − P. anal. [En parlant d'animaux, notamment de chevaux] Les chevaux
+   (...) d'un sang ardent, d'un cœur égal. Bien faits pour chevaucher de
+   compagnie, fringants, rapides et sans peur (Pesquidoux, Le Livre de
+   raison,1925, p. 226).Le cœur (...) l'émulation ardente, le désir
+   incoercible de primer, je ne sais quelle étincelle qui couve en
+   certains animaux (Pesquidoux, Le Livre de raison,1928, p. 205).
+   SYNT. Cœur + adj. Cœur défaillant, intrépide, lâche, solide, vaillant.
+   Cœur + subst. (Avoir un) cœur de fer, de lièvre [... aisé d'avoir du
+   courage avec des gens à cœurs de lièvre (Mérimée, La Jacquerie, 1828,
+   p. 69)], de lion [Bravoure de la jeune fille (...) dans l'étroite cage
+   de sa maigre poitrine un vrai cœur de lion ou de héros antique (T.
+   Gautier, Le Capitaine Fracasse, 1863, p. 322)], de poule, de poulet [Un
+   vrai canari, d'habit et de caractère... tu as un cœur de poulet
+   (Mérimée, Carmen, 1847, p. 44)]. Cœur + verbe. Défaillir. Verbe + cœur.
+   Perdre cœur [Ne jamais lâcher (...) la seule honte (...) perdre cœur
+   (Pourrat, Gaspard des montagnes, À la belle bergère, 1925, p. 289)].
+   Verbe + le cœur. Faire défaillir, ranimer, remettre, remonter le cœur.
+   ♦ Loc. Le cœur me manque (Bloy, Journal, 1901, p. 46). [Gén. avec une
+   nuance péj.] Avoir le cœur de. [Il] a eu le cœur de se mettre à plat
+   ventre devant ceux qui pouvaient le servir, et la finesse d'être
+   insolent avec ceux dont il n'avait plus besoin (Balzac, La Maison
+   Nucingen,1838, p. 593).Fam. Avoir/donner/mettre/remettre le/du cœur au
+   ventre. Cherchait à lui mettre le cœur au ventre et lui disait chemin
+   faisant : « Allegramente! » (Chateaubriand, Mémoires d'Outre-Tombe,t.
+   4, 1848, p. 180).Si tu as des c au c. (...) si tu as du cœur au ventre
+   (Barrès, Mes cahiers,t. 5, 1906-07, p. 30).Arg. Être en cœur. Nous
+   sommes en cœur et eux en peur (G. d'Esparbès, Le Roi,1901, p. 166).
+   ♦ Devises. À cœur vaillant, rien d'impossible. Devise de Jacques Cœur.
+   Maison de Jacques Cœur (...) À vaillans cœurs rien impossible
+   (Michelet, Journal,1835, p. 214).Haut les cœurs! Les élèves de l'école
+   des garçons, qui viennent braire un chœur imbécile : « Sursum corda!
+   Sursum corda! Haut les cœurs! Que cette devise soit notre cri de
+   ralliement » (Colette, Claudine à l'école,1900, p. 303).
+   − P. allus. littér. [À P. Corneille, Le Cid, 1636, I, 5] Rodrigue,
+   as-tu du cœur? Ah! France! As-tu du cœur? (...) As-tu des dents pour
+   mordre? (Quinet, Napoléon,1836, p. 282).
+   Rem. De nos jours, cette allus. se fait surtout dans une intention
+   plais., ironique.
+   − P. méton. Personne considérée sous le rapport de sa vaillance.
+   Richard I^er, Cœur-de-Lion (roi d'Angleterre, 1157-99) :
+   41. ... une poitrine large... annonce, avec un grand poumon, un cœur
+   plus énergique, et par conséquent... une circulation plus rapide et
+   plus forte; de là cette expression commune en parlant des héros : un
+   grand cœur. Stendhal, Hist. de la peinture en Italie,t. 2, 1817, p. 40.
+   Rem. gén. (sur II C 1). Dans cette accept., cœur a donné lieu au dér.
+   cœuru, e, adj. [En parlant d'une pers.] Vx., dial. Qui a du cœur, de la
+   vaillance. Les lois (...) des mots appliqués par de malheureux scribes
+   de quat'sous, qui ne tiennent pas devant des gens cœurus et décidés (J.
+   de La Varende, La Dernière fête, 1953, p. 35); cf. aussi Guérin 1892
+   pour ce même sens, mais J. de La Varende emploie cœuru en d'autres
+   accept., notamment à propos de bois. S'il y reste de l'aubier, cette
+   matière épidermique et molle qui finit par pourrir, la partie cœurue se
+   conserve assez forte pour garder sa puissance (La Normandie en fleurs,
+   1950, p. 149).
+   2. Disposition (ou manque de disposition) à souhaiter, faire telle
+   chose. Désir, vœu du cœur :
+   42. Nous ne faisons pour ainsi dire jamais tout ce que nous voulons
+   comme nous le voulons; des résistances imprévues, des frottements, des
+   heurts usent, entament et dévient la volonté. On se connaît bien en
+   général, mais à chaque instant on s'ignore; et c'est ce moment qui
+   décide des actes. Nos désirs souvent nous cachent nos vrais désirs. Il
+   y a deux cœurs dans le cœur humain; et l'un ne sait pas les pensées de
+   l'autre. Mais par le seul fait qu'une décision est prise et qu'un
+   effort est tenté, la situation intérieure a changé; l'hôte voilé en
+   nous se découvre; ... M. Blondel, L'Action,1893, p. 170.
+   − Locutions
+   ♦ Le cœur y est/n'y est pas :
+   43. ... le presque-rien est absolument tout; les bonnes œuvres, sans
+   lui, ne sont qu'une mimique de singe et une façade dépourvue
+   d'intériorité, et nous disons, faute de mieux, que « le cœur n'y est
+   pas ». Si le cœur y est, rien n'y est... et tout y est! Le cœur qui
+   n'est rien, qui est tout, qui est à la lettre, le tout-et-rien du
+   bienfait. (...) la distance est infiniment infinie, à bienfait
+   équivalent, entre une bienfaisance sans bienveillance, où « le cœur »
+   n'est pas, et une bienfaisance bien intentionnée dont toute l'âme et
+   toute la réalité résident dans un insaisissable bon vouloir.
+   Jankélévitch, Le Je-ne-sais-quoi et le presque-rien,1957, pp. 66-67.
+   ♦ Si le cœur vous en dit. Si vous êtes disposé à telle chose. Pour peu
+   que le cœur en dise au ministère, je suis aussi disposé à le quitter,
+   qu'il est disposé à la malveillance pour moi (Chateaubriand,
+   Correspondance gén.,t. 2, 1789-1824, p. 173).Avoir/n'avoir pas le cœur
+   à qqc./à l'ouvrage. Être/n'être pas disposé à telle chose. Tu as le
+   cœur à rire, moi je l'ai à pleurer (Hémon, Maria Chapdelaine,1916, p.
+   131).Pourquoi n'aurais-je plus de cœur à l'ouvrage (Bernanos,
+   L'Imposture,1927, p. 449).Accepter/consentir/faire
+   qqc./rire/souhaiter... de bon cœur/ de mauvais cœur. Accepter, etc. de
+   bon/mauvais gré. Puisque vous êtes de bon cœur et de bonne volonté (G.
+   Sand, Monsieur Sylvestre,1866, p. 97).Faire contre mauvaise fortune bon
+   cœur (S. de Beauvoir, Les Mandarins, 1954, p. 438).
+   ♦ [Avec une valeur intensive] Avoir/prendre (qqc.) à cœur. Y prendre
+   beaucoup d'intérêt. Trouver une personne très respectable, très
+   dévouée, qui prît la chose plus à cœur (Zola, La Conquête de
+   Plassans,1874, p. 983).Avoir à cœur de. Être bien décidé à. J'ai à cœur
+   de faire un ouvrage aussi parfait (Balzac, Correspondance,1834, p.
+   526).Tenir au cœur (de qqn). S'y attacher par une forte adhésion
+   intime. Tout ce qui me tient à cœur et m'importe (Gide, Journal,1943,
+   p. 182).Faire qqc. avec cœur/de tout son cœur Mettre du cœur à
+   l'ouvrage/à qqc. Y mettre beaucoup d'ardeur. Il y mettait tout son cœur
+   (E. et J. de Goncourt, Journal,1894, p. 681).
+   Rem. Pour l'expr. à contre-cœur, v. contre-cœur*.
+   D.− [Le cœur comme foyer ou réceptacle de la vie affective]
+   1. Centre de résonance de la sensibilité aux phénomènes extérieurs, de
+   la disposition à y répondre par des émotions diverses (joie, peine,
+   colère, etc.) :
+   44. Tous ces hommes de fer, tous ces preux invincibles portaient dans
+   leur poitrine un cœur tendre et naïf comme celui des enfans. On ne leur
+   avait point encore appris à flétrir l'innocence naturelle de leurs
+   sentimens, ou à en rougir. Ils n'avaient point encore desséché et glacé
+   dans leurs âmes la source des émotions simples, pures et fortes, de
+   cette rosée divine qui féconde et embellit la vie. Montalembert, Hist.
+   de Ste Élisabeth de Hongrie,1836, p. 72.
+   45. ... le cœur humain est le jouet de tout, et l'on ne saurait prévoir
+   quelle circonstance frivole cause ses joies et ses douleurs.
+   Chateaubriand, Mémoires d'Outre-Tombe,t. 1, 1848, p. 102.
+   46. Il pleure dans mon cœur Comme il pleut sur la ville; Quelle est
+   cette langueur Qui pénètre mon cœur? Ô bruit doux de la pluie Par terre
+   et sur les toits! Pour un cœur qui s'ennuie Ô le chant de la pluie!
+   (...). C'est bien la pire peine De ne savoir pourquoi Sans amour et
+   sans haine Mon cœur a tant de peine! Verlaine, Romances sans
+   paroles,1874, p. 14.
+   47. Le goût de l'héroïque et du passionnel Qui flotte autour des corps,
+   des sons, des foules vives, Touche avec la brûlure et la saveur du sel
+   Mon cœur tumultueux et mon âme excessive... La nature, le bois, les
+   houles de la rue M'emplissent de leurs cris et de leurs mouvements; Je
+   suis comme une voile où la brise se rue. Ah! vivre ainsi les jours qui
+   mènent au tombeau, Avoir le cœur gonflé comme le fruit qu'on presse Et
+   qui laisse couler son arome et son eau; Loger l'espoir fécond et la
+   claire allégresse! A. de Noailles, Le Cœur innombrable,1901, pp. 19-20.
+   Rem. Dans certains ex., cœur prend une valeur péj. et se rapproche
+   plutôt du sens de sensiblerie :
+   48. Il voyait l'art allemand tout nu. Tous, − les grands et les sots, −
+   étalaient leurs âmes avec une complaisance attendrie. L'émotion
+   débordait, la noblesse morale ruisselait, le cœur se fondait en
+   effusions éperdues; les écluses étaient lâchées à la redoutable
+   sensibilité germanique; elle diluait l'énergie des plus forts, elle
+   noyait les faibles sous ses nappes grisâtres : c'était une inondation;
+   la pensée allemande dormait au fond. R. Rolland, Jean-Christophe,La
+   Révolte, 1907, p. 388.
+   SYNT. Cœur + adj. Cœur affligé, agité, amer, aride, attendri, avide,
+   battant, blessé, bondissant, bouleversé, brisé, broyé, chaviré,
+   content, crevé, crispé, déchiré, désolé, dévoré, ému, froid, gai,
+   glacé, gonflé, gros [Comme le cœur dont on dit qu'il est trop gros
+   lorsque l'excès du chagrin semble engager celui qui souffre à le fuir
+   (J. Bousquet, Traduit du silence, 1935-36, p. 76)], inondé, joyeux,
+   lassé, léger, lourd [Le cœur n'est jamais si lourd que quand il est
+   vide (Lamartine, Les Confidences, 1849, p. 376)], malheureux, meurtri,
+   navré, noyé, oppressé, palpitant, rempli, saignant, serré [Si triste
+   que fût notre cœur serré et ficelé de soucis (Barrès, Mes cahiers, t.
+   2, 1898-1902, p. 8)], souffrant, touché, tremblant, triste, troublé [Le
+   cœur troublé de sensations extraordinaires, l'âme émue (Maupassant,
+   Contes et nouvelles, t. 2, Menuet, 1882, p. 1251)], ulcéré. Adj. +
+   cœur. Misérable, pauvre cœur. Subst. + de + cœur. Déchirement,
+   pincement, serrement de cœur. Subst. + du cœur. Amertume, fibres,
+   plaies, plaisir, tumulte du cœur. L'eau/ la pluie du cœur. Les larmes
+   (cf. Lamartine, Les Confidences, Graziella, 1849, p. 253; Montherlant,
+   Le Maître de Santiago, 1947, II, 3, p. 642). Cœur + verbe. Bondir, se
+   briser, se déchirer, se dilater, éclater, s'élancer, s'émouvoir,
+   s'épanouir, être en proie à, se fendre, se fondre, se glacer, se
+   gonfler, palpiter, saigner, sauter, sentir, se serrer, tressaillir.
+   Verbe + le/son cœur. Agiter, apaiser, arracher, attendrir,
+   avoir/serrer/tenir (...) dans un étau, blesser, briser, broyer, crever,
+   déchirer, dessécher, dévorer, dilater, échauffer, écraser, émouvoir,
+   emplir, envahir, épanouir, étouffer, étreindre, faire
+   battre/bondir/palpiter/saigner/souffrir/tressaillir, fendre, glacer,
+   gonfler, habiter, inonder, mordre, navrer, noyer, occuper, percer,
+   pincer, réchauffer [Réchauffa le cœur de la foule et la mit en
+   meilleure disposition pour écouter le discours (Aymé, Le Nain, 1934, p.
+   241)], réjouir, remplir, remuer, ronger, sentir battre, serrer, tordre,
+   torturer, toucher, transpercer, traverser le/son cœur. Verbe + au cœur.
+   Aller [Choses désuètes, froides, un peu scolaires, incapables d'aller
+   au cœur, et surtout aux nerfs du public (H. Ghéon, Promenades avec
+   Mozart, 1932, p. 328)], faire chaud/froid/mal, inspirer, parler au
+   cœur. Verbe + dans le/son cœur. Couler, enfoncer/ plonger un poignard,
+   s'enfoncer, entrer, éveiller, mettre, naître, nourrir, se passer,
+   pénétrer, retentir dans le/son cœur. Verbe + sur le cœur. Avoir qqc./un
+   poids, en avoir gros/lourd [Tapait les pieds d'un air rageur... devait
+   en avoir gros sur le cœur (Zola, Son Excellence E. Rougon, 1876, p.
+   247)], garder qqc., peser (lourd), rester [Qu'elle est juste
+   l'expression populaire « des paroles qui restent sur le cœur »!
+   Celles-là faisaient un bloc dans ma poitrine (Bernanos, Journal d'un
+   curé de campagne, 1936, p. 1085)] sur le cœur.
+   − Loc. a) Princ. subst. Le cœur en fête (L. de Vilmorin, Le Retour
+   d'Érica, 1946, p. 107). (Avec) l'angoisse/ un coup (de couteau)/le
+   désespoir/l'espérance/la joie/la rage au/dans le cœur [La mort au cœur
+   (Ponson du Terrail, Rocambole,t. 4, Les Exploits de Rocambole,1859, p.
+   87)].De gaieté de cœur [De gaieté de cœur et par plaisir (Barrès, Les
+   Déracinés,1897, p. 483)].b) Princ. verbales. Le cœur me fend (E.
+   Rostand, Cyrano de Bergerac, 1898, I, 4, p. 49). À cœur fendre. S'en
+   donner (etc.) à cœur joie [S'en donnait à cœur joie... y mettait toute
+   la sauce (Céline, Mort à crédit,1936, p. 518)].
+   Rem. Dans les nombreux syntagmes ou loc. auxquels cœur se prête en
+   cette accept., on remarquera l'abondance des images évoquant des
+   réalités très concr. (poids, volume, agitation, blessure, chaud ou
+   froid, etc.) et rappelant les liens étroits du phys. et du moral.
+   − Proverbe. Cœur qui soupire n'a pas ce qu'il désire.
+   − P. allus. littér. [aux Psaumes, 104. 15] Le vin qui réjouit le cœur
+   de l'homme (Villiers de L'Isle-Adam, Contes cruels,Les Demoiselles de
+   Bienfilâtre, 1883, p. 7);cf. aussi Huysmans, L'Oblat, t. 2, 1903, p.
+   108.
+   2. Centre général de résonance ou de rayonnement des sentiments.
+   Affections, besoins, sentiments du cœur. Localis[er] (...)
+   l'intelligence dans la tête (...) le sentiment dans le cœur (Leroux, De
+   l'Humanité,t. 2, 1840, p. 392):
+   49. Le cœur n'est qu'un morceau de chair bleuâtre qui ressent vivement
+   les mouvements de reflux imprimés au sang par les idées dans le
+   cerveau, mais je le crois impuissant à créer des sentiments, comme
+   c'est assez sa réputation. Vigny, Le Journal d'un poète,1843, p. 1198.
+   − Absol. (p. ell.). Le cœur. L'affectivité, le sentiment, la
+   sentimentalité. Anachronisme qui empêche si souvent le calendrier des
+   faits de coïncider avec celui des sentiments (...) intermittences du
+   cœur (Proust, Sodome et Gomorrhe,1922, p. 756).Barrès qui fait appel au
+   cœur, aux ressources du sentiment (Massis, Jugements,1923, p. 208):
+   50. Ce qu'on appelle le cœur est donc la solidarité affective, cette
+   puissance qui fond plusieurs existences en une seule, une extension de
+   notre sensibilité, telle qu'elle souffre ou jouit par une surface
+   infiniment plus grande que celle de notre simple individu; plus
+   brièvement, c'est l'identification morale de plusieurs existences par
+   la sympathie instinctive, par conséquent une augmentation d'être pour
+   chacune d'elles, mais un accroissement corrélatif de dépendance. Le
+   cœur nous dilate, nous étend, nous épanche au dehors, précisément au
+   rebours de l'égoïsme qui nous rétrécit et nous contracte. Amiel,
+   Journal intime,1866, p. 44.
+   − [P. allus. littér. (à La Rochefoucauld, Réflexions ou sentences et
+   maximes morales, 1664, verset 102)] L'esprit est toujours la dupe du
+   cœur (cf. Sénac de Meilhan, L'Émigré, 1797, p. 1671; Gide, La Symphonie
+   pastorale, 1919, p. 916 qui utilisent cette formule avec la var.
+   souvent).
+   3. Siège des sentiments liés à des situations particulières.
+   a) [Dans les rapports familiers, amicaux] La servante au grand cœur
+   (Baudelaire, Les Fleurs du Mal,1857-61, p. 174):
+   51. On me demande des conformités qui ne sont pas en mon pouvoir, des
+   expansions que j'accorderai par égard et jamais par nature, et des
+   expressions d'une tendresse résidant dans ma raison et sans doute aussi
+   dans mon cœur, mais non pas sensiblement et à précipiter les
+   pulsations. Serais-je entendu si je m'exposais en cette manière? Ceux
+   qui aiment avec le cœur peuvent-ils se rendre à la vérité d'une
+   affection rationnelle? M. de Guérin, Correspondance,1835, p. 222.
+   52. Mes parents, ma sœur, je les aimais : ce mot couvrait tout. Les
+   nuances de mes sentiments, leurs fluctuations, n'avaient pas droit à
+   l'existence. Zaza était ma meilleure amie : il n'y avait rien de plus à
+   dire. Dans un cœur bien ordonné, l'amitié occupe un rang honorable,
+   mais elle n'a ni l'éclat du mystérieux amour, ni la dignité sacrée des
+   tendresses filiales. Je ne mettais pas en question cette hiérarchie. S.
+   de Beauvoir, Mémoires d'une jeune fille rangée,1958, p. 94.
+   ♦ P. anal. (à propos d'un animal, d'un végétal ou d'une chose). Mon
+   pauvre Childebrand à l'amitié si franche, Le meilleur cœur de chat et
+   l'âme la plus blanche (T. Gautier, Albertus,1833, p. 130).Beau livre
+   que l'on pourrait écrire sur « le cœur des plantes », où l'on
+   montrerait l'exemple touchant de celles chez qui cet organe
+   hypertrophié empêcha sans doute de se développer le cerveau, qui (...)
+   préfèrèrent aux joies de l'invention celle très pure de conserver leurs
+   enfants tout près d'elles (Gide, Feuillets,1889-1939, p. 808).
+   ♦ [Avec une valeur allégorique] :
+   53. Le sang coule à longs flots de sa poitrine ouverte; En vain il [le
+   pélican] a des mers fouillé la profondeur : L'océan était vide, et la
+   plage déserte; Pour toute nourriture il apporte son cœur. Sombre et
+   silencieux, étendu sur la pierre, Partageant à ses fils ses entrailles
+   de père, Dans son amour sublime il berce sa douleur, (...) Poète, c'est
+   ainsi que font les grands poètes. Ils laissent s'égayer ceux qui vivent
+   un temps; Mais les festins humains qu'ils servent à leurs fêtes
+   Ressemblent la plupart à ceux des pélicans. Musset, La Nuit de
+   mai,1835, p. 67.
+   SYNT. Cœur maternel, paternel; cœur de mère; ami de cœur. (Ne pas)
+   porter qqn dans son cœur. Éprouver ou non de l'amitié pour lui (cf.
+   Genevoix, Raboliot, 1925, p. 213).
+   ♦ P. méton.
+   [Avec une valeur symbolique] Partie médiane de la poitrine, en relation
+   avec un mouvement exprimant l'affection. Étendit les bras, (...) sentit
+   battre contre son cœur un cœur qui l'aimait (R. Bazin, Le Blé qui
+   lève,1907, p. 327).
+   SYNT. Cœur contre/sur cœur; appuyer/presser/serrer qqn contre/ sur son
+   cœur.
+   Personne qui inspire ou éprouve de l'affection. Quel homme tendre
+   c'était que cet archevêque, quel cœur sensible et fertile en
+   ménagements! (Sainte-Beuve, Port-Royal, t. 5, 1859, p. 28).Elle qui
+   avait connu dans ses langes ce pauvre agneau, ce petit cœur joli
+   (Pourrat, Gaspard des montagnes,Le Pavillon des amourettes, 1930, p.
+   104).
+   b) [Dans les rapports amoureux (gén. p. oppos. à la sensualité, à la
+   sexualité)] La pire de toutes les mésalliances est celle du cœur
+   (Chamfort, Maximes et pensées,1794, p. 65).Le labyrinthe du cœur
+   féminin : si compliqué et si plein de routes enchevêtrées (Theuriet, La
+   Maison des deux barbeaux,1879, p. 128):
+   54. Je l'aime beaucoup mieux quand je ne la vois pas que quand je la
+   vois. En absence, mon imagination retranche ce qui la choque, ajoute
+   quelque chose de ce qui manque, suppose ce qui lui convient. Je l'ai
+   pensé souvent : le sentiment de l'amour n'a rien de commun avec l'objet
+   qu'on aime. C'est un besoin du cœur qui revient périodiquement à des
+   époques plus éloignées que les besoins des sens, mais de la même
+   manière; et comme l'attrait des sexes fait qu'on cherche une femme dont
+   on puisse jouir, n'importe laquelle, le besoin du cœur cherche à se
+   placer sur un objet qui l'attire ou par de la douceur, ou par de la
+   beauté, ou par telle autre qualité qui devient le prétexte que le cœur
+   allègue à l'imagination pour justifier son choix. Constant, Journaux
+   intimes,1803, p. 33.
+   55. J'éprouve pour toi un mélange d'amitié, d'attrait, d'estime,
+   d'attendrissement de cœur et d'entraînement de sens qui fait un tout
+   complexe, dont je ne sais pas le nom mais qui me paraît solide. (...).
+   Les sens, un jour, vous mènent ailleurs; le caprice s'éprend à des
+   chatoiements nouveaux. Qu'est-ce que cela fait? Si je t'avais aimée
+   dans le temps comme tu le voulais alors, je ne t'aimerais plus autant
+   maintenant. Les affections qui suintent goutte à goutte de votre cœur
+   finissent par y faire des stalactites. Cela vaut mieux que les grands
+   torrents qui l'emportent. Flaubert, Correspondance,1852, p. 347.
+   56. ... je sentais grandir en moi une étrange et poignante émotion, un
+   attendrissement infini, quelque chose comme un besoin d'ouvrir mes bras
+   pour étreindre, et d'ouvrir mon cœur pour aimer, de me donner, de
+   donner mes pensées, mon corps, ma vie, tout mon être à quelqu'un! Ma
+   compagne murmura, comme dans un songe : « Où sommes-nous? Où
+   allons-nous? Il me semble que je quitte la terre? Comme c'est doux! Oh!
+   si vous m'aimiez... un peu!!! » Mon cœur se mit à battre. Je ne pus
+   rien répondre; il me sembla que je l'aimais. Je n'avais plus aucun
+   désir violent. J'étais bien ainsi, à côté d'elle, et cela me suffisait.
+   Maupassant, Contes et nouvelles,t. 2, Lettre trouvée sur un noyé, 1884,
+   p. 906.
+   57. La plénitude de cet amour le confondait. Il ne savait trop quel
+   chemin prendre pour faire monter vers Dieu sa gratitude ni quel sens
+   exact donner au terme : bénédiction. Tout cela palpitait entre ciel et
+   terre. La douceur de certains mots lui était littéralement intolérable
+   : celui de « petite Anne », celui de « fiancée ». Ils produisaient un
+   arrêt du cœur réel, senti, d'une ou deux secondes. Dans sa poitrine, en
+   attente et ne servant à rien, une sorte de velours intérieur trop
+   chaud, s'étalait, contre lequel battait ce cœur. Il pensait aux
+   vieilles images : feu, blessure, tant raillées; c'était bien cela
+   cependant. Malègue, Augustin,t. 2, 1933, p. 111.
+   58. Notre amitié était une chose extrêmement bien. Mais le cœur infecte
+   tout. Sur le plan de l'amitié, ou sur le plan de la sensualité, les
+   choses sont saines, les plaies, s'il s'en forme, sont nettes. Arrive le
+   cœur, et la plaie gagne, tout se prend. Combien de fois ai-je remarqué
+   cela! − Ce que vous dites est absurde. Le cœur n'infecte rien; au
+   contraire, il purifie tout. C'est trop idiot, à la fin! Et ce serait le
+   « plan de la sensualité » qui serait pur! Je vous apporterais une
+   grande passion physique, vous me la pardonneriez... être provocante,
+   vous faire comprendre que je cherche seulement le plaisir, vous me
+   mépriseriez peut-être, mais vous accepteriez. Mais vous offrir de
+   l'amour, quelle gêne! quel ennui! Si on nous fichait un peu la paix
+   avec l'amour! Montherlant, Les Jeunes filles,1936, p. 969.
+   SYNT. Cœur + adj. Cœur aimant, ardent, brûlant, changeant, embrasé,
+   enflammé, épris, éteint, fidèle, inaccessible, inoccupé, jeune (Hugo,
+   Hernani, 1830, III, 1, p. 57), libre, occupé, passionné, percé,
+   solitaire, tendre, trahi, transpercé, vide, vieux, volage. Cœur de +
+   subst. Cœur de femme. Subst. + au cœur. L'amour au cœur. Subst. + de
+   cœur. Affaire, amant, amour [mieux qu'un amour de tête, et pas
+   tout-à-fait un amour de cœur (Sainte-Beuve, Causeries du lundi, t. 2,
+   1851-62, p. 337)], coup (E. et J. de Goncourt, Journal, 1859, p. 647),
+   jeunesse, peine (s) [Les peines de cœur et les infortunes idéales
+   (Vigny, Chatterton, 1835, p. 238)], solitude, tendresse de cœur. − Arg.
+   Valet de cœur (cf. I A 1b p. anal. de forme et de couleur, spéc.,
+   jeux). Subst. + du cœur. Blessure, courrier, entraînements, faiblesses,
+   presse [Jusqu'au moment du moins où elle devint ma maîtresse et où je
+   compris que la presse du cœur, qui enseignait à parler de l'amour,
+   n'apprenait pas à le faire (Camus, La Chute, 1956, p. 1524)], trouble,
+   vide du cœur. Subst. + des cœurs. Bourreau des cœurs [Beau mâle,
+   bourreau des cœurs (Zola, Travail, t. 1, 1901, p. 39)]. − P. anal. Un
+   beau casse-cœurs (Colette, La Jumelle noire, 1938, p. 80). Cœur +
+   verbe. Aimer, s'amollir. Verbe + le/son cœur. Amollir, brûler, se
+   disputer, donner, enflammer, gagner, offrir, partager, posséder,
+   prendre, ravir, refuser, toucher, troubler le/son cœur. Verbe +
+   avec/dans/de son cœur. Aimer avec/dans/de (tout) son cœur (Montherlant,
+   Pitié pour les femmes, 1936, p. 1134). Verbe + du cœur. S'emparer du
+   cœur, trouver le chemin du cœur.
+   Rem. Dans cette accept., les images évoquées par les assoc.
+   syntagmatiques de cœur sont surtout celles de la conquête, de la
+   combustion, de la blessure (cf. ex. 57).
+   Proverbe. Loin des yeux, loin du cœur (except. Loin des yeux, près du
+   cœur ds Flaubert, Correspondance, 1879, p. 240).
+   ♦ [En réf. à la représentation iconographique stylisée du cœur
+   symbolisant l'amour sentimental] Un cœur en or. ... peint un cœur
+   enflammé pour dire l'amour, un cœur flétri pour dire le chagrin
+   (Destutt de TracyÉléments d'idéologie,Grammaire, 1803, p. 308).Un nom
+   de femme, Iris de carrefour, que surmontait un cœur percé d'une flèche
+   semblable à une arête de poisson (T. Gautier, Le Capitaine
+   Fracasse,1863, p. 304).
+   ♦ P. méton.
+   [Avec une valeur symbolique] Partie médiane de la poitrine en relation
+   avec un geste exprimant l'amour sentimental. Appuyant sa main sur son
+   cœur avec le geste passionné d'un jeune premier; je l'aime! (Ponson du
+   Terrail, Rocambole,t. 1, L'Héritage mystérieux, 1859, p. 384).Presser
+   Anne sur mon cœur, sur ma poitrine (Giraudoux, Simon le
+   Pathétique,1926, p. 169).
+   Personne qui inspire ou éprouve de l'amour sentimental. Ses triomphes
+   féminins et cette longue brochette de cœurs ardents (Miomandre, Écrits
+   sur de l'eau,1908, p. 56).Le tout de cette vie (...) trouver une
+   compagnie, un beau cœur aimant près de qui demeurer toujours (Pourrat,
+   Gaspard des montagnes,À la belle bergère, 1925, p. 50).
+   SYNT. Cœur + de + subst. Cœur d'artichaut*. Verbe + un/les cœur(s).
+   Conquérir, gagner les cœurs; n'être qu'un (seul) cœur.
+   Loc. Une chaumière et un/deux cœur(s) (cf. bonheur ex. 21).Gentil/joli
+   comme un cœur. Gentil/joli comme un amour. Dire qu'il est gentil comme
+   un cœur (...) qu'il avait de beaux yeux (Musset, Namouna,1832, p.
+   398).Jolie comme un cœur (...) ma mignonne (A. France, Nos
+   enfants,1887, p. 23).P. anal. Des vers jolis, jolis comme des cœurs
+   (Renard, Journal,1897, p. 397).(Sans doute par contraction de joli
+   comme un cœur, péj.) faire le joli cœur. Jouer les galants :
+   59. ... ils faisaient les jolis cœurs; les épaules rondes, l'air
+   vaurien, ils répondaient par d'égrillards sourires au sourire amusé des
+   filles plantées debout au seuil des maisons... Courteline, Le Train de
+   8 h 47,1888, 2^epart., X, p. 211.
+   Rem. Except. employé adjectivement :
+   60. ... dans le genre brun, tout rasé, avec yeux de velours, épaules
+   larges, et pas soupçon de hanches, on ne peut rêver rien de plus joli
+   cœur que Jacques Lamberdesc, ... Aragon, Les Beaux Quartiers,1936, p.
+   35.
+   [P. allus. littér. (à Racine, Phèdre, 1677, II, 5)] Charmant, jeune et
+   traînant tous les cœurs après soi (G. Duhamel, Chronique des
+   Pasquier,Suzanne et les jeunes hommes, 1941, p. 192);cf. aussi Sartre,
+   Les Mots, 1964, p. 155.
+   En interj. Terme d'affection (utilisé dans les rapports familiaux,
+   amicaux ou amoureux). Les mots mon cœur, mon bijou, mon petit chou, ma
+   reine, tous les diminutifs amoureux de 1770 (Balzac, La Vieille
+   fille,1836, p. 261).Mon amour, mon inquiétude, mon cher cœur (Michelet,
+   Journal,1857, p. 337).Mon petit cœur, mon cœur, ma petite chérie
+   (Géraldy, Toi et moi,1913, p. 32).
+   c) [Dans les rapports soc., humanitaires] Bonté, humanité,
+   reconnaissance (...) tous les sentiments qui épanouissent le cœur (A.
+   Dumas Père, Le Comte de Monte-Cristo, t. 1, 1846, p. 377):
+   61. Il faudrait guérir l'âme. Le pauvre suppose qu'en liant le riche
+   par telle loi, tout est fini, que le monde ira bien. Le riche croit
+   qu'en ramenant le pauvre à telle forme religieuse, morte depuis deux
+   siècles, il raffermit la société... Beaux topiques! Ils imaginent
+   apparemment que ces formules, politiques ou religieuses, ont une
+   certaine force cabalistique pour lier le monde, comme si leur puissance
+   n'était pas dans l'accord qu'elles trouvent ou ne trouvent pas dans le
+   cœur! Le mal est dans le cœur. Que le remède soit aussi dans le cœur!
+   Laissez là vos vieilles recettes. Il faut que le cœur s'ouvre, et les
+   bras... Eh! ce sont vos frères, après tout. L'avez-vous oublié? ...
+   Michelet, Le Peuple,1846, p. 175.
+   62. Un groupe n'est pas seulement une autorité morale qui régente la
+   vie de ses membres, c'est aussi une source de vie sui generis. De lui
+   se dégage une chaleur qui échauffe ou ranime les cœurs, qui les ouvre à
+   la sympathie, qui fait fondre les égoïsmes. Durkheim, De la Division du
+   travail soc.,1893, p. XXX.
+   63. Il est à Bar-Le-Duc un fameux monument que les auteurs anciens
+   appelaient « le mausolée du cœur ». C'est un squelette à demi décharné,
+   cependant droit et irréductible, la tête levée, ses orbites vides
+   tournées vers son cœur de vermeil qu'il tend à bout de bras, vers le
+   ciel, dans un élan d'invincible volonté. Voilà l'idée qu'il faudrait
+   qu'un architecte sût traduire en monument pour l'ossuaire de Douaumont.
+   (...). C'est devant cette image posée dans ce lieu même des grandes
+   souffrances, devant cette immortelle affirmation d'espoir et de
+   vouloir, devant cet appel des morts qui nous tendent, à nous et au juge
+   suprême, leur cœur à vérifier, que nous comprendrons le mieux comment
+   toute haute vie, toute pensée, tout art, toute nation surgissent d'une
+   profondeur de sacrifice. Barrès, Mes cahiers,t. 13, 1920-22, pp.
+   248-249.
+   SYNT. Cœur + adj. Cœur compatissant, délicat, dévoué, dur, endurci,
+   généreux, ingrat, reconnaissant, sec [Le cœur sec comme un caillou
+   (Flaubert, Correspondance, 1870, p. 154)], sensible. Adj. + cœur. Bon
+   [Joue[r] la comédie « du bon cœur » (...) guigne[r] le « bon effet » de
+   sa générosité (Frapié, La Maternelle, 1904, p. 221)], brave, excellent,
+   grand [Dans sa poitrine un grand cœur généreux, avide de faire le bien
+   (R. Rolland, Jean-Christophe, La Nouvelle journée, 1912, p. 1491)],
+   mauvais, meilleur cœur. Cœur de + subst. Cœur d'airain [D'une voix qui
+   eût amolli un cœur d'airain (Sandeau, Melle de La Seiglière, 1848, p.
+   139)], de bronze, de glace, de granit, de marbre, d'or [Tu es un brave
+   garçon, tu as un cœur d'or (Balzac, Pierre Grassou, 1840, p. 442)], de
+   pierre (Karr, Sous les tilleuls, 1832, p. 140), de roche (Sue, Atar
+   Gull, 1831, p. 7), de tigre, de vipère. Subst. + de/du cœur. Bonté,
+   délicatesse, dureté, générosité, qualités, sécheresse de cœur;
+   éducation du cœur. Verbe + le/son cœur. Écouter, endurcir, sécher
+   le/son cœur. Verbe + le/du cœur. Avoir du/n'avoir pas de cœur [Jouer
+   cœur est simple. Il faut en avoir, voilà tout (...) Votre cœur se cache
+   par crainte du ridicule (...) Montrez votre cœur et vous gagnerez
+   (Cocteau, Poésie critique 2, Monologues, 1960, p. 45)], manquer de
+   cœur.
+   − Loc. À votre bon cœur (formule pour solliciter la générosité de
+   quelqu'un). (Donner/offrir/remercier...) de bon/de grand/de mauvais/de
+   tout cœur. Verre d'eau donné de bon cœur (...) rendu au centuple
+   (Claudel, Un poète regarde la Croix,1938, p. 267).Compatis de tout cœur
+   aux difficultés que vous éprouvez (G. Duhamel, Chronique des
+   Pasquier,Les Maîtres, 1937, p. 68).Mauvaise tête et bon cœur (Sardou,
+   Rabagas,1872, IV, 5, p. 177).Avoir le cœur sur la main. Être enclin à
+   une grande générosité. Désir sentimental d'une vie simple, le cœur sur
+   la main, au milieu d'une bonté universelle (Zola, Nana,1880, p.
+   1367).J'ons le quieur sur la main et la main partout (Colette, La
+   Naissance du jour,1928, p. 58).Être plein de cœur/ sans cœur. Un
+   misérable sans cœur ni âme (Balzac, Les Illusions perdues,1843, p.
+   479).
+   ♦ P. méton. Personne considérée sous le rapport de sa générosité, de
+   son altruisme. Ce cœur d'acier trempé (...) brigand par amour de
+   l'humanité (About, Le Roi des montagnes,1857, p. 210).Des êtres
+   ruisselants de vertu et qui ont le cœur sur la main? Les « cœurs sur la
+   main » n'ont pas d'histoire (Mauriac, Thérèse Desqueyroux,1927, p.
+   170).Des riens de rien, des sans-cœur qui se fichaient de moi au lieu
+   de m'aider (Bernanos, Monsieur Ouine,1943, p. 1519).
+   d) [Dans les rapports entre l'homme et Dieu (très gén. parlant)]
+   − [En parlant de l'homme priant, s'adressant à Dieu] Prier de tout son
+   cœur. Notre cœur humain (...) étroit palais pour un hôte divin (M. de
+   Guérin, Poésies,1839, p. 69):
+   64. Ceux-là seuls veillent, ô mon Dieu, qui pensent à vous et qui vous
+   aiment (...). Mais l'homme est-il fait pour jouir ici-bas d'une telle
+   félicité? S'il en était capable, il aurait sa perfection. L'oubli des
+   choses de la terre, et l'intention aux choses du ciel; l'exemption de
+   toute ardeur, de tout souci, de tout trouble et de tout effort; la
+   plénitude de la vie, sans aucune agitation; les délices du sentiment,
+   sans le travail de la pensée; les ravissements de l'extase, sans les
+   apprêts de la méditation; en un mot, la spiritualité pure, au sein du
+   monde et parmi le tumulte des sens : ce n'est que le bonheur d'une
+   minute, d'un instant; mais cet instant de piété répand de la suavité
+   sur nos mois et sur nos années. La religion est la poésie du cœur; elle
+   a des enchantements utiles à nos mœurs; elle nous donne et le bonheur
+   et la vertu. Joubert, Pensées,t. 1, 1824, p. 112.
+   65. Le cœur, comme la raison, poursuit l'infini, et la seule différence
+   qu'il y ait dans ces poursuites, c'est que tantôt le cœur cherche
+   l'infini sans savoir s'il le cherche, et que tantôt il se rend compte
+   de la fin dernière du besoin d'aimer qui le tourmente. Cousin, Du Vrai,
+   du beau et du bien,1836, p. 109.
+   66. L'esprit de l'homme est une image abrégée, mais fidèle et complète
+   de l'infini. Quand un de ses foyers de vie s'éteint, il s'en rallume un
+   autre plus brillant; c'est que ce principe appartient à Dieu seul.
+   Lélia n'est pas foudroyée parce qu'un homme l'a maudite. Il lui reste
+   son propre cœur et ce cœur renferme le sentiment de la divinité,
+   l'intuition et l'amour de la perfection! Depuis quand perd-on la vue du
+   soleil, parce qu'un des atomes que son rayon avait embrasés est rentré
+   dans l'ombre? G. Sand, Lélia,1839, p. 397.
+   − Spéc., RELIG. CATH.
+   ♦ [En parlant de Jésus-Christ considéré comme aimant l'homme] Cœur
+   sacré/Sacré(-)Cœur (de Jésus) :
+   67. Dimanche 14 juillet. Fête du Sacré-Cœur. − Vue claire de ce qui
+   fait pour plusieurs la difficulté; c'est qu'on matérialise trop cette
+   admirable dévotion. On attribue trop au cœur matériel, au symbole ce
+   qui ne doit être attribué qu'au cœur spirituel, à l'amour. Sans doute
+   le cœur de chair est adorable, comme le corps de Notre-Seigneur «
+   propter unionem divinam ». Mais il ne s'ensuit pas que ce cœur de chair
+   soit le cœur spirituel, l'amour même, et le principe de l'amour, la
+   source de l'amour. Il en est le symbole, adorable, aimable, comme le
+   cœur d'un Dieu fait homme, comme le cœur d'un père. Dupanloup, Journal
+   intime,1872, pp. 327-328.
+   68. ... l'école de Paray elle-même hésite parfois entre la dévotion au
+   cœur-amour et la dévotion au cœur-personne. C'est ainsi, remarque le P.
+   Lebrun, que les premiers théologiens jésuites, « qui traitent de la
+   dévotion au Sacré-Cœur, en étendent l'objet » aussi loin (que le P.
+   Eudes) ... D'après le P. de Galiffet, l'élément spirituel qui, avec le
+   cœur de chair de l'Homme-Dieu, constitue l'objet de la dévotion au
+   Sacré-Cœur, ce n'est pas uniquement son amour, mais encore son âme
+   sainte, avec les dons et les grâces qu'elle renferme, les vertus et les
+   affections dont elle est le siège et le principe. Bremond, Hist.
+   littér. du sentiment relig. en France, t. 3, 1921, p. 654.
+   [En réf. avec la représentation iconographique de ce cœur (enflammé,
+   couronné d'épines, transpercé, etc.)]
+   Des crucifix (...) des cœurs percés de glaives, flambant par le haut et
+   saignant par le bas (Huysmans, Les Sœurs Vatard,1879, p. 27).Image du
+   Sacré-Cœur (Malègue, Augustin,t. 2, 1933, p. 279).
+   P. méton. Lieu de culte ou congrégation vouée au Sacré-Cœur. La
+   basilique du Sacré-Cœur (...) œuvre de vanité plus que de foi (Bloy,
+   Journal,1904, p. 234).Blanche, écœurante comme un fromage, l'énorme
+   provocation du Sacré-Cœur de Montmartre (Aragon, Les Beaux
+   Quartiers,1936, p. 339).Les dames du Sacré-Cœur (Gyp, Souvenirs d'une
+   petite fille,1928, p. 154).L'ordre des prêtres du Sacré-Cœur (Billy,
+   Introïbo,1939, p. 165).
+   ♦ [En parlant de la Vierge Marie considérée comme médiatrice aimante et
+   souffrante] Cœur de Marie :
+   69. Longtemps, il avait gardé au mur de sa cellule une gravure coloriée
+   du Sacré-Cœur de Marie. La Vierge, souriant d'une façon sereine,
+   écartait son corsage, montrait dans sa poitrine un trou rouge, où son
+   cœur brûlait, traversé d'une épée, couronné de roses blanches. Cette
+   épée le désespérait (...). Il l'effaça, il ne garda que le cœur
+   couronné et flambant, arraché à demi de cette chair exquise pour
+   s'offrir à lui. Ce fut alors qu'il se sentit aimé. Marie lui donnait
+   son cœur, son cœur vivant, tel qu'il battait dans son sein, avec
+   l'égouttement rose de son sang. Il n'y avait plus là une image de
+   passion dévote, mais une matérialité, un prodige de tendresse, ...
+   Zola, La Faute de l'Abbé Mouret,1875, p. 1292.
+   Prononc. et Orth. : [kœ:ʀ]. Ds Ac. 1694-1932. Homon. chœur. Étymol. et
+   Hist. I. Organe central de la circulation. A. Ca 1050 « siège de la vie
+   » (Alexis, éd. Ch. Storey, 445 : Ço'st granz merveile que li mens quors
+   tant duret); 1130-40 (Wace, Ste Marguerite, éd. E. A. Francis, 62 : Ele
+   ama Deu et Deu l'ama, Trestot son cuer li adona). B. Ca 1100 au propre
+   (Roland, éd. J. Bédier, 2965 : [Li emperere ad fait] tuz les quers en
+   paile recuillir). C. Ca 1100 p. ext. « la poitrine » (ibid., 3448 :
+   L'escut li freint, cuntre le coer li quasset). D. 1195-1200 « siège des
+   sensations physiques » (Renart, éd. Martin, branche 11, 565 : il avoit
+   a son cuer grant fein); ca 1200 « estomac » (ibid., branche 9, 1724 : A
+   pou que li cuers ne me faut); xiii^es. « région épigastrique » (J. Le
+   Marchand, Mir. N.-D. de Chartres, 5 ds T.-L. : a vomir les convenoit Du
+   mal qui au cuer leur venoit); 1508 dire tout ce qu'on a sur le cœur
+   (Eloy d'Amerval, Livre de la Deablerie, 147b ds IGLF); 1633 coucher du
+   cœur sur le carreau « vomir [jeu de mots tiré des cartes] » (Comédie
+   des Proverbes, acte II, scène 2, Anc. Théâtre fr., t. 9, p. 42). E. Fin
+   xii^es. « partie centrale » (Mort Aymeri de Narbonne, 607 ds T.-L. : El
+   cuer de France). F. 1340 « objet en forme de cœur » (v. Gay). G. 1585 «
+   as de cœur » (N. Du Fail, Contes d'Eutrapel, t. 2, p. 202 ds IGLF). H.
+   1600 « sorte de cerise » (Ol. de Serres, Théâtre d'Agric., VI, 26 ds
+   Hug.). II. Centre de la vie intérieure. A. Siège des émotions, de
+   l'affectivité. Ca 1050 (Alexis, 464 : Ne puis tant faire que mes quors
+   s'en sazit); ca 1100 (Roland, 317 : Tro avez tendre coer); 1^ertiers
+   xiii^es. (Lancelot du Lac, éd. O. Sommer, t. 5, partie 3, p. 353 : il
+   navoit oi noveles ... qui tant li feissent mal au cuer); 1167-70 p.
+   méton. cœur désigne la personne chérie (G. d'Arras, Ille et Galeron,
+   4160 ds T.-L.). B. Siège du désir, de la volonté. Ca 1050 (Alexis, 166
+   : Quant tut sun quor en ad si afermét); ca 1162 de son cuer « de toute
+   son ardeur, très sincèrement » (Flore et Blancheflor, 1925 ds T.-L.);
+   début xiv^es. avoir au cuer de (faire qqc.) (Ovide moralisé, éd. C. de
+   Boer, livre V, 460); 1579 de gayeté de cœur (H. Estienne, Precellence
+   du lang. fr., 359 ds IGLF); 1585 du meilleur de mon cœur (N. Du Fail,
+   Contes d'Eutrapel, t. 2, p. 275). C. Siège du sentiment moral, du
+   courage. Ca 1100 (Roland, 1107 : mal seit del coer ki el piz se
+   cuardet); ca 1220 son cuer reprendre « reprendre courage » (G. de
+   Coincy, Mir., éd. Koenig, I Mir 18, 326); 1508 à cœur vaillant, rien
+   impossible (E. D'Amerval, loc. cit., 138b). D. Siège de l'intelligence.
+   1130-40 « discernement » (Wace, Ste Marguerite, 431 : Lors cuers, lor
+   sens, fais oscurer); ca 1190 « savoir intuitif » (M. de France, Lais,
+   Guigemar, 547, éd. J. Rychner : Mis quors me dit que jeo vus pert); ca
+   1220 les ielz dou cuer (G. de Coincy, Mir., éd. Koenig, II Ch 9,3792);
+   cf. au xvii^es. le cœur en tant que siège de la grâce, permettant la
+   communication avec Dieu (Pascal, Pensées, section IV, 278 et 277, éd.
+   Brunschvicg, t. 13, p. 201 : C'est le cœur qui sent Dieu, et non la
+   raison; le cœur a ses raisons, que la raison ne connaît point; section
+   XII, 793, t. 14, p. 232 : aux yeux du cœur et qui voient la sagesse).
+   E. Siège du souvenir, de la mémoire. Ca 1190 (M. de France, Fables, 70,
+   61 ds T.-L. : Senz quer fu e senz remembrance); ca 1200 retenir par
+   cuer (Poème moral, éd. Bayot, 1036); ca 1220 savoir par cuer (G. de
+   Coincy, Mir., éd. Koenig, I Mir 11, 757); 1690 (Fur. : On dit aussi,
+   qu'on fait dîner quelqu'un par cœur quand on ne luy a point donné à
+   dîner); 1694 p. ext. de savoir par cœur : apprendre une chose par cœur
+   (Ac.), v. aussi Tobler, Sitzung der philosophisch-historischen Classe
+   vom 27. October 1904, Berlin, p. 1274, 1275. Du lat. class. cǒr
+   (peut-être par l'intermédiaire d'une forme *cǒre, Fouché, p. 656,
+   Bl.-W.^1-5) qui, dans la conception antique, est à la fois le siège de
+   la vie et des fonctions vitales, et celui des passions et des émotions,
+   des pensées et de l'intelligence, de la mémoire et de la volonté (cf.
+   gr. κ α ρ δ ι ̓ α « cœur » et aussi « entrée de l'estomac », « siège
+   des passions et des facultés de l'âme »; v. aussi K. Weinberg ds Arch.
+   St. n. Spr., t. 203, 1966-67, pp. 1-31); pour par cœur, v. Bambeck,
+   Lat. rom. Wortstudien, n^o126. Fréq. abs. littér. : 56 064. Fréq. rel.
+   littér. : xix^es. : a) 99 094, b) 84 140; xx^es. : a) 80 349, b) 60
+   462. Bbg. Bergmann (K.). Herz/cœur. Zeitschrift für Deutschkunde. 1935,
+   t. 49, pp. 73-78. − Bruyndonckx (J.M.). Les Emplois du mot cœur d'après
+   quatre aut. du xvi^es. Louvain, 1967. − Flasche (H.). Der Begriff cœur
+   bei Guez de Balzac. Rom. Jahrb. 1949, t. 2, pp. 224-254; [Cœur].
+   Philosophia. 1951, t. 8, pp. 31-50. − Goug. Mots t. 1, 1962, pp.
+   116-117; p. 260. − Lommatzsch (E.). Arch. St. n. Spr. 1912, t. 28, pp.
+   252-257. − Moles (E.). Pascal's theory of the heart. Mod. Lang. Notes.
+   1969, t. 84, n^o4, pp. 548-564. − Schittenhelm. Zur stilistischen
+   Verwendung des Wortes cuer in der altfranzösischen Dichtung. In : [Mél.
+   Ewert (A.)]. Oxford, 1961, p. 179. − Tabachovitz (A.). Vivre − cœur.
+   Vox. rom. 1959, t. 18, pp. 49-93. − Weinberg (K.). Zum Wandel des
+   Sinnbezirks von Herz und Instinkt unter dem Einfluß Descartes. Arch.
+   St. n. Spr. 1966, t. 203, pp. 1-31.
+   Valid XHTML 1.0 Strict Valid Cascading Style Sheet
+
+   © 2012 - CNRTL
+   44, avenue de la Libération BP 30687 54063 Nancy Cedex - France
+   Tél. : +33 3 83 96 21 76 - Fax : +33 3 83 97 24 56

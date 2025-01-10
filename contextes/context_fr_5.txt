@@ -1,0 +1,42 @@
+          + 1.3 Cadeaux
+          + 1.4 Événements de coeur
+          + 1.5 Romance
+--
+   plus amical, il y a des cinématiques qui s'appellent des événements de
+   coeur, et les villageois vous envoient des cadeaux par la poste.
+
+--
+       dans une semaine (voyez Cadeaux);
+     * faire certains choix dans leurs événements de coeur.
+
+--
+
+   Rencontrer tous les célibataires Événement de groupe des 10 coeurs, ce
+   qui n'affecte pas l'amitié, mais peut vous empêcher de donner des
+--
+   votre époux se déverrouille à nouveau. L'onglet social affiche un
+   compteur de 12 coeurs, mais le niveau d'amitié peut atteindre 13
+   coeurs.
+
+--
+   Chaque jour, ne pas parler à un villageois diminuera légèrement leur
+   amitié à moins que leur compteur de coeur ne soit plein.^[1] Quand on
+   est marié, la décroissance ne s'arrête jamais - n'ignorez pas votre
+--
+
+Événements de coeur
+
+--
+   Lorsqu'ils reçoivent un cadeau adoré, les villageois répondent
+   généralement par une bulle de dialogue avec un coeur.
+   DialogueBubbleLove.png
+--
+   Il y a 6 Succès liés à l'amitié:
+     * Un nouvel ami (Atteindre 5 coeurs d’amitié avec quelqu’un)
+     * Meilleurs amis (Atteindre 10 coeurs d’amitié avec quelqu’un)
+     * Le fermier bien-aimé (Atteindre 10 coeurs d’amitié avec 8
+       personnes)
+     * Groupe d'amis (Atteindre 5 coeurs d’amitié avec 4 personnes)
+     * Collaboration (Atteindre 5 coeurs d’amitié avec 10 personnes)
+     * Populaire (Atteindre 5 coeurs d’amitié avec 20 personnes)
+

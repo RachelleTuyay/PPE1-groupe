@@ -1,0 +1,147 @@
+   #Wikis Pathfinder-fr - Search
+
+   [0t.jpg]
+     * Bienvenue, Invité !
+     * Connexion
+     * Inscription
+
+   Pathfinder-FR
+     * Accueil
+     * Blog
+     * Wikis
+          + Pathfinder-RPG
+          + Pathfinder 2
+          + Golarion
+          + Ressources
+          + Aventures
+          + Starfinder
+     * Forum
+     * Galerie
+     * Parties
+          + Wikis
+          + Forums
+     * Recherche
+     * Contact
+
+Navigation ¶
+
+     * Accueil du site
+     * Serveur Discord [discord_icon.png]
+     * Partenaires
+
+Wiki Pathfinder-RPG
+
+   Tout sur les règles officielles de Pathfinder.
+     * Accueil
+     * Bestiaire
+     * FAQ
+
+     * Aides de jeu
+     * Livres
+     * Glossaires
+
+Wiki Pathfinder 2
+
+   Ressources pour la version 2 de Pathfinder.
+     * Accueil
+     * Campagnes
+     * Autres sorties
+
+     * Aides de jeu
+     * PF Society
+     * Créations
+
+Wiki Golarion
+
+   Tout sur le monde de Golarion.
+     * Accueil
+     * Wayfinder
+     * Dieux
+
+     * Aides de jeu
+     * Livres
+     * Romans
+
+     * Un jour sur Golarion
+
+Wiki Ressources
+
+   Aides informatiques, règles maison…
+     * Accueil
+
+Wiki Aventures
+
+   Aides de jeu et outils pour les MJ.
+     * Accueil
+     * Campagnes
+     * Modules
+
+     * PF Society
+     * Aventures
+     * PNJ
+
+Wiki Starfinder
+
+     * Accueil
+
+     * Aides de jeu
+
+Wiki Parties en ligne
+
+     * Ressources (parties en ligne)
+
+Aides et guides ¶
+
+     * Guide de création
+     * Sources/Projets d'intégrations
+
+Outils des Wikis ¶
+
+     * Créer une nouvelle page
+     * Catégories
+     * Gestion fichiers
+     * Administration wiki
+
+Cette page¶
+
+     * Historique
+     * Imprimer
+     * Liens entrants
+
+Section¶
+
+                         Vous êtes dans la section
+                              [Pathfinder-RPG]
+
+   Imprimer Historique
+
+Coeur vaillant
+
+   Source : Advanced Class Guide/Manuel des joueurs - Classes avancées Le
+   personnage combat sa peur en chantant la mélodie qui résonne en son
+   coeur.
+   Conditions. Pouvoir de classe chant de rage.
+   Avantage. Lorsqu’il maintient un chant de rage et qu’il rate un jet de
+   sauvegarde contre un effet de terreur, le personnage peut dépenser un
+   round de représentation pour relancer son jet par une action immédiate.
+   Il doit garder le second résultat, même s’il est inférieur au premier.
+
+    Le contenu officiel de ce wiki appartient à et a été utilisé avec
+                   l'autorisation de Black Book Editions.
+            Pathfinder-RPG est une création de Paizo Publishing.
+   Vous pouvez réemployer des extraits du texte officiel à condition de
+      mentionner clairement des liens vers Paizo Publishing,Black Book
+                          Editions et Pathfinder-FR
+      Ce site se base sur les licences Open Game License et Pathfinder
+                            Community Use Policy.
+
+
+
+
+
+
+   La gamme Pathfinder est une création de Paizo Publishing traduite en
+   français par Black Book Editions.
+
+   Ce site se base sur les licences Open Game License et Pathfinder
+   Community Use Policy et les conditions d'utilisation BBE.

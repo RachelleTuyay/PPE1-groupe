@@ -1,0 +1,867 @@
+   #Stardew Valley Wiki (fr) Flux Atom de Stardew Valley Wiki
+
+Amitié
+
+   De Stardew Valley Wiki
+   Sauter à la navigation Sauter à la recherche
+   [ ]
+
+Sommaire
+
+     * 1 Mécanisme de l'amitié
+          + 1.1 Système des points
+          + 1.2 Décroissance
+          + 1.3 Cadeaux
+          + 1.4 Événements de coeur
+          + 1.5 Romance
+          + 1.6 Quêtes
+          + 1.7 Festivals
+          + 1.8 Panneau d’affichage
+     * 2 Cadeaux universels
+          + 2.1 Universellement adorés
+               o 2.1.1 Exceptions
+          + 2.2 Universellement aimés
+               o 2.2.1 Exceptions
+          + 2.3 Universellement neutres
+               o 2.3.1 Exceptions
+          + 2.4 Universellement pas aimés
+               o 2.4.1 Exceptions
+          + 2.5 Universellement détestés
+               o 2.5.1 Exceptions
+     * 3 Succès
+     * 4 Bugs
+     * 5 Historique
+     * 6 Références
+
+   Vous pouvez devenir amis avec les villageois de Pélican Ville. Comme
+   vos amitiés deviennent plus fortes, le dialogue des villageois devient
+   plus amical, il y a des cinématiques qui s'appellent des événements de
+   coeur, et les villageois vous envoient des cadeaux par la poste.
+
+Mécanisme de l'amitié
+
+Système des points
+
+   Chaque villageois a un score d'amitié, representé par un mètre avec dix
+   cœurs (pour un villageois normal) ou par un mètre avec douze cœurs
+   (pour votre conjoint):
+
+   Seven Hearts.png
+
+   Chaque cœur représente 250 points d'amitié. Vous pouvez voir tous les
+   mètres dans l'onglet social du menu du jeu.
+
+   Quand vous parlez aux villageois, un cercle apparaîtra à côté de leur
+   portrait. Sa couleur dépend du nombre de cœurs que vous avez avec ce
+   villageois. Bleu veut dire 0 cœurs, vert veut dire 2, jaune veut dire
+   4, rouge veut dire 6, mauve veut dire 8 et à partir de 10 cœurs, une
+   étoile mauve apparaîtra. Passer la souris sur le cercle affichera le
+   nombre de cœurs si vous n'êtes pas marié.
+
+   FriendshipDots.png
+
+   Vous pouvez augmenter les points d'amitié par:
+     * parler aux villageois (+10 si le villageois est au milieu d'une
+       animation spéciale, comme exercer ou utiliser une caméra, autrement
+       +20; cela ne peut arriver qu'une fois par jour);
+     * Achever une demande de livraison pour eux (+150);
+     * leur donner un cadeau qu'ils aiment (voyez Cadeaux);
+     * des points supplémentaires pour un deuxième cadeau qu'ils aiment
+       dans une semaine (voyez Cadeaux);
+     * faire certains choix dans leurs événements de coeur.
+
+   Vous pouvez perdre des points d'amitié en :
+     * ne parlant pas à un villageois (voyez Décroissance);
+     * leur donnant un cadeau qu'ils n'aiment pas (voyez Cadeaux);
+     * Les frappant avec une fronde (-30, cela ne peut arriver qu'une fois
+       par jour);
+     * fouillant dans une poubelle quand ils sont dans les 7 tuiles de
+       vous (-25, sauf pour Linus qui s'en fiche). Ils parleront avec vous
+       pour indiquer qu'ils vous ont vu.
+
+   Vous pouvez entrer la chambre à coucher d'un villageois quand le mètre
+   de cœur de cette personne indique au minimum 2 cœurs. Ce niveau
+   améliore l'accès au villageois pour parler et donner des cadeaux.
+
+   Vous recevez (ou déduisez) des points d'amitié comme d'habitude sur un
+   jour du festival, basé sur le contact qui se passe en dehors du
+   festival. Néanmoins, parler à un villageois pendant un festival ne
+   donne pas de points d'amitié bien que cela puisse révéler de
+   l'information intéressante. Vous pouvez cependant parler à un
+   villageois quand vous êtes dehors du festival, et parler de nouveau
+   pendant le festival si l'horaire du festival le permet. Mais si
+   assister au festival veut dire que vous n'avez pas la possibilité de
+   parler à un villageois, vous perdrez deux points d'amitié.
+
+   Les points d'amitié peuvent augmenter jusqu'à un maximum de 2749 (un
+   point de moins de 11 cœurs) si vous parlez ou donnez un bon cadeau à un
+   villageois duquel le mètre est plein.
+
+   Avec les candidats de mariage, le mètre fait une pause à 8 cœurs. Cela
+   restera comme ça pour toujours sauf si vous donnez un Bouquet au
+   candidat pour indiquer l'intérêt romantique. Si vous faites ça, ce
+   mètre est débloqué et fonctionne comme avant jusqu'à vous atteignez dix
+   cœurs. C'est possible de donner un bouquet aux tous les candidats de
+   mariage, et augmenter leurs niveaux d'amitié jusqu'à 10 cœurs sans
+   dommage aux relations avec des autres partenaires romantiques, tant que
+   vous ne proposez pas. (Si vous avez proposé ou si vous êtes marié, il y
+   a une chance que votre fiancé/conjoint peut devenir jaloux.)
+
+   Rencontrer tous les célibataires Événement de groupe des 10 coeurs, ce
+   qui n'affecte pas l'amitié, mais peut vous empêcher de donner des
+   cadeaux une semaine après.
+
+   Lorsque vous proposez le mariage, le cœur de tous les autres candidats
+   au mariage se convertit au comportement de tous les autres villageois,
+   puisqu’il n’y en a plus. Après la cérémonie de mariage, le compteur de
+   votre époux se déverrouille à nouveau. L'onglet social affiche un
+   compteur de 12 coeurs, mais le niveau d'amitié peut atteindre 13
+   coeurs.
+
+Décroissance
+
+   Chaque jour, ne pas parler à un villageois diminuera légèrement leur
+   amitié à moins que leur compteur de coeur ne soit plein.^[1] Quand on
+   est marié, la décroissance ne s'arrête jamais - n'ignorez pas votre
+   conjoint !
+            Relation          Taux de décroissance Quand la décroissance stoppe
+   marié                      -20/jours            jamais
+   bouquet donné              -8/jours             10 cœurs
+   pré-bouquet                -2/jours             8 cœurs
+   ne peuvent être dragué(e)s -2/jours             10 cœurs
+
+Cadeaux
+
+   Vous pouvez donner à chaque villageois un cadeau par jour et jusqu’à
+   deux cadeaux par semaine, vous pouvez les vérifier dans le menu social.
+   En ce qui concerne la possibilité d'offrir des cadeaux, la semaine
+   commence le Dimanche. Si vous donner à un villageois deux cadeaux
+   durant la semaine, la barre de cœur augmentera. La barre de cœur
+   augmentera de dix points d'amitié le Dimanche matin quand vous vous
+   levez.
+
+   Vous pouvez toujours donner un cadeau d'anniversaire à un villageois,
+   et ce même si vous avez déjà à ce personnage deux cadeaux dans la
+   semaine. Glitch: Si vous le faites, l'une des cases à côté de leur nom
+   disparaîtra. Malgré tout, vous ne pouvez pas leur donner un autre
+   cadeau dans la même semaine. Vous pouvez donner un cadeau chaque jour
+   de la semaine à votre conjoint(e).
+
+   Chaque villageois a ses propres préférences et avec des cadeaux qu'il
+   aime ou qu'il n'aime pas, cela affecte combien de points d'amitié vous
+   allez gagner quand vous leur donnez un cadeau. Les points d'amitié sont
+   multipliés lors de leur anniversaire (x8) et durant "l’échange de
+   cadeau secret" à la Fête de l'Étoile Hivernale (×5):
+   Goût du cadeau Normal Cadeau secret (×5) Anniversaire (×8)
+   Adore          +80    +400               +640
+   Aime           +45    +225               +360
+   Neutre         +20    +100               +160
+   N'aime pas     -20    -100               -160
+   Déteste        -40    -200               -320
+
+   Si un cadeau est apprécié ou adoré,les points gagnés seront augmentés
+   par la qualité de l'item :
+            Qualité            Multiplier
+                       Normal  +0%
+   Silver Quality.png  Argent  +10%
+   Gold Quality.png    Or      +25%
+   Iridium Quality.png Iridium +50%
+
+Événements de coeur
+
+   Gagner de l'amitié avec les villageois va débloquer des événements
+   uniques (voir les articles de chaque villageois pour les conditions).
+   Il est possible de louper pour toujours des événements, bien que la
+   plupart des événements puissent être visionnés à votre guise ou
+   aléatoirement.
+
+Romance
+
+          Article principal : Mariage
+
+   Certains villageois peuvent être amoureux du joueur (voir candidats au
+   mariage). Une fois que vous avez atteint huit cœurs avec un villageois
+   éligible, vous pouvez leur donner un bouquet pour débloquer les
+   neuvième et dixième cœurs. Une fois que vous avez atteint dix cœurs
+   avec un villageois éligible, vous pouvez leur donner un Pendentif de
+   sirène pour vous fiancer.
+
+   Après avoir épousé un villageois, ils obtiennent un compteur d'amitié
+   étendu à douze cœurs. Atteigniez le treizième cœur vide vous rapportera
+   un Fruit étoilé.
+
+Quêtes
+
+          Article principal : Quêtes
+
+   A l'ouverture du jeu, la première quête du joueur est Quête des
+   présentations, une fois terminée, elle augmente de 100 les points
+   d'amitié du joueur avec chacun des 28 villageois de départ.
+   (L'Assistant n'est pas inclus parmi ces villageois.)
+
+   La réalisation d'une Quête d'embauche octroie 150 points d'amitié avec
+   le villageois demandeur.
+
+Festivals
+
+          Article principal : Festivals
+
+   Trois festivals peuvent affecter les points d'amitié avec les
+   villageois:
+     * La Danse des Fleurs augmente l'amitié de 250 points (un cœur) avec
+       votre partenaire de danse, à moins que le partenaire ne soit
+       verrouillé à huit cœurs au préalable.
+     * Le Fête Hawaïenne peut augmenter ou diminuer les points d'amitié
+       avec la plupart des villageois (tous sauf Sandy, le Sorcier, Krobus
+       et le Nain).
+     * Votre cadeau à votre ami secret à la Fête de l'Étoile Hivernale
+       vaut 5 fois le nombre normal de points d'amitié.
+
+   De plus, parler ou offrir des cadeaux aux villageois au Marché nocturne
+   renforcera leur amitié, de la même manière qu'en dehors des festivals.
+
+Panneau d’affichage
+
+          Article principal : Paquets
+
+   Compléter tout le Panneau d’affichage améliore la cote amitié du joueur
+   avec les Candidats non mariables de deux cœurs (500 points). Notez que
+   cela ne s'applique qu'aux villageois non mariables que vous avez
+   rencontrés en personne. Les villageois qui n'apparaissent pas dans
+   l'onglet "Social" du menu du joueur et les villageois dont les noms
+   apparaissent comme "???" ne recevront pas les 500 points.
+
+   Notez que vous n'avez pas besoin de comprendre la Langue des Nains pour
+   que le Nain reçoive 500 points. En revanche, vous devez comprendre le
+   Nain pour que les cadeaux affectent l'amitié avec le Nain.
+
+Cadeaux universels
+
+          Voir aussi: Liste de tous les cadeaux
+
+   Vous trouverez ci-dessous les listes de cadeaux universellement adoré,
+   aimé, considérés comme neutres, pas appréciés ou détestés. Notez qu'il
+   existe des 'exceptions' et que les goûts individuels des villageois
+   l'emportent sur tous les goûts universels.
+   Préférences pour 'Oeufs' , 'Lait' , 'Fruit' , et la plupart les
+   'Cueillettes ' varient selon les villageois et ne sont généralement pas
+   répertoriés ici.
+
+   Notez que les oeufs de dinosaure sont considérés comme des Artefacts et
+   non des œufs pour faire des présents.
+
+Universellement adorés
+
+   Il s'agit d'une liste d'objets que chaque villageois aiment absolument
+   recevoir en cadeau. Ces objets sont garantis pour donner le plus de
+   points (80) à votre relation, mais peuvent être difficiles à obtenir.
+
+   Lorsqu'ils reçoivent un cadeau adoré, les villageois répondent
+   généralement par une bulle de dialogue avec un coeur.
+   DialogueBubbleLove.png
+     * Golden Pumpkin.png Citrouille dorée
+     *
+
+   Rabbit's Foot.png Patte de lapin
+
+     Pearl.png Perle
+
+     Prismatic Shard.png Tesson prismatique
+
+    Exceptions
+
+     * Haley Icon.png Haley déteste
+
+   Prismatic Shard.png Tesson prismatique.
+
+     Penny Icon.png Penny déteste Rabbit's Foot.png Patte de lapin.
+
+  Universellement aimés
+
+   Même s'il vaut moins de points «d'amitié» qu'un cadeau adoré, un cadeau
+   aimé augmente l'amitié de 45 points et est souvent beaucoup plus facile
+   à obtenir.
+     * Produits artisanaux (Excepté pour l'huile qui n'est pas apprécié,
+       et la Mayonnaise du Vide qui est détesté)
+     * Plats cuisinés (Excepté pour l'Omelette et le Pain, qui sont
+       universellement neutres, et le Petit pain étrange qui est détesté)
+     * Fleurs (Excepté pour le Pavot qui est détesté)
+     * Minéraux (Excepté le Quartz qui varie selon les villageois)
+     * Arbres fruitiers
+     * Gemmes (Excepté le Tesson prismatique qui est adoré)
+     * Légumes incluant Crosse de fougère (Excepté le Blé et le Houblon
+       qui sont universellement neutres)
+     *
+
+   Life Elixir.png Élixir de vie
+
+     Piña Colada.png Piña Colada
+
+     Maple Syrup.png Sirop d'érable
+
+    Exceptions
+
+   Vous trouverez ci-dessous un tableau extensible de toutes les
+   'exceptions Universellement aimés' , répertoriées par Villageois. (Voir
+   également: Liste de tous les cadeaux)
+
+   Villageois Adorés Aimés Neutres Pas appréciés Détestés
+
+   Abigail Icon.png Abigail
+   Gemmes: Améthyste
+   Cuisine: Tourte aux mûres, Gâteau au chocolat, Anguille épicée
+   Légumes: Citrouille Tous les légumes excepté Citrouille
+
+   Alex Icon.png Alex
+   Cuisine: Petit-déjeuner complet, Dîner de saumon
+
+   Caroline Icon.png Caroline
+   Cuisine: Tacos de poisson
+   Fleurs: Fleur tropicale d'été Légumes: Feuilles de thé Produits
+   artisanaux: Mayonnaise de canard, Mayonnaise
+   Légumes: Amarante
+
+   Clint Icon.png Clint
+   Toutes les gemmes excepté Diamant
+   Cuisine: Soupe aux algues, Risotto aux crosses de fougère Toutes les
+   fleurs (excepté Pavot)
+
+   Demetrius Icon.png Demetrius
+   Cuisine: Ragoût aux haricots, Crème glacée, Riz au lait
+
+   Dwarf Icon.png Nain
+   Toutes les gemmes excepté Diamant
+
+   Elliott Icon.png Elliott
+   Cuisine: Beignets de crabe, Soupe tom-kha
+   Fruit d'arbre fruitier: Grenade Cuisine: Pizza Légumes: Amarante
+
+   Emily Icon.png Emily
+   Produits artisanaux: Tissu
+   Cuisine: Hamburger de survie
+   Toutes les gemmes excepté Diamant Cuisine: Anguille grillée, Crème
+   glacée, Riz au lait, Anguille épicée Cuisine: Tacos de poisson, Maki,
+   Dîner de saumon, Sashimi
+
+   Evelyn Icon.png Evelyn
+   Cuisine: Gâteau au chocolat, Farce
+   Fleurs: Rose de fée, Tulipe
+   Gemmes: Diamant
+   Légumes: Betterave Cuisine: Anguille grillée, Maki, Sashimi, Anguille
+   épicée, Soupe à la truite
+   Légumes: Ail
+
+   George Icon.png George
+   Cuisine: Champignon frit Fleurs (excepté Pavot)
+
+   Gus Icon.png Gus
+   Cuisine: Escargot, Tacos de poisson
+   Fruit d'arbre fruitier: Orange
+   Gemmes: Diamant Cuisine: Salade de chou
+
+   Haley Icon.png Haley
+   Cuisine: Salade de fruits, Gâteau rose
+   Fleurs: Tournesol Tous les légumes (excepté Houblon & Blé)
+
+   Harvey Icon.png Harvey
+   Produits artisanaux: Café, Cornichons, Huile de truffe, Vin
+   Cuisine: Repas énergétique Produits artisanaux: Fromage, Fromage de
+   chèvre
+
+   Jas Icon.png Jas
+   Cuisine: Gâteau rose, Pudding aux prunes
+   Fleurs: Rose de fée Tous les légumes (excepté Houblon & Blé) Tous les
+   produits artisanaux (excepté Miel, Huile & Gelée)
+
+   Jodi Icon.png Jodi
+   Cuisine: Gâteau au chocolat, Achigan croustillant, Aubergine au
+   parmesan, Anguille grillée, Pancakes, Tarte à la rhubarbe , Mélange de
+   légumes
+   Gemmes: Diamant Légumes: Ail
+
+   Kent Icon.png Kent
+   Cuisine: Risotto aux crosses de fougère, Noisettes grillées Cuisine:
+   Soupe aux algues, Sashimi, Tortilla
+
+   Krobus Icon.png Krobus
+   Gemmes: Diamant
+   Légumes: Citrouille Cuisine: Pudding de mousse de mer Tous les plats
+   excepté Pain, Oeuf sur le plat, & Petit pain étrange
+   Divers: Élixir de vie
+
+   Leah Icon.png Leah
+   Produits artisanaux: Fromage de chèvre, Vin
+   Cuisine: Muffin aux graines de pavot, Salade, Sauté, Mélange de légumes
+   Tout les minéraux excepté Cristal de terre
+   Toutes les gemmes excepté Diamant & Tesson prismatique
+   Cuisine: Carpe surprise, Biscuit, Crème glacée, Gâteau rose, Riz au
+   lait, Hamburger de survie, Tortilla Cuisine: Galettes de pommes de
+   terre, Pancakes, Pizza
+
+   Lewis Icon.png Lewis
+   Cuisine: Récompense d'automne , Ignames glacées, Mélange de légumes
+
+   Linus Icon.png Linus
+   Cuisine: Tourte aux mûres, Plat de la mer
+   Légumes: Igname Tous les minéraux récupérables
+   Toutes les gemmes excepté Diamant & Tesson prismatique
+
+   Marnie Icon.png Marnie
+   Cuisine: Déjeuner du fermier, Gâteau rose, Tarte à la citrouille
+   Gemmes: Diamant
+
+   Maru Icon.png Maru
+   Cuisine: Gratin de chou-fleur, Friandise de mineur, Poivron farci,
+   Tarte à la rhubarbe
+   Gemmes: Diamant
+   Légumes: Chou-fleur Divers: Sirop d'érable Produits artisanaux: Miel,
+   Cornichon
+
+   Pam Icon.png Pam
+   Produits artisanaux: Bière, Hydromel, Bière blonde
+   Cuisine: Ignames glacées, Soupe de panais
+   Légumes: Panais
+
+   Penny Icon.png Penny
+   Cuisine: Muffin aux graines de pavot, Assiette d'antioxydants, Plateau
+   de racines, Soupe tom-kha
+   Gemmes: Diamant, Émeraude Cuisine: Soupe aux algues, Bouillon clair
+   Produits artisanaux: Bière, Hydromel, Bière blonde, Vin
+
+   Pierre Icon.png Pierre
+   Cuisine: Calmars frits Tous les minéraux
+   Toutes les gemmes excepté Diamant & Tesson prismatique Cuisine: Soupe
+   de panais , Tortilla
+   Légumes: Maïs, Ail
+
+   Robin Icon.png Robine
+   Produits artisanaux: Fromage de chèvre
+   Cuisine: Spaghetti
+   Fruit d'arbre fruitier: Pêche
+
+   Sam Icon.png Sam
+   Cuisine: Gâteau d’érable, Pizza Tous les légumes (excepté Houblon &
+   Blé) Produits artisanaux: Mayonnaise de canard, Mayonnaise, Cornichon
+
+   Sandy Icon.png Sandy
+   Fleurs: Crocus, Pois de senteur
+
+   Sebastian Icon.png Sebastian
+   Cuisine: Soupe à la citrouille, Sashimi Toutes les fleurs (excepté
+   Pavot) Tous les produits artisanaux (excepté Café, Hydromel, & Huile)
+   Cuisine: Petit-déjeuner complet, Déjeuner du fermier, Omelette
+
+   Shane Icon.png Shane
+   Produit artisanaux: Bière
+   Cuisine: Poivron farci, Pizza Produits artisanaux: Cornichon
+
+   Vincent Icon.png Vincent
+   Cuisine: Bonbons aux canneberges , Gâteau rose Tous les légumes
+   (excepté Houblon & Blé) Tous les produits artisanaux (excepté Hydromel
+   & Huile)
+   Cuisine: Triple dose d’espresso
+
+   Willy Icon.png Willy
+   Produits artisanaux: Hydromel
+   Gemmes: Diamant
+   Légumes: Citrouille Cuisine: Pudding de mousse de mer Cuisine: Poivron
+   farci, Maki & Sashimi Tous les plats (excepté Poivron farci, Maki &
+   Sashimi) et excepté pour les plats suivants qu'il aime: Poisson cuit au
+   four, Carpe surprise, Soupe de palourdes, Beignets de crabe, Achigan
+   croustillant, Ragoût de poisson, Tacos de poisson, Calmars frits,
+   Anguille grillée, Bisque de homard, Dîner de saumon, Pudding de mousse
+   de mer, & Soupe à la truite
+   Divers: Élixir de vie
+
+  Universellement neutres
+
+   Ceci est une liste de cadeaux qui suscitera une réponse neutre des
+   villageois et donnera 20 points d'amitié . Il y a quelques exceptions.
+
+     *
+
+   Sweet Gem Berry.png Baie de gemme sucrée
+
+     Wheat.png Blé
+
+     Nautilus Shell.png Coquillage
+
+     Rainbow Shell.png Coquille arc-en-ciel
+
+     *
+
+   Coral.png Corail
+
+     Hops.png Houblon
+
+     Wool.png Laine
+
+     Fried Egg.png Oeuf sur le plat
+
+     *
+
+   Bread.png Pain
+
+     Clam.png Palourde
+
+     Duck Feather.png Plume de canard
+
+     Truffle.png Truffe
+
+    Exceptions
+
+     * Caroline Icon.png Caroline aime les
+
+   Tea Leaves.png Feuilles de thé
+
+     Elliott Icon.png Elliott adore la Duck Feather.png Plume de canard.
+
+     Emily Icon.png Emily adore la Wool.png Laine.
+
+     Evelyn Icon.png Evelyn déteste la Clam.png Palourde et le Coral.png
+   Corail.
+
+     Harvey Icon.png Harvey aime la Duck Feather.png Plume de canard,
+   n'apprécie pas le Bread.png Pain, déteste le Coral.png Corail, le
+   Nautilus Shell.png Coquillage, et la Rainbow Shell.png Coquille
+   arc-en-ciel.
+
+     Leah Icon.png Leah adore la Truffle.png Truffe, n'apprécie pas l'
+   Fried Egg.png Oeuf sur le plat, déteste le Bread.png Pain.
+
+     Leo Icon.png Léo adore la Duck Feather.png Plume de canard, aime la
+   Nautilus Shell.png Coquillage et déteste le Hops.png Houblon.
+
+     Maru Icon.png Maru déteste la Truffle.png Truffe.
+
+     Penny Icon.png Penny n'apprécie pas la Duck Feather.png Plume de
+   canard et la Wool.png Laine, déteste le Hops.png Houblon.
+
+     Sandy Icon.png Sandy aime la Wool.png Laine.
+
+  Universellement pas aimés
+
+   Il s'agit d'une liste d'objets qui réduiront 'l'amitié' de 20 points
+   lorsqu'ils seront donnés en présent.
+     * Tous les matériaux de construction -- Piles, Argile, Fibre, Bois
+       dur, Pierre, et Bois
+     * Toutes les Bombes
+     * Tous les Sols & Chemins fabriqués
+     * Toutes les Clôtures
+     * Tous les Engrais
+     * Tous les Poissons (sauf pour la Palourde qui est un universellement
+       neutre, ainsi que la Carpe et l' Escargot qui sont des
+       universellement détestés)
+     * Tous les Minéraux issus de Géodes
+     * Toutes les Géodes
+     * Toutes les Récoltes comprenant les pousses d'Arbres fruitiers,
+       Glands, Graines d'érable, et Pommes de pin
+     * Tous les Arroseurs
+     * Tous les Matériaux de Pêche
+     * La plupart des Métaux -- Charbon, Lingot de cuivres, Lingot en or,
+       Minerai d'or, Lingot en iridium, Lingot de fer, et Quartz raffiné
+
+     *
+
+   Driftwood.png Bois flotté
+
+     Cave Carrot.png Carrotte des cavernes
+
+     Field Snack.png Casse-croûte
+
+     Jack-O-Lantern.png Citrouille-lanterne
+
+     Void Essence.png Essence du Vide
+
+     *
+
+   Solar Essence.png Essence solaire
+
+     Wheat Flour.png Farine de blé
+
+     Pine Tar.png Goudron de pin
+
+     Oil.png Huile
+
+     Void Egg.png Oeuf du Vide
+
+     *
+
+   Spring Onion.png Oignon nouveau
+
+     Oak Resin.png Résine de chêne
+
+     Rice.png Riz
+
+     Tea Set.png Service à thé
+
+     Vinegar.png Vinaigre
+
+    Exceptions
+
+     * Abigail Icon.png Abigail adore Poisson-globe; déteste l'Argile
+     * Clint Icon.png Clint adore Lingot en or, Lingot en iridium,
+       Géode-omni; aime Lingot de cuivre, Lingot de fer; est neutre
+       vis-à-vis de Charbon, Minerai d'or, Minerai d'iridium, Quartz
+       raffiné
+     * Demetrius Icon.png Demetrius est neutre vis-à-vis de Tous les
+       poissons (sauf la Carpe & l'Escargot)
+     * Elliott Icon.png Elliott adore le Homard; aime le Poulpe, le
+       Calamar; est neutre vis-à-vis de Tous les autres poissons (sauf la
+       Carpe & l'Escargot); déteste le Concombre de mer
+     * Evelyn Icon.png Evelyn déteste Tous les poissons, l'Argile
+     * George Icon.png George déteste Argile
+     * Haley Icon.png Haley déteste Tous les poissons, l'Argile
+     * Harvey Icon.png Harvey aime l'Oignon nouveau
+     * Jas Icon.png Jas déteste l'Argile
+     * Krobus Icon.png Krobus adore l'Oeuf du Vide; aime le Lingot en or,
+       Lingot en iridium
+     * Leah Icon.png Leah aime le Bois flotté, Oignon nouveau; déteste
+       l'Oeuf du Vide
+     * Linus Icon.png Linus aime l'Oignon nouveau; est neutre vis-à-vis de
+       Tous les poissons (sauf la Carpe & l'Escargot)
+     * Marnie Icon.png Marnie déteste l'Argile
+     * Maru Icon.png Maru adore les Piles, le Lingot en or, le Lingot en
+       iridium; aime le Lingot de cuivre, le Lingot de fer, Résine de
+       chêne, Goudron de pin
+     * Dwarf Icon.png Nain adore Géode-omni; est neutre vis-à-vis de
+       Essence solaire, Essence du Vide
+     * Pam Icon.png Pam est neutre vis-à-vis de Tous les poissons (sauf
+       pour Carpe, Poulpe, Escargot & Calamar); Déteste Poulpe, Calamar
+     * Penny Icon.png Penny adore Poisson des sables
+     * Pierre Icon.png Pierre déteste Tous les poissons
+     * Robin Icon.png Robine aime Bois dur
+     * Sam Icon.png Sam adore Oeil-de-tigre; déteste les produits
+       métalliques
+     * Sebastian Icon.png Sebastian adore Obsidienne, Oeuf du Vide; aime
+       Flet; est neutre vis-à-vis deTous les poissons (excepté Carpe &
+       Escargot); déteste l'Argile
+     * Wizard Icon.png Sorcier adore Essence solaire, Essence du Vide;
+       aime Toutes les géodes
+     * Vincent Icon.png Vincent déteste l'Argile
+     * Willy Icon.png Willy adore Poisson-chat, Lingot en iridium, Poulpe,
+       Concombre de mer, Esturgeon; aime Lingot en or, Morue-lingue,
+       Truite tigrée; est neutre vis-à-vis de Tous les poissons (excepté
+       Carpe & Escargot)
+
+  Universellement détestés
+
+   Et enfin, voici la liste des objets qui réduiront votre amitié de 40
+   points si vous les offrez en cadeau.
+
+   Lorsque vous leurs offrez un cadeau détesté, les villageois vous
+   répondront le plus souvent par une bulle de dialogue pleine de haine.
+   DialogueBubbleHate.png
+     * Tous les artefacts
+     * Tous les appâts
+     * Tous les Butins de monstre (sauf Essence solaire et Essence du Vide
+       qui ne sont pas aimés)
+     * Tous les déchets (sauf le Bois flotté qui n'est pas aimé)
+
+     *
+
+   Seaweed.png Algues
+
+     White Algae.png Algues blanches
+
+     Green Algae.png Algues vertes
+
+     Flute Block.png Bloc-flûte
+
+     Drum Block.png Bloc-tambour
+
+     Energy Tonic.png Boisson énérgétique
+
+     Carp.png Carpe
+
+     Crab Pot.png Casier à crabes
+
+     Red Mushroom.png Champignon rouge
+
+     Treasure Chest.png Coffre au trésor
+
+     Error Item.png Erreur d'objet
+
+     Snail.png Escargot
+
+     *
+
+   Grass Starter.png Gazon
+
+     Oil of Garlic.png Huile d'ail
+
+     Void Mayonnaise.png Mayonnaise du Vide
+
+     Copper Ore.png Minerai de cuivre
+
+     Iron Ore.png Minerai de fer
+
+     Explosive Ammo.png Munitions explosives
+
+     Green Slime Egg.png Oeuf de Slime(n'importe quelle couleur)
+
+     Sea Urchin.png Oursin
+
+     Hay.png Paille
+
+     Poppy.png Pavot
+
+     *
+
+   Mermaid's Pendant.png Pendentif de sirène (Fête de l'Étoile Hivernale
+   seulement)
+
+     Strange Bun.png Petit pain étrange
+
+     Muscle Remedy.png Remède musculaire
+
+     Sap.png Sève
+
+     Sugar.png Sucre
+
+     Torch.png Torche
+
+     Rain Totem.png Totem de pluie
+
+     Warp Totem Farm.png Totem de téléportation : Ferme
+
+     Warp Totem Beach.png Totem de téléportation : Mer
+
+     Warp Totem Mountains.png Totem de téléportation : Montagnes
+
+    Exceptions
+
+     * Abigail Icon.png Abigail n'aime pas le Sucre
+     * Krobus Icon.png Krobus adore la Mayonnaise du Vide et aime le Petit
+       pain étrange
+     * Leah Icon.png Leah n'aime pas Algues, aime le Bois flotté
+     * Leo Icon.png Léo aime l'Oursin
+     * Marnie Icon.png Marnie n'aime pas les Algues
+     * Dwarf Icon.png Nain aime le Parchemin des Nains I, Parchemin des
+       Nains II, Parchemin des Nains III, Parchemin des Nains IV, Heaume
+       de Nain, et Gadget de Nain
+     * Penny Icon.png Penny adore les Pavots, aime les artefacts, n'aime
+       pas les Champignons rouges
+     * Sam Icon.png Sam aime Joja Cola, n'aime pas les Algues
+     * Shane Icon.png Shane n'aime pas les Algues et est neutre vis-à-vis
+       du Petit pain étrange
+     * Wizard Icon.png Sorcier n'aime pas Slime
+     * Vincent Icon.png Vincent adore Escargot
+
+Succès
+
+   Il y a 6 Succès liés à l'amitié:
+     * Un nouvel ami (Atteindre 5 coeurs d’amitié avec quelqu’un)
+     * Meilleurs amis (Atteindre 10 coeurs d’amitié avec quelqu’un)
+     * Le fermier bien-aimé (Atteindre 10 coeurs d’amitié avec 8
+       personnes)
+     * Groupe d'amis (Atteindre 5 coeurs d’amitié avec 4 personnes)
+     * Collaboration (Atteindre 5 coeurs d’amitié avec 10 personnes)
+     * Populaire (Atteindre 5 coeurs d’amitié avec 20 personnes)
+
+Bugs
+
+   Si vous offrez un cadeau d'anniversaire à un villageois à qui vous avez
+   déjà offert deux autres cadeaux cette semaine, une des coches à côté de
+   leur nom disparaîtra dans le menu Social. Cela ne vous permet pas de
+   lui donner un cadeau supplémentaire cette semaine.
+
+Historique
+
+     * 1.3 : La Citrouille Dorée est maintenant un universellement aimé et
+       plus un universellement pas aimé. Un nouvel objet a été ajouté, la
+       Perle, comme universellement aimé.
+
+Références
+
+    1. ↑ Voir Farmer::resetFriendshipsForNewDay dans le code du jeu.
+
+   Récupérée de
+   « https://fr.stardewvalleywiki.com/mediawiki/index.php?title=Amitié&old
+   id=17322 »
+
+   Catégories :
+     * Gameplay
+     * Succès
+
+Menu de navigation
+
+Outils personnels
+
+     * Créer un compte
+     * Se connecter
+
+Espaces de noms
+
+     * Page
+     * Discussion
+
+   [ ]
+
+Variantes
+
+Affichages
+
+     * Lire
+     * Voir le texte source
+     * Voir l’historique
+
+   [ ]
+
+Plus
+
+Rechercher
+
+   ____________________ Rechercher Lire
+
+Navigation
+
+     * Accueil
+     * Modifications récentes
+     * Pages non traduites
+     * Aide:Édition
+     * Page au hasard
+
+Liens
+
+     * Site officiel
+     * Forums officiels
+     * Marchandise officielle
+     * Médias sociaux
+
+Outils
+
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Version imprimable
+     * Lien permanent
+     * Informations sur la page
+
+Dans d’autres langues
+
+     * Deutsch
+     * English
+     * Español
+     * Italiano
+     * 日本語
+     * 한국어
+     * Magyar
+     * Português
+     * Русский
+     * Türkçe
+     * 中文
+
+     * La dernière modification de cette page a été faite le 13 novembre
+       2024 à 19:57.
+     * Le contenu est disponible sous licence Creative Commons
+       Attribution-NonCommercial-ShareAlike sauf mention contraire.
+
+     * Politique de confidentialité
+     * À propos de Stardew Valley Wiki
+     * Avertissements
+     * Version mobile
+
+     * Creative Commons Attribution-NonCommercial-ShareAlike
+     * Powered by MediaWiki

@@ -1,0 +1,1031 @@
+   En poursuivant votre navigation sur ce site, vous acceptez
+   l’utilisation d’un témoin de connexion (cookie), afin de réaliser des
+   statistiques de visites et de personnaliser votre navigation. Pour en
+   savoir plus, cliquez ici.
+   (BUTTON) J’accepte (BUTTON) Je refuse
+
+   PARAMÈTRES D’ACCESSIBILITÉ
+   [ ] Activer la navigation hypertexte adaptée pour les personnes
+   utilisant les technologies d’assistance.
+   [BUTTON Input] (not implemented)_______
+
+   Taille du texte
+   (BUTTON) (BUTTON) (BUTTON)
+   Informations sur les paramètres d’accessibilité
+   (BUTTON)
+
+   information recherche
+   ____________________ (BUTTON) Vider champ recherche (BUTTON) Recherche
+   avancée
+   RECHERCHE AVANCÉE
+   Mots commençant par
+   Mots proches
+
+   Pour chercher un mot dans le dictionnaire, tapez simplement ses
+   premières lettres. Utilisez le bouton « Mots proches » pour activer la
+   correction orthographique et phonétique.
+   (BUTTON) Fermer le formulaire de recherche avancée.
+
+Recherche en texte intégral :
+
+   ____________________
+   [X] Rechercher les mots sous toutes leurs formes
+   [ ] Respecter la casse
+   [ ] Rechercher également les graphies anciennes
+   Rechercher dans
+   [tout l’articlele]
+
+Recherche par domaines :
+
+   Liste hierarchique des domaines
+
+   (BUTTON) Liste des domaines
+     * [ ] Acoustique
+     * [ ] Administration
+     * [ ] Administration militaire
+     * [ ] Aéronautique, aviation
+     * [ ] Agriculture
+     * [ ] Algèbre
+     * [ ] (BUTTON)
+    ALIMENTATION
+          + [ ] Boucherie
+          + [ ] Boulangerie
+          + [ ] Charcuterie
+          + [ ] Confiserie
+          + [ ] Cuisine
+          + [ ] Œnologie
+          + [ ] Pâtisserie
+     * [ ] Alpinisme
+     * [ ] Ameublement
+     * [ ] Anatomie
+     * [ ] Anthropologie
+     * [ ] Antiquité
+     * [ ] Antiquité grecque
+     * [ ] Antiquité romaine
+     * [ ] Apiculture
+     * [ ] Arboriculture
+     * [ ] Archéologie
+     * [ ] (BUTTON)
+    ARCHITECTURE, BÂTIMENT
+          + [ ] Architecture
+          + [ ] Bâtiment
+          + [ ] Charpenterie
+          + [ ] Fortifications
+          + [ ] Maçonnerie
+          + [ ] Ponts et Chaussées
+          + [ ] Travaux publics
+          + [ ] Urbanisme
+     * [ ] Arithmétique
+     * [ ] Armes
+     * [ ] Artillerie
+     * [ ] Arts
+     * [ ] Arts décoratifs
+     * [ ] Astrologie
+     * [ ] Astronautique
+     * [ ] Astronomie
+     * [ ] Athlétisme
+     * [ ] Audiovisuel
+     * [ ] Automobile
+     * [ ] Aviation → Aéronautique
+     * [ ] Balistique
+     * [ ] Banque
+     * [ ] Bâtiment
+     * [ ] Beaux-Arts
+     * [ ] Billard
+     * [ ] Biologie
+     * [ ] Botanique
+     * [ ] Boucherie
+     * [ ] Boulangerie
+     * [ ] Bourse
+     * [ ] Céramique
+     * [ ] Chancellerie
+     * [ ] Charcuterie
+     * [ ] Charpenterie
+     * [ ] (BUTTON)
+    CHASSE [groupe]
+          + [ ] Chasse
+          + [ ] Fauconnerie
+          + [ ] Vènerie
+     * [ ] Chemins de fer
+     * [ ] Chimie
+     * [ ] Chirurgie
+     * [ ] Chronologie
+     * [ ] Cinéma
+     * [ ] Coiffure
+     * [ ] Commerce
+     * [ ] Comptabilité
+     * [ ] Conchyliologie (crustacés)
+     * [ ] Confiserie
+     * [ ] Courses
+     * [ ] Couture
+     * [ ] Cuisine
+     * [ ] Cyclisme
+     * [ ] Danse, chorégraphie
+     * [ ] Dessin
+     * [ ] Dévotion
+     * [ ] Didactique
+     * [ ] Diplomatie
+     * [ ] Divers
+     * [ ] Dogmatique
+     * [ ] Douanes
+     * [ ] (BUTTON)
+    DROIT ET ADMINISTRATION
+          + [ ] Administration
+          + [ ] Douanes
+          + [ ] Droit
+          + [ ] Droit administratif
+          + [ ] Droit ancien
+          + [ ] Droit canon
+          + [ ] Droit civil
+          + [ ] Droit commercial
+          + [ ] Droit constitutionnel
+          + [ ] Droit criminel → Droit pénal
+          + [ ] Droit du travail
+          + [ ] Droit féodal
+          + [ ] Droit fiscal
+          + [ ] Droit international
+          + [ ] Droit maritime
+          + [ ] Droit pénal
+          + [ ] Droit public
+          + [ ] Droit romain
+          + [ ] Jurisprudence
+          + [ ] Législation
+          + [ ] Palais (terme de)
+          + [ ] Pratique → Procédure
+          + [ ] Procédure
+     * [ ] Eaux et forêts
+     * [ ] (BUTTON)
+    ÉCONOMIE ET FINANCES
+          + [ ] Banque
+          + [ ] Bourse
+          + [ ] Commerce
+          + [ ] Comptabilité
+          + [ ] Économie
+          + [ ] Finances
+          + [ ] Fiscalité
+          + [ ] Monnaie
+          + [ ] Postes
+     * [ ] Écriture sainte (Bible)
+     * [ ] Écriture, Calligraphie
+     * [ ] Édition, Librairie
+     * [ ] Électricité
+     * [ ] Électronique
+     * [ ] Élevage
+     * [ ] Enseignement
+     * [ ] Entomologie
+     * [ ] Équitation, Manège
+     * [ ] Escrime
+     * [ ] Ethnologie
+     * [ ] Fauconnerie
+     * [ ] Féodalité, Moyen Âge
+     * [ ] Finances
+     * [ ] Fiscalité
+     * [ ] Fonderie
+     * [ ] Fortifications
+     * [ ] Généalogie
+     * [ ] Génétique
+     * [ ] Géodésie
+     * [ ] Géographie
+     * [ ] Géologie
+     * [ ] Géométrie
+     * [ ] Géomorphologie
+     * [ ] Géophysique
+     * [ ] Golf
+     * [ ] Grammaire
+     * [ ] Gravure
+     * [ ] Guerre (terme de)
+     * [ ] Gymnastique
+     * [ ] Habillement
+     * [ ] Héraldique (blason)
+     * [ ] Hippologie
+     * [ ] (BUTTON)
+    HISTOIRE [groupe]
+          + [ ] Antiquité
+          + [ ] Antiquité grecque
+          + [ ] Antiquité romaine
+          + [ ] Archéologie
+          + [ ] Chronologie
+          + [ ] Féodalité, Moyen Âge
+          + [ ] Généalogie
+          + [ ] Histoire
+          + [ ] Préhistoire
+     * [ ] Histoire littéraire
+     * [ ] Horlogerie
+     * [ ] Horticulture
+     * [ ] Hydrologie
+     * [ ] Imprimerie
+     * [ ] Informatique
+     * [ ] Jardinage
+     * [ ] (BUTTON)
+    JEUX [groupe]
+          + [ ] Billard
+          + [ ] Jeu d'échecs
+          + [ ] Jeu de dames
+          + [ ] Jeu de dés
+          + [ ] Jeu de paume
+          + [ ] Jeu de quilles
+          + [ ] Jeu de trictrac
+          + [ ] Jeux de cartes
+     * [ ] Jeux de ballon
+     * [ ] Joaillerie
+     * [ ] Journalisme
+     * [ ] Jurisprudence
+     * [ ] Législation
+     * [ ] Linguistique
+     * [ ] Littérature
+     * [ ] Liturgie
+     * [ ] Logique
+     * [ ] Maçonnerie
+     * [ ] Maréchalerie
+     * [ ] Marine
+     * [ ] (BUTTON)
+    MATHÉMATIQUES [groupe]
+          + [ ] Algèbre
+          + [ ] Arithmétique
+          + [ ] Géométrie
+          + [ ] Logique
+          + [ ] Mathématiques
+          + [ ] Statistiques
+     * [ ] Mécanique
+     * [ ] (BUTTON)
+    MÉDECINE [groupe]
+          + [ ] Anatomie
+          + [ ] Chirurgie
+          + [ ] Génétique
+          + [ ] Médecine
+          + [ ] Médecine vétérinaire
+          + [ ] Obstétrique
+          + [ ] Ophtalmologie
+          + [ ] Pathologie
+          + [ ] Pharmacie
+          + [ ] Psychiatrie
+          + [ ] Psychopathologie
+     * [ ] Menuiserie, Ébénisterie
+     * [ ] Mesures
+     * [ ] Métallurgie
+     * [ ] Météorologie
+     * [ ] (BUTTON)
+    MILITAIRE (ART)
+          + [ ] Administration militaire
+          + [ ] Armes
+          + [ ] Artillerie
+          + [ ] Guerre (terme de)
+          + [ ] Militaire (terme)
+     * [ ] Minéralogie
+     * [ ] Mines
+     * [ ] Monnaie
+     * [ ] Morale
+     * [ ] Musique
+     * [ ] Mysticisme
+     * [ ] Mythologie
+     * [ ] Numismatique (monnaies et médailles)
+     * [ ] Obstétrique
+     * [ ] Œnologie
+     * [ ] Ophtalmologie
+     * [ ] Optique
+     * [ ] Orfèvrerie
+     * [ ] Palais (terme de)
+     * [ ] Paléontologie
+     * [ ] Papeterie
+     * [ ] Parfumerie, cosmétiques
+     * [ ] Pathologie
+     * [ ] Pâtisserie
+     * [ ] Peausserie
+     * [ ] Pêche
+     * [ ] Peinture
+     * [ ] Pharmacie
+     * [ ] Philosophie
+     * [ ] Philosophie scolastique
+     * [ ] Phonétique
+     * [ ] Photographie
+     * [ ] Physiologie
+     * [ ] (BUTTON)
+    PHYSIQUE [groupe]
+          + [ ] Acoustique
+          + [ ] Astronomie
+          + [ ] Balistique
+          + [ ] Électricité
+          + [ ] Électronique
+          + [ ] Mécanique
+          + [ ] Mesures
+          + [ ] Optique
+          + [ ] Physique
+     * [ ] Poésie
+     * [ ] Politique
+     * [ ] Ponts et Chaussées
+     * [ ] Postes
+     * [ ] Pratique → Procédure
+     * [ ] Préhistoire
+     * [ ] Procédure
+     * [ ] Prosodie
+     * [ ] Psychanalyse
+     * [ ] Psychiatrie
+     * [ ] Psychologie
+     * [ ] Psychopathologie
+     * [ ] Pyrotechnie
+     * [ ] (BUTTON)
+    RELIGION ET SPIRITUALITÉ
+          + [ ] Dévotion
+          + [ ] Dogmatique
+          + [ ] Écriture sainte (Bible)
+          + [ ] Liturgie
+          + [ ] Mysticisme
+          + [ ] Religion
+          + [ ] Religion catholique
+          + [ ] Religion chrétienne
+          + [ ] Religion islamique
+          + [ ] Religion juive
+          + [ ] Spiritualité
+          + [ ] Théologie
+     * [ ] Reliure
+     * [ ] Rhétorique
+     * [ ] Sciences
+     * [ ] (BUTTON)
+    SCIENCES DE LA TERRE
+          + [ ] Géodésie
+          + [ ] Géographie
+          + [ ] Géologie
+          + [ ] Géomorphologie
+          + [ ] Géophysique
+          + [ ] Hydrologie
+          + [ ] Météorologie
+          + [ ] Minéralogie
+          + [ ] Paléontologie
+          + [ ] Topographie, Hydrographie
+     * [ ] Sciences naturelles
+     * [ ] Sculpture
+     * [ ] Sellerie
+     * [ ] Serrurerie
+     * [ ] Ski
+     * [ ] Sociologie
+     * [ ] Spectacles
+     * [ ] Spiritualité
+     * [ ] (BUTTON)
+    SPORTS [groupe]
+          + [ ] Alpinisme
+          + [ ] Athlétisme
+          + [ ] Courses
+          + [ ] Cyclisme
+          + [ ] Équitation, Manège
+          + [ ] Escrime
+          + [ ] Golf
+          + [ ] Gymnastique
+          + [ ] Jeux de ballon
+          + [ ] Ski
+          + [ ] Sports de combat
+          + [ ] Tennis, tennis de table
+     * [ ] Statistiques
+     * [ ] Sylviculture
+     * [ ] (BUTTON)
+    TECHNIQUES ET MÉTIERS
+          + [ ] Ameublement
+          + [ ] Céramique
+          + [ ] Coiffure
+          + [ ] Couture
+          + [ ] Fonderie
+          + [ ] Habillement
+          + [ ] Horlogerie
+          + [ ] Imprimerie
+          + [ ] Joaillerie
+          + [ ] Maréchalerie
+          + [ ] Menuiserie, Ébénisterie
+          + [ ] Métallurgie
+          + [ ] Mines
+          + [ ] Orfèvrerie
+          + [ ] Papeterie
+          + [ ] Parfumerie, cosmétiques
+          + [ ] Peausserie
+          + [ ] Pyrotechnie
+          + [ ] Reliure
+          + [ ] Sellerie
+          + [ ] Serrurerie
+          + [ ] Technique (terme)
+          + [ ] Télécommunications
+          + [ ] Textile (industrie)
+          + [ ] Typographie
+          + [ ] Verrerie
+     * [ ] Télécommunications
+     * [ ] Télévision
+     * [ ] Tennis, tennis de table
+     * [ ] Textile (industrie)
+     * [ ] Théâtre
+     * [ ] Théologie
+     * [ ] Topographie, Hydrographie
+     * [ ] Transports
+     * [ ] Travaux publics
+     * [ ] Typographie
+     * [ ] Urbanisme
+     * [ ] Vènerie
+     * [ ] Verrerie
+     * [ ] Versification
+     * [ ] Viticulture
+     * [ ] (BUTTON)
+    ZOOLOGIE [groupe]
+          + [ ] Conchyliologie (crustacés)
+          + [ ] Entomologie
+          + [ ] Hippologie
+          + [ ] Zoologie
+
+Recherche par entrées :
+
+   ____________________
+   [ ] Ignorer les accents
+
+Recherche par catégorie grammaticale :
+
+   Liste hierarchique des catégories grammaticale
+
+   (BUTTON) Liste des catégories grammaticales
+     * [ ] (BUTTON)
+    abréviation et symbole
+          + [ ] abréviation
+          + [ ] symbole
+     * [ ] (BUTTON)
+    adjectif
+          + [ ] adjectif
+          + [ ] adjectif numéral
+     * [ ] adverbe
+     * [ ] article
+     * [ ] conjonction
+     * [ ] (BUTTON)
+    élément (préfixe, suffixe)
+          + [ ] préfixe
+          + [ ] suffixe
+     * [ ] interjection
+     * [ ] (BUTTON)
+    locution
+          + [ ] locution
+          + [ ] locution adjectivale
+          + [ ] locution adverbiale
+          + [ ] locution conjonctive
+          + [ ] locution prépositive
+     * [ ] (BUTTON)
+    nom
+          + [ ] nom
+          + [ ] nom masculin
+          + [ ] nom féminin
+     * [ ] possessif (adjectif, pronom)
+     * [ ] pronom
+     * [ ] préposition
+     * [ ] (BUTTON)
+    verbe
+          + [ ] verbe
+          + [ ] verbe transitif
+          + [ ] verbe intransitif
+          + [ ] verbe pronominal
+          + [ ] verbe réciproque
+          + [ ] verbe impersonnel
+
+Recherche dans l’étymologie :
+
+par langue
+
+   Liste hierarchique par langue
+
+   (BUTTON) Liste des langues
+     * [ ] aborigènes d'Australie (langues)
+     * [ ] (BUTTON)
+    africaines (langues)
+          + [ ] africaine (langue)
+          + [ ] bantou
+          + [ ] malinké
+          + [ ] swahili
+          + [ ] wolof
+          + [ ] yoruba
+          + [ ] zoulou
+     * [ ] (BUTTON)
+    allemand [groupe]
+          + [ ] alémanique
+          + [ ] allemand
+          + [ ] alsacien
+     * [ ] (BUTTON)
+    amérindiennes (langues)
+          + [ ] algonquin
+          + [ ] amérindienne (langue)
+          + [ ] arawak
+          + [ ] caraïbe
+          + [ ] inuit
+          + [ ] nahuatl
+          + [ ] quechua
+          + [ ] taïno
+          + [ ] tupi-guarani
+     * [ ] (BUTTON)
+    anglais et anglo-américain
+          + [ ] anglais
+          + [ ] anglais des États-Unis
+     * [ ] arabe
+     * [ ] (BUTTON)
+    Asie (langues d')
+          + [ ] birman
+          + [ ] chinois
+          + [ ] thaï
+          + [ ] tibétain
+          + [ ] vietnamien
+     * [ ] basque
+     * [ ] (BUTTON)
+    caucasiennes (langues)
+          + [ ] caucasien
+          + [ ] géorgien
+     * [ ] (BUTTON)
+    celtiques (langues)
+          + [ ] breton
+          + [ ] celtique
+          + [ ] écossais
+          + [ ] gaélique
+          + [ ] gallois
+          + [ ] gaulois
+          + [ ] irlandais
+     * [ ] chinois
+     * [ ] coréen
+     * [ ] (BUTTON)
+    dravidiennes (langues)
+          + [ ] dravidienne (langue) [Inde]
+          + [ ] malayalam
+          + [ ] tamoul
+     * [ ] égyptien (ancien)
+     * [ ] espagnol
+     * [ ] étrusque
+     * [ ] (BUTTON)
+    finno-ougriennes (langues)
+          + [ ] finnois
+          + [ ] hongrois
+     * [ ] (BUTTON)
+    français (non régional)
+          + [ ] ancien français
+          + [ ] anglo-normand
+          + [ ] argot
+          + [ ] français (non régional)
+          + [ ] gallo-roman
+          + [ ] moyen français
+     * [ ] (BUTTON)
+    français (régional ou dialectal) de France
+          + [ ] français d'oïl
+          + [ ] français régional ou dialectal
+          + [ ] franco-provençal
+          + [ ] gascon
+          + [ ] languedocien
+          + [ ] normand
+          + [ ] occitan
+          + [ ] picard
+          + [ ] provençal
+     * [ ] (BUTTON)
+    français hors de France
+          + [ ] créole
+          + [ ] français de Suisse
+          + [ ] français du Canada
+          + [ ] wallon
+     * [ ] francique
+     * [ ] gaulois
+     * [ ] (BUTTON)
+    germaniques (langues)
+          + [ ] francique
+          + [ ] germanique
+          + [ ] gotique
+     * [ ] grec
+     * [ ] hébreu
+     * [ ] (BUTTON)
+    indo-aryennes (langues)
+          + [ ] bengali
+          + [ ] cingalais
+          + [ ] hindi
+          + [ ] hindoustani
+          + [ ] indo-aryenne (langue)
+          + [ ] népalais
+          + [ ] sanscrit
+     * [ ] (BUTTON)
+    indo-européen (langues isolées de l')
+          + [ ] indo-européen
+          + [ ] romani
+          + [ ] tsigane
+     * [ ] (BUTTON)
+    iraniennes (langues)
+          + [ ] avestique
+          + [ ] iranien
+          + [ ] pashtô
+          + [ ] persan
+     * [ ] (BUTTON)
+    italien [groupe]
+          + [ ] corse
+          + [ ] italien
+          + [ ] vénitien
+     * [ ] japonais
+     * [ ] (BUTTON)
+    latin [groupe]
+          + [ ] bas latin
+          + [ ] latin
+          + [ ] latin chrétien ou ecclésiastique
+          + [ ] latin impérial
+          + [ ] latin médiéval
+          + [ ] latin populaire
+          + [ ] latin scientifique
+     * [ ] (BUTTON)
+    malayo-polynésiennes (langues)
+          + [ ] malais
+          + [ ] malayo-polynésienne (langue)
+          + [ ] malgache
+          + [ ] maori
+          + [ ] polynésien
+          + [ ] tahitien
+     * [ ] (BUTTON)
+    néerlandais [groupe]
+          + [ ] flamand
+          + [ ] néerlandais
+     * [ ] (BUTTON)
+    nordiques (langues)
+          + [ ] danois
+          + [ ] islandais
+          + [ ] nordique
+          + [ ] norvégien
+          + [ ] scandinave
+          + [ ] suédois
+     * [ ] normand
+     * [ ] persan
+     * [ ] portugais
+     * [ ] provençal
+     * [ ] (BUTTON)
+    romanes (autres langues)
+          + [ ] catalan
+          + [ ] romane (autre langue)
+          + [ ] sarde
+     * [ ] russe
+     * [ ] sanscrit
+     * [ ] (BUTTON)
+    sémitiques (langues)
+          + [ ] amharique
+          + [ ] arabe
+          + [ ] araméen
+          + [ ] berbère
+          + [ ] hébreu
+          + [ ] sémitique
+          + [ ] syriaque
+     * [ ] (BUTTON)
+    slaves (langues)
+          + [ ] polonais
+          + [ ] russe
+          + [ ] serbo-croate
+          + [ ] slave
+          + [ ] tchèque
+          + [ ] ukrainien
+     * [ ] (BUTTON)
+    turques (langues) [ouralo-altaïques]
+          + [ ] kirghiz
+          + [ ] mongol
+          + [ ] ouïgour
+          + [ ] toungouse
+          + [ ] turc
+     * [ ] *acronymes
+     * [ ] (BUTTON)
+    *dérivés de noms de personnes ou de lieux
+          + [ ] *dérivé de nom de lieu
+          + [ ] *dérivé de nom de personne
+     * [ ] *noms et marques déposés
+     * [ ] *origine incertaine ou inconnue
+
+par datation
+
+   [Liste des datations]
+
+Filtre par éditions :
+
+   [9ᵉ édition (actuelle)le)]
+   Statut du mot : [ ] apparu [ ] disparu
+   Information
+   (BUTTON) Rechercher (BUTTON) Réinitialiser
+   (BUTTON)
+     * Accueil
+     * Recherche avancée
+     * Aide en ligne
+     * Préfaces et annexes
+     * Présentation
+     * Crédits
+
+   Logo Académie Française
+   (BUTTON) Aller au contenu Aide en ligne
+   Préfaces
+   Paramètres d’accessibilité
+     * 1^re
+       1694
+     * 2^e
+       1718
+     * 3^e
+       1740
+     * 4^e
+       1762
+     * 5^e
+       1798
+     * 6^e
+       1835
+     * 7^e
+       1878
+     * 8^e
+       1935
+     * 9^e édition
+       ACTUELLE
+       ACT.
+
+   Dictionnaire de l’Académie française, 9^e édition (actuelle)
+   (BUTTON) Réduire la taille des caractères (BUTTON) Agrandir la taille
+   des caractères (BUTTON) Imprimer le texte de l’article (BUTTON)
+   Partager l’article
+
+   PARTAGER
+   (BUTTON)
+
+   Vous pouvez copier le lien suivant
+   dans le presse-papiers :
+   http://www.dictionna
+   (BUTTON) COPIER
+
+   Il vous permet de créer un lien hypertexte vers cet article du
+   Dictionnaire.
+
+   Consultez les conditions d’utilisation pour en savoir plus.
+
+ : ce mot correspond à plusieurs entrées :
+
+     * Mot 1
+
+Termes, abréviations et symboles
+
+     * Texte 1
+
+cœur
+
+   (BUTTON)
+     * Accueil
+     * DÉFINITION
+     * VOIR AUSSI
+     * PAGE NUMÉRISÉE
+     * HISTOIRE DU MOT
+     * VOISINAGE ALPHABÉTIQUE
+     * HISTORIQUE DE CONSULTATION
+
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+
+CŒUR
+
+   nom masculin
+   Étymologie : xi^e siècle, cuer. Du latin populaire *cor, *coris,
+   altération du latin classique cor, cordis. Selon la conception antique,
+   le cœur est siège de la vie, des passions, des sentiments, de
+   l’intelligence, de la mémoire et de la volonté. La médecine grecque
+   appelait kardia le cœur et l’entrée de l’estomac, ce qui explique des
+   expressions telles que « mal au cœur ».
+
+I.
+
+   (BUTTON) section
+   I. L’organe.
+   1.  Viscère musculaire creux et pulsatile, situé, chez les Mammifères,
+   dans la cage thoracique, et qui est le principal moteur de la
+   circulation du sang. Le cœur comporte des cavités gauches, qui envoient
+   le sang dans la circulation générale, et des cavités droites, qui
+   envoient le sang dans la circulation pulmonaire. Le cœur droit, le cœur
+   gauche. Les ventricules, les oreillettes du cœur. Les mouvements, les
+   pulsations, les battements du cœur. La contraction du cœur porte le nom
+   de systole, sa dilatation porte le nom de diastole. User du stéthoscope
+   pour écouter les bruits du cœur. Il a reçu une balle en plein cœur.
+   Viser, frapper au cœur. Une maladie de cœur. L’accélération des
+   battements du cœur se nomme tachycardie. Les malformations du cœur. Son
+   cœur ne bat plus. Ranimer un malade par le massage du cœur. Opération à
+   cœur ouvert, intervention pratiquée sur les cavités cardiaques, et
+   rendue possible par la déviation de la circulation sanguine grâce à un
+   dispositif de circulation extracorporelle. Cœur artificiel, appareil
+   implanté dans l’organisme et destiné à suppléer les fonctions du cœur.
+   Une greffe, une transplantation du cœur. Avoir un souffle au cœur, se
+   dit d’un sujet chez qui l’auscultation du cœur a permis au médecin de
+   percevoir un souffle, généralement provoqué par une lésion des orifices
+   internes du cœur.
+   ▪ Expr. Tant que mon cœur battra, aussi longtemps que je vivrai. Avoir
+   le cœur battant, le cœur qui palpite, sous l’effet d’une émotion, d’une
+   sensation forte. Un coup au cœur, une vive et pénible émotion. Son cœur
+   battait la chamade, voir Chamade.
+   2.  Par extension. Fam. Avoir mal au cœur, par euphémisme, avoir des
+   nausées. Avoir mal au cœur en bateau, en voiture, en avion. Avoir le
+   cœur barbouillé, le cœur au bord des lèvres. Un haut-le-cœur, voir ce
+   mot. Fig. Cela me fait mal au cœur de voir pareil gâchis. Ses paroles
+   me sont restées sur le cœur.
+
+II.
+
+   (BUTTON) section
+   II. Autres sens concrets.
+   1.  La poitrine, contenant le cœur. Presser son enfant sur son cœur.
+   Serrer sur son cœur, contre son cœur. Protester de sa bonne foi, la
+   main sur le cœur.
+   2.  Ce qui rappelle la forme du cœur.
+   ▪ Petit objet ou ornement ayant la forme d’un cœur. Un cœur d’ivoire,
+   de jade. Un cœur en pain d’épice. Marque de domaine : botanique. Une
+   feuille en cœur. Des pétales en cœur. Expr. fam. Avoir la bouche en
+   cœur, arrondie d’une manière affectée. Elle est arrivée la bouche en
+   cœur, comme si de rien n’était, avec une réelle ingénuité ou une
+   naïveté feinte.
+   ▪ Marque de domaine : jeux de cartes. Une des quatre couleurs d’un jeu
+   de cartes, dont les points sont figurés par des cœurs. Le roi de cœur.
+   Un dix de cœur. Il a trois cœurs dans son jeu. Jouer cœur, jouer atout
+   cœur. Au bridge, jouer trois cœurs.
+   3.  Ce qui est central, par allusion au siège du cœur considéré comme
+   central dans l’organisme. Une poire au cœur gâté. Le cœur d’une salade,
+   d’un chou. Manger un cœur d’artichaut, des cœurs de palmier à la
+   vinaigrette. Spécialement. Un fromage fait à cœur, moelleux dans son
+   épaisseur. Marque de domaine : sylviculture. Partie centrale du corps
+   ligneux des arbres, plus dure, plus dense et plus colorée que la partie
+   externe. Du cœur de chêne, de poirier. Une table en cœur de noyer.
+   – Marque de domaine : physique nucléaire. Le cœur d’un réacteur, la
+   région d’un réacteur nucléaire comprenant le combustible nucléaire et
+   agencée pour être le siège d’une réaction de fission.
+   ▪ Par extension. Milieu, centre. Un village niché au cœur d’une région
+   montagneuse, au cœur de la forêt. Il loge au cœur de la ville. Quelque
+   part, au cœur de l’Afrique. Se trouver pris au cœur de la mêlée, de
+   l’orage, du cyclone. Au cœur de l’été, de l’hiver, en plein milieu de
+   l’été, de l’hiver. Nous voici au cœur du débat, du sujet, à son point
+   central.
+
+III.
+
+   (BUTTON) section
+   III. Sens figurés, nés de l’ancienne croyance localisant dans le cœur
+   l’affectivité, l’humeur, le courage, la générosité et d’autres
+   sentiments.
+   1.  Attachement, passion, amour ; siège de ces sentiments. Aimer de
+   tout son cœur. Les élans, les incertitudes, les intermittences du cœur.
+   Avoir le cœur assoiffé de tendresse. Laisser parler son cœur. Un ami,
+   une amie de cœur. Avoir une affaire de cœur, des peines de cœur.
+   C’était son premier battement de cœur, son premier émoi amoureux. Son
+   cœur est pris, il est amoureux. Un amant de cœur. Le courrier du cœur,
+   voir Courrier. Par litote. Elle ne les porte pas dans son cœur, elle
+   les déteste. Être de cœur avec quelqu’un, être en communion de
+   sentiments et de pensées avec lui. Donner son cœur à quelqu’un.
+   Demander, convoiter, posséder le cœur de quelqu’un. On l’a mariée
+   contre son cœur, alors qu’elle en aimait un autre. Prov. Loin des yeux,
+   loin du cœur, l’amour ne résiste pas à une longue séparation.
+   ▪ Par métonymie. Se concilier, gagner tous les cœurs. Régner sur les
+   cœurs. Un cœur à prendre, une personne libre de toute liaison
+   amoureuse. Un cœur tout neuf. Une chaumière et un cœur, le bonheur à
+   deux dans une vie simple. Traîner les cœurs derrière soi, susciter de
+   nombreuses passions. Un bourreau des cœurs, un homme aux nombreuses
+   conquêtes. Dans un emploi hypocoristique. Mon cœur, mon cher cœur.
+   Brave petit cœur !
+   ▪  Prov. Cœur qui soupire n’a pas ce qu’il désire.
+   2.  Pris comme siège de l’affectivité ; intuition par opposition à la
+   raison. Le cœur a ses raisons que la raison ne connaît pas, expression
+   proverbiale tirée de Pascal. Dieu sensible au cœur. L’intelligence, la
+   politesse du cœur, faites de discernement intuitif. Cet écrit plaît à
+   l’esprit sans toucher les cœurs. L’alliance du cœur et de la raison. Un
+   souvenir gravé dans mon cœur. Un cri du cœur. Une parole venue du fond
+   du cœur. Décharger, soulager, vider son cœur. Elle veut vous ouvrir son
+   cœur. Vous lisez dans mon cœur. Parler cœur à cœur, à cœur ouvert, sans
+   rien dissimuler. Parler d’abondance de cœur, s’épancher.
+   ▪ Expr. Je veux en avoir le cœur net, savoir ce qu’il en est, me
+   délivrer de mes doutes.
+    Titre célèbre : Le Cœur innombrable, d’Anna de Noailles (1901).
+   3.  Siège des sentiments éthiques, conscience morale. Attendrir,
+   toucher le cœur de quelqu’un. Cela va au cœur, touche, émeut. Il a le
+   cœur bon, franc, droit, généreux, excellent. Être doux et humble de
+   cœur. Vous connaissez la pureté, la droiture, la sincérité de son cœur.
+   Avoir du cœur, bon cœur, un cœur d’or et, par métonymie, c’est un bon
+   cœur, un cœur d’or. « À votre bon cœur », répétait le mendiant. Un
+   homme, une femme de cœur, de grand cœur, au grand cœur. Elle a mauvaise
+   tête mais bon cœur, elle est impulsive, indisciplinée, mais capable de
+   bons sentiments. Avoir le cœur sur la main, être très généreux. Manquer
+   de cœur. Vous n’avez donc pas de cœur, vous êtes inaccessible à la
+   pitié. Avoir une pierre ou, fam., un caillou à la place du cœur. Avoir
+   un cœur de pierre, de roche, de marbre, d’airain, être insensible. Un
+   sans-cœur. Avoir mauvais cœur. Il a le cœur dissimulé, gâté, endurci,
+   corrompu par le mal. Avoir le cœur dur, sec et, par métonymie, c’est un
+   mauvais cœur, un cœur sec. Il est parti, la rage au cœur. Un cœur
+   rempli d’amertume, de rancœur. Le cœur enflammé d’indignation. Le cœur
+   mordu, rongé, dévoré par l’envie, la jalousie. Marque de domaine :
+   écriture sainte. L’essence de l’être, le fond de la personne. Le
+   Seigneur sonde les reins et les cœurs, voit jusqu’au fond de l’être.
+   Par métonymie. Heureux les cœurs purs.
+   4.  Courage, vertu, fermeté d’âme. Avoir du cœur. Haut les cœurs ! Ils
+   ont fait montre de beaucoup de cœur. Ils marchaient d’un cœur assuré.
+   Travailler avec cœur. Avoir le cœur, du cœur à l’ouvrage. Il a mis tout
+   son cœur dans cette entreprise. Le cœur m’a manqué. Je n’ai pas eu le
+   cœur de lui refuser.
+   ▪ Expr. Faire contre mauvaise fortune bon cœur, ne pas se laisser
+   abattre par l’échec. Prendre son cœur à deux mains, faire un grand
+   effort sur soi-même (aujourd’hui, on dit plutôt Prendre son courage à
+   deux mains). Fam. Mettre, remettre du cœur au ventre à quelqu’un, lui
+   donner ou redonner du courage.
+   ▪ Par métonymie. À cœur vaillant rien d’impossible. Un cœur de lion, un
+   homme très courageux. Un cœur de lièvre, de poule, un pleutre.
+   5.  Siège de la tristesse et de la joie ; humeur. Avoir le cœur à, être
+   d’humeur à. Tu as le cœur à rire, moi, je l’ai à pleurer. Rire de bon
+   cœur. La nouvelle lui a brisé, fendu le cœur. Avoir le cœur broyé,
+   meurtri, endolori. Le cœur serré de chagrin. Cela me déchire, me perce,
+   me fait saigner le cœur. Avoir quelque chose sur le cœur, en avoir du
+   ressentiment. Cela lui pèse sur le cœur, lui cause du chagrin. Avoir le
+   cœur gros, lourd, oppressé. Avoir un poids sur le cœur et, fam., en
+   avoir gros sur le cœur. Cela me fait gros cœur. Crever le cœur, voir
+   Crever. Un crève-cœur, voir ce mot. Avoir une écharde dans le cœur, une
+   douleur incessante. Porter son cœur en écharpe, faire étalage des
+   souffrances de sa vie sentimentale. Avoir le cœur gai, content, à
+   l’aise, le cœur en fête, le cœur dilaté de joie. Avoir de la joie au
+   cœur.
+   ▪ Loc. À cœur joie, sans réserve ni retenue. S’en donner à cœur joie,
+   goûter pleinement un plaisir. D’un cœur léger, sans crainte ni regret.
+   Accepter une mission d’un cœur léger, d’un cœur tranquille.
+   6.  Siège de l’ardeur, du zèle, de la bonne volonté. Prendre quelque
+   chose à cœur, y apporter du zèle, du sérieux ; être scrupuleux. Il
+   prend la chose trop à cœur. Il a pris très à cœur vos reproches. Cela
+   lui tient à cœur. Elle avait à cœur de toujours bien faire.
+   ▪ Expr. J’ai repris mon travail, mais le cœur n’y était pas, j’ai
+   travaillé sans entrain, sans plaisir. J’y consens de tout cœur, de tout
+   mon cœur. J’accepte de bon cœur, de grand cœur. Il n’a écouté que son
+   cœur. C’est un projet selon son cœur. À contrecœur, voir ce mot. Si le
+   cœur vous en dit, si vous en avez envie. Un coup de cœur, une
+   admiration soudaine, un attrait irraisonné. Loc. adv. De gaieté de
+   cœur, voir Gaieté.
+   ▪  Prov. On a beau prêcher qui n’a cœur de rien faire.
+   7.  Marque de domaine : religion catholique. Le Sacré Cœur, le Cœur
+   sacré de Jésus, symbole de l’amour humain et divin du Christ à l’égard
+   des hommes. Le Saint Cœur de Marie. La dévotion au Cœur immaculé de
+   Marie. La fête du Sacré-Cœur. La basilique du Sacré-Cœur de Montmartre
+   ou, elliptiquement, le Sacré-Cœur de Montmartre. Par métonymie. Statue
+   représentant le Christ montrant son cœur. Un sacré-cœur de bronze, de
+   plâtre.
+
+IV.
+
+   (BUTTON) section
+   IV. Expressions diverses.
+   Par cœur, de mémoire, fidèlement et littéralement. Apprendre, réciter
+   sa leçon par cœur. Péj. Il débite tout par cœur, sans âme, sans rien de
+   personnel. Fig. et fam. Connaître, savoir quelqu’un par cœur, être
+   parfaitement au courant de ses habitudes, de sa vie, de son caractère.
+   Elle est jolie comme un cœur, ravissante. Faire le joli cœur, se
+   montrer sous le jour le plus favorable, chercher à séduire. Dîner par
+   cœur, se passer, se priver d’un repas.
+   Voir aussi (BUTTON) section
+     * [Terminologie (FranceTerme)] :
+          + (Économie et gestion d’entreprise) argent du cœur ● cœur de
+            marque ● cœur de métier / métier de base
+          + (Électronique) cœur de processeur
+          + (Nucléaire) cœur [n. m.] ● cœur hétérogène ● cœur homogène
+            ● instrumentation externe / instrumentation de mesure
+            nucléaire externe au cœur [loc. n. f.] ● instrumentation
+            interne / instrumentation de mesure nucléaire interne au cœur
+            [loc. n. f.]
+          + (Sports | Sciences de la Terre) cœur de la vague [loc. n. m.]
+
+   Liens externes (BUTTON) section
+     * [Francophonie (BDLP)] cœur (Belgique, Burundi, Cameroun,
+       Centrafrique, Congo-Brazzaville, Côte d’Ivoire, Louisiane, Maurice,
+       Nouvelle-Calédonie, Québec, Réunion, Tchad)
+
+   Vous pouvez cliquer sur n’importe quel mot pour naviguer dans le
+   dictionnaire.
+
+VOISINAGE ALPHABÉTIQUE
+
+     * cœnurose, n. f.
+     * coenzyme, n. f. ou m.
+     * coéquation, n. f.
+     * coéquipier, -ière, n.
+     * coercibilité, n. f.
+     * coercible, adj.
+     * coercitif, -ive, adj.
+     * coercition, n. f.
+     * coétat, n. m. [6^e édition]
+     * coéternel, -elle, adj.
+     * cœur, n. m.
+     * coexistant, -ante, adj.
+     * coexistence, n. f.
+     * coexister, v. intr.
+     * cofermier, n. m. [8^e édition]
+     * coffin, n. m.
+     * coffrage, n. m.
+     * coffre, n. m.
+     * coffre-fort, n. m.
+     * coffrer, v. tr.
+
+VOIR AUSSI
+
+     * Terminologie (FranceTerme) [10]
+     * Francophonie (BDLP) [1]
+
+ORTHOGRAPHE
+
+PAGE NUMÉRISÉE
+
+HISTOIRE DU MOT
+
+     * cœur, n. m. [1^re édition]
+     * cœur, n. m. [2^e édition]
+     * cœur, n. m. [3^e édition]
+     * cœur, n. m. [4^e édition]
+     * cœur, n. m. [5^e édition]
+     * cœur, n. m. [6^e édition]
+     * cœur, n. m. [7^e édition]
+     * cœur, n. m. [8^e édition]
+     * cœur, n. m.
+
+HISTORIQUE DE CONSULTATION
+
+     * Académie française
+     * Aide en ligne
+     * Mentions légales
+     * Accessibilité
+     * Contacts
