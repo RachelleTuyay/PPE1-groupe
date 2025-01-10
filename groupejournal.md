@@ -17,5 +17,5 @@ Création du script1.sh qui vérifie les urls si ils ont bien un code de 200.
 Ajout de urls-fr.txt, où le 7ème lien provoquera une erreur 404 avec le script1.sh pour montrer que le script fonctionne ainsi que pour les autres scripts.
 
 Le 10/01/2024 :
-Ajout du scriptfr.sh, ainsi que les fichiers fr dans les dossiers aspirations, contextes, concerdances, dumps-text et tableaux.
+Ajout du scriptfr.sh, ainsi que les fichiers fr dans les dossiers aspirations, contextes, concordances, dumps-text et tableaux.
 - Le scriptfr.sh s'est basé du scriptch.sh, qui a été modifié par la suite pour opter un style (CSS avec bulma) différents et réadapté pour ubuntu (car Hongying est sur Mac).
