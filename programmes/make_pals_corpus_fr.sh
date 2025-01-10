@@ -18,7 +18,7 @@ output_contexte="${rep_pals}contexte-fr.txt"
 > "$output_contexte"
 
 # Itération sur tous les fichiers dumps .txt :
-for file in "$input_dump"; do
+for file in "$input_dumps"; do
     # Vérifie que c'est bien un fichier texte
     if [ -f "$file" ]; then
         # Tokenisation et ajout au fichier de sortie
