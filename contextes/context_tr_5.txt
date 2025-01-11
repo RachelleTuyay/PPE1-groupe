@@ -1,15 +1,411 @@
-   ihtiyacı karşılamak için Türk Kardiyoloji Derneği Kalp Yetersizliği
-   Çalışma Grubu öncülüğünde kalp yetersizliği konusunda uzmanlaşmak,
-   fikir lideri olmak isteyen kardiyoloji uzmanı olan meslektaşlarımız
+
+   Kalp yetersizliği, kalp perfomansının azalması sonucu, kalbin doku ve
+   organlara gerekli ve yeterli kanı gönderememesi sonucu ortaya çıkan
+   klinik bir tablodur.
+   Sıklıkla kalp damar hastalığı, kalp krizi, yüksek tansiyon
+   (hipertansiyon), kalp kapak hastalığı gibi kalp performansını bozan ya
+   da kalbin iş yükünü arttıran durumlar sonucu gelişir. Kalp yetersizliği
+   genellikle ileri safhada saptanır. Konjestif kalp yetersizliği denen
+   durumda akciğerlere, ayaklara, bacaklara ve bazı vakalarda karaciğer ve
 --
-   Kalp Yetersizliği Sertifikasyon Programı (KYSP) düzenlenmesi ihtiyacı
-   doğmuştur. KYSP akut, kronik ve ileri kalp yetersizliği hastalarına
-   klinik yaklaşımdan farmakoterapiye, kardiyak görüntülemeden invazif
+   yatış nedenidir.
+     * Normal kalp nasıl çalışır?
+
+   Kalp eşzamanlı kasılan iki odacıktan oluşur. Ayrıca kalbe dönen kanı bu
+   odacıklara yönlendiren 2 küçük odacık daha vardır. Böylece kalp 2
+   boşluk sağ tarafta, 2 boşluk sol tarafta olmak üzere 4 boşluktan
 --
-     * Her katılımcının sertifika programı boyunca 5’erli gruplar halinde
-       ileri kalp yetersizliği merkezi olarak Ege Üniversitesi Tıp
-       Fakültesi Kardiyoloji Ana Bilim Dalı’nda Prof. Dr. Sanem Nalbantgil
+   önlemek üzere giriş ve çıkış kısmında birer kapakçık bulunur. Kalpteki
+   odacıkların duvarları özel kalp kasından oluşmaktadır. Atriyum ve
+   ventriküller eşzamanlı ve ardısıra kasılarak uyumlu çalışırlar. Her
+   kalp atımının başında, kalbin kasılması için özelleşmiş bir odaktan
+   çıkarılan elektriksel sinyal tüm kalbe yayılarak kalp kasının
+   kasılmasını sağlar. Önce atriyumlar kasılarak açık olan
 --
-       Öğrenim hedefi;
-          + İleri kalp yetersizliği hastalarına yaklaşım,
-          + Kalıcı Mekanik Destek Cihazlarına ve Kalp Transplantasyonuna
+   uyarı ventrikül kasına doğru ilerlediğinde, ventriküllerin kasılmasını
+   sağlayarak kanı kalpten akciğer ve tüm vücuda doğru atar. Ventriküller
+   kasılırken atriyumlar gevşeyerek kanla dolar ve sonraki atımın
+--
+   pompalamada yetersiz kalmasından kaynaklanır. Pompa fonksiyonundaki
+   yetersizlik, kalp kasının kasılmasındaki performans azalmasından veya
+   kalp kasının gevşemesindeki anormalliklerden kaynaklanabilir. Kalp
+   kasılma gücünde azalma varsa genellikle kalp kası gevşeme anormalliği
+   de buna eşlik eder. Ancak tek başına kalp kası gevşeme anormalliği,
+   özellikle yaşlı, hipertansif, diyabetik, kadın olgular başta olmak
+   üzere, kalp yetersizliğine neden olabilir.
+   Kalp yetersizliği pek çok nedene bağlı olarak ortaya çıkabilir. Kalp
+   damar hastalığı ve geçirilmiş kalp krizi, kalp yetersizliği bulunan
+   olguların 2/3’ünde kalp yetersizliği nedeni olarak karşımıza
+   çıkmaktadır. Toplumda en sık görülen hastalıkların başında yer alan
+   hipertansiyon kalp duvarında kalınlaşma ve kalp kasında gevşeme
+   anormalliğine neden olarak kalp yetersizliğine neden olabilir. Kalp
+   kapak hastalıkları, kalp ritm bozuklukları, kalp kası enfeksiyonları,
+   doğuştan kalp hastalıkları ve kalıtımsal geçen kalp kası hastalıkları
+   diğer kalp yetersizliği nedenleri arasında yer alır.
+   Kalp, kasılma gücünün bir bölümünü kaybettiyse ve yeterince
+--
+   pompalamada yetersiz kalır. Kalp yeterince boşalamıyor ve gevşeyemiyor
+   ise kalbe giren kan miktarı azalır, dolayısıyla kalpten pompalanan kan
+   miktarı da azalmış olur. Doku ve organlara yeterli kan
+--
+
+   Kalp yetersizliğinde, bir taraftan kalp doku ve organlara gerektiği
+   kadar kanı sağlamaya çabalarken, doku ve organlar da kalp yetersizliği
+   durumuna uyum sağlamaya çalışır. Bu durum kalp ile doku ve organların
+   kalp yetersizliğine adaptasyonu olarak bilinir.
+   Sözkonusu adaptasyon için kalp daha fazla kanı pompalamak için
+   dakikadaki atım sayısını arttırır (taşikardi). Daha fazla miktarda kan
+   hacmini alıp pompalamak için kendi boyutunu artırır ve kalp
+   boşluklarında genişleme bir başka deyişle kalp büyümesi ortaya çıkar
+   (dilatasyon). Performansını arttırmak, daha iyi pompa gücü sağlamak
+   için kalp duvarları kalınlaşır (hipertrofi). Vücuttaki birçok hormonal
+   mekanizmaların devreye girmesiyle dolaşan kan miktarı arttırılarak
+--
+   yetersizliği tablosu daha da kötüye gider.
+     * Akut ve kronik kalp yetersizliği nedir?
+
+   Kalp yetersizliğinde yakınmaların ortaya çıkışı, süresi, ciddiyeti her
+   hastada farklıdır. Kalp yetersizliğinin, kronik kalp yetersizliği ve
+   akut kalp yetersizliği olmak üzere iki farklı klinik tipi vardır.
+   Kronik kalp yetersizliği, yakınmaların yavaş geliştiği ve zamanla
+   kötüleştiği klinik tablodur. Akut kalp yetersizliği ise yakınmaların
+   aniden geliştiği ve ciddi nefes darlığı ile seyreden ağır bir klinik
+   tablodur. Kronik kalp yetersizliği bulunan olgularda zaman zaman akut
+   kalp yetersizliği tablosu gelişebilmektedir.
+     * KALP YETERSİZLİĞİNDE GÖRÜLEN YAKINMALAR
+
+   Kalp yetersizliğine bağlı ortaya çıkan yakınmalar, mevcut kalp
+   yetersizliğinin tipine ve kişiden kişiye değişebilir. Dolayısıyla
+--
+   farklı düzeylerde görülebilir.
+   Erken evrede kalpte yetersizliğe ilişkin değişiklikler olmasına karşın
+   herhangi yakınma olmayabilir.  Ancak kalp yetersizliği ilerledikçe
+   yakınma ve belirtiler ortaya çıkmaya başlar ve giderek daha belirgin
+--
+
+   Nefes darlığı, kalp yetersizliğinde en sık görülen en önemli
+   yakınmadır. Hemen hemen kalp yetersizlikli olguların tamamına yakınında
+   gözlenir. Önceleri ağır eforu (örn. merdiven çıkma) takiben ortaya
+--
+   düzensiz vurular şeklinde hissedilebilir. İstirahatte nabızdan bakılan
+   kalp atım sayısı dakikada 90-100 üzerine çıkmışsa çarpıntı yakınmanızın
+   doğru olduğunu düşünebilirsiniz. Bu durum kalp yetersizliği tablosunun
+   kötüleşmeye başladığını gösteriyor olabilir.
+--
+   için oluşan düzenli atımlar şeklinde hızlanmasına veya düzensiz ve
+   hızlanmış kalp atımları ile ritm bozukluğu gelişmesine bağlı olabilir.
+   Çarpıntı ani gelişen düzensiz kalp atımları (atriyal fibrilasyon)
+   şeklindeyse, kalp yetersizliği tedavisinde kullanılan ilaçların yeniden
+   düzenlenmesi ve böylece çarpıntının kontrolü için vakit kaybetmeden
+--
+   vücuttan artık maddelerin temizlenmesi gerektiği hızda
+   temizlenememesine bağlı da oluşabilir. Aynı zamanda kalp yetersizliği
+   tedavisinde kullanılan ilaçların yan etkileri sonucu da söz konusu
+--
+
+   Ayak ve bacak şişliği, vücutta sıvı birikmesi sonucu gelişir. Bu kalp
+   yetersizliğinin kötüleştiğine ilişkin belirti olabilir. Ayaklarda
+--
+   Karnın üst bölgesinde (mide bölgesi) ağrı veya şişkinlik, vücutta sıvı
+   toplanmasına bağlı olarak gelişebilir ve kalp yetersizliğinin
+   ilerlemesinin belirtisi olabilir. Sözkonusu yakınma ve bulguların
+--
+   Kalp yetersizliği bulunan hastalarda vücut ağırlığında hızlı değişimler
+   olabilir. Eğer kalp yetersizliği sıvı birikmesine neden oluyorsa hızlı
+   bir kilo artışı söz konusu olabilir.
+--
+   Kalp yetersizliğine bağlı inatçı öksürük ve hırıltı görülebilir.
+   Hırıltı, astımlı hastalardakine benzer olsa da, kalp yetersizliğinde
+   sebep farklıdır. Özellikle gece uyuduktan bir süre sonra başlayan ve
+   hastayı uyandıran öksürük kalp yetersizliğinde nefes darlığı eşdeğeri
+   kabul edilir. Kalp yetersizliği olan kişiler, bazen, öksürükle beraber
+   hafifçe kanla boyanmış sümüksü, kalın balgam çıkarabilirler. Bu durum
+   genellikle kalp yetersizliğinde yatkınlığın fazla olduğu akciğer
+   enfeksiyonlarıyla birlikte görülür (Pnömoni/Zatürre).
+--
+   olur. Öksürük veya hırıltının solunumunuzu zorlaştıracak şekilde
+   kötüleştiğini fark ettiyseniz, doktorunuza haber verin. Çünkü kalp
+   yetersizliğiniz ilerlemiş olabilir. Ayrıca kuru ve inatçı öksürük kalp
+   yetersizliğinde kullanılan bazı ilaçların yan etkisine bağlı olarak da
+--
+   gelir.
+   Kalp hızı (çok yavaşlarsa veya çok hızlanırsa) ve kalp ritmindeki
+   anormallikler (ritm bozukluğu gelişmesi), kalp yetersizliğini
+   ağırlaştıran durumların araya girmesi sonucu kalp kan atım hacminde
+   belirgin azalmanın söz konusu olduğu durumlar, kullanılan ilaçlara
+   bağlı tansiyon düşmesi oluştuğu durumlarda kalp yeterli kanı
+   pompalayamadığında beyine giden kan akımı azalabilir. Özellikle, ani
+   ayağa kalktıktan sonra gelişen baş dönmesi, kalp yetersizliği
+   hastalarında görülebilen bir durumdur. Bu durum ayağa kalktıktan sonra
+   hızlı ama geçici tansiyon düşmesine bağlı olarak görülür ve “postural
+   hipotansiyon” olarak adlandırılır. Halsizlik ve sersemlik, kalp
+   yetersizliğine yönelik verilen ilaçların yan etkilerine bağlı olarak da
+   gelişebilir. İdrar söktürücüler ve kalp yetersizliği tedavisinde
+   kullanılan diğer ilaçlar tansiyonu düşürebilir.
+--
+
+   Kalp yetersizliği bulunan olguların 2/3’üne kalp damar hastalığı eşlik
+   ettiğinden, kalp damar hastalığına bağlı göğüs ağrısı sık karşılaşılan
+   yakınmalar arasında bulunur. Bu tip olgularda göğüs ağrısı genellikle
+--
+   görülse de istirahat sırasında da ortaya çıkabilir ve istirahat göğüs
+   ağrısı daha ciddi bir durumu (örn kalp krizi tehdidi veya kalp krizi)
+   ifade edebilir. Genellikle 3-10 dakika sürüp dinlenmekle geçer. Ancak
+   daha uzun süre devam ediyorsa acilen en yakın hastaneye başvurulması
+   gerekir. Göğüs ağrısı, kalp krizinin göstergesi olabileceğinden ciddiye
+   alınmalıdır.
+--
+   kaybına bulantının eşlik etmesi, özellikle sağ üst karın ağrısı ve
+   şişkinlik ile beraber gelişiyorsa kalp yetersizliği tablosunda
+   kötüleşmenin belirtisi olabilir. İştahsızlık ve bulantı aynı zamanda
+--
+   Klinik hikayeniz ve yakınmalarınız ışığında yapılacak bir muayene
+   sonucu kalp yetersizliği olasılığınız ortaya konacaktır. Doktorlar
+   tanıyı doğrulamak için genellikle bir takım testler isterler. Bu
+   testlerin çoğu basit ve acısızdır. Bu testlerden en sık kullanılanı
+   ekokardiyogram’’ (kalp ultrasonu)’’dır. Kalbin ekokardiyografik
+   incelemesi ile kalp boşlukları, kalp duvarları ve kalp kapakları
+   hakkında bilgi edinilebilir ve kalbin pompalama gücü doğrudan
+--
+   Kalp yetersizliği tedavisinde erken tanı ve tedavi oldukça önemlidir.
+   Günümüzde hekim-hasta işbirliği ile pek çok kalp yetersizliği hastası
+   normal günlük yaşamlarını devam ettirebilmektedir. Eğer kalp
+   yetersizliği tanısı almışsanız hekiminiz tarafından size bir takım
+--
+   edilen ikinci bir idrar söktürücü ilaç kullanımı kısa dönemde kilo
+   kaybına yol açabilir. İleri evre kalp yetersizliği bulunan olgularda
+   aylar içinde kas erimesine bağlı zayıflama ve kilo kaybı ortaya
+--
+   vücut toplam sıvı miktarının artışı anlamına gelir. Dolaşan kandaki
+   fazla sıvıyı pompalamak zorunda kalan kalbin iş yükü artar ve kalp daha
+   fazla enerji harcayarak pompa görevini yerine getirmek zorunda kalır.
+   Vücutta su tutuluyorsa genellikle birkaç gün içinde hızlı kilo artışı
+   ortaya çıkar. Bu durum yakın bir zamanda kalp yetersizliği tablosunun
+   kötüleşeceğine işaret eder.
+   Fazla yemeye bağlı kilo alımı uzun süre içinde vücut yağlanmasına bağlı
+   kilo artışına neden olur. Bu durum da kalp için ekstra yük oluşturur ve
+   kalbin günlük aktivitelerin yapılabilmesi için daha fazla çalışması
+   anlamına gelir. Eğer aşırı kalori tüketiliyorsa, genellikle yavaş kilo
+   alımı söz konusu olur. Ancak bu tür kilo alımı da kalp yetersizliğine
+   bağlı yakınmaları arttırabilir ve hastalığın ağırlaşmasına neden
+--
+   2. Tuz tüketiminin kısıtlanması
+   Tuz alımının kısıtlanması kalp yetersizliği olan hastalar için en
+   önemli yaşam tarzı değişikliklerinden birini oluşturur. Normalde
+--
+   kendini daha rahat hissedecektir. Ayrıca tuz kısıtlaması ilaç
+   tedavisine alınan yanıtı kolaylaştırır. Tuzdan fakir diyetin kalp
+   hastalığının oluşumunu önlemede de önemli rolü olduğu gösterilmiştir,
+--
+   olabileceği gibi tek başına alınan sıvı miktarının fazla olması da
+   vücut sıvı miktarını arttırıp kalp yetersizliği tablosunu
+   kötüleştirebilir. Fazla vücut sıvısının atılabilmesi için kullanılan
+--
+   olunması için günlük alınması gereken sıvı miktarını geçmemeye özen
+   gösterilmelidir. Çoğu kalp yetersizlikli olgu için bu miktar günde
+   1.5-2 litre arasında değişir. Söz konusu miktar su, meyve suyu, çay,
+--
+
+   Alkol alımı hem kısa dönem hem de uzun dönem kullanımıyla kalp
+   yetersizliğini kötü yönde etkiler. Az miktarda alkol tüketiminin
+   koroner arter hastalığını önlemede yararlı olduğu söylense de, kalp
+   yetersizliği durumunda aşırı alkol tüketimi kısa dönemde kalp atım
+   sayısı ve kan basıncını arttırarak ve uzun dönem kullanımında kalp
+   performasının daha da azalmasına yol açarak zararlı olur. Alkolün
+   günlük 1-2 kadehten fazla tüketilmemesi önerilir. Eğer kalp
+   yetersizliğine bağlı ciddi belirtiler varsa alkol alımı tamamen
+--
+   mineraldir. Günlük önerilen miktar normal diyetle zaten alınmaktadır.
+   Ancak kalp yetersizliği için idrar söktürücü ilaç kullanılıyorsa, idrar
+   söktürücü ilacın tipine bağlı olarak idrarla potasyum kaybı olabileceği
+--
+   uymak önem arzeder. Potasyum tutucu idrar söktürücü ilaçlarla beraber
+   kalp yetersizliğinde kullanılan bazı ilaçlar kan potasyum düzeyini
+   arttırabilir. Bu durumda potasyumdan zengin besinlerin alımını azaltmak
+--
+   Yağlı yiyecekleri fazla tüketme sonucu kanda yağ ve kolesterol miktarı
+   artabilir. Yüksek kolesterol düzeyi, kalp yetersizliğine yol açan
+   koroner arter hastalığı ve kalp krizi ile ilişkilidir. Ayrıca yağlı
+   yiyecekler yüksek kalorilidir ve kilo artışına yol açabilir. Diyette
+--
+   sınırlarda sürdürmek şeker hastaları için önemlidir. Yüksek kan şekeri
+   seviyesinin kalp fonksiyonuna direkt ve dolaylı yollardan zararlı
+   etkileri vardır. Aynı zamanda diyabetik olgularda sıklıkla görülebilen
+   enfeksiyonlar ve böbrek fonksiyon bozukluğu kalp yetersizliği tablosunu
+   kötüleştirebilir. Diyabetik olguların kan şekerlerinin kontrol altında
+--
+   şekilde kısıtlaması, evde hareketsiz bir yaşam tarzına bağlanmaları
+   istenen bir durum değildir. Araştırmalar kalp yetersizlikli olguların
+   hafif düzeyde ve doktorun önerdiği biçimde yapacağı düzenli egzersiz
+--
+   egzersizleri veya hafif tempolu yürüyüş yeterlidir. Soğuma periyodu ise
+   kalp hızınızın, kan basıncınızın ve adrenalin seviyenizin dereceli
+   olarak azalmasına yardımcı olur. Bunun için en iyi yol yaptığınız
+--
+   durumlarda egzersize ara vermeniz gerekebilir. Bu durumlar;
+   - İstirahatte nefes darlığınız veya normalden çok kalp yetersizliği ile
+   ilişkili yakınmanız varsa
+--
+   Sigara dumanındaki karbon monoksit, kanın oksijen taşıma kabiliyetini
+   azaltır. Böylece kalp vücuda yeterli oksijen sağlamak için daha fazla
+   çalışmak zorunda kalır. Sigara içimi aynı zamanda kan damarlarında yağ
+   artıklarının birikmesine katkıda bulunarak damarların daralmasına ve
+   kalp damar hastalığı olanlarda da kalp krizinin ortaya çıkmasına neden
+   olabilir. Sigara içildiği sırada kalp damarları da dahil olmak üzere
+   tüm vücut damarlarında belirli bir düzeyde büzülme/spazm meydana gelir,
+   kalp hızı artar ve kan basıncında yükselme eğilimi ortaya çıkar. Buna
+   bağlı kalp yetersizliği belirtileri ağırlaşabilir. Bu nedenle sigara
+   bağımlılarının sigarayı bırakması, bunun için gerekirse destek
+--
+   11. Seksüel aktivite
+   Pek çok kalp yetersizliği hastası seks hayatlarının devamı konusunda
+   endişelidir. Diğer başka fiziksel aktivitelerde olduğu gibi kendinizi
+--
+   değildir. Ağır yemek veya alkol alımı sonrası seksten kaçınmak
+   gereklidir. Bir önemli nokta da kalp yetersizliği hastasının (kalp
+   yetersizliğine bağlı olarak) hastalığın kendisinden kaynaklanan bir
+--
+   tespitini kolaylaştırması açısından önem arzeder.  Kalp ritm problemi
+   veya kalp yetersizliği için cihaz (kalp pili veya şoklama cihazı)
+   konulmuş olsa da ilaçların önerildiği şekilde kullanılması gerekir.
+--
+
+   Bu ilaçlar kalp yetersizliği hastaları için oldukça faydalıdır. Yapılan
+   çalışmalar ile kalp yetersizliği hastalarında yaşamı uzattığı ve
+   hastaneye yatışları azalttığı kanıtlanmıştır. Ayrıca kalp yetersizliği
+   ile ilişkili yakınmalarınızı azaltır ve daha aktif olabilmenize
+   yardımcı olur. Yüksek kan basıncını kontrol etmek için ve kalp
+   krizinden korunma için de faydalı ilaçlardır. Çoğu hastada ciddi yan
+--
+   Kalp yetersizliği hastalarında oldukça etkin olan diğer bir ilaç
+   grubudur. Beta-bloker ilaçlar kalp fonksiyonlarını iyileştirir ve
+   hastaların kendilerini daha iyi hissetmelerine, daha uzun yaşamalarına
+   ve hastaneye daha az başvuru yapmalarına yardımcı olur. Tansiyon
+   yükselmelerini kontrol eder ve kalp krizinden korur. Ayrıca kalp
+   hızının düzenlenmesini sağlar. Yan etki olarak halsizlik, yorgunluk
+--
+   Kalp yetersizliği yakınmalarının azaltılmasında yıllardır kullanılan
+   bir ilaçtır. Ancak her kalp yetersizliği hastası bu ilaca ihtiyaç
+   duymaz. Bu ilacın gerekliliği hekim tarafından belirlenmelidir. Fazla
+   alımı ile bulantı, kusma, görmede bozulma ve kalp ritminde bozulma
+   görülebilir.
+--
+   Stres hormonu olan aldosteron’un engellenmesi ile iş görürler. Bir
+   çalışmada bu ilaçları alan kalp yetersizliği hastalarının yaşam
+   süresinin uzadığı ve hastaneye yatışlarının azaldığı gösterilmiştir.
+   Hangi kalp yetersizliği hastasının bu ilacı alacağı hekim tarafından
+   belirlenir. Yan etki olarak özellikle erkeklerde memede büyüme ve
+--
+   Kalp yetersizliği tablosunun kontrol altında kalabilmesinin
+   koşullarından biri, kalp yetersizliğini kötüleştirebilecek olan
+   enfeksiyonlardan korunabilmektir. Solunum sistemi enfeksiyonu riskini
+--
+   olabilir. Kalp yetersizliği bulunan olgularda hastanın klinik gidişinde
+   kötüleşmeye neden olan durumlar arasında; kalp damar hastalarında
+   kalbin beslenmesini bozan kalp damarı tıkanma tehdidi ya da kalp krizi
+   gelişimi, yeni hipertansiyon gelişmesi ya da hipertansif kişilerde kan
+--
+   böbrek fonksiyonlarında yeni veya ilerleyici bozulma, anemi (kansızlık)
+   gelişmesi, kalp ritm bozukluklarının ortaya çıkması, tiroid bezinin az
+   ya da çok çalışması (guvatr), diyabetli olgularda gelişen yeni
+   sorunlar, devamlı kullanılan kalp yetersizliğine ilişkin ilaçların
+   kesilmesi veya düzgün kullanılmaması, diyette alınan tuz miktarının
+   arttırılması, akciğer damarlarına pıhtı atması, kalp kapak iltihabı
+   gelişimi, kalp kapak hastalıklarında ilerleme olması, aşırı alkol
+   alımı, kalp performansını olumsuz etkileyen ilaçların kullanılmaya
+   başlanması, vücutta su ve tuz tutulumuna neden olan ilaçların
+   kullanılması gibi nedenler sıralanabilir. Bu durumlar tedavi edilir
+   veya ortadan kaldırılırsa kalp yetersizliği tablosunda kötüleşme
+   genellikle geriler.
+   Kaçınılması Gereken İlaçlar
+   Bazı ilaçlar kalp yetersizliğini kötüleştirdiği için bu ilaçlardan uzak
+   durulması önerilmektedir. Kalp yetersizliği hastalarının özellikle
+--
+   danışmalısınız. Diğer bir ilaç grubu kalsiyum kanal blokerleridir. Bu
+   ajanlar kalp ritm bozuklukları, kan basıncı yükseklikleri ve göğüs
+   ağrısı tedavisinde kullanılırlar ancak kalp yetersizliğini
+   kötüleştirebilirler. Bu grup ilaçlar amlodipin, diltiazem, nifedipin ve
+--
+   ilaçlara antiaritmik ilaçlar adı verilmektedir. Bazı anti-aritmik
+   ajanların kalp yetersizliği hastasında kullanılması önerilmez. Bu
+   yüzden eğer ritm probleminiz varsa doktorunuz kalp yetersizliğinde
+   kullanılabilen antiaritmik ilaçları reçeteleyecektir.
+--
+   klinik seyir izler. Kalp yetersizliğinin gelişimi ve ilerlemesi nedene
+   bağlı olarak kişiden kişiye değişiklik gösterir. Kronik kalp
+   yetersizliğinde aylar ve yıllar içinde kalp performansında azalma
+   giderek ilerler ve kalp boşluklarında genişleme (kalp büyümesi) giderek
+   artar.  Söz konusu süreç içinde zaman zaman klinik tabloda kötüleşme ve
+--
+   tedavisinde doktor tarafından reçetelenen ve ömür boyu kullanılması
+   gereken ilaçlar, kalp yetersizliğinin zaman içinde ilerlemesini, klinik
+   tablonun kötüleşmesini, kalp boşluklarının genişlemesini ve kalp
+   performansının azalmasını engeller veya yavaşlatır, kalp yetersizliğine
+   bağlı gelişen ölümlerin önüne geçer.
+--
+   tedavi gerektirir. Kalp yetersizliğine ilave birçok kronik hastalık
+   aynı hastada beraber olabilir (örneğin hipertansiyon, kalp ritm
+   bozuklukları, akciğer hastalıkları, böbrek fonksiyon bozuklukları,
+   şeker hastalığı, guvatr, kansızlık, romatizmal hastalıklar gibi). Bu
+   durumlar, kalp yetersizliğini tedavi etmek için verilen önerilere ek
+   olarak farklı ilaç alımı ve yaşam biçimini değiştirme zorunluluğunu
+   beraberinde getirebilir. Diğer hastalıkların olabildiğince kontrol
+   altında tutulması kalp yetersizliğinin kontrolde kalmasını sağlamak
+   açısından önemlidir. Birkaç hastalığı birden tedavi etmek güç olabilir.
+--
+
+   Kalp yetersizliği nedeni olan veya kalp yetersizliği kliniğini
+   kötüleştiren ve operasyon ile düzeltildiğinde kalp yetersizliğini
+   düzeltecek veya belirgin fayda sağlayacak durumlar söz konusu olduğunda
+   operasyon önerilebilir ve uygulanabilir. Yapılacak operasyon kalp
+   yetersizliğini tamamen düzeltmese de, ameliyatın getireceği yarar
+--
+   sık yapılan operasyon ve girişimsel işlemler koroner arter bypass
+   operasyonu, kapakçık onarım ve değiştirme ameliyatı, kalp
+   transplantasyonu (kalp nakli), kalp damarlarındaki tıkanıklık ve
+   darlıklara balon uygulanması, stent uygulanması, seçilmiş hastalarda
+   kalp performansını arttırmaya yönelik kalıcı kalp pili konulmasıdır.
+   Mevcut tıbbi olanak ve gelişmeler sayesinde bu operasyon ve girişimsel
+--
+
+   Ciddi kalp yetersizliğinde, tüm tedavi seçenekleri artık etkisiz
+   kalıyor ve kalp organların beslenmesini sürdüremeyecek derecede pompa
+   performansını yitirdiyse kalp transplantasyonu operasyonu gündeme
+   gelir. Kalp transplantasyonu, kalp yetersizliği tedavisinde en son
+   seçenektir. Bunun için hem kalp yetersizliği bulunan kişinin bu
+   ameliyata uygun bir aday olması hem de verici kalbinin de nakledilecek
+   kişi için uygun şartları taşıması gerekmektedir. Kısıtlı verici
+   sayısından dolayı uygun kalp bulunması için aylar veya yıllarca
+   beklemek zorunda kalınabilir. Kalp transplantasyonu geleneksel
+--
+
+   Kalıcı kalp pili başlıca 2 amaçla kullanılır. Kalp ritminin
+   yavaşlaması, kalp atımı için gerekli elektriksel aktiviteyi zaman zaman
+   kısa süreli çıkaramaması veya baş dönmesi, göz kararması, bayılmaya
+   neden olan kalp içi elektriksel blokların bulunması, kalıcı kalp pili
+   uygulama amaçlarından birini oluşturur.   Orta veya ileri derecede kalp
+   yetersizliği bulunan olgularda, kalp duvarları ve kalp boşlukları
+   eşzamanlı kasılamıyor ise eş zamanlı kasılmayı sağlayan kalıcı kalp
+   pili uygulaması ise diğer kullanım şeklini oluşturmaktadır (
+   biventriküler kalp pili). Biventriküler kalıcı kalp pili uygulaması her
+   kalp yetersizliği bulunan hastada fayda sağlamaz. Ancak sadece yarar
+   sağlayacağı hastalara kullanılabilir. Hangi hastanın bu tip kalp
+   pillerinden yarar göreceğini hekimler belirleyebilir. Kalıcı kalp pili
+   uygulamalarına ilave olarak, hayatı tehdit eden veya ölüme neden
+   olabilecek ciddi ritm bozukluğu atakları görülen olgularda, kalıcı kalp
+   pili özelliklerini de taşıyan fakat aynı zamanda elektriksel şoklama
+   yaparak ritm bozukluklarını düzeltme yeteneğine sahip şoklama cihazları
+   ihtiyaç duyulan olgulara uygulanmaktadır. Sözkonusu kalp pili ve
+   şoklama cihazları sol ya da sağ omuz altı bölgeye, bölgesel uyuşturma
+--
+   olması, zaman zaman ilaçlarını düzenli alıp almadığını kontrol etmesi,
+   hastanın fark etmediği kalp yetersizliğine ilişkin belirti ve bulguları
+   takip etmesi, beklenmedik acil durumlarda yapılabilecekleri öğrenip
+--
+   eğitim ve danışmanlık hizmetinin verilmesinde iletişim kurulabilecek
+   kişilerdir. Diyetisyenler, kalp yetersizliğinin tedavisi açısından
+   diyetin nasıl düzenlenebileceği, su ve tuz kısıtlaması, tüketilmesi
+--
+   duruma gelmeleri ve önceki performanslarına dönebilmeleri için gerekli
+   fizik egzersiz programlarını hazırlayabilirler. Psikolog, kalp
+   yetersizliği sonucu oluşan emosyonel stres, anksiyete, depresyon ve

@@ -1,30 +1,7 @@
-
-   Kalp krizi sonrası gelişen kalp yetersizliğinin tedavisinde kök
-   hücre uygulamaları giderek önem kazanmaya başlamıştır.
+   retail store icon Mağazada Ara
+   <p><p>Elbise, tüllü yapısı ve kalp desenleriyle sevimli bir görünüm
+   sunuyor. Bebe yaka ve uzun kollu elbise pamuklu astarıyla miniklerin
 --
-
-   Toplumda en sık görülen hastalıklar arasında olan kalp ve damar
-   hastalıkları ve buna bağlı gelişen kalp krizi hastaların yaşam
-   kalitesini önemli ölçüde bozuyor. Kalp krizi sonrası gelişen kalp
-   yetersizliğinin tedavisinde kök hücre uygulamaları giderek önem
-   kazanmaya başlamıştır. Koroner damarlardan biri tıkandığı zaman
-   beslediği kalp hücreleri 20-30 dakika içinde ölmeye başlamaktadır.
-   Damar açılmaz ise, 6 saat içinde hücrelerin çoğu ölmektedir. Ülkemizde
---
-
-   Kalp kası hücreleri, kalp krizi nedeniyle öldüğünde yerlerine yenisi
-   geçmez. 2000’lerin başlarından itibaren kök hücrelerin hastalıklı
-   dokuyu tamir etme özellikleri fark edildi. Bu kök hücre tedavisinde
-   yeni bir çığır açtı. Birinci sırayı kalp hastalıklarında kök hücre
-   tedavisi aldı. Kalp kası, enfarktüsten sonra kalp yetmezliğine gidecek
-   şekilde hasar görüyor. Kök hücre tedavisi, kalp kasındaki hasarın
-   tamirinde ve ağır kalp yetmezliğinde kullanılıyor. Enfarktüs geçirmiş
-   hastalarda, kişinin yağ dokusundan alınan kök hücreler ayıklanıp
---
-   Kök hücre nakli anjiyografi yöntemine benzer şekilde, ameliyatsız
-   olarak, kasık damarından girilip ilerletilen bir katater içinden kalp
-   dokusuna nakledilmektedir. Bu işlem hastanın mevcut hastalığına göre
-   kalp atardamarı veya toplardamarı üzerinden gerçekleştirilmektedir.
-   Diğer bir yöntem ise, açık kalp ameliyatı sırasında kalp cerrahları
-   tarafından doğrudan kalp kasına çoklu enjeksiyonlar ile
-   gerçekleşmektedir.
+   "url":
+   "https://www.koton.com/kalp-desenli-bebe-yaka-uzun-kollu-tullu-elbise-s
+   iyah-3931813/", "stock": 49, "color": "SİYAH", "size": "18/24 Ay",

@@ -1,1095 +1,386 @@
-   #search
 
-     * (BUTTON) Video
-       (BUTTON) Geri
-          + Video ana sayfası
-          + Signature koleksiyonu
-          + Essentials koleksiyonu
-          + (BUTTON) Trend aramalar
-            (BUTTON) Video
-               o İlkbahar
-               o Ofis
-               o Dizüstü
-               o Arka plan
-               o Aile
-               o Sürdürülebilirlik
-          + (BUTTON) Popüler kategoriler
-            (BUTTON) Video
-               o Mimari
-               o Doğa ve Manzaralar
-               o Iş ve Kariyer
-               o Iş ve Finans
-               o Bilim ve Teknoloji
-               o Yaşam Tarzı
-               o Animasyon ve Hareketli Grafikler
-               o Macera
-               o Eğitim
-               o Moda ve Güzellik
-               o Aile
-               o Formda Kalma ve Sağlık
-               o Yiyecek ve Içecek
-               o Sağlık Hizmeti ve Tıp
-               o Tatiller ve Mevsimlik
-               o Ruh Halleri ve Duygular
-               o Evcil Hayvanlar ve Hayvanlar
-               o Ağır Çekim
-               o Özel Günler
-               o Spor ve Dinlence
-               o Taşımacılık
-          + Ayın fotoğraf sanatçısı
-          + Royalty-free nedir
-          + Ayın ücretsiz video klibi
-          + iStock blogu
-     * (BUTTON) Fotoğraf
-       (BUTTON) Geri
-          + Fotoğraf ana sayfası
-          + Özel seçim setler
-          + Signature koleksiyonu
-          + Essentials koleksiyonu
-          + Çeşitlilik ve kapsayıcılık setleri
-          + (BUTTON) Trend aramalar
-            (BUTTON) Fotoğraf
-               o Türk Lirası
-               o Emekli
-               o Para
-               o Istanbul
-               o Yemek Kartı
-               o Uyku
-               o Enflasyon
-               o Sarımsak
-               o Beyin
-               o Yumurta
-          + (BUTTON) Popüler kategoriler
-            (BUTTON) Fotoğraf
-               o Eğitim fotoğrafları
-               o İş dünyası fotoğrafları
-               o Yiyecek Stok fotoğrafları
-               o Aile stok fotoğrafları
-               o Lifestyle görselleri
-               o Kariyer görselleri
-               o Hayvan fotoğrafları
-               o Mimari fotoğraflar
-               o Moda stok fotoğrafları
-               o Kutlama fotoğrafları
-               o Seyahat stok fotoğrafları
-               o Duygusal fotoğraflar
-               o Fitness fotoğrafları
-               o Tatil görselleri
-               o Tıbbi stok fotoğraflar
-               o Doğa fotoğrafları
-               o Bilim fotoğrafları
-               o Spor fotoğrafları
-               o Taşımacılık fotoğrafları
-          + Ayın fotoğraf sanatçısı
-          + Royalty-free nedir
-          + Haftanın ücretsiz fotoğrafı
-          + iStock blogu
-     * (BUTTON) İllüstrasyon
-       (BUTTON) Geri
-          + İllüstrasyon ana sayfası
-          + Özel seçim setler
-          + Signature koleksiyonu
-          + Essentials koleksiyonu
-          + (BUTTON) Trend aramalar
-            (BUTTON) İllüstrasyon
-               o İlkbahar
-               o Ofis
-               o Dizüstü
-               o Arka plan
-               o Aile
-               o Sürdürülebilirlik
-          + (BUTTON) Popüler kategoriler
-            (BUTTON) İllüstrasyon
-               o Arka Planlar
-               o Simgeler
-               o Şablonlar
-               o Tatiller ve Mevsimlik
-               o Iş ve Finans
-               o Doğa ve Manzaralar
-               o Çizgi Filmler ve Çizgi Romanlar
-               o Eğitim
-               o Amblemler Pankartlar ve Rozetler
-               o Aile
-               o Moda ve Güzellik
-               o Formda Kalma ve Sağlık
-               o Bayraklar ve Haritalar
-               o Yiyecek ve Içecek
-               o Çerçeveler ve Bordürler
-               o Sağlık Hizmeti ve Tıp
-               o Infografikler
-               o Arayüz Ögeleri
-               o Iş ve Kariyer
-               o Yaşam Tarzı
-               o Ruh Halleri ve Duygular
-               o Evcil Hayvanlar ve Hayvanlar
-               o Ürün Maketleri
-               o Silüetler
-               o Bilim ve Teknoloji
-               o Özel Günler
-               o Spor
-               o Dövmeler
-               o Dokular ve Desenler
-               o Taşımacılık
-          + Ayın fotoğraf sanatçısı
-          + Royalty-free nedir
-          + Ayın ücretsiz illüstrasyonu
-          + iStock blogu
-     * (BUTTON) Vektörler
-       (BUTTON) Geri
-          + Vektörler ana sayfası
-          + Özel seçim setler
-          + Signature koleksiyonu
-          + Essentials koleksiyonu
-          + (BUTTON) Trend aramalar
-            (BUTTON) Vektörler
-               o Istanbul
-               o Heart
-               o Pattern
-               o Banner
-               o Digital Transformation
-               o Regaip Kandili
-               o Takvim
-               o Spark
-               o Yırtık Kağıt
-               o Film
-               o Ribbon
-               o Arrow
-               o Brush
-               o Car Icon
-               o Pop Art Background
-               o Wind Turbine
-               o Shine
-               o Kandil
-               o Blue Background
-               o Champion
-          + (BUTTON) Popüler kategoriler
-            (BUTTON) Vektörler
-               o Kalp vektörleri
-               o Yıldız vektörleri
-               o Ok vektörleri
-               o Çiçek vektörleri
-               o Bulut vektörleri
-               o Ev vektörleri
-               o Arka plan vektörleri
-               o El vektörleri
-               o Kalıp vektörleri
-               o Simge vektörleri
-               o Harita vektörü
-               o Doku vektörleri
-               o Seyahat vektörleri
-               o İnfografik vektörleri
-               o Sembol vektörleri
-               o Logo vektörleri
-               o Geometrik vektörler
-               o İş vektörleri
-               o Finans vektörleri
-               o Tıbbi vektör
-          + Royalty-free nedir
-          + Vektörleri anlama
-          + iStock blogu
-     * Müzik
-     * Arama Trendleri
-     * (BUTTON) AI Generator
-       (BUTTON) Geri
-          + Genel bakış ve fiyatlandırma
-          + Yeni görseller yaratma
-          + iStock görsellerini değiştirme
-          + AI Generator kullanıcı rehberi
-          + What's new
-          + SSS
-          + Bilgi edin
-     * (BUTTON) Kaynaklar
-       (BUTTON) Geri
-          + Arama Trendleri
-          + En Popüler Görsel Aramaları
-          + En Popüler Video Aramaları
-          + Arama Rehberi
-          + Online Fotoğraf Editörü
-          + Eklentiler ve uygulamalar
-          + Blog
-          + SSS
+   Güzel Sözler
+   Güzel Sözler
+   Mobil uygulaması yayında
+   Ücretsiz
+   İNDİR
 
-   (BUTTON)
+   (BUTTON) Toggle navigation [logo.png]
+     * Güzel Sözler
+     * Özlü Sözler
+     * Ünlü Sözleri
+     * KATEGORİLER
+          + Güzel Sözler
+          + Özlü Sözler
+          + Ünlü Sözleri
+          + Aşk Sözleri
+          + Güzel Mesajlar
+          + Komik Sözler
+          + Dini Sözler
+          + Özel Günler
+          + Doğum Günü Mesajları
+          + Resimli Sözler
+          + Dizi/Film Sözleri
 
-   iStock by Getty Images logosu iStock logosu
-     * Video
-   (BUTTON)
-   Özel seçim içerik
-        Signature koleksiyonu
-        Essentials koleksiyonu
+   ____________________ (BUTTON) Ara..
 
-   Trend aramalar
+   [INS: :INS]
+   Reklam
+   Güzel Sözler
 
-   İlkbahar
+Anlamlı Sözler
 
-   Ofis
+Damar Sözler
 
-   Dizüstü
+Sevgi Sözleri
 
-   Arka plan
+Ağır Sözler
 
-   Aile
+Kardeşlik Sözleri
 
-   Sürdürülebilirlik
+Kapak Sözler
 
-   Popüler kategoriler
+   Ünlü Sözleri
 
-   Mimari
+Mevlana Sözleri
 
-   Doğa ve Manzaralar
+Ramiz Dayı Sözleri
 
-   Iş ve Kariyer
+Şair Sözleri
 
-   Iş ve Finans
+Neşet Ertaş Sözleri
 
-   Bilim ve Teknoloji
+Oğuz Atay Sözleri
 
-   Yaşam Tarzı
+Rap Sözleri
 
-   (BUTTON) Tümünü gör
-
-   Daha fazlasını keşfedin
-
-   Ayın fotoğraf sanatçısı
-
-   Royalty-free nedir
-
-   Ayın ücretsiz video klibi
-
-   iStock blogu
-
-   Popüler kategoriler
-   (BUTTON) <Geri
-     * Aile
-     * Animasyon ve Hareketli Grafikler
-     * Ağır Çekim
-     * Bilim ve Teknoloji
-     * Doğa ve Manzaralar
-     * Evcil Hayvanlar ve Hayvanlar
-     * Eğitim
-     * Formda Kalma ve Sağlık
-     * Iş ve Finans
-     * Iş ve Kariyer
-     * Macera
-     * Mimari
-     * Moda ve Güzellik
-     * Ruh Halleri ve Duygular
-     * Sağlık Hizmeti ve Tıp
-     * Spor ve Dinlence
-     * Tatiller ve Mevsimlik
-     * Taşımacılık
-     * Yaşam Tarzı
-     * Yiyecek ve Içecek
-     * Özel Günler
-
-     Fotoğraf
-
-   (BUTTON)
-
-   Özel seçim içerik
-
-   Özel seçim setler
-
-   Signature koleksiyonu
-
-   Essentials koleksiyonu
-
-   Çeşitlilik ve kapsayıcılık setleri
-
-   Trend aramalar
-
-   Türk Lirası
-
-   Emekli
-
-   Para
-
-   Istanbul
-
-   Yemek Kartı
-
-   Uyku
-
-   Popüler kategoriler
-
-   Eğitim fotoğrafları
-
-   İş dünyası fotoğrafları
-
-   Yiyecek Stok fotoğrafları
-
-   Aile stok fotoğrafları
-
-   Lifestyle görselleri
-
-   Kariyer görselleri
-
-   (BUTTON) Tümünü gör
-
-   Daha fazlasını keşfedin
-
-   Ayın fotoğraf sanatçısı
-
-   Royalty-free nedir
-
-   Haftanın ücretsiz fotoğrafı
-
-   iStock blogu
-
-   Popüler kategoriler
-   (BUTTON) <Geri
-     * Aile stok fotoğrafları
-     * Bilim fotoğrafları
-     * Doğa fotoğrafları
-     * Duygusal fotoğraflar
-     * Eğitim fotoğrafları
-     * Fitness fotoğrafları
-     * Hayvan fotoğrafları
-     * Kariyer görselleri
-     * Kutlama fotoğrafları
-     * Lifestyle görselleri
-     * Mimari fotoğraflar
-     * Moda stok fotoğrafları
-     * Seyahat stok fotoğrafları
-     * Spor fotoğrafları
-     * Tatil görselleri
-     * Taşımacılık fotoğrafları
-     * Tıbbi stok fotoğraflar
-     * Yiyecek Stok fotoğrafları
-     * İş dünyası fotoğrafları
-
-     İllüstrasyon
-
-   (BUTTON)
-
-   Özel seçim içerik
-
-   Özel seçim setler
-
-   Signature koleksiyonu
-
-   Essentials koleksiyonu
-
-   Trend aramalar
-
-   İlkbahar
-
-   Ofis
-
-   Dizüstü
-
-   Arka plan
-
-   Aile
-
-   Sürdürülebilirlik
-
-   Popüler kategoriler
-
-   Arka Planlar
-
-   Simgeler
-
-   Şablonlar
-
-   Tatiller ve Mevsimlik
-
-   Iş ve Finans
-
-   Doğa ve Manzaralar
-
-   (BUTTON) Tümünü gör
-
-   Daha fazlasını keşfedin
-
-   Ayın fotoğraf sanatçısı
-
-   Royalty-free nedir
-
-   Ayın ücretsiz illüstrasyonu
-
-   iStock blogu
-
-   Popüler kategoriler
-   (BUTTON) <Geri
-     * Aile
-     * Amblemler Pankartlar ve Rozetler
-     * Arayüz Ögeleri
-     * Arka Planlar
-     * Bayraklar ve Haritalar
-     * Bilim ve Teknoloji
-     * Dokular ve Desenler
-     * Doğa ve Manzaralar
-     * Dövmeler
-     * Evcil Hayvanlar ve Hayvanlar
-     * Eğitim
-     * Formda Kalma ve Sağlık
-     * Infografikler
-     * Iş ve Finans
-     * Iş ve Kariyer
-     * Moda ve Güzellik
-     * Ruh Halleri ve Duygular
-     * Sağlık Hizmeti ve Tıp
-     * Silüetler
-     * Simgeler
-     * Spor
-     * Tatiller ve Mevsimlik
-     * Taşımacılık
-     * Yaşam Tarzı
-     * Yiyecek ve Içecek
-     * Çerçeveler ve Bordürler
-     * Çizgi Filmler ve Çizgi Romanlar
-     * Özel Günler
-     * Ürün Maketleri
-     * Şablonlar
-
-     Vektörler
-
-   (BUTTON)
-
-   Özel seçim içerik
-
-   Özel seçim setler
-
-   Signature koleksiyonu
-
-   Essentials koleksiyonu
-
-   Trend aramalar
-
-   Istanbul
-
-   Heart
-
-   Pattern
-
-   Banner
-
-   Digital Transformation
-
-   Regaip Kandili
-
-   Popüler kategoriler
-
-   Kalp vektörleri
-
-   Yıldız vektörleri
-
-   Ok vektörleri
-
-   Çiçek vektörleri
-
-   Bulut vektörleri
-
-   Ev vektörleri
-
-   (BUTTON) Tümünü gör
-
-   Daha fazlasını keşfedin
-
-   Royalty-free nedir
-
-   Vektörleri anlama
-
-   iStock blogu
-
-   Popüler kategoriler
-   (BUTTON) <Geri
-     * Arka plan vektörleri
-     * Bulut vektörleri
-     * Doku vektörleri
-     * El vektörleri
-     * Ev vektörleri
-     * Finans vektörleri
-     * Geometrik vektörler
-     * Harita vektörü
-     * Kalp vektörleri
-     * Kalıp vektörleri
-     * Logo vektörleri
-     * Ok vektörleri
-     * Sembol vektörleri
-     * Seyahat vektörleri
-     * Simge vektörleri
-     * Tıbbi vektör
-     * Yıldız vektörleri
-     * Çiçek vektörleri
-     * İnfografik vektörleri
-     * İş vektörleri
-
-     Müzik
-
-     AI Generator
-
-   Genel bakış ve fiyatlandırma
-
-   Yeni görseller yaratma
-
-   iStock görsellerini değiştirme
-
-   AI Generator kullanıcı rehberi
-
-   What's new
-
-   SSS
-
-   Bilgi edin
-
-
-
-     (BUTTON) Kaynaklar
-
-   Arama Trendleri
-
-   En Popüler Görsel Aramaları
-
-   En Popüler Video Aramaları
-
-   Arama Rehberi
-
-   Online Fotoğraf Editörü
-
-   Eklentiler ve uygulamalar
-
-   Blog
-
-   SSS
-
-     (BUTTON) Daha fazlası…
-
-          + Vektörler
-               o Özel seçim içerik
-                    # Özel seçim setler
-                    # Signature koleksiyonu
-                    # Essentials koleksiyonu
-               o Trend aramalar
-                    # Istanbul
-                    # Heart
-                    # Pattern
-                    # Banner
-                    # Digital Transformation
-                    # Regaip Kandili
-               o Popüler kategoriler
-                    # Arka plan vektörleri
-                    # Bulut vektörleri
-                    # Çiçek vektörleri
-                    # Doku vektörleri
-                    # El vektörleri
-                    # Ev vektörleri
-                    # Finans vektörleri
-                    # Geometrik vektörler
-                    # Harita vektörü
-                    # İnfografik vektörleri
-                    # İş vektörleri
-                    # Kalıp vektörleri
-                    # Kalp vektörleri
-                    # Logo vektörleri
-                    # Ok vektörleri
-                    # Sembol vektörleri
-                    # Seyahat vektörleri
-                    # Simge vektörleri
-                    # Tıbbi vektör
-                    # Yıldız vektörleri
-               o Daha fazlasını keşfedin
-                    # Royalty-free nedir
-                    # Vektörleri anlama
-                    # iStock blogu
-          + Müzik
-          + Kaynaklar
-               o Arama Trendleri
-               o En Popüler Görsel Aramaları
-               o En Popüler Video Aramaları
-               o Arama Rehberi
-               o Online Fotoğraf Editörü
-               o Eklentiler ve uygulamalar
-               o Blog
-               o SSS
-
-     * Fiyatlandırma
-     *
-     * (BUTTON) Galeriler
-       Oturum açOturum aç
-   (BUTTON)
-          + Oturum aç
-          + Kaydol
-          + Fiyatlandırma
-          + Galerileriniz
-
-   (BUTTON)
-   Seçimi daralt
-
-   Görsel
-     * Tüm içerik
-     * Görsel
-     * Fotoğraf
-     * İllüstrasyon
-     * Vektörler
-     * Video
-
-   ____________________
-   (BUTTON)
-   (BUTTON) Görsel veya video ile arayın
-
-   (BUTTON) Tümü
-   (BUTTON) Essentials
-   Günlük görseller
-   (BUTTON) Signature
-   Özel içerik
-
-Kalp Resimler, Görseller ve Stok Fotoğraflar
-
-   kalp videosunu görüntüleyin
-
-   2.221.531 kalp stok fotoğraf ve görselini inceleyin veya daha fazla
-   stok fotoğraf ve görsel keşfetmek için yeni bir arama başlatın.
-   Sırala:
-   En popüler
-   ____________________
-
-   red heart flat icon, the symbol of love, vector illustration - kalp
-   stock illustrations red heart flat icon, the symbol of love, vector
-   illustration - kalp stock illustrations
-
-   red heart flat icon, the symbol of love, vector illustration
-
-   kalp şekli - kalp stock illustrations kalp şekli - kalp stock
-   illustrations
-
-   Kalp şekli
-
-   set of social media icons. flat line art - kalp stock illustrations set
-   of social media icons. flat line art - kalp stock illustrations
-
-   Set of social media icons. Flat line art
-
-   heart flat icon - kalp stock illustrations heart flat icon - kalp stock
-   illustrations
-
-   Heart flat icon
-
-   hearts shapes icons - kalp stock illustrations hearts shapes icons -
-   kalp stock illustrations
-
-   Hearts Shapes Icons
-
-   Herhangi bir görseli "idare eder"den "tam istediğim gibi" haline
-   getirinMevcut görselleri ihtiyaçlarınızı tam olarak karşılayacak
-   şekilde nasıl değiştireceğinizi veya nasıl sıfırdan yeni görseller
-   oluşturabileceğinizi keşfedin.Generative AI’yı keşfedin
-
-   black heart shape icons set. love day valentine icons. isolated vector
-   silhouettes - kalp stock illustrations black heart shape icons set.
-   love day valentine icons. isolated vector silhouettes - kalp stock
-   illustrations
-
-   Black heart shape icons set. Love day valentine icons. Isolated...
-
-   hearts set. hand drawn hearts. design elements for valentines day.
-   vector illustration - kalp stock illustrations hearts set. hand drawn
-   hearts. design elements for valentines day. vector illustration - kalp
-   stock illustrations
-
-   Hearts set. Hand drawn hearts. Design elements for Valentines day.
-
-   a set of cute heart icons. - kalp stock illustrations a set of cute
-   heart icons. - kalp stock illustrations
-
-   A set of cute heart icons.
-
-   heart, stethoscope and ekg - kalp stok fotoğraflar ve resimler heart,
-   stethoscope and ekg - kalp stok fotoğraflar ve resimler
-
-   Heart, stethoscope and EKG
-
-   heart attack - kalp stok fotoğraflar ve resimler heart attack - kalp
-   stok fotoğraflar ve resimler
-
-   Heart attack
-
-   yeni kalp simgeler, aşk, kavramı koyu dolgu ile ince bir çizgi ile
-   doğrusal simgelerin ayarlayın. beyaz arka plan üzerinde izole. vektör
-   çizim - kalp stock illustrations yeni kalp simgeler, aşk, kavramı koyu
-   dolgu ile ince bir çizgi ile doğrusal simgelerin ayarlayın. beyaz arka
-   plan üzerinde izole. vektör çizim - kalp stock illustrations
-
-   Yeni kalp simgeler, aşk, kavramı koyu dolgu ile ince bir çizgi...
-
-   heart shapes vector icons or logos set, different cartoon cute hearts
-   collection. - kalp stock illustrations heart shapes vector icons or
-   logos set, different cartoon cute hearts collection. - kalp stock
-   illustrations
-
-   Heart shapes vector icons or logos set, different cartoon cute...
-
-   vektör el-çizilmiş çocuksu doodle kalp simgesi ayarlayın. beyaz arka
-   planda siyah vuruş. - kalp stock illustrations vektör el-çizilmiş
-   çocuksu doodle kalp simgesi ayarlayın. beyaz arka planda siyah vuruş. -
-   kalp stock illustrations
-
-   Vektör el-çizilmiş çocuksu doodle kalp simgesi ayarlayın. Beyaz...
-
-   stetoskoplu doktor - kalp stok fotoğraflar ve resimler stetoskoplu
-   doktor - kalp stok fotoğraflar ve resimler
-
-   Stetoskoplu doktor
-
-   kalp, sevgi ve sevgililer günü sembolü. beyaz arka plan üzerinde izole
-   düz kırmızı simgeyle gösterilir. vektör çizim. -vektör - kalp stock
-   illustrations kalp, sevgi ve sevgililer günü sembolü. beyaz arka plan
-   üzerinde izole düz kırmızı simgeyle gösterilir. vektör çizim. -vektör -
-   kalp stock illustrations
-
-   Kalp, sevgi ve Sevgililer günü sembolü. Beyaz arka plan üzerinde...
-
-   hearts - kalp stock illustrations hearts - kalp stock illustrations
-
-   Hearts
-
-   3d heart red balloon passion enamored romantic 3d icon realistic vector
-   illustration - kalp stock illustrations 3d heart red balloon passion
-   enamored romantic 3d icon realistic vector illustration - kalp stock
-   illustrations
-
-   3d heart red balloon passion enamored romantic 3d icon realistic...
-
-   hangi tarihlerde ve simgesi kalp. yaşamak akarsu video, sohbet,
-   seviyor. sosyal ağlar üzerinde beyaz arka plan izole kırmızı kalp web
-   düğmeleri severim. vektör illustaration - kalp stock illustrations
-   hangi tarihlerde ve simgesi kalp. yaşamak akarsu video, sohbet,
-   seviyor. sosyal ağlar üzerinde beyaz arka plan izole kırmızı kalp web
-   düğmeleri severim. vektör illustaration - kalp stock illustrations
-
-   Hangi tarihlerde ve simgesi kalp. Yaşamak akarsu video, sohbet,...
-
-   red heart. romantic background. happy valentine day background. vector
-   illustration. stock image. - kalp stock illustrations red heart.
-   romantic background. happy valentine day background. vector
-   illustration. stock image. - kalp stock illustrations
-
-   Red heart. Romantic background. Happy valentine day background....
-
-   medical worker throw red plastic heart and catch it in palms - kalp
-   stok fotoğraflar ve resimler medical worker throw red plastic heart and
-   catch it in palms - kalp stok fotoğraflar ve resimler
-
-   Medical worker throw red plastic heart and catch it in palms
-
-   hand-drawn heart-shaped illustration set monochrome - kalp stock
-   illustrations hand-drawn heart-shaped illustration set monochrome -
-   kalp stock illustrations
-
-   hand-drawn heart-shaped illustration set monochrome
-
-   doktor çizim ekg kalp atışı grafik - kalp stok fotoğraflar ve resimler
-   doktor çizim ekg kalp atışı grafik - kalp stok fotoğraflar ve resimler
-
-   Doktor çizim EKG kalp atışı grafik
-
-   kırmızı kalpler simgeleri. - kalp stock illustrations kırmızı kalpler
-   simgeleri. - kalp stock illustrations
-
-   Kırmızı kalpler simgeleri.
-
-   3d render like icon set. social media bubble with heart. love element.
-   comment button. share tag. notice people. chat text. speech
-   communicate. notification label. emoji reaction.vector illustration -
-   kalp stock illustrations 3d render like icon set. social media bubble
-   with heart. love element. comment button. share tag. notice people.
-   chat text. speech communicate. notification label. emoji
-   reaction.vector illustration - kalp stock illustrations
-
-   3d render like icon set. Social media bubble with heart. Love...
-
-   hearts shapes icons - kalp stock illustrations hearts shapes icons -
-   kalp stock illustrations
-
-   Hearts Shapes Icons
-
-   red shiny heart symbol. realistic 3d vector illustration, isolated on
-   white background. ideal for valentines day, mothers day, wedding, i
-   love you etc. - kalp stock illustrations red shiny heart symbol.
-   realistic 3d vector illustration, isolated on white background. ideal
-   for valentines day, mothers day, wedding, i love you etc. - kalp stock
-   illustrations
-
-   Red shiny heart symbol. Realistic 3D vector illustration,...
-
-   heart line drawing ribbon in vector doodle sketch. wedding, valentine
-   day love heart scribble line background - kalp stock illustrations
-   heart line drawing ribbon in vector doodle sketch. wedding, valentine
-   day love heart scribble line background - kalp stock illustrations
-
-   Heart line drawing ribbon in vector doodle sketch. Wedding,...
-
-   dokuz elle çizilmiş kalbinde konuşlanmış. el beyaz arka plan üzerinde
-   izole kaba marker kalpler çekilmiş. - kalp stock illustrations dokuz
-   elle çizilmiş kalbinde konuşlanmış. el beyaz arka plan üzerinde izole
-   kaba marker kalpler çekilmiş. - kalp stock illustrations
-
-   Dokuz elle çizilmiş kalbinde konuşlanmış. El Beyaz arka plan üzeri
-
-   kalp - kalp stock illustrations kalp - kalp stock illustrations
-
-   Kalp
-
-   farklı kırmızı kalplerin vektör seti. elle çizilmiş kalplerin
-   koleksiyonu. beyaz arka plan üzerine tasarım. - kalp stock
-   illustrations farklı kırmızı kalplerin vektör seti. elle çizilmiş
-   kalplerin koleksiyonu. beyaz arka plan üzerine tasarım. - kalp stock
-   illustrations
-
-   Farklı kırmızı kalplerin vektör seti. Elle çizilmiş kalplerin...
-
-   sağlıklı kadın holding kalp - kalp stok fotoğraflar ve resimler
-   sağlıklı kadın holding kalp - kalp stok fotoğraflar ve resimler
-
-   Sağlıklı kadın Holding kalp
-
-   groovy background. tunnel of concentric hearts. romantic cute
-   illustration. trendy girly preppy design. - kalp stock illustrations
-   groovy background. tunnel of concentric hearts. romantic cute
-   illustration. trendy girly preppy design. - kalp stock illustrations
-
-   Groovy background. Tunnel of Concentric hearts. Romantic cute...
-
-   red heart line icon. vector - kalp stock illustrations red heart line
-   icon. vector - kalp stock illustrations
-
-   Red heart line icon. Vector
-
-   kırmızı kalpler set, koleksiyon vektör şekiller - kalp stock
-   illustrations kırmızı kalpler set, koleksiyon vektör şekiller - kalp
-   stock illustrations
-
-   Kırmızı kalpler set, koleksiyon vektör şekiller
-
-   hearts - kalp stock illustrations hearts - kalp stock illustrations
-
-   Hearts
-
-   heart - kalp stock illustrations heart - kalp stock illustrations
-
-   Heart
-
-   kaligrafi aşk kalp işareti. vektör romantik illüstrasyon simge
-   birleştirmek, tutku ve düğün. sevgililer günü nün hat tasarım düz
-   öğesi. t-shirt, kartı, davet için şablon - kalp stock illustrations
-   kaligrafi aşk kalp işareti. vektör romantik illüstrasyon simge
-   birleştirmek, tutku ve düğün. sevgililer günü nün hat tasarım düz
-   öğesi. t-shirt, kartı, davet için şablon - kalp stock illustrations
-
-   Kaligrafi aşk kalp işareti. Vektör romantik illüstrasyon simge...
-
-   heart icon outline style set. heartbeat icon. medical heart signs.
-   cardiogram sign. heart with check mark and plus. medicine symbols.
-   editable stroke. vector illustration - kalp stock illustrations heart
-   icon outline style set. heartbeat icon. medical heart signs. cardiogram
-   sign. heart with check mark and plus. medicine symbols. editable
-   stroke. vector illustration - kalp stock illustrations
-
-   Heart icon outline style set. Heartbeat icon. Medical heart signs.
-
-   vektör el çizilmiş çocuksu doodle kalp simgeleri seti - kalp stock
-   illustrations vektör el çizilmiş çocuksu doodle kalp simgeleri seti -
-   kalp stock illustrations
-
-   Vektör el çizilmiş çocuksu doodle kalp simgeleri seti
-
-   kırmızı vektör elle çizilmiş set farklı kalpler. - kalp stock
-   illustrations kırmızı vektör elle çizilmiş set farklı kalpler. - kalp
-   stock illustrations
-
-   Kırmızı vektör elle çizilmiş set farklı kalpler.
-
-   kalp düz stil simge vektör, beyaz arka plan illüstrasyon izole aşk
-   sembolü sevgililer günü - kalp stock illustrations kalp düz stil simge
-   vektör, beyaz arka plan illüstrasyon izole aşk sembolü sevgililer günü
-   - kalp stock illustrations
-
-   Kalp düz Stil simge vektör, beyaz arka plan illüstrasyon izole aşk
-
-   human circulatory system heart anatomy - kalp stok fotoğraflar ve
-   resimler human circulatory system heart anatomy - kalp stok fotoğraflar
-   ve resimler
-
-   Human Circulatory System Heart Anatomy
-
-   heart icons set. collection of 82 heart vector symbols. regular and
-   hand-drawn heart shapes. - kalp stock illustrations heart icons set.
-   collection of 82 heart vector symbols. regular and hand-drawn heart
-   shapes. - kalp stock illustrations
-
-   Heart icons set. Collection of 82 heart vector symbols. Regular...
-
-   kırmızı hakketmek kalpler - düz icon set - kalp stock illustrations
-   kırmızı hakketmek kalpler - düz icon set - kalp stock illustrations
-
-   Kırmızı hakketmek kalpler - düz Icon set
-
-   tebrik kartları, düğün davetiyesi, hediye paketleri için sevgililer
-   günü afişi. kalp uçan çerçeve. kutlama zemini. parlak pembe kalpler
-   konfeti beyaz arka plan üzerine düşen. vektör çizimi - kalp stock
-   illustrations tebrik kartları, düğün davetiyesi, hediye paketleri için
-   sevgililer günü afişi. kalp uçan çerçeve. kutlama zemini. parlak pembe
-   kalpler konfeti beyaz arka plan üzerine düşen. vektör çizimi - kalp
-   stock illustrations
-
-   Tebrik kartları, düğün davetiyesi, hediye paketleri için...
-
-   izole ruj siyah vuruş ışık seti ve kalın doğrusal boyama çocuksu el
-   çizilmiş kalp sembolleri çizgi sanat vektör tasarımı - kalp stock
-   illustrations izole ruj siyah vuruş ışık seti ve kalın doğrusal boyama
-   çocuksu el çizilmiş kalp sembolleri çizgi sanat vektör tasarımı - kalp
-   stock illustrations
-
-   izole ruj siyah vuruş ışık seti ve kalın doğrusal boyama çocuksu...
-
-   el çizilmiş kalp aşk işareti. romantik kaligrafi vektör illustration.
-   t-shirt, tebrik kartı, poster düğün için concepn simge sembolü.
-   sevgiliye gün tasarım düz eleman - kalp stock illustrations el çizilmiş
-   kalp aşk işareti. romantik kaligrafi vektör illustration. t-shirt,
-   tebrik kartı, poster düğün için concepn simge sembolü. sevgiliye gün
-   tasarım düz eleman - kalp stock illustrations
-
-   El çizilmiş kalp aşk işareti. Romantik kaligrafi vektör...
-
-   kırmızı kalpli kusursuz desen. tekstil, duvar kağıdı, kumaş, tasarım
-   için romantik kremsi şeftali arka plan. vektör illüstrasyon. - kalp
-   stock illustrations kırmızı kalpli kusursuz desen. tekstil, duvar
-   kağıdı, kumaş, tasarım için romantik kremsi şeftali arka plan. vektör
-   illüstrasyon. - kalp stock illustrations
-
-   Kırmızı kalpli kusursuz desen. Tekstil, duvar kağıdı, kumaş,...
-
-   pixel heart iñon set in retro style. vintage love symbol, 8 bit vector
-   illustration for computer game. web button - kalp stock illustrations
-   pixel heart iñon set in retro style. vintage love symbol, 8 bit vector
-   illustration for computer game. web button - kalp stock illustrations
-
-   Pixel heart iÑon set in retro style. Vintage love symbol, 8 bit...
-
-   two glossy hearts isolated on white. emoji icon. clipping path included
-   - kalp stok fotoğraflar ve resimler two glossy hearts isolated on
-   white. emoji icon. clipping path included - kalp stok fotoğraflar ve
-   resimler
-
-   Two glossy hearts isolated on white. Emoji icon. Clipping path...
-
-   çizilmiş doodle kalpler kümesi - kalp stock illustrations çizilmiş
-   doodle kalpler kümesi - kalp stock illustrations
-
-   çizilmiş doodle kalpler kümesi
-
-   hand drawing heart icons - classic line series - kalp stock
-   illustrations hand drawing heart icons - classic line series - kalp
-   stock illustrations
-
-   Hand Drawing Heart Icons - Classic Line Series
-
-   valentines day love symbol, 3d hearts rotation. realistic romantic
-   emoji, red heart icon front and spin angle view. wedding decor vector
-   set - kalp stock illustrations valentines day love symbol, 3d hearts
-   rotation. realistic romantic emoji, red heart icon front and spin angle
-   view. wedding decor vector set - kalp stock illustrations
-
-   Valentines day love symbol, 3d hearts rotation. Realistic...
-
-   iphone whatsapp heart emojis set. sparkling, growing, two hearts,
-   beating, revolving, broken, mending, heart exclamation, red, orange,
-   yellow, green, blue, black, emoji. facbook, twitter, samsung - kalp
-   stock illustrations iphone whatsapp heart emojis set. sparkling,
-   growing, two hearts, beating, revolving, broken, mending, heart
-   exclamation, red, orange, yellow, green, blue, black, emoji. facbook,
-   twitter, samsung - kalp stock illustrations
-
-   Iphone Whatsapp Heart Emojis set. Sparkling, growing, two Hearts,
-
-   hands holding heart line and solid icon. charity and love shape in
-   palms symbol, outline style pictogram on white background. relationship
-   sign for mobile concept and web design. vector graphics - kalp stock
-   illustrations hands holding heart line and solid icon. charity and love
-   shape in palms symbol, outline style pictogram on white background.
-   relationship sign for mobile concept and web design. vector graphics -
-   kalp stock illustrations
-
-   Hands holding heart line and solid icon. Charity and love shape...
-
-   kullanılabilir kontur. beyaz arka planda yalıtılmış siyah kalp çizgisi
-   simgesi. - kalp stock illustrations kullanılabilir kontur. beyaz arka
-   planda yalıtılmış siyah kalp çizgisi simgesi. - kalp stock
-   illustrations
-
-   Kullanılabilir kontur. Beyaz arka planda yalıtılmış siyah kalp çiz
-
-   kalp şekli simgeler - kalp stock illustrations kalp şekli simgeler -
-   kalp stock illustrations
-
-   Kalp şekli simgeler
-
-   hearts - kalp stock illustrations hearts - kalp stock illustrations
-
-   Hearts
-
-   vektör çizimi: beyaz arka plan üzerine ayarlanmış elle çizilmiş siyah
-   çizim elemanları. - kalp stock illustrations vektör çizimi: beyaz arka
-   plan üzerine ayarlanmış elle çizilmiş siyah çizim elemanları. - kalp
-   stock illustrations
-
-   Vektör çizimi: Beyaz arka plan üzerine ayarlanmış elle çizilmiş...
-
-   eller kalp çizgisi ve sağlam simgesi tutan. sadaka ve palmiye sembolü
-   aşk şekli, beyaz arka plan üzerinde anahat tarzı pictogram. mobil
-   konsept ve web tasarımı için ilişki işareti. vektör grafikleri. - kalp
-   stock illustrations eller kalp çizgisi ve sağlam simgesi tutan. sadaka
-   ve palmiye sembolü aşk şekli, beyaz arka plan üzerinde anahat tarzı
-   pictogram. mobil konsept ve web tasarımı için ilişki işareti. vektör
-   grafikleri. - kalp stock illustrations
-
-   Eller kalp çizgisi ve sağlam simgesi tutan. Sadaka ve palmiye...
-
-   1___________________/100
-
-   Sonraki
-
-   (BUTTON)
-
-   İstediğinizi bulamıyor musunuz?AI ile hayalinizdeki içeriği gerçeğe
-   dönüştürünGenerative AI’yı keşfedin
-
-   (BUTTON) Türkçe (BUTTON) Türkiye
-
-     * Bilgi edinin
-     * Planlar ve fiyatlandırma
-     * iStock promosyon kodları
-     * Tips and tricks
-     * Arama Rehberi
-     * Stok fotoğraflar
-     * Stok videolar
-     * Stok İllüstrasyonlar
-     * Eklentiler ve uygulamalar
-     * Lisans bilgileri
-     * Yasal/Gizlilik
-
-     * Şirket
-     * Hakkımızda
-     * Basın Odası
-     * Investor
-     * Kariyer
-     * Bağlı kuruluşlar
-     * İçerik Satın
-     * İçerik sağlayıcı için destek
-
-     * Destek
-     * Bize ulaşın
-     * SSS
-     * Site haritası
+Kalp İle İlgili Sözler
 
      *
      *
      *
+     *
+     *
+
+   [1544292428-42626.jpg]
+
+   Sayfa İçeriği: Kalp Sözleri, Kalp İle İlgili Sözleri, 2018 Kalp
+   Sözleri, En Güzel Kalp Sözleri, En Romantik Kalp Sözleri, En
+   Duygusal Kalp Sözleri, En Mantıklı Kalp Sözleri
+
+   Yaşam kaynağımız olan kalp ile alakalı olarak en duygusal ve en harika
+   sözleri bu yazımızın altında paylaştık. Twitter, Facebook ve İnstagram
+   hesaplarınızdan bu sözleri paylaşabilirsiniz.
+   [INS: :INS]
+
+Kalp İle İlgili Sözler
      __________________________________________________________________
 
-   © 2025 iStockphoto LP. iStock tasarımı, iStockphoto LP'nin ticari
-   markasıdır. Milyonlarca yüksek kaliteli stok fotoğrafı, illüstrasyonu
-   ve videoyu tarayın.
+   Editör Seçimi: Kırık kalplerin hikâyesi kısa olur. Ne oldu derler;
+   "hiç" dersin, biter.
+     __________________________________________________________________
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WF3KCX5
+   Kalp söze başlayınca beyin sağır olur.
+
+   GözIerim artık hayata öIü bakıyor, sözIerim içimde döküIüyor kaIbim ise
+   atmayı unuttu…
+
+   Allah sadece kalbi verir, içini sen doldurursun. Şems
+
+   ”Fikir, kalpten aldığı hızla ilerler.” (Confucius)
+   [INS: :INS]
+
+   Bir defa kalp kırmak; Kâbe’yi alt üst etmekten daha kötüdür! Zira
+   Kâbe’yi Hz. İbrahim inşa etmiş, gönlü; Allah yaratmıştır… Hz. Mevlana
+
+   Kalp soğuyunca ısıtmak kolay olmaz.
+
+   Kalbini kırıyor diye üzülme, belkide hak etmediği yerden çıkmak
+   istiyordur.
+
+   Kalbime giden yollarım unutma çalışmalarından dolayı kapalıdır.
+
+   Hedefi Olmayan Gemiye Hiçbir Rüzgar Yardım Etmez. Montaigne
+
+   İnsanın kalbinden daha büyük çöl, insanın kalbinden daha derin göl var
+   mı ki? Yangın da burada, yağmur da.
+   [INS: :INS]
+
+   Karanlıkta göz gözü görmezken kalp kalbi seçemez.
+
+   Umut tükenince yine çarpar mı bir kalp.
+
+   Kanatları varmış kalbin. Sevince uçar sevilmeyince göçermiş.
+
+   Bana kaIpsiz demiştin ya hakIısın çünkü orada sen vardın…
+
+   KaIpten kaIbe bir yoI vardır, görünmez.
+
+   Kırık oIduğu haIde çaIışan tek şey insan kaIbidir.
+   [INS: :INS]
+
+   İnsanın kalbi altına benzer. Ne kadar saf ise o kadar yumuşaktır.  E.
+   Sabine
+
+
+   İnsanı en çok yıpratan şey, kalbin sertleşmesidir.   Pestalozzi
+
+
+   Gözlerden kalbe giden yol akıldan geçmiyor.  Gilbert Chesterton
+
+   ”İnsan, kalbinin kölesidir…” (Ali Suad)
+
+   ”Kalpten kalbe bir yol vardır, görünmez.” (Neşet Ertaş)
+
+   ”Kalp zaten atıyor, marifet ritmi değiştirebilende.” (Can Yücel)
+   [INS: :INS]
+
+   Allah, göğüslerin özünü (kalplerde olanı) hakkıyla bilendir. Kuran-ı
+   Kerim Tegabun Suresi 4. Ayet
+
+   Kalp bir bahçe gibidir. Onda mutlaka bir şeyler bitecektir. O halde
+   güzel şeyler ekin ki güzel şeyler bitsin… Hz. Mevlana
+
+   Kırılmış kalbin tesellisi insanlarda değil Allah’ta.
+
+   Kırılsa da hala çalışmaya devam eden tek şey insan kalbidir.
+
+   Benim dünyada duyduğum en güzel ritim onun kalp atışıydı.
+
+   "Çok güçlüsün, her şeyi içine atıyorsun" dedi. Elimi sol yanıma
+   götürerek "burada neler oluyor bilmiyorsun" dedim.
+   [INS: :INS]
+
+   Kimseye çok bağlanmamak lazım, vakti gelince herkes gidecek.
+   Yanındayken kıymet bilmek lazım, bir gün herkes geldiği yere dönecek.
+   Gereksiz yere kalp kırmamak lazım, ömür dediğin kısa, öyle gelip
+   geçecek. Kavgayla geçen zamana yazık, o vakitler geri gelmeyecek
+
+   Kalbin Soğudumu, Isıtmak Kolay Olmaz
+
+   Güneşin bile buz tuttuğu yerde eğer bir ışık görürsen, bilki o benim
+   sana yanan kalbimdir.
+
+   Kalbin kendine has nedenleri vardir ki akıl hiç bir zaman anlayamaz.
+
+
+   Acı Suda Tatlı Suda Berraktır. Sakın Görünüşe Aldanma...Görünüşte
+   Herkes Insandır Ama Gerçek Insan Hal Ehli Olandır.. HZ. MEVLANA
+
+   Hani derler ya insan sevdiğine hiç kırılır mı? Aslında insan en çok
+   sevdiğine kırılır.
+
+   Sakar değil ki benim kalbim, yalnızca sana çarpıyor.
+
+   Kalbime giden yollarım unutma çalışmalarından dolayı kapalıdır.
+
+   KaIbin soğudu mu, ısıtmak koIay oImaz.
+
+   Her şey oIur da şu kaIbim, bir tek sensiz oIamaz.
+
+   Kalbinizin sizi yönlendirmesine izin verin. Fısıldar; bu yüzden onu
+   dikkatlice dinleyin.
+
+
+   Güneşin bile buz tuttuğu yerde eğer bir ışık görürsen, bil ki o benim
+   sana yanan kalbimdir.
+
+
+   Kalbin büyüklüğünü, içerdiği sevgi belirler.  Cenap Şehabettin
+
+   "Allah sadece kalbi verir, içini sen doldurursun.” (Şems-i Tebrizi)
+
+   ”Bir insanı avucunuza almanın en güzel yolu, kalbini kazanmaktır.”
+   (Cordaire)
+
+   ”Gözlerden kalbe giden yol akıldan geçmiyor…” (Gilbert Chesterton)
+
+   Allah’ım, sen ki bize hayatta o kadar çok şey verdin, merhamet et de
+   bir şey daha ver, bize bütün bu nimetlere karşı, nimet ve şükran
+   duygusu taşıyan bir kalp de ihsan et… George Herbert
+
+   Kalp denize benzer; fırtınaları, sakin zamanları ve taşkınlıkları
+   vardır, bazen de derinliklerinde inciler gizlidir… Heinrich Heine
+
+   Kalbimdeki huzurun sebebini sordular, ismini verdim.
+
+   Çünkü hiçbir gidiş böylesine yıkım oluşturmadı kalbimde. Ben enkaz
+   altından topluyorum umutlarımı şimdi.
+
+   Ben kalbime kefilim!
+
+   Bana kalpsiz demiştin ya haklısın çünkü orada sen vardın..
+
+   "Bazen seni unutur gibi yapıyorum ama kalbim kanmıyor kanıyor..."
+
+   Sakar değil ki benim kalbim, yalnızca sana çarpıyor.
+
+   Oysaki siz bayım bir sebze bile olamazsınız çünkü enginarın bile bir
+   kalbi vardır.
+
+   “Evet” dedim belli belirsiz. Yumdu gözlerini. Şaşırdım. Sonra anladım
+   ki kalbinde seyrediyordu beni.
+
+   Sözler kalpten çıkarsa kalbe kadar ulaşır, ağızdan çıkarsa kulaktan öte
+   gidemez.
+
+   Ayakların Yere Sağlam Bastığı Sürece Herkes Dostundur. Lakin Ufak Bir
+   Sarsıntı Savurur... / Sadi Şirazi
+
+   Acı seni daha güçlü yapar. Korku seni daha cesur. Kırık bir kalp ise
+   seni daha akıllı yapar. Elif Şafak
+
+   Dünya’da hiçbir şey, sevdiğiniz insanın kalp atışı kadar değerli
+   değildir.
+
+   Kırılmış kalbine teselli arıyorsan insanlar ‘da değil, Rabbin’de ara.
+
+   SözIer kaIpten çıkarsa kaIbe kadar uIaşır, ağızdan çıkarsa kuIaktan öte
+   gidemez.
+
+   Gözden kaIbe giden bir yoI varmış, buIur buImaz başımı aIıp gideceğim.
+
+   Çarpışan silahlar değil, kahramanın kalbidir.   Anonim
+
+
+   Kalplerinizi çok yemek ve çok içmekle öldürmeyiniz.   Hz. Muhammed
+
+
+   Kalplerin hepsinde insanlara özgü düşkünlükler vardır.   R. Moliere
+
+   ”Bir budalanın kalbi ağzındadır, ama aklı başında adamın ağzı kalbinin
+   içindedir.” (Benjamin Franklin)
+
+   ”Allah, göğüslerin özünü (kalplerde olanı) hakkıyla bilendir.” (Kuran-ı
+   Kerim Tegabun Suresi 4. Ayet)
+
+   Akıl maddeyi, kalp manayı fetih içindir… Muhammed İkbal
+
+   Kalbimin kırıklığı sana emanet Allah’ım. Ben onaramıyorum!
+
+   Kalbiniz hala atıyorken, teniniz hale sıcakken ve nefes alabiliyorken
+   sevin!
+
+   Kalp boşsa beynin bir anlamı yoktur.
+
+   Vereceğin kararlarda kalbinin sesini dinle, çünkü içinden gelenden daha
+   gerçek bir doğru yoktur .
+
+   Her kalp, kendi içindeki çiçeğin kokusunu verir. Abdülkâdir Geylani
+
+   Bak şu çeşmenin haline, su içecek tası yok; kırma insanın kalbini
+   yapacak ustası yok…
+
+   Kalbin kemiği yok diye kırılmaz mı sandın?
+
+   Kalbimin öyle derinlerindesin ki çıkarın yok, çıkası yok, çıkarasım
+   yok.
+
+   İnsanlar Önce Para Kazanmak Için Sağlıklarını, Sonra Da Sağlıklarını
+   Korumak Için Paralarını Harcarlar. Johann Wolfgang Von Goethe
+
+   Tanıdığımı sandığım insanlarla ilgili yaşadığım hayal kırıklıklarını
+   sığdırabileceğim bir heybem yok! Ve işte bu yüzden yüreğim tıklım
+   tıklım yorgunluk.
+
+   Duydum ki böbreğinde taş varmış sevgili. Kesin kalbinden düşmüştür.
+
+   KaranIıkta göz gözü görmezken kaIp kaIbi seçemez…
+
+   Kalp, denize benzer; fırtınaları, sakin zamanları ve taşkınlıkları
+   vardır, bazense derinliklerinde inciler gizlidir.  Heinrich Heine
+
+   ”Kalbinizde yeşil bir ağaç bulundurun, belki şarkı söyleyen bir kuş
+   gelip konar.” (Çin Atasözü)
+
+   Akıl ve dirayetin ak saçlılarınki gibi; ama kalbin masum çocuklarınki
+   gibi olsun… Friedrich Schiller
+
+   Girebildiğin kalp, memleketindir.
+
+   Beni anlamaya ve kalbinde saklamaya çalış. Franz Kafka
+
+   Bilim atom bombasını üretti, fakat asıl kötülük insanların beyinlerinde
+   ve kalplerindedir.
+
+   Bozuk Para Insanın Cebini Deler, Bozuk Insanda Kalbini. Bu Yüzden
+   Ikisini De Harcayın Gitsin... Lev Nikolayeviç Tolstoy
+
+   Kırılan kalbin keskin parçaları öldürür her insanı.
+
+Sen de Yorum Yap veya Sözünü Yaz
+
+   ____________________
+   ____________________
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [BUTTON Input] (not implemented)_______
+
+İLGİNİZİ ÇEKEBİLİR
+
+Anlamlı Sözler
+
+Damar Sözler
+
+Sevgi Sözleri
+
+Ağır Sözler
+
+Kardeşlik Sözleri
+
+Kapak Sözler
+
+   Reklam
+   Özlü Sözler
+
+Kısa Sözler
+
+Tumblr Sözleri
+
+Ayrılık Sözleri
+
+Kral Sözler
+
+Laf Sokucu Sözler
+
+Arkadaşa Kapak Sözler
+
+   Aşk Sözleri
+
+Aşk Sözleri
+
+Sevgiliye Etkileyici Sözler
+
+Kızlara Güzel Sözler
+
+Sevgiliye Whatsapp Durumları
+
+Sevgiliye Kısa Notlar
+
+Sevgiliye Güzel Sözler
+
+#Hakkımızda
+
+   Kalplerden ve akıllardan gelen mükemmel güzel sözleri sizler için bir
+   araya derledik. Güzel mesajlar,Ünlü sözleri,Aşk sözleri,Dini
+   Sözler,Doğum günü mesajları gibi birçok kategoride sizlere en güzel
+   sözler hizmeti sunuyoruz. Akıllı telefonlar ve tabletler aracılığıyla
+   da ulaşabileceğiniz ücretsiz güzel sözler platformudur. Sizlerde
+   yorumlarda kendi güzel sözlerinizi ekleyerek diğer güzel insanların
+   ulaşmasını sağlayabilirsiniz. Kalbinizi ve aklınızı aydınlatan adres...
+
+#SOSYAL MEDYA
+
+#EN ÇOK OKUNAN SÖZLER
+
+     * Güzel Sözler
+     * Özlü Sözler
+     * Ünlü Sözleri
+     * Aşk Sözleri
+     * SİTE HARİTASI
+
+   Copyright © 2025 Tüm Hakları Saklıdır.
+
+     kaplıca

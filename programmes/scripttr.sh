@@ -24,16 +24,61 @@ cat <<HTML_HEADER > "$tableau_html"
 <head>
     <meta charset="UTF-8">
     <title>Tableau des résultats ($langue)</title>
+    <link href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" rel="stylesheet">
     <style>
-        table { width: 100%; border-collapse: collapse; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; }
-        .highlight { font-weight: bold; color: red; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            font-weight: bold;
+        }
+        td {
+            color: #212529;
+        }
+        tr:hover {
+            background-color: #f1f5f9;
+            transition: background-color 0.2s ease-in-out;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e63946;
+        }
+        h1 {
+            font-size: 36px;
+            color: #4CAF50;
+            text-align: center;
+            margin: 20px 0;
+            font-family: 'Arial', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            transition: color 0.3s ease-in-out;
+        }
+        a:hover {
+            color: #0056b3;
+        }
     </style>
 </head>
 <body>
-    <h1>Résultats des URLs ($langue)</h1>
-    <table>
+    <h1> Résultats des URLs ($langue)</h1>
+    <div class=table-container>
+    <table class=table is-bordered is-striped is-narrow is-hoverable is-fullwidth>
         <thead>
             <tr>
                 <th>#</th>
@@ -114,16 +159,61 @@ cat <<CONCORDANCE_HEADER > "$fichier_concordance"
 <head>
     <meta charset="UTF-8">
     <title>Concordance ($langue)</title>
+    <link href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" rel="stylesheet">
     <style>
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; }
-        .highlight { font-weight: bold; color: red; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            font-weight: bold;
+        }
+        td {
+            color: #212529;
+        }
+        tr:hover {
+            background-color: #f1f5f9;
+            transition: background-color 0.2s ease-in-out;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e63946;
+        }
+        h1 {
+            font-size: 36px;
+            color: #4CAF50;
+            text-align: center;
+            margin: 20px 0;
+            font-family: 'Arial', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            transition: color 0.3s ease-in-out;
+        }
+        a:hover {
+            color: #0056b3;
+        }
     </style>
 </head>
 <body>
     <h1>Concordance des mots-clés ($langue)</h1>
-    <table>
+    <div class=table-container>
+    <table class=table is-bordered is-striped is-narrow is-hoverable is-fullwidth>
         <thead>
             <tr>
                 <th>Contexte gauche</th>
@@ -164,15 +254,18 @@ CONCORDANCE_FOOTER
               </tr>" >> "$tableau_html"
     fi
 
+
     ligne_id=$((ligne_id + 1))
 done < "$fichier_urls"
 
 cat <<HTML_FOOTER >> "$tableau_html"
         </tbody>
     </table>
+    </div>
 </body>
 </html>
 HTML_FOOTER
+
 
 if [ ${#failed_urls[@]} -ne 0 ]; then
     echo -e "\n--- Les URLs faux: ---"

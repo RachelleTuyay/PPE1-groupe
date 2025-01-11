@@ -3,16 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <title>Concordance (tr)</title>
+    <link href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css" rel="stylesheet">
     <style>
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f4f4f4; }
-        .highlight { font-weight: bold; color: red; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            padding: 12px 16px;
+            text-align: left;
+            border-bottom: 1px solid #e9ecef;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+            font-weight: bold;
+        }
+        td {
+            color: #212529;
+        }
+        tr:hover {
+            background-color: #f1f5f9;
+            transition: background-color 0.2s ease-in-out;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #e63946;
+        }
+        h1 {
+            font-size: 36px;
+            color: #4CAF50;
+            text-align: center;
+            margin: 20px 0;
+            font-family: 'Arial', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            transition: color 0.3s ease-in-out;
+        }
+        a:hover {
+            color: #0056b3;
+        }
     </style>
 </head>
 <body>
     <h1>Concordance des mots-clés (tr)</h1>
-    <table>
+    <div class=table-container>
+    <table class=table is-bordered is-striped is-narrow is-hoverable is-fullwidth>
         <thead>
             <tr>
                 <th>Contexte gauche</th>
@@ -22,29 +67,99 @@
         </thead>
         <tbody>
 <tr>
+            <td>Her yıl yaklaşık 300 bin kişi </td>
+            <td class='highlight'>kalp</td>
+            <td> hastalığı tanısı alıyor</td>
+          </tr>
+<tr>
+            <td>Çil, </td>
+            <td class='highlight'>kalp</td>
+            <td> ve damar hastalıklarının Türk</td>
+          </tr>
+<tr>
+            <td>yıl yaklaşık 300 bin kişinin </td>
+            <td class='highlight'>kalp</td>
+            <td> hastalığı tanısı aldığını söy</td>
+          </tr>
+<tr>
+            <td>her 2,5 dakikada bir kişinin </td>
+            <td class='highlight'>kalp</td>
+            <td> ve damar</td>
+          </tr>
+<tr>
+            <td>ye’de tüm dünyada olduğu gibi </td>
+            <td class='highlight'>kalp</td>
+            <td> ve damar hastalıklarının ölüm</td>
+          </tr>
+<tr>
             <td></td>
             <td class='highlight'>kalp</td>
-            <td> cerrahisini bölgeye kazandırd</td>
+            <td> yetersizliği, serebrovasküler</td>
           </tr>
 <tr>
-            <td>Ürdünlü </td>
+            <td>her yıl yaklaşık 300 bin kişi </td>
             <td class='highlight'>kalp</td>
-            <td> cerrahlarının ameliyatlara gö</td>
+            <td> hastalığı</td>
           </tr>
 <tr>
-            <td>n Al Daboubi ve diğer Ürdünlü </td>
+            <td>ki her 2,5 dakikada bir kişi </td>
+            <td class='highlight'>kalp</td>
+            <td> ve damar</td>
+          </tr>
+<tr>
+            <td>sadece </td>
+            <td class='highlight'>kalp</td>
+            <td> hastalarında değil, belki de</td>
+          </tr>
+<tr>
+            <td>daha çok henüz </td>
+            <td class='highlight'>kalp</td>
+            <td> hastası</td>
+          </tr>
+<tr>
+            <td>iz kardiyologlar temel olarak </td>
+            <td class='highlight'>kalp</td>
+            <td> damarlarına yönelik</td>
+          </tr>
+<tr>
+            <td>Egzersizin </td>
+            <td class='highlight'>kalp</td>
+            <td> damar hastalıklarıyla mücadel</td>
+          </tr>
+<tr>
+            <td>Tansiyonun dengelenmesi, </td>
+            <td class='highlight'>kalp</td>
+            <td> hızının makul seviyede tutulm</td>
+          </tr>
+<tr>
+            <td>e faydalıdır. Bunların tamamı </td>
             <td class='highlight'>kalp</td>
             <td></td>
           </tr>
 <tr>
-            <td>ameliyat serisinin, Ürdün’ün </td>
+            <td>Sağlıklı bir </td>
             <td class='highlight'>kalp</td>
-            <td></td>
+            <td> için: Düzenli uyku, dengeli b</td>
           </tr>
 <tr>
-            <td>Etiketler: invaziv </td>
+            <td>inin uygulanması sağlıklı bir </td>
             <td class='highlight'>kalp</td>
-            <td> cerrahisiMinimal İnvaziv Çalı</td>
+            <td> için olmazsa</td>
+          </tr>
+<tr>
+            <td>GünüHipertansiyonkalp damarları</td>
+            <td class='highlight'>kalp</td>
+            <td> hastalığıKalp v</td>
+          </tr>
+<tr>
+            <td>hastalıkları</td>
+            <td class='highlight'>kalp</td>
+            <td> yetersizliğikapak problemleri</td>
+          </tr>
+<tr>
+            <td>r arter hastalığıSağlıklı bir </td>
+            <td class='highlight'>kalp</td>
+            <td>serebrovasküler</td>
           </tr>
         </tbody>
     </table>

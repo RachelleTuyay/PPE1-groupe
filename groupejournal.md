@@ -40,3 +40,9 @@ Il y avait beaucoup d'URLs avec un code différent de 200. Par conséquent, j'ai
 Création du script scripttr.sh, J'ai toujours manqué un URL
 
 Ajout d'une commande echo a la fin pour identifier l'URL manquante
+
+Le 11/01/2025: 
+
+Le tableau ne fonctionnait pas, j'ai ajouté Bulma CSS.
+
+Deux des liens étaient cassés, je les ai corrigés.
