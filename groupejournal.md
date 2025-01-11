@@ -1,12 +1,16 @@
+Hongying XU:   
+
 Du 31/12/2024 au 09/01/2025   
 
-
-Hongying XU:   
 Creation du fichier groupejournal.md et ajout les dossiers des exercices.    
 Ajout script pour traiter les urls et voir s'ils sont traitables, les écrire dans le fichier HTML.    
 Modifier script pour stocker les pages aspirées et les dumps textuels.    
 Modifier script pour Compter les occurrences.    
 Modifier script pour les contextes et les concordances.  
+
+Le 10/01/2024 :  
+Ajout du script make_pals_corpus_ch.sh basé du make_pals_corpus_fr.sh, mais j'ajoute thulac pour segmenter les caracteres chinois et une fonction pour nettoyer en supprimant tous les caractères sauf les caractères chinois.
+
 
 
 Rachelle TUYAY:
