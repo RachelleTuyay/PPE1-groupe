@@ -11,6 +11,9 @@ Modifier script pour les contextes et les concordances.
 Le 10/01/2024 :  
 Ajout du script make_pals_corpus_ch.sh basé du make_pals_corpus_fr.sh, mais j'ajoute thulac pour segmenter les caracteres chinois et une fonction pour nettoyer en supprimant tous les caractères sauf les caractères chinois.
 
+Le 11/01/2025 :
+Ajout le png de nuage de mots chinois, J’ai modifié le code de fakecloud afin qu’il prenne en charge les polices chinoises.
+
 -----------------------------------------------------------------
 
 Rachelle TUYAY:
