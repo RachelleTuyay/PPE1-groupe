@@ -46,3 +46,5 @@ Le 11/01/2025:
 Le tableau ne fonctionnait pas, j'ai ajouté Bulma CSS.
 
 Deux des liens étaient cassés, je les ai corrigés.
+
+Création du code pour le nuage de mots.
