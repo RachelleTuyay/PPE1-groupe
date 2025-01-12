@@ -5,15 +5,18 @@ if [ $# -ne 3 ]; then
     exit 1
 fi
 
+script_dir=$(cd "$(dirname "$0")" && pwd) 
+parent_dir=$(dirname "$script_dir")
+
 fichier_urls=$1   
 langue=$2          
 mot_cible=$3     
 
-rep_aspirations="./aspirations"
-rep_dumps="./dumps-text"
-rep_contextes="./contextes"
-rep_concordances="./concordances"
-rep_tableaux="./tableaux"
+rep_aspirations="$parent_dir/aspirations"
+rep_dumps="$parent_dir/dumps-text"
+rep_contextes="$parent_dir/contextes"
+rep_concordances="$parent_dir/concordances"
+rep_tableaux="$parent_dir/tableaux"
 tableau_html="${rep_tableaux}/tableau_${langue}.html"
 
 cat <<HTML_HEADER > "$tableau_html"
