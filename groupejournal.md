@@ -14,6 +14,11 @@ Ajout du script make_pals_corpus_ch.sh basé du make_pals_corpus_fr.sh, mais j'a
 Le 11/01/2025 :
 Ajout le png de nuage de mots chinois, J’ai modifié le code de fakecloud afin qu’il prenne en charge les polices chinoises.
 
+Le 12/01/2025
+Ajout le fichier html dans Tableaux.
+Modifier le scriptch.sh.
+Ajout contenu sur le site.
+
 -----------------------------------------------------------------
 
 # Rachelle TUYAY:
