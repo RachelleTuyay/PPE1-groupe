@@ -1,4 +1,4 @@
-Hongying XU:   
+# Hongying XU:   
 
 Du 31/12/2024 au 09/01/2025   
 
@@ -16,22 +16,35 @@ Ajout le png de nuage de mots chinois, J’ai modifié le code de fakecloud afin
 
 -----------------------------------------------------------------
 
-Rachelle TUYAY:
+# Rachelle TUYAY:
+
 Création du dépôt (en tant que Owner)
 
 Le 11/12/2024 :
+
 Création du `script1.sh` qui vérifie les urls si ils ont bien un code de "200".
+
 Ajout de `urls-fr.txt`, où le 7ème lien provoquera une erreur 404 avec le `script1.sh` pour montrer que le script fonctionne ainsi que pour les autres scripts.
 
-Le 10/01/2024 :
+Le 10/01/2025 :
+
 Ajout du `scriptfr.sh`, ainsi que les fichiers fr dans les dossiers aspirations, contextes, concordances, dumps-text et tableaux.
 - Le `scriptfr.sh` s'est basé du `scriptch.sh`, qui a été modifié par la suite pour opter un style (CSS avec bulma) différents et réadapté pour ubuntu (car Hongying est sur Mac).
+
 Ajout du `make_pals_corpus_fr.sh`, qui tokénize et stocke la tokénisatiton à chaque fichier. Ce script traite les fichiers `dumps-text` et `contextes`. Pour la tokénisation, ce script va séparer chaque mot par un saut de ligne (donc on obtient un mot par ligne) et il va séparer les phrases par une ligne vide.
+
 Ajout de `index.html` :
-- `index.html` n'est pas fini, mais c'est un croquis du "site web" avec un début de texte et un peu de CSS de Bulma. 
+- `index.html` n'est pas fini, mais c'est un croquis du "site web" avec un début de texte et un peu de CSS de Bulma.
+
+Le 12/01/2025 :
+
+Modification de index.html : amélioration du CSS et la structure du site.
+
+Ajout du script `tsv-to-html.sh` : il convertit les tableaux TSV en tableaux HTML. C'est pour ensuite de lié avec le site html (`index.html`)
+ 
 -----------------------------------------------------------------
 
-Dilay DUZLER :
+# Dilay DUZLER :
 
 Le 10/01/2025: 
 Collecte des URLs en turc: J'ai commencé par collecter des URLs en turc.
