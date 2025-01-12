@@ -44,23 +44,19 @@ Ajout du script `tsv-to-html.sh` : il convertit les tableaux TSV en tableaux HTM
  
 -----------------------------------------------------------------
 
-# Dilay DUZLER :
+# Dilay DUZLER:
 
 Le 10/01/2025: 
-Collecte des URLs en turc: J'ai commencé par collecter des URLs en turc.
-
-Écriture d'un script pour contrôler les URLs (scripttr-control.sh) turques et vérification des URLs: J'ai écrit un script pour contrôler les URLs, en vérifiant leur accessibilité via leur code
-
-Il y avait beaucoup d'URLs avec un code différent de 200. Par conséquent, j'ai modifié le script pour supprimer automatiquement ces URLs du fichier.
-
-Création du script scripttr.sh, J'ai toujours manqué un URL
-
-Ajout d'une commande echo a la fin pour identifier l'URL manquante
+- Collecte des URLs en turc: J'ai commencé par collecter des URLs en turc.
+- Écriture d'un script pour contrôler les URLs (scripttr-control.sh) turques et vérification des URLs: J'ai écrit un script pour contrôler les URLs, en vérifiant leur accessibilité via leur code
+- Il y avait beaucoup d'URLs avec un code différent de 200. Par conséquent, j'ai modifié le script pour supprimer automatiquement ces URLs du fichier.
+- Création du script scripttr.sh, J'ai toujours manqué un URL
+- Ajout d'une commande echo a la fin pour identifier l'URL manquante
 
 Le 11/01/2025: 
+- Le tableau ne fonctionnait pas, j'ai ajouté Bulma CSS.
+- Deux des liens étaient cassés, je les ai corrigés.
+- Création du code pour le nuage de mots.
 
-Le tableau ne fonctionnait pas, j'ai ajouté Bulma CSS.
-
-Deux des liens étaient cassés, je les ai corrigés.
-
-Création du code pour le nuage de mots.
+Le 12/01/2025:
+- Ajout d'informations dans index.html et organisation des fichiers
