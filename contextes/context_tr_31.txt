@@ -4,4 +4,4 @@
 --
    "url":
    "https://www.koton.com/kalp-desenli-bebe-yaka-uzun-kollu-tullu-elbise-s
-   iyah-3931813/", "stock": 49, "color": "SİYAH", "size": "18/24 Ay",
+   iyah-3931813/", "stock": 50, "color": "SİYAH", "size": "18/24 Ay",

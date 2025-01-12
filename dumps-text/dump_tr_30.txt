@@ -168,7 +168,7 @@ Kalp
    Boyut:        13.5 x 19.5 cm
      __________________________________________________________________
 
-   Bu üründen 13.350 adet satın alınmıştır.
+   Bu üründen 13.351 adet satın alınmıştır.
      __________________________________________________________________
 
    İlgili Kategoriler:
@@ -180,7 +180,7 @@ Kalp
    Üreticiden tedarik bekleniyor
    Haber Ver
      * Favorilerime Ekle
-     * Favorilerden Çıkar 5.081
+     * Favorilerden Çıkar 5.089
      * Alışveriş Listeme Ekle
      * Alışveriş Listesinden Çıkar
      * Fiyat Alarmına Ekle
@@ -284,4 +284,4 @@ Güvenli ve Kolay Alışveriş:
    [loading.gif]
    © 2025 Kitapyurdu Yayıncılık ve İletişim A.Ş. İletişim
    HakkımızdaKişisel Verilerin KorunmasıÇerez Ayarları
-   4.2025.01-d63 - 163 © Her Hakkı Saklıdır.
+   4.2025.01-d63 - 177 © Her Hakkı Saklıdır.

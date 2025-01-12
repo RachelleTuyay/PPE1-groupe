@@ -6,7 +6,7 @@
    Euro 36,32
    G. Altın 3.065
    BIST 100 9.911
-   İstanbul 8°
+   İstanbul 6°
      * Adana
      * Adıyaman
      * Afyon

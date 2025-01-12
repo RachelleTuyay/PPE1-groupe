@@ -1060,7 +1060,7 @@ Kız Bebek Kalp Desenli Bebe Yaka Uzun Kollu Tüllü Elbise
    "currency": "TRY", "unit_price": 679.99 , "unit_sale_price": 679.99 ,
    "url":
    "https://www.koton.com/kalp-desenli-bebe-yaka-uzun-kollu-tullu-elbise-s
-   iyah-3931813/", "stock": 49, "color": "SİYAH", "size": "18/24 Ay",
+   iyah-3931813/", "stock": 50, "color": "SİYAH", "size": "18/24 Ay",
    "combine": "", "product_image_url":
    "https://ktnimg2.mncdn.com/products/2024/09/12/2988201/521c2540-2a9a-45
    bf-847b-70442776f88c.jpg" }
